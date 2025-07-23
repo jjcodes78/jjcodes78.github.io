@@ -15,7 +15,7 @@
   "cardRotation": "45",
   "cards": {
     "dataUrl": "https://jjcodes78.github.io/Riftbound-CardList.json",
-    "cardBack": "https://rjjcodes78.github.io/images/default_card.png"
+    "cardBack": "https://jjcodes78.github.io/images/default_card.png"
   },
   "deckBuilding": {
     "mainFilters": [
