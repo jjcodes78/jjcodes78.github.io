@@ -1,0 +1,515 @@
+[
+{
+  "title": "Jinx Trial Deck",
+  "id": "e4f7c8b2-11a8-486b-8c72-e800eb0e6c01",
+  "game": "Riftbound",
+  "format": "Classic",
+  "cardCount": 56,
+  "createdAt": "2025-07-05T21:13:55.194Z",
+  "lastModifiedAt": "2025-07-05T21:15:56.125Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Chosen_Champion",
+      "Unit",
+      "Legend",
+      "Runes",
+      "Battlefields",
+      "Gear",
+      "Spell"
+    ],
+    "Sideboard": [],
+    "Unit": [
+      {
+        "count": 1,
+        "id": "OGN-202"
+      },
+      {
+        "count": 3,
+        "id": "OGN-185"
+      },
+      {
+        "count": 2,
+        "id": "OGN-036"
+      },
+      {
+        "count": 3,
+        "id": "OGN-010"
+      },
+      {
+        "count": 3,
+        "id": "OGN-003"
+      },
+      {
+        "count": 3,
+        "id": "OGN-006"
+      },
+      {
+        "count": 3,
+        "id": "OGN-012"
+      },
+      {
+        "count": 1,
+        "id": "OGN-178"
+      },
+      {
+        "count": 1,
+        "id": "OGN-020"
+      },
+      {
+        "count": 3,
+        "id": "OGN-002"
+      },
+      {
+        "count": 2,
+        "id": "OGN-030"
+      }
+    ],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-251"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-007"
+      },
+      {
+        "count": 6,
+        "id": "OGN-166"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-298"
+      },
+      {
+        "count": 1,
+        "id": "OGN-297"
+      },
+      {
+        "count": 1,
+        "id": "OGN-285"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 3,
+        "id": "OGN-040"
+      },
+      {
+        "count": 3,
+        "id": "OGN-204"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 2,
+        "id": "OGN-169"
+      },
+      {
+        "count": 2,
+        "id": "OGN-172"
+      },
+      {
+        "count": 2,
+        "id": "OGN-252"
+      },
+      {
+        "count": 2,
+        "id": "OGN-203"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGN-030"
+      }
+    ]
+  }
+},
+{
+  "title": "Viktor Trial Deck",
+  "id": "f155c212-b26c-4ec6-8e0f-14497195aefc",
+  "game": "Riftbound",
+  "format": "Classic",
+  "cardCount": 56,
+  "createdAt": "2025-07-05T21:16:35.949Z",
+  "lastModifiedAt": "2025-07-05T21:18:57.149Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Chosen_Champion",
+      "Legend",
+      "Runes",
+      "Battlefields",
+      "Unit",
+      "Gear",
+      "Spell"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-265"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-214"
+      },
+      {
+        "count": 6,
+        "id": "OGN-089"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-275"
+      },
+      {
+        "count": 1,
+        "id": "OGN-293"
+      },
+      {
+        "count": 1,
+        "id": "OGN-294"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGN-246"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 2,
+        "id": "OGN-246"
+      },
+      {
+        "count": 2,
+        "id": "OGN-216"
+      },
+      {
+        "count": 2,
+        "id": "OGN-211"
+      },
+      {
+        "count": 3,
+        "id": "OGN-218"
+      },
+      {
+        "count": 3,
+        "id": "OGN-208"
+      },
+      {
+        "count": 2,
+        "id": "OGN-239"
+      },
+      {
+        "count": 2,
+        "id": "OGN-234"
+      },
+      {
+        "count": 3,
+        "id": "OGN-096"
+      },
+      {
+        "count": 2,
+        "id": "OGN-118"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 2,
+        "id": "OGN-245"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "OGN-213"
+      },
+      {
+        "count": 3,
+        "id": "OGN-266"
+      },
+      {
+        "count": 3,
+        "id": "OGN-209"
+      },
+      {
+        "count": 2,
+        "id": "OGN-233"
+      },
+      {
+        "count": 3,
+        "id": "OGN-095"
+      },
+      {
+        "count": 2,
+        "id": "OGN-123"
+      }
+    ]
+  }
+},
+{
+  "title": "Volibear Trial Deck",
+  "id": "07821faf-2668-406e-b04d-ef51395a9587",
+  "game": "Riftbound",
+  "format": "Classic",
+  "cardCount": 56,
+  "createdAt": "2025-07-06T19:35:48.494Z",
+  "lastModifiedAt": "2025-07-06T19:35:48.494Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Chosen_Champion",
+      "Unit",
+      "Spell",
+      "Battlefields",
+      "Runes",
+      "Legend"
+    ],
+    "Sideboard": [],
+    "Unit": [
+      {
+        "count": 2,
+        "id": "OGN-158"
+      },
+      {
+        "count": 3,
+        "id": "OGN-010"
+      },
+      {
+        "count": 3,
+        "id": "OGN-001"
+      },
+      {
+        "count": 3,
+        "id": "OGN-162"
+      },
+      {
+        "count": 3,
+        "id": "OGN-149"
+      },
+      {
+        "count": 3,
+        "id": "OGN-137"
+      },
+      {
+        "count": 2,
+        "id": "OGN-034"
+      },
+      {
+        "count": 1,
+        "id": "OGN-011"
+      },
+      {
+        "count": 3,
+        "id": "OGN-161"
+      },
+      {
+        "count": 1,
+        "id": "OGN-038"
+      },
+      {
+        "count": 2,
+        "id": "OGN-041"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 2,
+        "id": "OGN-134"
+      },
+      {
+        "count": 3,
+        "id": "OGN-128"
+      },
+      {
+        "count": 3,
+        "id": "OGN-138"
+      },
+      {
+        "count": 3,
+        "id": "OGN-005"
+      },
+      {
+        "count": 2,
+        "id": "OGN-250"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-284"
+      },
+      {
+        "count": 1,
+        "id": "OGN-287"
+      },
+      {
+        "count": 1,
+        "id": "OGN-296"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-007"
+      },
+      {
+        "count": 6,
+        "id": "OGN-126"
+      }
+    ],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-249"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGN-041"
+      }
+    ]
+  }
+},
+{
+  "title": "Yasuo Trial Deck",
+  "id": "89805a5d-cc02-4f33-83f8-e04ab23b4c1e",
+  "game": "Riftbound",
+  "format": "Classic",
+  "cardCount": 56,
+  "createdAt": "2025-07-06T19:37:21.343Z",
+  "lastModifiedAt": "2025-07-06T19:37:47.765Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Chosen_Champion",
+      "Unit",
+      "Gear",
+      "Spell",
+      "Battlefields",
+      "Runes",
+      "Legend"
+    ],
+    "Sideboard": [],
+    "Unit": [
+      {
+        "count": 3,
+        "id": "OGN-185"
+      },
+      {
+        "count": 2,
+        "id": "OGN-044"
+      },
+      {
+        "count": 3,
+        "id": "OGN-055"
+      },
+      {
+        "count": 1,
+        "id": "OGN-165"
+      },
+      {
+        "count": 3,
+        "id": "OGN-177"
+      },
+      {
+        "count": 2,
+        "id": "OGN-193"
+      },
+      {
+        "count": 3,
+        "id": "OGN-191"
+      },
+      {
+        "count": 3,
+        "id": "OGN-189"
+      },
+      {
+        "count": 2,
+        "id": "OGN-076"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 1,
+        "id": "OGN-081"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 2,
+        "id": "OGN-046"
+      },
+      {
+        "count": 2,
+        "id": "OGN-045"
+      },
+      {
+        "count": 3,
+        "id": "OGN-058"
+      },
+      {
+        "count": 2,
+        "id": "OGN-048"
+      },
+      {
+        "count": 2,
+        "id": "OGN-172"
+      },
+      {
+        "count": 2,
+        "id": "OGN-064"
+      },
+      {
+        "count": 3,
+        "id": "OGN-260"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-285"
+      },
+      {
+        "count": 1,
+        "id": "OGN-289"
+      },
+      {
+        "count": 1,
+        "id": "OGN-297"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-042"
+      },
+      {
+        "count": 6,
+        "id": "OGN-166"
+      }
+    ],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-259"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGN-076"
+      }
+    ]
+  }
+}
+]
