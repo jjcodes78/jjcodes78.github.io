@@ -4,14 +4,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Abrasador Ardente",
+                "name": "Blazing Scorcher",
                 "type": "Unit",
                 "cost": "5",
                 "image": "https://riftarchive.com.br/storage/OGN-001.png?v=250720250240",
                 "isHorizontal": false
             }
         },
-        "name": "Abrasador Ardente",
+        "name": "Blazing Scorcher",
         "type": "Unit",
         "cost": "5",
         "Domain": [
@@ -23,14 +23,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Bucaneiro Ousado",
+                "name": "Brazen Buccaneer",
                 "type": "Unit",
                 "cost": "6",
                 "image": "https://riftarchive.com.br/storage/OGN-002.png?v=250720250240",
                 "isHorizontal": false
             }
         },
-        "name": "Bucaneiro Ousado",
+        "name": "Brazen Buccaneer",
         "type": "Unit",
         "cost": "6",
         "Domain": [
@@ -42,14 +42,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Executor Quimtec",
+                "name": "Chemtech Enforcer",
                 "type": "Unit",
                 "cost": "2",
                 "image": "https://riftarchive.com.br/storage/OGN-003.png?v=250720250240",
                 "isHorizontal": false
             }
         },
-        "name": "Executor Quimtec",
+        "name": "Chemtech Enforcer",
         "type": "Unit",
         "cost": "2",
         "Domain": [
