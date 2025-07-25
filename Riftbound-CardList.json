@@ -6395,7 +6395,7 @@
                 "name": "Annie, Fiery",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-001.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-001.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6414,7 +6414,7 @@
                 "name": "Firestorm",
                 "type": "Spell",
                 "cost": "6",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-002.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-002.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6431,7 +6431,7 @@
                 "name": "Incinerate",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-003.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-003.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6448,7 +6448,7 @@
                 "name": "Master Yi, Meditative",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-004.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-004.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6465,7 +6465,7 @@
                 "name": "Zephyr Sage",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-005.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-005.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6482,7 +6482,7 @@
                 "name": "Lux, Illuminated",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-006.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-006.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6499,7 +6499,7 @@
                 "name": "Garen, Rugged",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-007.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-007.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6516,7 +6516,7 @@
                 "name": "Gentlemen's Duel",
                 "type": "Spell",
                 "cost": "6",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-008.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-008.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6533,7 +6533,7 @@
                 "name": "Master Yi, Honed",
                 "type": "Unit",
                 "cost": "7",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-009.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-009.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6550,7 +6550,7 @@
                 "name": "Annie, Stubborn",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-010.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-010.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6567,7 +6567,7 @@
                 "name": "Flash",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-011.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-011.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6584,7 +6584,7 @@
                 "name": "Blast of Power",
                 "type": "Spell",
                 "cost": "6",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-012.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-012.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6601,7 +6601,7 @@
                 "name": "Garen, Commander",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-013.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-013.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6618,7 +6618,7 @@
                 "name": "Lux, Crownguard",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-014.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-014.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6635,7 +6635,7 @@
                 "name": "Recruit the Vanguard",
                 "type": "Spell",
                 "cost": "6",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-015.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-015.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6653,7 +6653,7 @@
                 "name": "Vanguard Attendant",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-016.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-016.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6670,7 +6670,7 @@
                 "name": "Annie, Dark Child",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-017.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-017.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6688,7 +6688,7 @@
                 "name": "Tibbers",
                 "type": "Unit",
                 "cost": "8",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-018.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-018.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6706,7 +6706,7 @@
                 "name": "Master Yi, Wuju Bladesman",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-019.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-019.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6724,7 +6724,7 @@
                 "name": "Highlander",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-020.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-020.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6742,7 +6742,7 @@
                 "name": "Lux, Lady of Luminosity",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-021.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-021.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6760,7 +6760,7 @@
                 "name": "Final Spark",
                 "type": "Spell",
                 "cost": "8",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-022.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-022.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6778,7 +6778,7 @@
                 "name": "Garen, Might of Demacia",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-023.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-023.png?v=250720250240",
                 "isHorizontal": false
             }
         },
@@ -6796,7 +6796,7 @@
                 "name": "Decisive Strike",
                 "type": "Spell",
                 "cost": "5",
-                "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-024.png?v=250720250240",
+                "image": "https://riftarchive.com.br/storage/OGS-024.png?v=250720250240",
                 "isHorizontal": false
             }
         },
