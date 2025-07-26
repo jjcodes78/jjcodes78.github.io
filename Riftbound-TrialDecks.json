@@ -1,5 +1,246 @@
 [
   {
+  "title": "Lee Sin - Eu Não Vejo Alternativa",
+  "id": "7a56fd65-0c4a-451d-9d0f-ae0ae7c3e405",
+  "game": "RiftboundBR",
+  "format": "Classic",
+  "cardCount": 56,
+  "createdAt": "2025-07-26T00:49:30.447Z",
+  "lastModifiedAt": "2025-07-26T00:50:11.699Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Chosen_Champion",
+      "Legend",
+      "Unit",
+      "Spell",
+      "Gear",
+      "Battlefields",
+      "Runes"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-257"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 3,
+        "id": "OGN-136"
+      },
+      {
+        "count": 3,
+        "id": "OGN-052"
+      },
+      {
+        "count": 3,
+        "id": "OGN-044"
+      },
+      {
+        "count": 1,
+        "id": "OGN-055"
+      },
+      {
+        "count": 3,
+        "id": "OGN-132"
+      },
+      {
+        "count": 3,
+        "id": "OGN-155"
+      },
+      {
+        "count": 3,
+        "id": "OGN-149"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "OGN-045"
+      },
+      {
+        "count": 2,
+        "id": "OGN-046"
+      },
+      {
+        "count": 3,
+        "id": "OGN-043"
+      },
+      {
+        "count": 3,
+        "id": "OGN-058"
+      },
+      {
+        "count": 3,
+        "id": "OGN-128"
+      },
+      {
+        "count": 2,
+        "id": "OGN-053"
+      },
+      {
+        "count": 1,
+        "id": "OGN-154"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 3,
+        "id": "OGN-077"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-275"
+      },
+      {
+        "count": 1,
+        "id": "OGN-276"
+      },
+      {
+        "count": 1,
+        "id": "OGN-292"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 5,
+        "id": "OGN-042"
+      },
+      {
+        "count": 7,
+        "id": "OGN-126"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGN-078"
+      }
+    ]
+  }
+},
+  {
+  "title": "Kai'Sa - Destroy Them! (Control)",
+  "id": "a7252a8f-8ea5-4603-9a5a-c9310ef9d96f",
+  "game": "RiftboundBR",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 56,
+  "createdAt": "2025-07-26T00:46:51.865Z",
+  "lastModifiedAt": "2025-07-26T00:48:06.479Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Chosen_Champion",
+      "Legend",
+      "Unit",
+      "Spell",
+      "Battlefields",
+      "Runes"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-247"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 3,
+        "id": "OGN-103"
+      },
+      {
+        "count": 3,
+        "id": "OGN-096"
+      },
+      {
+        "count": 3,
+        "id": "OGN-084"
+      },
+      {
+        "count": 3,
+        "id": "OGN-037"
+      },
+      {
+        "count": 2,
+        "id": "OGN-001"
+      },
+      {
+        "count": 3,
+        "id": "OGN-110"
+      },
+      {
+        "count": 2,
+        "id": "OGN-112"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "OGN-095"
+      },
+      {
+        "count": 3,
+        "id": "OGN-008"
+      },
+      {
+        "count": 3,
+        "id": "OGN-024"
+      },
+      {
+        "count": 3,
+        "id": "OGN-094"
+      },
+      {
+        "count": 3,
+        "id": "OGN-005"
+      },
+      {
+        "count": 2,
+        "id": "OGN-123"
+      },
+      {
+        "count": 3,
+        "id": "OGN-248"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-289"
+      },
+      {
+        "count": 1,
+        "id": "OGN-287"
+      },
+      {
+        "count": 1,
+        "id": "OGN-296"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 8,
+        "id": "OGN-007"
+      },
+      {
+        "count": 4,
+        "id": "OGN-089"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGN-112"
+      }
+    ]
+  }
+},
+  {
   "title": "Ahri - Mid Range Control",
   "id": "fe90f82d-5d6a-4ef2-ab40-f0f91083daea",
   "game": "RiftboundBR",
