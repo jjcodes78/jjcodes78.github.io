@@ -1,4 +1,126 @@
 [
+  {
+  "title": "Ahri - Mid Range Control",
+  "id": "fe90f82d-5d6a-4ef2-ab40-f0f91083daea",
+  "game": "RiftboundBR",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 56,
+  "createdAt": "2025-07-26T00:41:36.546Z",
+  "lastModifiedAt": "2025-07-26T00:43:08.966Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Chosen_Champion",
+      "Legend",
+      "Unit",
+      "Spell",
+      "Battlefields",
+      "Runes"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-255"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 2,
+        "id": "OGN-073"
+      },
+      {
+        "count": 2,
+        "id": "OGN-066"
+      },
+      {
+        "count": 2,
+        "id": "OGN-076"
+      },
+      {
+        "count": 3,
+        "id": "OGN-103"
+      },
+      {
+        "count": 3,
+        "id": "OGN-096"
+      },
+      {
+        "count": 3,
+        "id": "OGN-084"
+      },
+      {
+        "count": 1,
+        "id": "OGN-119"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "OGN-045"
+      },
+      {
+        "count": 3,
+        "id": "OGN-095"
+      },
+      {
+        "count": 3,
+        "id": "OGN-043"
+      },
+      {
+        "count": 3,
+        "id": "OGN-058"
+      },
+      {
+        "count": 3,
+        "id": "OGN-057"
+      },
+      {
+        "count": 3,
+        "id": "OGN-048"
+      },
+      {
+        "count": 2,
+        "id": "OGN-094"
+      },
+      {
+        "count": 3,
+        "id": "OGN-256"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-289"
+      },
+      {
+        "count": 1,
+        "id": "OGN-275"
+      },
+      {
+        "count": 1,
+        "id": "OGN-276"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 8,
+        "id": "OGN-042"
+      },
+      {
+        "count": 4,
+        "id": "OGN-089"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGN-119"
+      }
+    ]
+  }
+},
 {
   "title": "Jinx Trial Deck",
   "id": "e4f7c8b2-11a8-486b-8c72-e800eb0e6c01",
