@@ -1,5 +1,114 @@
 [
   {
+  "title": "Leona Mid Range",
+  "id": "42927c37-a9c2-4ed5-833e-9625f9e57935",
+  "game": "RiftboundBR",
+  "format": "Classic",
+  "cardCount": 56,
+  "createdAt": "2025-07-26T01:01:52.514Z",
+  "lastModifiedAt": "2025-07-26T01:01:57.655Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Legend",
+      "Unit",
+      "Spell",
+      "Battlefields",
+      "Runes"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-261"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 3,
+        "id": "OGN-238"
+      },
+      {
+        "count": 3,
+        "id": "OGN-216"
+      },
+      {
+        "count": 3,
+        "id": "OGN-044"
+      },
+      {
+        "count": 3,
+        "id": "OGN-241"
+      },
+      {
+        "count": 3,
+        "id": "OGN-073"
+      },
+      {
+        "count": 3,
+        "id": "OGN-240"
+      },
+      {
+        "count": 2,
+        "id": "OGN-076"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "OGN-045"
+      },
+      {
+        "count": 3,
+        "id": "OGN-043"
+      },
+      {
+        "count": 2,
+        "id": "OGN-213"
+      },
+      {
+        "count": 3,
+        "id": "OGN-058"
+      },
+      {
+        "count": 3,
+        "id": "OGN-057"
+      },
+      {
+        "count": 3,
+        "id": "OGN-048"
+      },
+      {
+        "count": 3,
+        "id": "OGN-262"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-289"
+      },
+      {
+        "count": 1,
+        "id": "OGN-275"
+      },
+      {
+        "count": 1,
+        "id": "OGN-276"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-214"
+      },
+      {
+        "count": 6,
+        "id": "OGN-042"
+      }
+    ]
+  }
+},
+  {
   "title": "Lee Sin - Eu Não Vejo Alternativa",
   "id": "7a56fd65-0c4a-451d-9d0f-ae0ae7c3e405",
   "game": "RiftboundBR",
