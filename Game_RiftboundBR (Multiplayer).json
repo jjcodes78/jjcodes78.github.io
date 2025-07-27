@@ -63,10 +63,10 @@
           "myBF",
           "BF1",
           "BF2",
+          "BF3",
           "Battlefields",
           "Chosen_Champion",
-          "Legend",
-          "BF3"
+          "Legend"
         ],
         "layout": {
           "direction": "column",
@@ -394,7 +394,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Campo de Batalha 3",
-            "noQuickActions": true,
+            "noQuickActions": false,
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
