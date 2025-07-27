@@ -6287,6 +6287,25 @@
             "Domainless"
         ]
     },
+    "OGN-XXX": {
+        "id": "OGN-XXX",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Buff",
+                "type": "Unit",
+                "cost": 0,
+                "image": "https://riftarchive.com.br/storage/OGN-XXX.png?v=260720250240",
+                "isHorizontal": true
+            }
+        },
+        "name": "Buff",
+        "type": "Unit",
+        "cost": 0,
+        "Domain": [
+            "Domainless"
+        ]
+    },
     "OGN-300": {
         "id": "OGN-300",
         "isToken": false,
