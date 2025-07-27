@@ -1,0 +1,432 @@
+{
+  "name": "RiftboundBR (Multiplayer)",
+  "menuBackgroundImage": "https://russeus.github.io/RB-TCG-Arena/Images/Banner.png",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Ahri-1.png",
+      "https://russeus.github.io/RB-TCG-Arena/Images/PM_MF-1.png",
+      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Sett-1.png",
+      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Volibear-1.png",
+      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Yasuo-1.png"
+    ],
+    "decksUrl": "https://jjcodes78.github.io/Riftbound-TrialDecks.json"
+  },
+  "customHelp": "(1) Para Reciclar uma carta, segure a tecla Shift enquanto a arrasta para o seu baralho.(2) Você pode criar Fichas e Melhorias clicando com o botão direito na carta de origem.(3) Você pode marcar unidades fortalecidas e modificadores de Dano/Poder com ‘C + clique’ e ‘Ctrl + C + clique’. Caso contrário, você pode Agrupar (anexar) uma carta de Melhoria a outra usando o menu do botão direito.(4) Para jogar uma carta Oculta, use Z + clique em uma carta da sua mão e depois mova-a para o Campo de Batalha. Em seguida, faça o mesmo para revelá-la.(5) Você pode marcar seus pontos no canto inferior esquerdo.",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://jjcodes78.github.io/Riftbound-CardList.json",
+    "cardBack": "https://jjcodes78.github.io/images/default_card.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "type",
+      "cost",
+      "name",
+      "Domain"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": [
+          "Chosen_Champion"
+        ]
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "Feche esta janela. Escolha seu Campo de Batalha. (Você pode gerenciar a ordem dos turnos no botão acima de Novo Jogo). Devolva sua mão ao baralho, embaralhe o baralho e então faça uma Compra/Mulligan manualmente. Leia as Notas de Ajuda para mais informações.",
+        "startingHandSize": "0",
+        "drawNewHand": false,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "1"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Runes",
+          "Resources",
+          "Base",
+          "BF1",
+          "BF2",
+          "BF3",
+          "Battlefields",
+          "Chosen_Champion",
+          "Legend"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "BF1",
+                  "style": {
+                    "width": "29%",
+                    "marginRight": "1%"
+                  }
+                },
+                {
+                  "section": "BF2",
+                  "style": {
+                    "width": "29%",
+                    "marginRight": "1%"
+                  }
+                },
+                {
+                  "section": "BF3",
+                  "style": {
+                    "width": "29%",
+                    "marginLeft": "1%"
+                  }
+                },
+                {
+                  "section": "Legend",
+                  "style": {
+                    "width": "10%"
+                  }
+                },
+                {
+                  "section": "Chosen_Champion",
+                  "style": {
+                    "width": "10%"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Runes",
+                  "style": {
+                    "width": "5%",
+                    "marginRight": "1%"
+                  }
+                },
+                {
+                  "section": "Resources",
+                  "style": {
+                    "width": "33%"
+                  }
+                },
+                {
+                  "section": "Base",
+                  "style": {
+                    "width": "50%"
+                  }
+                },
+                {
+                  "section": "Battlefields",
+                  "style": {
+                    "width": "12%"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Runes",
+          "Battlefields",
+          "Legend",
+          "Chosen_Champion"
+        ],
+        "autoPlayFromHand": {
+          "Runes": "Resources",
+          "Gear": "Base",
+          "Spell": "Stack",
+          "Unit": "Base"
+        },
+        "autoPlayFromStack": {
+          "Spell": "Discard"
+        },
+        "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": true,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "Sua Mão",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck": {
+            "isDefaultSection": true,
+            "title": "Deck",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "Deck Principal",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Chain/Pilha",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Exile": {
+            "isDefaultSection": true,
+            "title": "Exile",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "Exílio",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ExileHidden": {
+            "isDefaultSection": true,
+            "title": "ExileHidden",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "Exílio Oculto",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sideboard": {
+            "isDefaultSection": true,
+            "title": "Sideboard",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Runes": {
+            "title": "Runes",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "DECK",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Deck de Runas",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Base": {
+            "title": "Base",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Base",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Battlefields": {
+            "title": "Battlefields",
+            "isHidden": "opponent-only",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Campos de Batalha",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Chosen_Champion": {
+            "title": "Chosen_Champion",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Zona do Campeao",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Legend": {
+            "title": "Legend",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Lenda",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Resources": {
+            "title": "Resources",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Runas",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "Lixo",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "BF3": {
+            "title": "BF3",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Campo de Batalha 3",
+            "noQuickActions": true,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "BF2": {
+            "title": "BF2",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Campo de Batalha 2",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "BF1": {
+            "title": "BF1",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Campo de Batalha 1",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
