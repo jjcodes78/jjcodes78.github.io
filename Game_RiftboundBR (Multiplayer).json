@@ -107,13 +107,14 @@
                 {
                   "section": "Legend",
                   "style": {
-                    "width": "8%"
+                    "width": "7%",
+                    "marginLeft": "1%"
                   }
                 },
                 {
                   "section": "Chosen_Champion",
                   "style": {
-                    "width": "8%"
+                    "width": "7%"
                   }
                 }
               ],
@@ -133,13 +134,15 @@
                 {
                   "section": "Resources",
                   "style": {
-                    "width": "33%"
+                    "width": "31%",
+                    "marginRight": "1%"
                   }
                 },
                 {
                   "section": "Base",
                   "style": {
-                    "width": "50%"
+                    "width": "49%",
+                    "marginRight": "1%"
                   }
                 },
                 {
