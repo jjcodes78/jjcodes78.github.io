@@ -14,7 +14,7 @@
   "customHelp": "\t1.\tPara Reciclar uma carta, segure Shift enquanto arrasta a carta para o seu baralho. \t2.\tVocê pode criar Fichas e Buffs clicando com o botão direito na carta de origem. \t3.\tVocê pode marcar unidades com buff e modificadores de Dano/Poder com ‘C + clique’ e ‘Ctrl + C + clique’. Alternativamente, é possível agrupar (anexar) uma carta de Buff a outra pelo menu do botão direito. \t4.\tPara jogar uma carta Oculta, use Z + clique em uma carta da sua mão e depois mova-a para o Campo de Batalha. Em seguida, repita o mesmo para revelá-la. \t5.\tVocê pode marcar seus pontos no canto inferior esquerdo.",
   "cardRotation": "45",
   "cards": {
-    "dataUrl": "https://jjcodes78.github.io/Riftbound-CardList.json?v=270720251555",
+    "dataUrl": "https://jjcodes78.github.io/Riftbound-CardList.json?v=270720251607",
     "cardBack": "https://jjcodes78.github.io/images/default_card.png"
   },
   "deckBuilding": {
