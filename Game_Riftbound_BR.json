@@ -156,7 +156,8 @@
           "Spell": "Stack"
         },
         "autoPlayFromStack": {
-          "Spell": "Discard"
+          "Spell": "Discard",
+          "Unit": "Base"
         },
         "sectionsDict": {
           "Hand": {
