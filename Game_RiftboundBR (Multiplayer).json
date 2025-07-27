@@ -60,12 +60,13 @@
           "Runes",
           "Resources",
           "Base",
+          "myBF",
           "BF1",
           "BF2",
-          "BF3",
           "Battlefields",
           "Chosen_Champion",
-          "Legend"
+          "Legend",
+          "BF3"
         ],
         "layout": {
           "direction": "column",
@@ -76,36 +77,43 @@
               "style": false,
               "content": [
                 {
+                  "section": "myBF",
+                  "style": {
+                    "width": "15%",
+                    "marginRight": "1%"
+                  }
+                },
+                {
                   "section": "BF1",
                   "style": {
-                    "width": "29%",
+                    "width": "22%",
                     "marginRight": "1%"
                   }
                 },
                 {
                   "section": "BF2",
                   "style": {
-                    "width": "29%",
-                    "marginRight": "1%"
+                    "width": "22%",
+                    "marginLeft": "1%"
                   }
                 },
                 {
                   "section": "BF3",
                   "style": {
-                    "width": "29%",
+                    "width": "22%",
                     "marginLeft": "1%"
                   }
                 },
                 {
                   "section": "Legend",
                   "style": {
-                    "width": "10%"
+                    "width": "8%"
                   }
                 },
                 {
                   "section": "Chosen_Champion",
                   "style": {
-                    "width": "10%"
+                    "width": "8%"
                   }
                 }
               ],
