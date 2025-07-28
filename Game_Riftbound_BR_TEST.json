@@ -342,7 +342,7 @@
           "B1": {
             "title": "B1",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "16",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -358,7 +358,7 @@
           "B2": {
             "title": "B2",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "16",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -374,7 +374,7 @@
           "myBF": {
             "title": "myBF",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "12"
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -385,12 +385,15 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardStyle": {
+              "marginTop": "-2vh"
+            }
           },
           "Battlefields": {
             "title": "Battlefields",
             "isHidden": "opponent-only",
-            "height": "SMALL",
+            "height": "12",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -401,7 +404,10 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardStyle": {
+              "marginTop": "-2vh"
+            }
           },
           "Chosen_Champion": {
             "title": "Chosen_Champion",
