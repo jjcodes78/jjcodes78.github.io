@@ -1,5 +1,5 @@
 {
-  "name": "RiftboundBR",
+  "name": "RiftboundTEST",
   "menuBackgroundImage": "https://russeus.github.io/RB-TCG-Arena/Images/Banner.png",
   "defaultRessources": {
     "backgrounds": [
@@ -65,7 +65,8 @@
           "myBF",
           "Battlefields",
           "Chosen_Champion",
-          "Legend"
+          "Legend",
+          "opBF"
         ],
         "layout": {
           "direction": "column",
@@ -118,19 +119,21 @@
                 {
                   "section": "Runes",
                   "style": {
-                    "width": "35%"
+                    "width": "15%"
                   }
                 },
                 {
+                  "section": "Played_Runes",
+                  "style": false
+                },
+                {
                   "section": "Base",
-                  "style": {
-                    "width": "45%"
-                  }
+                  "style": false
                 },
                 {
                   "section": "Battlefields",
                   "style": {
-                    "width": "20%"
+                    "width": "15%"
                   }
                 }
               ],
@@ -341,7 +344,7 @@
           "myBF": {
             "title": "myBF",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -412,6 +415,22 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Runas",
             "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "opBF": {
+            "title": "opBF",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
