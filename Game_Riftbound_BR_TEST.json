@@ -518,7 +518,7 @@
                                     },
                                     "content": [
                                         {
-                                            "section": "Battlefields",
+                                            "section": "myBF3",
                                             "style": {
                                                 "width": "30vh",
                                                 "height": "12vh",
@@ -576,7 +576,7 @@
                                     },
                                     "content": [
                                         {
-                                            "section": "myBF3",
+                                            "section": "Battlefields",
                                             "style": {
                                                 "width": "30vh",
                                                 "height": "12vh",
