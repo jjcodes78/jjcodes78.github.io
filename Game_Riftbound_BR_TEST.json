@@ -65,8 +65,7 @@
           "myBF",
           "Battlefields",
           "Chosen_Champion",
-          "Legend",
-          "opBF"
+          "Legend"
         ],
         "layout": {
           "direction": "column",
