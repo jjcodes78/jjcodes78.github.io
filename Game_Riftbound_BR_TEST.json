@@ -374,7 +374,7 @@
           "myBF": {
             "title": "myBF",
             "isHidden": "no",
-            "height": "12"
+            "height": "12",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
