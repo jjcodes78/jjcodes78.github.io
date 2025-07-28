@@ -90,7 +90,7 @@
                   },
                   "content": [
                     {
-                      "section": "Battlefields",
+                      "section": "myBF",
                       "style": {
                         "width": "30vh",
                         "height": "12vh",
@@ -119,7 +119,7 @@
                   },
                   "content": [
                     {
-                      "section": "myBF",
+                      "section": "Battlefields",
                       "style": {
                         "width": "30vh",
                         "height": "12vh",
@@ -361,7 +361,7 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
           },
           "B2": {
             "title": "B2",
@@ -393,7 +393,10 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardStyle": {
+                            "marginTop": "-2vh"
+                        }
           },
           "Battlefields": {
             "title": "Battlefields",
@@ -409,7 +412,10 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardStyle": {
+                            "marginTop": "-2vh"
+                        }
           },
           "Chosen_Champion": {
             "title": "Chosen_Champion",
