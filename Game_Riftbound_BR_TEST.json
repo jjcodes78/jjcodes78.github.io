@@ -186,13 +186,15 @@
                 ],
                 "autoPlayFromHand": {
                     "Runes": "Mana",
-                    "Gear": "Base",
-                    "Spell": "Stack"
+                    "Gear": "Stack",
+                    "Spell": "Stack",
+                    "Unit": "Stack"
                 },
                 "autoPlayFromStack": {
                     "Spell": "Discard",
                     "Unit": "Base",
-                    "Gear": "Base"
+                    "Gear": "Base",
+                    "Unit": "Base"
                 },
                 "sectionsDict": {
                     "Hand": {
@@ -641,13 +643,15 @@
                 ],
                 "autoPlayFromHand": {
                     "Runes": "Mana",
-                    "Gear": "Base",
-                    "Spell": "Stack"
+                    "Gear": "Stack",
+                    "Spell": "Stack",
+                    "Unit": "Stack"
                 },
                 "autoPlayFromStack": {
                     "Spell": "Discard",
                     "Unit": "Base",
-                    "Gear": "Base"
+                    "Gear": "Base",
+                    "Unit": "Base"
                 },
                 "sectionsDict": {
                     "Runes": {
