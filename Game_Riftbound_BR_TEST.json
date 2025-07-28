@@ -645,7 +645,9 @@
                     "Spell": "Stack"
                 },
                 "autoPlayFromStack": {
-                    "Spell": "Discard"
+                    "Spell": "Discard",
+                    "Unit": "Base",
+                    "Gear": "Base"
                 },
                 "sectionsDict": {
                     "Runes": {
