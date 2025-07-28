@@ -44,12 +44,12 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "Feche esta janela. Escolha seu Campo de Batalha. (Você pode gerenciar a ordem dos turnos no botão acima de “Novo Jogo”). Devolva sua mão para o baralho, embaralhe o baralho e então faça uma compra/mulligan manualmente. Leia as Notas de Ajuda para mais informações.",
-        "startingHandSize": "4",
-        "drawNewHand": false,
-        "putSelectionAtBottom": true,
-        "drawNewSelectedCards": false
-      },
+                "info": "",
+                "startingHandSize": 0,
+                "drawNewHand": false,
+                "putSelectionAtBottom": false,
+                "drawNewSelectedCards": false
+            },
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
