@@ -74,9 +74,7 @@
           "content": [
             {
               "direction": "row",
-              "style": {
-                "Height": "3vh"
-              },
+              "style": false,
               "content": [
                 {
                   "section": "myBF",
@@ -131,9 +129,21 @@
                   "style": false
                 },
                 {
-                  "section": "Battlefields",
+                  "section": "Legend",
                   "style": {
                     "width": "15%"
+                  }
+                },
+                {
+                  "section": "Choose_Champion",
+                  "style": {
+                    "width": "15%"
+                  }
+                },
+                {
+                  "section": "Battlefields",
+                  "style": {
+                    "width": "20%"
                   }
                 }
               ],
