@@ -117,33 +117,37 @@
                 {
                   "section": "Runes",
                   "style": {
-                    "width": "15%"
+                    "width": "10%"
                   }
                 },
                 {
                   "section": "Played_Runes",
-                  "style": false
+                  "style": {
+                    "width": "33%"
+                  }
                 },
                 {
                   "section": "Base",
-                  "style": false
+                  "style": {
+                    "width": "33%"
+                  }
                 },
                 {
                   "section": "Legend",
                   "style": {
-                    "width": "15%"
+                    "width": "10%"
                   }
                 },
                 {
                   "section": "Chosen_Champion",
                   "style": {
-                    "width": "15%"
+                    "width": "10%"
                   }
                 },
                 {
                   "section": "Battlefields",
                   "style": {
-                    "width": "20%"
+                    "width": "14%"
                   }
                 }
               ],
@@ -322,7 +326,7 @@
           "B1": {
             "title": "B1",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -338,7 +342,7 @@
           "B2": {
             "title": "B2",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -386,7 +390,7 @@
           "Chosen_Champion": {
             "title": "Chosen_Champion",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -402,7 +406,7 @@
           "Legend": {
             "title": "Legend",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
