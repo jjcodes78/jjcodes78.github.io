@@ -1,474 +1,474 @@
 {
-  "name": "RiftboundTEST",
-  "menuBackgroundImage": "https://russeus.github.io/RB-TCG-Arena/Images/Banner.png",
-  "defaultRessources": {
-    "backgrounds": [
-      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Ahri-1.png",
-      "https://russeus.github.io/RB-TCG-Arena/Images/PM_MF-1.png",
-      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Sett-1.png",
-      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Volibear-1.png",
-      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Yasuo-1.png"
-    ],
-    "decksUrl": "https://jjcodes78.github.io/Riftbound-TrialDecks.json?v=270720252254"
-  },
-  "customHelp": "\t1.\tPara Reciclar uma carta, segure Shift enquanto arrasta a carta para o seu baralho. \t2.\tVocê pode criar Fichas e Buffs clicando com o botão direito na carta de origem. \t3.\tVocê pode marcar unidades com buff e modificadores de Dano/Poder com ‘C + clique’ e ‘Ctrl + C + clique’. Alternativamente, é possível agrupar (anexar) uma carta de Buff a outra pelo menu do botão direito. \t4.\tPara jogar uma carta Oculta, use Z + clique em uma carta da sua mão e depois mova-a para o Campo de Batalha. Em seguida, repita o mesmo para revelá-la. \t5.\tVocê pode marcar seus pontos no canto inferior esquerdo.",
-  "cardRotation": "45",
-  "cards": {
-    "dataUrl": "https://jjcodes78.github.io/Riftbound-CardList.json?v=270720251607",
-    "cardBack": "https://jjcodes78.github.io/images/default_card.png"
-  },
-  "deckBuilding": {
-    "mainFilters": [
-      "type",
-      "cost",
-      "name",
-      "Domain"
-    ],
-    "formats": [
-      {
-        "title": "Classic",
-        "gameplay": "Classic",
-        "customCategories": [
-          "Chosen_Champion"
+    "name": "RiftboundTEST",
+    "menuBackgroundImage": "https://russeus.github.io/RB-TCG-Arena/Images/Banner.png",
+    "defaultRessources": {
+        "backgrounds": [
+            "https://russeus.github.io/RB-TCG-Arena/Images/PM_Ahri-1.png",
+            "https://russeus.github.io/RB-TCG-Arena/Images/PM_MF-1.png",
+            "https://russeus.github.io/RB-TCG-Arena/Images/PM_Sett-1.png",
+            "https://russeus.github.io/RB-TCG-Arena/Images/PM_Volibear-1.png",
+            "https://russeus.github.io/RB-TCG-Arena/Images/PM_Yasuo-1.png"
+        ],
+        "decksUrl": "https://jjcodes78.github.io/Riftbound-TrialDecks.json?v=270720252254"
+    },
+    "customHelp": "\t1.\tPara Reciclar uma carta, segure Shift enquanto arrasta a carta para o seu baralho. \t2.\tVocê pode criar Fichas e Buffs clicando com o botão direito na carta de origem. \t3.\tVocê pode marcar unidades com buff e modificadores de Dano/Poder com ‘C + clique’ e ‘Ctrl + C + clique’. Alternativamente, é possível agrupar (anexar) uma carta de Buff a outra pelo menu do botão direito. \t4.\tPara jogar uma carta Oculta, use Z + clique em uma carta da sua mão e depois mova-a para o Campo de Batalha. Em seguida, repita o mesmo para revelá-la. \t5.\tVocê pode marcar seus pontos no canto inferior esquerdo.",
+    "cardRotation": "45",
+    "cards": {
+        "dataUrl": "https://jjcodes78.github.io/Riftbound-CardList.json?v=270720251607",
+        "cardBack": "https://jjcodes78.github.io/images/default_card.png"
+    },
+    "deckBuilding": {
+        "mainFilters": [
+            "type",
+            "cost",
+            "name",
+            "Domain"
+        ],
+        "formats": [
+            {
+                "title": "Classic",
+                "gameplay": "Classic",
+                "customCategories": [
+                    "Chosen_Champion"
+                ]
+            },
+            {
+                "title": "Multiplayer",
+                "gameplay": "Multiplayer",
+                "customCategories": [
+                    "Chosen_Champion"
+                ]
+            }
         ]
-      },
-      {
-        "title": "Multiplayer",
-        "gameplay": "Multiplayer",
-        "customCategories": [
-          "Chosen_Champion"
-        ]
-      }
-    ]
-  },
-  "gameplay": {
-    "Classic": {
-      "mulligan": {
+    },
+    "gameplay": {
+        "Classic": {
+            "mulligan": {
                 "info": "",
                 "startingHandSize": 0,
                 "drawNewHand": false,
                 "putSelectionAtBottom": false,
                 "drawNewSelectedCards": false
             },
-      "newTurn": {
-        "drawOnStart": false,
-        "sharedTurn": false,
-        "firstPlayerTokenName": "",
-        "drawPerTurn": "1"
-      },
-      "defaultNotes": "",
-      "tokens": [],
-      "countersStartingValues": [
-        0
-      ],
-      "hideFacedDownCards": false,
-      "sections": {
-        "customSections": [
-          "Runes",
-          "Mana",
-          "Base",
-          "B1",
-          "B2",
-          "myBF",
-          "Battlefields",
-          "Chosen_Champion",
-          "Legend"
-        ],
-        "layout": {
-          "direction": "column",
-          "isSymetricalForOpponents": false,
-          "content": [
-            {
-              "direction": "row",
-              "style": false,
-              "content": [
-                {
-                  "direction": "column",
-                  "style": {
-                    "height": "24.25vh",
-                    "margin": "0.25vh"
-                  },
-                  "content": [
-                    {
-                      "section": "myBF",
-                      "style": {
-                        "width": "30vh",
-                        "height": "12vh",
-                        "scale": "0.68",
-                        "position": "absolute",
-                        "top": "0",
-                        "left": "50%",
-                        "translate": "-50% -3.25vh"
-                      }
-                    },
-                    {
-                      "section": "B1",
-                      "style": {
-                        "borderRadius": "1vh",
-                        "marginTop": "auto"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
-                },
-                {
-                  "direction": "column",
-                  "style": {
-                    "height": "24.25vh",
-                    "margin": "0.25vh"
-                  },
-                  "content": [
-                    {
-                      "section": "Battlefields",
-                      "style": {
-                        "width": "30vh",
-                        "height": "12vh",
-                        "scale": "0.68",
-                        "position": "absolute",
-                        "top": "0",
-                        "left": "50%",
-                        "translate": "-50% -3.25vh"
-                      }
-                    },
-                    {
-                      "section": "B2",
-                      "style": {
-                        "borderRadius": "1vh",
-                        "marginTop": "auto"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
-                }
-              ],
-              "isSymetricalForOpponents": false
+            "newTurn": {
+                "drawOnStart": false,
+                "sharedTurn": false,
+                "firstPlayerTokenName": "",
+                "drawPerTurn": "1"
             },
-            {
-              "direction": "row",
-              "style": false,
-              "content": [
-                {
-                  "section": "Runes",
-                  "style": false
+            "defaultNotes": "",
+            "tokens": [],
+            "countersStartingValues": [
+                0
+            ],
+            "hideFacedDownCards": false,
+            "sections": {
+                "customSections": [
+                    "Runes",
+                    "Mana",
+                    "Base",
+                    "B1",
+                    "B2",
+                    "myBF",
+                    "Battlefields",
+                    "Chosen_Champion",
+                    "Legend"
+                ],
+                "layout": {
+                    "direction": "column",
+                    "isSymetricalForOpponents": false,
+                    "content": [
+                        {
+                            "direction": "row",
+                            "style": false,
+                            "content": [
+                                {
+                                    "direction": "column",
+                                    "style": {
+                                        "height": "24.25vh",
+                                        "margin": "0.25vh"
+                                    },
+                                    "content": [
+                                        {
+                                            "section": "myBF",
+                                            "style": {
+                                                "width": "30vh",
+                                                "height": "12vh",
+                                                "scale": "0.68",
+                                                "position": "absolute",
+                                                "top": "0",
+                                                "left": "50%",
+                                                "translate": "-50% -3.25vh"
+                                            }
+                                        },
+                                        {
+                                            "section": "B1",
+                                            "style": {
+                                                "borderRadius": "1vh",
+                                                "marginTop": "auto"
+                                            }
+                                        }
+                                    ],
+                                    "isSymetricalForOpponents": false
+                                },
+                                {
+                                    "direction": "column",
+                                    "style": {
+                                        "height": "24.25vh",
+                                        "margin": "0.25vh"
+                                    },
+                                    "content": [
+                                        {
+                                            "section": "Battlefields",
+                                            "style": {
+                                                "width": "30vh",
+                                                "height": "12vh",
+                                                "scale": "0.68",
+                                                "position": "absolute",
+                                                "top": "0",
+                                                "left": "50%",
+                                                "translate": "-50% -3.25vh"
+                                            }
+                                        },
+                                        {
+                                            "section": "B2",
+                                            "style": {
+                                                "borderRadius": "1vh",
+                                                "marginTop": "auto"
+                                            }
+                                        }
+                                    ],
+                                    "isSymetricalForOpponents": false
+                                }
+                            ],
+                            "isSymetricalForOpponents": false
+                        },
+                        {
+                            "direction": "row",
+                            "style": false,
+                            "content": [
+                                {
+                                    "section": "Runes",
+                                    "style": false
+                                },
+                                {
+                                    "section": "Mana",
+                                    "style": {
+                                        "width": "35%"
+                                    }
+                                },
+                                {
+                                    "section": "Base",
+                                    "style": false
+                                },
+                                {
+                                    "section": "Legend",
+                                    "style": {
+                                        "width": "10.2vh"
+                                    }
+                                },
+                                {
+                                    "section": "Chosen_Champion",
+                                    "style": {
+                                        "width": "10.2vh"
+                                    }
+                                }
+                            ],
+                            "isSymetricalForOpponents": false
+                        }
+                    ]
                 },
-                {
-                  "section": "Mana",
-                  "style": {
-                    "width": "35%"
-                  }
+                "categoriesAlreadyOnBoard": [
+                    "Runes",
+                    "Battlefields",
+                    "Legend",
+                    "Chosen_Champion"
+                ],
+                "autoPlayFromHand": {
+                    "Runes": "Mana",
+                    "Gear": "Base",
+                    "Spell": "Stack"
                 },
-                {
-                  "section": "Base",
-                  "style": false
+                "autoPlayFromStack": {
+                    "Spell": "Discard",
+                    "Unit": "Base",
+                    "Gear": "Base"
                 },
-                {
-                  "section": "Legend",
-                  "style": {
-                    "width": "10.2vh"
-                  }
-                },
-                {
-                  "section": "Chosen_Champion",
-                  "style": {
-                    "width": "10.2vh"
-                  }
+                "sectionsDict": {
+                    "Hand": {
+                        "isDefaultSection": true,
+                        "title": "Hand",
+                        "isHidden": "opponent-only",
+                        "height": "DEFAULT",
+                        "alignment": "CENTER",
+                        "autoPayFrom": true,
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "opponentAlignment": false,
+                        "noAutoPayTo": false,
+                        "displayedTitle": "Mão",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Discard": {
+                        "isDefaultSection": true,
+                        "title": "Discard",
+                        "isHidden": "no",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "noAutoPayTo": true,
+                        "opponentAlignment": false,
+                        "displayedTitle": "Discarte",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Deck": {
+                        "isDefaultSection": true,
+                        "title": "Deck",
+                        "isHidden": "yes",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "opponentAlignment": false,
+                        "noAutoPayTo": false,
+                        "displayedTitle": "Deck Principal",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Stack": {
+                        "isDefaultSection": true,
+                        "title": "Stack",
+                        "isHidden": "no",
+                        "height": "HUGE",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "displayedTitle": "Chain",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": false,
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Exile": {
+                        "isDefaultSection": true,
+                        "title": "Exile",
+                        "isHidden": "yes",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "noAutoPayTo": true,
+                        "opponentAlignment": false,
+                        "displayedTitle": "Exilio",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "ExileHidden": {
+                        "isDefaultSection": true,
+                        "title": "ExileHidden",
+                        "isHidden": "yes",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "noAutoPayTo": true,
+                        "opponentAlignment": false,
+                        "displayedTitle": "Exilio Oculto",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Sideboard": {
+                        "isDefaultSection": true,
+                        "title": "Sideboard",
+                        "isHidden": "yes",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "opponentAlignment": false,
+                        "noAutoPayTo": false,
+                        "displayedTitle": "",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Runes": {
+                        "title": "Runes",
+                        "isHidden": "yes",
+                        "height": "SMALL",
+                        "alignment": "DECK",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": false,
+                        "displayedTitle": "Deck Runas",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Base": {
+                        "title": "Base",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": false,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Base",
+                        "noQuickActions": false,
+                        "enterTapped": true,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "B1": {
+                        "title": "B1",
+                        "isHidden": "no",
+                        "height": "16",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": false,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Unidades Campo 1",
+                        "noQuickActions": false,
+                        "enterTapped": true,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "B2": {
+                        "title": "B2",
+                        "isHidden": "no",
+                        "height": "16",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": false,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Unidades Campo 2",
+                        "noQuickActions": false,
+                        "enterTapped": true,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "myBF": {
+                        "title": "myBF",
+                        "isHidden": "no",
+                        "height": "12",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": false,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Campo de Batalha Escolhido",
+                        "noQuickActions": true,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false,
+                        "cardStyle": {
+                            "marginTop": "-2vh"
+                        }
+                    },
+                    "Battlefields": {
+                        "title": "Battlefields",
+                        "isHidden": "opponent-only",
+                        "height": "12",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Campos de Batalha",
+                        "noQuickActions": true,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false,
+                        "cardStyle": {
+                            "marginTop": "-2vh"
+                        }
+                    },
+                    "Chosen_Champion": {
+                        "title": "Chosen_Champion",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": false,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Campeão Escolhido",
+                        "noQuickActions": true,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Legend": {
+                        "title": "Legend",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": false,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Lenda",
+                        "noQuickActions": true,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Mana": {
+                        "title": "Mana",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": false,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Runas",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    }
                 }
-              ],
-              "isSymetricalForOpponents": false
             }
-          ]
         },
-        "categoriesAlreadyOnBoard": [
-          "Runes",
-          "Battlefields",
-          "Legend",
-          "Chosen_Champion"
-        ],
-        "autoPlayFromHand": {
-          "Runes": "Mana",
-          "Gear": "Base",
-          "Spell": "Stack"
-        },
-        "autoPlayFromStack": {
-          "Spell": "Discard",
-          "Unit": "Base",
-          "Gear": "Base"
-        },
-        "sectionsDict": {
-          "Hand": {
-            "isDefaultSection": true,
-            "title": "Hand",
-            "isHidden": "opponent-only",
-            "height": "DEFAULT",
-            "alignment": "CENTER",
-            "autoPayFrom": true,
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "Mão",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Discard": {
-            "isDefaultSection": true,
-            "title": "Discard",
-            "isHidden": "no",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "opponentAlignment": false,
-            "displayedTitle": "Discarte",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Deck": {
-            "isDefaultSection": true,
-            "title": "Deck",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "Deck Principal",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Stack": {
-            "isDefaultSection": true,
-            "title": "Stack",
-            "isHidden": "no",
-            "height": "HUGE",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "displayedTitle": "Chain",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Exile": {
-            "isDefaultSection": true,
-            "title": "Exile",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "opponentAlignment": false,
-            "displayedTitle": "Exilio",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "ExileHidden": {
-            "isDefaultSection": true,
-            "title": "ExileHidden",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "opponentAlignment": false,
-            "displayedTitle": "Exilio Oculto",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Sideboard": {
-            "isDefaultSection": true,
-            "title": "Sideboard",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Runes": {
-            "title": "Runes",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "DECK",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Deck Runas",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Base": {
-            "title": "Base",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Base",
-            "noQuickActions": false,
-            "enterTapped": true,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "B1": {
-            "title": "B1",
-            "isHidden": "no",
-            "height": "16",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Unidades Campo 1",
-            "noQuickActions": false,
-            "enterTapped": true,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-          },
-          "B2": {
-            "title": "B2",
-            "isHidden": "no",
-            "height": "16",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Unidades Campo 2",
-            "noQuickActions": false,
-            "enterTapped": true,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "myBF": {
-            "title": "myBF",
-            "isHidden": "no",
-            "height": "12",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Campo de Batalha Escolhido",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "cardStyle": {
-                            "marginTop": "-2vh"
-                        }
-          },
-          "Battlefields": {
-            "title": "Battlefields",
-            "isHidden": "opponent-only",
-            "height": "12",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Campos de Batalha",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "cardStyle": {
-                            "marginTop": "-2vh"
-                        }
-          },
-          "Chosen_Champion": {
-            "title": "Chosen_Champion",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Campeão Escolhido",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Legend": {
-            "title": "Legend",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Lenda",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Mana": {
-            "title": "Mana",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Runas",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          }
-        }
-      }
-    },
-    "Multiplayer": {
+        "Multiplayer": {
             "mulligan": {
                 "info": "",
                 "startingHandSize": 0,
@@ -512,7 +512,10 @@
                             "content": [
                                 {
                                     "direction": "column",
-                                    "style": { "height": "24.25vh", "margin": "0.25vh" },
+                                    "style": {
+                                        "height": "24.25vh",
+                                        "margin": "0.25vh"
+                                    },
                                     "content": [
                                         {
                                             "section": "Battlefields",
@@ -538,7 +541,10 @@
                                 },
                                 {
                                     "direction": "column",
-                                    "style": { "height": "24.25vh", "margin": "0.25vh" },
+                                    "style": {
+                                        "height": "24.25vh",
+                                        "margin": "0.25vh"
+                                    },
                                     "content": [
                                         {
                                             "section": "myBF2",
@@ -564,7 +570,10 @@
                                 },
                                 {
                                     "direction": "column",
-                                    "style": { "height": "24.25vh", "margin": "0.25vh" },
+                                    "style": {
+                                        "height": "24.25vh",
+                                        "margin": "0.25vh"
+                                    },
                                     "content": [
                                         {
                                             "section": "myBF3",
@@ -843,6 +852,6 @@
                     }
                 }
             }
+        }
     }
-  }
 }
