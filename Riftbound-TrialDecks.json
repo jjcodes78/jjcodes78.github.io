@@ -3,7 +3,7 @@
   "title": "Viktor Champion Deck (Origins Precon)",
   "id": "14afc05e-e701-4780-b6bc-85a52fb8b1f5",
   "game": "RiftboundBR",
-  "format": "Classic",
+  "format": ["Classic", "Multiplayer"],
   "cardCount": 56,
   "createdAt": "2025-07-29T00:05:09.854Z",
   "lastModifiedAt": "2025-07-29T00:09:03.622Z",
