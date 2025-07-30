@@ -7,7 +7,7 @@
                 "name": "Blazing Scorcher",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-001.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-001.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -26,7 +26,7 @@
                 "name": "Brazen Buccaneer",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-002.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-002.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -45,7 +45,7 @@
                 "name": "Chemtech Enforcer",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-003.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-003.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -64,7 +64,7 @@
                 "name": "Cleave",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-004.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-004.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -83,7 +83,7 @@
                 "name": "Disintegrate",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-005.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-005.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -102,7 +102,7 @@
                 "name": "Flame Chompers",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-006.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-006.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -121,14 +121,14 @@
                 "name": "Fury Rune",
                 "type": "Runes",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-007.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-007.png?v=300720252020",
                 "isHorizontal": false
             },
             "back": {
                 "name": "",
                 "type": "",
                 "cost": 0,
-                "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png?v=290720251741",
+                "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -147,7 +147,7 @@
                 "name": "Fury Rune",
                 "type": "Runes",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-007a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-007a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -166,7 +166,7 @@
                 "name": "Get Excited!",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-008.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-008.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -185,7 +185,7 @@
                 "name": "Hextech Ray",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-009.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-009.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -204,7 +204,7 @@
                 "name": "Legion Rearguard",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-010.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-010.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -223,7 +223,7 @@
                 "name": "Magma Wurm",
                 "type": "Unit",
                 "cost": "8",
-                "image": "https://riftarchive.com.br/storage/OGN-011.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-011.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -242,7 +242,7 @@
                 "name": "Noxus Hopeful",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-012.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-012.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -261,7 +261,7 @@
                 "name": "Pouty Poro",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-013.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-013.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -280,7 +280,7 @@
                 "name": "Sky Splitter",
                 "type": "Spell",
                 "cost": "8",
-                "image": "https://riftarchive.com.br/storage/OGN-014.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-014.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -299,7 +299,7 @@
                 "name": "Captain Farron",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-015.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-015.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -318,7 +318,7 @@
                 "name": "Dangerous Duo",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-016.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-016.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -337,7 +337,7 @@
                 "name": "Iron Ballista",
                 "type": "Gear",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-017.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-017.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -356,7 +356,7 @@
                 "name": "Nexus Saboteur",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-018.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-018.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -375,7 +375,7 @@
                 "name": "Raging Soul",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-019.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-019.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -394,7 +394,7 @@
                 "name": "Scrapyard Champion",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-020.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-020.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -413,7 +413,7 @@
                 "name": "Sun Disc",
                 "type": "Gear",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-021.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-021.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -432,7 +432,7 @@
                 "name": "Thermo Beam",
                 "type": "Spell",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-022.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-022.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -451,7 +451,7 @@
                 "name": "Unlicensed Armory",
                 "type": "Gear",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-023.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-023.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -470,7 +470,7 @@
                 "name": "Void Seeker",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-024.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-024.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -489,7 +489,7 @@
                 "name": "Blind Fury",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-025.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-025.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -508,7 +508,7 @@
                 "name": "Brynhir Thundersong",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-026.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-026.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -527,7 +527,7 @@
                 "name": "Darius, Trifarian",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-027.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-027.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -546,7 +546,7 @@
                 "name": "Darius, Trifarian",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-027a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-027a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -565,7 +565,7 @@
                 "name": "Draven, Showboat",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-028.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-028.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -584,7 +584,7 @@
                 "name": "Falling Star",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-029.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-029.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -603,7 +603,7 @@
                 "name": "Jinx, Demolitionist",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-030.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-030.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -622,7 +622,7 @@
                 "name": "Jinx, Demolitionist",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-030a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-030a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -641,7 +641,7 @@
                 "name": "Raging Firebrand",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-031.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-031.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -660,7 +660,7 @@
                 "name": "Ravenborn Tome",
                 "type": "Gear",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-032.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-032.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -679,7 +679,7 @@
                 "name": "Shakedown",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-033.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-033.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -698,7 +698,7 @@
                 "name": "Tryndamere, Barbarian",
                 "type": "Unit",
                 "cost": "7",
-                "image": "https://riftarchive.com.br/storage/OGN-034.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-034.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -717,7 +717,7 @@
                 "name": "Vayne, Hunter",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-035.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-035.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -736,7 +736,7 @@
                 "name": "Vi, Destructive",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-036.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-036.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -755,7 +755,7 @@
                 "name": "Immortal Phoenix",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-037.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-037.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -774,7 +774,7 @@
                 "name": "Kadregrin the Infernal",
                 "type": "Unit",
                 "cost": "9",
-                "image": "https://riftarchive.com.br/storage/OGN-038.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-038.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -793,7 +793,7 @@
                 "name": "Kai'Sa, Survivor",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-039.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-039.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -812,7 +812,7 @@
                 "name": "Kai'Sa, Survivor",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-039a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-039a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -831,7 +831,7 @@
                 "name": "Seal of Rage",
                 "type": "Gear",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-040.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-040.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -850,7 +850,7 @@
                 "name": "Volibear, Furious",
                 "type": "Unit",
                 "cost": "10",
-                "image": "https://riftarchive.com.br/storage/OGN-041.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-041.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -869,7 +869,7 @@
                 "name": "Volibear, Furious",
                 "type": "Unit",
                 "cost": "10",
-                "image": "https://riftarchive.com.br/storage/OGN-041a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-041a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -888,7 +888,7 @@
                 "name": "Calm Rune",
                 "type": "Runes",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-042.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-042.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -907,7 +907,7 @@
                 "name": "Calm Rune",
                 "type": "Runes",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-042a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-042a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -926,7 +926,7 @@
                 "name": "Charm",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-043.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-043.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -945,7 +945,7 @@
                 "name": "Clockwork Keeper",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-044.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-044.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -964,7 +964,7 @@
                 "name": "Defy",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-045.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-045.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -983,7 +983,7 @@
                 "name": "En Garde",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-046.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-046.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1002,7 +1002,7 @@
                 "name": "Find Your Center",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-047.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-047.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1021,7 +1021,7 @@
                 "name": "Meditation",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-048.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-048.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1040,7 +1040,7 @@
                 "name": "Playful Phantom",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-049.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-049.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1059,7 +1059,7 @@
                 "name": "Rune Prison",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-050.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-050.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1078,7 +1078,7 @@
                 "name": "Solari Shieldbearer",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-051.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-051.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1097,7 +1097,7 @@
                 "name": "Stalwart Poro",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-052.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-052.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1116,7 +1116,7 @@
                 "name": "Stand United",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-053.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-053.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1138,7 +1138,7 @@
                 "name": "Sunlit Guardian",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-054.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-054.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1157,7 +1157,7 @@
                 "name": "Wielder of Water",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-055.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-055.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1176,7 +1176,7 @@
                 "name": "Adaptatron",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-056.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-056.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1198,7 +1198,7 @@
                 "name": "Block",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-057.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-057.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1217,7 +1217,7 @@
                 "name": "Discipline",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-058.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-058.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1236,7 +1236,7 @@
                 "name": "Eclipse Herald",
                 "type": "Unit",
                 "cost": "7",
-                "image": "https://riftarchive.com.br/storage/OGN-059.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-059.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1255,7 +1255,7 @@
                 "name": "Mask of Foresight",
                 "type": "Gear",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-060.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-060.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1274,7 +1274,7 @@
                 "name": "Poro Herder",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-061.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-061.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1296,7 +1296,7 @@
                 "name": "Reinforce",
                 "type": "Spell",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-062.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-062.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1315,7 +1315,7 @@
                 "name": "Spirit's Refuge",
                 "type": "Gear",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-063.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-063.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1337,7 +1337,7 @@
                 "name": "Wind Wall",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-064.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-064.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1356,7 +1356,7 @@
                 "name": "Wizened Elder",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-065.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-065.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1375,7 +1375,7 @@
                 "name": "Ahri, Alluring",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-066.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-066.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1394,7 +1394,7 @@
                 "name": "Ahri, Alluring",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-066a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-066a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1413,7 +1413,7 @@
                 "name": "Blitzcrank, Impassive",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-067.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-067.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1432,7 +1432,7 @@
                 "name": "Caitlyn, Patrolling",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-068.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-068.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1451,7 +1451,7 @@
                 "name": "Last Stand",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-069.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-069.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1470,7 +1470,7 @@
                 "name": "Mageseeker Warden",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-070.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-070.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1489,7 +1489,7 @@
                 "name": "Party Favors",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-071.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-071.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1508,7 +1508,7 @@
                 "name": "Solari Shrine",
                 "type": "Gear",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-072.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-072.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1527,7 +1527,7 @@
                 "name": "Sona, Harmonious",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-073.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-073.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1546,7 +1546,7 @@
                 "name": "Taric, Protector",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-074.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-074.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1565,7 +1565,7 @@
                 "name": "Tasty Faefolk",
                 "type": "Unit",
                 "cost": "7",
-                "image": "https://riftarchive.com.br/storage/OGN-075.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-075.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1584,7 +1584,7 @@
                 "name": "Yasuo, Remorseful",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-076.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-076.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1603,7 +1603,7 @@
                 "name": "Yasuo, Remorseful",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-076a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-076a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1622,7 +1622,7 @@
                 "name": "Zhonya's Hourglass",
                 "type": "Gear",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-077.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-077.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1641,7 +1641,7 @@
                 "name": "Lee Sin, Ascetic",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-078.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-078.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1663,7 +1663,7 @@
                 "name": "Lee Sin, Ascetic",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-078a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-078a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1685,7 +1685,7 @@
                 "name": "Leona, Zealot",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-079.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-079.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1704,7 +1704,7 @@
                 "name": "Leona, Zealot",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-079a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-079a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1723,7 +1723,7 @@
                 "name": "Mystic Reversal",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-080.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-080.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1742,7 +1742,7 @@
                 "name": "Seal of Focus",
                 "type": "Gear",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-081.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-081.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1761,7 +1761,7 @@
                 "name": "Whiteflame Protector",
                 "type": "Unit",
                 "cost": "8",
-                "image": "https://riftarchive.com.br/storage/OGN-082.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-082.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1780,7 +1780,7 @@
                 "name": "Consult the Past",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-083.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-083.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1799,7 +1799,7 @@
                 "name": "Eager Apprentice",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-084.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-084.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1818,7 +1818,7 @@
                 "name": "Falling Comet",
                 "type": "Spell",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-085.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-085.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1837,7 +1837,7 @@
                 "name": "Jeweled Colossus",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-086.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-086.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1856,7 +1856,7 @@
                 "name": "Lecturing Yordle",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-087.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-087.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1875,7 +1875,7 @@
                 "name": "Mega-Mech",
                 "type": "Unit",
                 "cost": "7",
-                "image": "https://riftarchive.com.br/storage/OGN-088.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-088.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1894,7 +1894,7 @@
                 "name": "Mind Rune",
                 "type": "Runes",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-089.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-089.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1913,7 +1913,7 @@
                 "name": "Mind Rune",
                 "type": "Runes",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-089a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-089a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1932,7 +1932,7 @@
                 "name": "Orb of Regret",
                 "type": "Gear",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-090.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-090.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1951,7 +1951,7 @@
                 "name": "Pit Crew",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-091.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-091.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1970,7 +1970,7 @@
                 "name": "Riptide Rex",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-092.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-092.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -1989,7 +1989,7 @@
                 "name": "Smoke Screen",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-093.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-093.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2008,7 +2008,7 @@
                 "name": "Sprite Call",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-094.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-094.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2027,7 +2027,7 @@
                 "name": "Stupefy",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-095.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-095.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2046,7 +2046,7 @@
                 "name": "Watchful Sentry",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-096.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-096.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2065,7 +2065,7 @@
                 "name": "Blastcone Fae",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-097.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-097.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2084,7 +2084,7 @@
                 "name": "Energy Conduit",
                 "type": "Gear",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-098.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-098.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2103,7 +2103,7 @@
                 "name": "Garbage Grabber",
                 "type": "Gear",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-099.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-099.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2122,7 +2122,7 @@
                 "name": "Gemcraft Seer",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-100.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-100.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2141,7 +2141,7 @@
                 "name": "Mushroom Pouch",
                 "type": "Gear",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-101.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-101.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2160,7 +2160,7 @@
                 "name": "Portal Rescue",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-102.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-102.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2179,7 +2179,7 @@
                 "name": "Ravenbloom Student",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-103.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-103.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2198,7 +2198,7 @@
                 "name": "Retreat",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-104.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-104.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2217,7 +2217,7 @@
                 "name": "Singularity",
                 "type": "Spell",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-105.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-105.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2236,7 +2236,7 @@
                 "name": "Sprite Mother",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-106.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-106.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2255,7 +2255,7 @@
                 "name": "Ava Achiever",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-107.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-107.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2274,7 +2274,7 @@
                 "name": "Convergent Mutation",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-108.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-108.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2293,7 +2293,7 @@
                 "name": "Dr. Mundo, Expert",
                 "type": "Unit",
                 "cost": "8",
-                "image": "https://riftarchive.com.br/storage/OGN-109.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-109.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2312,7 +2312,7 @@
                 "name": "Ekko, Recurrent",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-110.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-110.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2331,7 +2331,7 @@
                 "name": "Heimerdinger, Inventor",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-111.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-111.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2350,7 +2350,7 @@
                 "name": "Kai'Sa, Evolutionary",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-112.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-112.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2369,7 +2369,7 @@
                 "name": "Kai'Sa, Evolutionary",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-112a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-112a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2388,7 +2388,7 @@
                 "name": "Malzahar, Fanatic",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-113.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-113.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2407,7 +2407,7 @@
                 "name": "Progress Day",
                 "type": "Spell",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-114.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-114.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2426,7 +2426,7 @@
                 "name": "Promising Future",
                 "type": "Spell",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-115.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-115.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2445,7 +2445,7 @@
                 "name": "Thousand-Tailed Watcher",
                 "type": "Unit",
                 "cost": "7",
-                "image": "https://riftarchive.com.br/storage/OGN-116.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-116.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2464,7 +2464,7 @@
                 "name": "Viktor, Innovator",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-117.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-117.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2486,7 +2486,7 @@
                 "name": "Viktor, Innovator",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-117a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-117a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2505,7 +2505,7 @@
                 "name": "Wraith of Echoes",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-118.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-118.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2524,7 +2524,7 @@
                 "name": "Ahri, Inquisitive",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-119.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-119.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2543,7 +2543,7 @@
                 "name": "Ahri, Inquisitive",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-119a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-119a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2562,7 +2562,7 @@
                 "name": "Seal of Insight",
                 "type": "Gear",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-120.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-120.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2581,7 +2581,7 @@
                 "name": "Teemo, Strategist",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-121.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-121.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2600,7 +2600,7 @@
                 "name": "Teemo, Strategist",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-121a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-121a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2619,7 +2619,7 @@
                 "name": "Time Warp",
                 "type": "Spell",
                 "cost": "10",
-                "image": "https://riftarchive.com.br/storage/OGN-122.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-122.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2638,7 +2638,7 @@
                 "name": "Unchecked Power",
                 "type": "Spell",
                 "cost": "7",
-                "image": "https://riftarchive.com.br/storage/OGN-123.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-123.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2657,7 +2657,7 @@
                 "name": "Arena Bar",
                 "type": "Gear",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-124.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-124.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2679,7 +2679,7 @@
                 "name": "Bilgewater Bully",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-125.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-125.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2698,7 +2698,7 @@
                 "name": "Body Rune",
                 "type": "Runes",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-126.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-126.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2717,7 +2717,7 @@
                 "name": "Body Rune",
                 "type": "Runes",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-126a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-126a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2736,7 +2736,7 @@
                 "name": "Cannon Barrage",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-127.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-127.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2755,7 +2755,7 @@
                 "name": "Challenge",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-128.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-128.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2774,7 +2774,7 @@
                 "name": "Confront",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-129.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-129.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2793,7 +2793,7 @@
                 "name": "Crackshot Corsair",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-130.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-130.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2812,7 +2812,7 @@
                 "name": "Dune Drake",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-131.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-131.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2831,7 +2831,7 @@
                 "name": "First Mate",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-132.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-132.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2850,7 +2850,7 @@
                 "name": "Flurry of Blades",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-133.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-133.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2869,7 +2869,7 @@
                 "name": "Mobilize",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-134.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-134.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2888,7 +2888,7 @@
                 "name": "Pakaa Cub",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-135.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-135.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2907,7 +2907,7 @@
                 "name": "Pit Rookie",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-136.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-136.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2929,7 +2929,7 @@
                 "name": "Stormclaw Ursine",
                 "type": "Unit",
                 "cost": "7",
-                "image": "https://riftarchive.com.br/storage/OGN-137.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-137.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2948,7 +2948,7 @@
                 "name": "Catalyst of Aeons",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-138.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-138.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2967,7 +2967,7 @@
                 "name": "Cithria of Cloudfield",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-139.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-139.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -2989,7 +2989,7 @@
                 "name": "Herald of Scales",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-140.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-140.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3008,7 +3008,7 @@
                 "name": "Kinkou Monk",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-141.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-141.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3030,7 +3030,7 @@
                 "name": "Mountain Drake",
                 "type": "Unit",
                 "cost": "9",
-                "image": "https://riftarchive.com.br/storage/OGN-142.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-142.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3049,7 +3049,7 @@
                 "name": "Pirate's Haven",
                 "type": "Gear",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-143.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-143.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3068,7 +3068,7 @@
                 "name": "Spoils of War",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-144.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-144.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3087,7 +3087,7 @@
                 "name": "Unyielding Spirit",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-145.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-145.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3106,7 +3106,7 @@
                 "name": "Wallop",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-146.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-146.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3125,7 +3125,7 @@
                 "name": "Wildclaw Shaman",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-147.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-147.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3144,7 +3144,7 @@
                 "name": "Anivia, Primal",
                 "type": "Unit",
                 "cost": "7",
-                "image": "https://riftarchive.com.br/storage/OGN-148.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-148.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3163,7 +3163,7 @@
                 "name": "Carnivorous Snapvine",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-149.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-149.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3182,7 +3182,7 @@
                 "name": "Kraken Hunter",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-150.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-150.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3201,7 +3201,7 @@
                 "name": "Lee Sin, Centered",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-151.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-151.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3220,7 +3220,7 @@
                 "name": "Lee Sin, Centered",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-151a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-151a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3239,7 +3239,7 @@
                 "name": "Mistfall",
                 "type": "Gear",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-152.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-152.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3258,7 +3258,7 @@
                 "name": "Overt Operation",
                 "type": "Spell",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-153.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-153.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3277,7 +3277,7 @@
                 "name": "Primal Strength",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-154.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-154.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3296,7 +3296,7 @@
                 "name": "Qiyana, Victorious",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-155.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-155.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3315,7 +3315,7 @@
                 "name": "Sabotage",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-156.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-156.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3334,7 +3334,7 @@
                 "name": "Udyr, Wildman",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-157.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-157.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3353,7 +3353,7 @@
                 "name": "Volibear, Imposing",
                 "type": "Unit",
                 "cost": "12",
-                "image": "https://riftarchive.com.br/storage/OGN-158.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-158.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3372,7 +3372,7 @@
                 "name": "Volibear, Imposing",
                 "type": "Unit",
                 "cost": "12",
-                "image": "https://riftarchive.com.br/storage/OGN-158a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-158a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3391,7 +3391,7 @@
                 "name": "Warwick, Hunter",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-159.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-159.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3410,7 +3410,7 @@
                 "name": "Dazzling Aurora",
                 "type": "Gear",
                 "cost": "9",
-                "image": "https://riftarchive.com.br/storage/OGN-160.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-160.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3429,7 +3429,7 @@
                 "name": "Deadbloom Predator",
                 "type": "Unit",
                 "cost": "8",
-                "image": "https://riftarchive.com.br/storage/OGN-161.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-161.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3448,7 +3448,7 @@
                 "name": "Miss Fortune, Captain",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-162.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-162.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3467,7 +3467,7 @@
                 "name": "Miss Fortune, Captain",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-162a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-162a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3486,7 +3486,7 @@
                 "name": "Seal of Strength",
                 "type": "Gear",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-163.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-163.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3505,7 +3505,7 @@
                 "name": "Sett, Brawler",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-164.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-164.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3527,7 +3527,7 @@
                 "name": "Sett, Brawler",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-164a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-164a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3549,7 +3549,7 @@
                 "name": "Cemetery Attendant",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-165.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-165.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3568,7 +3568,7 @@
                 "name": "Chaos Rune",
                 "type": "Runes",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-166.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-166.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3587,7 +3587,7 @@
                 "name": "Chaos Rune",
                 "type": "Runes",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-166a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-166a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3606,7 +3606,7 @@
                 "name": "Ember Monk",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-167.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-167.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3625,7 +3625,7 @@
                 "name": "Fight or Flight",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-168.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-168.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3644,7 +3644,7 @@
                 "name": "Gust",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-169.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-169.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3663,7 +3663,7 @@
                 "name": "Morbid Return",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-170.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-170.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3682,7 +3682,7 @@
                 "name": "Mystic Poro",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-171.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-171.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3701,7 +3701,7 @@
                 "name": "Rebuke",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-172.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-172.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3720,7 +3720,7 @@
                 "name": "Ride the Wind",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-173.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-173.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3739,7 +3739,7 @@
                 "name": "Sai Scout",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-174.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-174.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3758,7 +3758,7 @@
                 "name": "Shipyard Skulker",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-175.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-175.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3777,7 +3777,7 @@
                 "name": "Sneaky Deckhand",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-176.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-176.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3796,7 +3796,7 @@
                 "name": "Stealthy Pursuer",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-177.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-177.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3815,7 +3815,7 @@
                 "name": "Undercover Agent",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-178.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-178.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3834,7 +3834,7 @@
                 "name": "Acceptable Losses",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-179.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-179.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3853,7 +3853,7 @@
                 "name": "Fading Memories",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-180.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-180.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3872,7 +3872,7 @@
                 "name": "Pack of Wonders",
                 "type": "Gear",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-181.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-181.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3891,7 +3891,7 @@
                 "name": "Scrapheap",
                 "type": "Gear",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-182.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-182.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3910,7 +3910,7 @@
                 "name": "Stacked Deck",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-183.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-183.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3929,7 +3929,7 @@
                 "name": "The Syren",
                 "type": "Gear",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-184.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-184.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3948,7 +3948,7 @@
                 "name": "Traveling Merchant",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-185.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-185.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3967,7 +3967,7 @@
                 "name": "Treasure Trove",
                 "type": "Gear",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-186.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-186.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -3986,7 +3986,7 @@
                 "name": "Whirlwind",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-187.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-187.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4005,7 +4005,7 @@
                 "name": "Zaunite Bouncer",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-188.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-188.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4024,7 +4024,7 @@
                 "name": "Kayn, Unleashed",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-189.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-189.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4043,7 +4043,7 @@
                 "name": "Kog'Maw, Caustic",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-190.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-190.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4062,7 +4062,7 @@
                 "name": "Maddened Marauder",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-191.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-191.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4081,7 +4081,7 @@
                 "name": "Mindsplitter",
                 "type": "Unit",
                 "cost": "7",
-                "image": "https://riftarchive.com.br/storage/OGN-192.png?v=300720251137",
+                "image": "https://riftarchive.com.br/storage/OGN-192.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4100,7 +4100,7 @@
                 "name": "Miss Fortune, Buccaneer",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-193.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-193.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4119,7 +4119,7 @@
                 "name": "Miss Fortune, Buccaneer",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-193a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-193a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4138,7 +4138,7 @@
                 "name": "Nocturne, Horrifying",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-194.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-194.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4157,7 +4157,7 @@
                 "name": "Rhasa the Sunderer",
                 "type": "Unit",
                 "cost": "10",
-                "image": "https://riftarchive.com.br/storage/OGN-195.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-195.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4176,7 +4176,7 @@
                 "name": "Soulgorger",
                 "type": "Unit",
                 "cost": "8",
-                "image": "https://riftarchive.com.br/storage/OGN-196.png?v=300720251211",
+                "image": "https://riftarchive.com.br/storage/OGN-196.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4195,7 +4195,7 @@
                 "name": "Teemo, Scout",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-197.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-197.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4214,7 +4214,7 @@
                 "name": "Teemo, Scout",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-197a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-197a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4233,7 +4233,7 @@
                 "name": "The Harrowing",
                 "type": "Spell",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-198.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-198.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4252,7 +4252,7 @@
                 "name": "Tideturner",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-199.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-199.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4271,7 +4271,7 @@
                 "name": "Twisted Fate, Gambler",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-200.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-200.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4290,7 +4290,7 @@
                 "name": "Invert Timelines",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-201.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-201.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4309,7 +4309,7 @@
                 "name": "Jinx, Rebel",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-202.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-202.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4328,7 +4328,7 @@
                 "name": "Jinx, Rebel",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-202a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-202a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4347,7 +4347,7 @@
                 "name": "Possession",
                 "type": "Spell",
                 "cost": "8",
-                "image": "https://riftarchive.com.br/storage/OGN-203.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-203.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4366,7 +4366,7 @@
                 "name": "Seal of Discord",
                 "type": "Gear",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-204.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-204.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4385,7 +4385,7 @@
                 "name": "Yasuo, Windrider",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-205.png?v=300720252018",
+                "image": "https://riftarchive.com.br/storage/OGN-205.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4404,7 +4404,7 @@
                 "name": "Yasuo, Windrider",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-205a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-205a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4423,7 +4423,7 @@
                 "name": "Back to Back",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-206.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-206.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4442,7 +4442,7 @@
                 "name": "Call to Glory",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-207.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-207.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4461,7 +4461,7 @@
                 "name": "Cruel Patron",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-208.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-208.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4480,7 +4480,7 @@
                 "name": "Cull the Weak",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-209.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-209.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4499,7 +4499,7 @@
                 "name": "Daring Poro",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-210.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-210.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4518,7 +4518,7 @@
                 "name": "Faithful Manufactor",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-211.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-211.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4540,7 +4540,7 @@
                 "name": "Forge of the Future",
                 "type": "Gear",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-212.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-212.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4562,7 +4562,7 @@
                 "name": "Hidden Blade",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-213.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-213.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4581,7 +4581,7 @@
                 "name": "Order Rune",
                 "type": "Runes",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-214.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-214.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4600,7 +4600,7 @@
                 "name": "Order Rune",
                 "type": "Runes",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-214a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-214a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4619,7 +4619,7 @@
                 "name": "Petty Officer",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-215.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-215.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4638,7 +4638,7 @@
                 "name": "Soaring Scout",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-216.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-216.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4657,7 +4657,7 @@
                 "name": "Trifarian Gloryseeker",
                 "type": "Unit",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-217.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-217.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4679,7 +4679,7 @@
                 "name": "Vanguard Captain",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-218.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-218.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4701,7 +4701,7 @@
                 "name": "Vanguard Sergeant",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-219.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-219.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4720,7 +4720,7 @@
                 "name": "Facebreaker",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-220.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-220.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4739,7 +4739,7 @@
                 "name": "Imperial Decree",
                 "type": "Spell",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-221.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-221.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4758,7 +4758,7 @@
                 "name": "Noxian Drummer",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-222.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-222.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4780,7 +4780,7 @@
                 "name": "Peak Guardian",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-223.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-223.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4802,7 +4802,7 @@
                 "name": "Salvage",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-224.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-224.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4821,7 +4821,7 @@
                 "name": "Solari Chief",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-225.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-225.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4840,7 +4840,7 @@
                 "name": "Spectral Matron",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-226.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-226.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4859,7 +4859,7 @@
                 "name": "Symbol of the Solari",
                 "type": "Gear",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-227.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-227.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4878,7 +4878,7 @@
                 "name": "Vanguard Helm",
                 "type": "Gear",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-228.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-228.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4900,7 +4900,7 @@
                 "name": "Vengeance",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-229.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-229.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4919,7 +4919,7 @@
                 "name": "Albus Ferros",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-230.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-230.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4938,7 +4938,7 @@
                 "name": "Commander Ledros",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-231.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-231.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4957,7 +4957,7 @@
                 "name": "Fiora, Victorious",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-232.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-232.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4976,7 +4976,7 @@
                 "name": "Grand Strategem",
                 "type": "Spell",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-233.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-233.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -4995,7 +4995,7 @@
                 "name": "Harnessed Dragon",
                 "type": "Unit",
                 "cost": "8",
-                "image": "https://riftarchive.com.br/storage/OGN-234.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-234.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5014,7 +5014,7 @@
                 "name": "Karma, Channeler",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-235.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-235.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5036,7 +5036,7 @@
                 "name": "Karthus, Eternal",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-236.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-236.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5055,7 +5055,7 @@
                 "name": "King's Edict",
                 "type": "Spell",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-237.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-237.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5074,7 +5074,7 @@
                 "name": "Leona, Determined",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-238.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-238.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5093,7 +5093,7 @@
                 "name": "Leona, Determined",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-238a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-238a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5112,7 +5112,7 @@
                 "name": "Machine Evangel",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGN-239.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-239.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5134,7 +5134,7 @@
                 "name": "Sett, Kingpin",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-240.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-240.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5153,7 +5153,7 @@
                 "name": "Sett, Kingpin",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-240a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-240a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5172,7 +5172,7 @@
                 "name": "Shen, Kinkou",
                 "type": "Unit",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-241.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-241.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5191,7 +5191,7 @@
                 "name": "Baited Hook",
                 "type": "Gear",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-242.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-242.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5210,7 +5210,7 @@
                 "name": "Darius, Executioner",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-243.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-243.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5229,7 +5229,7 @@
                 "name": "Darius, Executioner",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-243a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-243a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5248,7 +5248,7 @@
                 "name": "Divine Judgment",
                 "type": "Spell",
                 "cost": "7",
-                "image": "https://riftarchive.com.br/storage/OGN-244.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-244.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5267,7 +5267,7 @@
                 "name": "Seal of Unity",
                 "type": "Gear",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-245.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-245.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5286,7 +5286,7 @@
                 "name": "Viktor, Leader",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-246.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-246.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5308,7 +5308,7 @@
                 "name": "Viktor, Leader",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-246a.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-246a.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5327,7 +5327,7 @@
                 "name": "Kai'Sa, Daughter of the Void",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-247.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-247.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5347,7 +5347,7 @@
                 "name": "Icathian Rain",
                 "type": "Spell",
                 "cost": "7",
-                "image": "https://riftarchive.com.br/storage/OGN-248.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-248.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5367,7 +5367,7 @@
                 "name": "Volibear, Relentless Storm",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-249.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-249.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5387,7 +5387,7 @@
                 "name": "Stormbringer",
                 "type": "Spell",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGN-250.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-250.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5407,7 +5407,7 @@
                 "name": "Jinx, Loose Cannon",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-251.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-251.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5427,7 +5427,7 @@
                 "name": "Super Mega Death Rocket!",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-252.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-252.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5447,7 +5447,7 @@
                 "name": "Darius, Hand of Noxus",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-253.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-253.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5467,7 +5467,7 @@
                 "name": "Noxian Guillotine",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-254.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-254.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5487,7 +5487,7 @@
                 "name": "Ahri, Nine-Tailed Fox",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-255.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-255.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5507,7 +5507,7 @@
                 "name": "Fox-Fire",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-256.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-256.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5527,7 +5527,7 @@
                 "name": "Lee Sin, Blind Monk",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-257.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-257.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5550,7 +5550,7 @@
                 "name": "Dragon's Rage",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGN-258.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-258.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5570,7 +5570,7 @@
                 "name": "Yasuo, Unforgiven",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-259.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-259.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5590,7 +5590,7 @@
                 "name": "Last Breath",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-260.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-260.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5610,7 +5610,7 @@
                 "name": "Leona, Radiant Dawn",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-261.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-261.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5630,7 +5630,7 @@
                 "name": "Zenith Blade",
                 "type": "Spell",
                 "cost": "3",
-                "image": "https://riftarchive.com.br/storage/OGN-262.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-262.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5650,7 +5650,7 @@
                 "name": "Teemo, Swift Scout",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-263.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-263.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5670,7 +5670,7 @@
                 "name": "Guerilla Warfare",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-264.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-264.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5690,7 +5690,7 @@
                 "name": "Viktor, Herald of the Arcane",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-265.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-265.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5713,7 +5713,7 @@
                 "name": "Siphon Power",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGN-266.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-266.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5733,7 +5733,7 @@
                 "name": "Miss Fortune, Bounty hunter",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-267.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-267.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5753,7 +5753,7 @@
                 "name": "Bullet Time",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-268.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-268.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5773,7 +5773,7 @@
                 "name": "Sett, The Boss",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-269.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-269.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5793,7 +5793,7 @@
                 "name": "Showstopper",
                 "type": "Spell",
                 "cost": "1",
-                "image": "https://riftarchive.com.br/storage/OGN-270.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-270.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5816,7 +5816,7 @@
                 "name": "Recruit",
                 "type": "Unit",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-271.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-271.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5835,7 +5835,7 @@
                 "name": "Recruit",
                 "type": "Unit",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-272.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-272.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5854,7 +5854,7 @@
                 "name": "Recruit",
                 "type": "Unit",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-273.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-273.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5873,7 +5873,7 @@
                 "name": "Sprite",
                 "type": "Unit",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-274.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-274.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -5892,7 +5892,7 @@
                 "name": "Altar to Unity",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-275.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-275.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -5914,7 +5914,7 @@
                 "name": "Aspirant's Climb",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-276.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-276.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -5933,7 +5933,7 @@
                 "name": "Back-Alley Bar",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-277.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-277.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -5952,7 +5952,7 @@
                 "name": "Bandle Tree",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-278.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-278.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -5971,7 +5971,7 @@
                 "name": "Fortified Position",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-279.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-279.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -5990,7 +5990,7 @@
                 "name": "Grove of the God-Willow",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-280.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-280.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6009,7 +6009,7 @@
                 "name": "Hallowed Tomb",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-281.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-281.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6028,7 +6028,7 @@
                 "name": "Monastery of Hirana",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-282.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-282.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6047,7 +6047,7 @@
                 "name": "Navori Fighting Pit",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-283.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-283.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6069,7 +6069,7 @@
                 "name": "Obelisk of Power",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-284.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-284.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6088,7 +6088,7 @@
                 "name": "Reaver's Row",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-285.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-285.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6107,7 +6107,7 @@
                 "name": "Reckoner's Arena",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-286.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-286.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6126,7 +6126,7 @@
                 "name": "Sigil of the Storm",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-287.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-287.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6145,7 +6145,7 @@
                 "name": "Startipped Peak",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-288.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-288.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6164,7 +6164,7 @@
                 "name": "Targon's Peak",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-289.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-289.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6183,7 +6183,7 @@
                 "name": "The Arena's Greatest",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-290.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-290.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6202,7 +6202,7 @@
                 "name": "The Candlelit Sanctum",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-291.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-291.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6221,7 +6221,7 @@
                 "name": "The Dreaming Tree",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-292.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-292.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6240,7 +6240,7 @@
                 "name": "The Grand Plaza",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-293.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-293.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6259,7 +6259,7 @@
                 "name": "Trifarian War Camp",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-294.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-294.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6278,7 +6278,7 @@
                 "name": "Vilemaw's Lair",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-295.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-295.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6297,7 +6297,7 @@
                 "name": "Void Gate",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-296.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-296.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6316,7 +6316,7 @@
                 "name": "Windswept Hillock",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-297.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-297.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6335,7 +6335,7 @@
                 "name": "Zaun Warrens",
                 "type": "Battlefields",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-298.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-298.png?v=300720252020",
                 "isHorizontal": true
             }
         },
@@ -6354,7 +6354,7 @@
                 "name": "Buff",
                 "type": "Unit",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-XXX.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-XXX.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6373,7 +6373,7 @@
                 "name": "Volibear, Relentless Storm",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-300.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-300.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6393,7 +6393,7 @@
                 "name": "Volibear, Relentless Storm",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-300s.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-300s.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6413,7 +6413,7 @@
                 "name": "Yasuo, Unforgiven",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-305.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-305.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6433,7 +6433,7 @@
                 "name": "Yasuo, Unforgiven",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGN-305s.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-305s.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6453,7 +6453,7 @@
                 "name": "Annie, Fiery",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGS-001.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-001.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6472,7 +6472,7 @@
                 "name": "Firestorm",
                 "type": "Spell",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGS-002.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-002.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6491,7 +6491,7 @@
                 "name": "Incinerate",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGS-003.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-003.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6510,7 +6510,7 @@
                 "name": "Master Yi, Meditative",
                 "type": "Unit",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGS-004.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-004.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6529,7 +6529,7 @@
                 "name": "Zephyr Sage",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGS-005.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-005.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6548,7 +6548,7 @@
                 "name": "Lux, Illuminated",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGS-006.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-006.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6567,7 +6567,7 @@
                 "name": "Garen, Rugged",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGS-007.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-007.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6586,7 +6586,7 @@
                 "name": "Gentlemen's Duel",
                 "type": "Spell",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGS-008.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-008.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6605,7 +6605,7 @@
                 "name": "Master Yi, Honed",
                 "type": "Unit",
                 "cost": "7",
-                "image": "https://riftarchive.com.br/storage/OGS-009.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-009.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6624,7 +6624,7 @@
                 "name": "Annie, Stubborn",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGS-010.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-010.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6643,7 +6643,7 @@
                 "name": "Flash",
                 "type": "Spell",
                 "cost": "2",
-                "image": "https://riftarchive.com.br/storage/OGS-011.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-011.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6662,7 +6662,7 @@
                 "name": "Blast of Power",
                 "type": "Spell",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGS-012.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-012.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6681,7 +6681,7 @@
                 "name": "Garen, Commander",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGS-013.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-013.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6700,7 +6700,7 @@
                 "name": "Lux, Crownguard",
                 "type": "Unit",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGS-014.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-014.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6719,7 +6719,7 @@
                 "name": "Recruit the Vanguard",
                 "type": "Spell",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGS-015.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-015.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6741,7 +6741,7 @@
                 "name": "Vanguard Attendant",
                 "type": "Unit",
                 "cost": "6",
-                "image": "https://riftarchive.com.br/storage/OGS-016.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-016.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6760,7 +6760,7 @@
                 "name": "Annie, Dark Child",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGS-017.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-017.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6780,7 +6780,7 @@
                 "name": "Tibbers",
                 "type": "Unit",
                 "cost": "8",
-                "image": "https://riftarchive.com.br/storage/OGS-018.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-018.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6800,7 +6800,7 @@
                 "name": "Master Yi, Wuju Bladesman",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGS-019.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-019.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6820,7 +6820,7 @@
                 "name": "Highlander",
                 "type": "Spell",
                 "cost": "4",
-                "image": "https://riftarchive.com.br/storage/OGS-020.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-020.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6840,7 +6840,7 @@
                 "name": "Lux, Lady of Luminosity",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGS-021.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-021.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6860,7 +6860,7 @@
                 "name": "Final Spark",
                 "type": "Spell",
                 "cost": "8",
-                "image": "https://riftarchive.com.br/storage/OGS-022.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-022.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6880,7 +6880,7 @@
                 "name": "Garen, Might of Demacia",
                 "type": "Legend",
                 "cost": 0,
-                "image": "https://riftarchive.com.br/storage/OGS-023.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-023.png?v=300720252020",
                 "isHorizontal": false
             }
         },
@@ -6900,7 +6900,7 @@
                 "name": "Decisive Strike",
                 "type": "Spell",
                 "cost": "5",
-                "image": "https://riftarchive.com.br/storage/OGS-024.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGS-024.png?v=300720252020",
                 "isHorizontal": false
             }
         },
