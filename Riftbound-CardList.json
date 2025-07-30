@@ -4078,14 +4078,14 @@
         "isToken": false,
         "face": {
             "front": {
-                "name": "Infinite Mindsplitter",
+                "name": "Mindsplitter",
                 "type": "Unit",
                 "cost": "7",
-                "image": "https://riftarchive.com.br/storage/OGN-192.png?v=290720251741",
+                "image": "https://riftarchive.com.br/storage/OGN-192.png?v=300720251137",
                 "isHorizontal": false
             }
         },
-        "name": "Infinite Mindsplitter",
+        "name": "Mindsplitter",
         "type": "Unit",
         "cost": "7",
         "Domain": [
