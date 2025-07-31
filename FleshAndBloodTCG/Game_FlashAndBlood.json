@@ -12,15 +12,35 @@
     "cardBack": "https://jjcodes78.github.io/FleshAndBloodTCG/images/card_default.webp"
   },
   "deckBuilding": {
-    "mainFilters": [],
-    "formats": []
+    "mainFilters": [
+      "type",
+      "cost",
+      "name",
+      "Color"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": [
+          "Chosen_Hero"
+        ]
+      },
+      {
+        "title": "Blitz",
+        "gameplay": "Blitz",
+        "customCategories": [
+          "Chosen_Hero"
+        ]
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
       "mulligan": {
         "info": "",
-        "startingHandSize": 7,
-        "drawNewHand": true,
+        "startingHandSize": 0,
+        "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
@@ -28,7 +48,7 @@
         "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
-        "drawPerTurn": 1
+        "drawPerTurn": "0"
       },
       "defaultNotes": "",
       "tokens": [],
