@@ -1,6 +1,6 @@
 {
   "name": "Flash and Blood",
-  "menuBackgroundImage": "https://jjcodes78.github.io/FleshAndBlood/images/fab_banner.webp",
+  "menuBackgroundImage": "https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_banner.webp",
   "defaultRessources": {
     "backgrounds": [],
     "decksUrl": ""
@@ -8,8 +8,8 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://jjcodes78.github.io/FleshAndBlood/FleshAndBlood_CardList.json?v=310720251850",
-    "cardBack": "https://jjcodes78.github.io/FleshAndBlood/images/card_default.webp"
+    "dataUrl": "https://jjcodes78.github.io/FleshAndBloodTCG/FleshAndBlood_CardList.json?v=310720251850",
+    "cardBack": "https://jjcodes78.github.io/FleshAndBloodTCG/images/card_default.webp"
   },
   "deckBuilding": {
     "mainFilters": [],
