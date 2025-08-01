@@ -100,9 +100,7 @@
                 },
                 {
                   "section": "Chain",
-                  "style": {
-                    "width": "85vh"
-                  }
+                  "style": false
                 },
                 {
                   "section": "Pitch",
