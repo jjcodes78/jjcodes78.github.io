@@ -402,7 +402,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Combat Chain",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
