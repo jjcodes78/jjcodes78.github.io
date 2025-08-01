@@ -55,25 +55,25 @@
       "tokens": [
         {
           "name": "GoAgain",
-          "image": "https://tudoalaser.com.br/wp-content/uploads/2024/05/BackgroundEraser_20240426_122020392.png",
+          "image": "https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_go_again.png",
           "isUnique": true,
           "leavesAtEndOfTurn": true
         },
         {
           "name": "Dominate",
-          "image": "https://tudoalaser.com.br/wp-content/uploads/2024/05/BackgroundEraser_20240426_121906929.png",
+          "image": "https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_dominate.png",
           "isUnique": true,
           "leavesAtEndOfTurn": true
         },
         {
           "name": "Overpower",
-          "image": "https://tudoalaser.com.br/wp-content/uploads/2024/05/BackgroundEraser_20240426_121745078.png",
+          "image": "https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_overpower.png",
           "isUnique": true,
           "leavesAtEndOfTurn": true
         },
         {
           "name": "Wager",
-          "image": "https://tudoalaser.com.br/wp-content/uploads/2024/05/BackgroundEraser_20240426_122117683-2048x2044.png",
+          "image": "https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_wager.png",
           "isUnique": true,
           "leavesAtEndOfTurn": true
         }
