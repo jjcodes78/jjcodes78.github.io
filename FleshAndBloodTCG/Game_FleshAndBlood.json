@@ -58,6 +58,24 @@
           "image": "https://tudoalaser.com.br/wp-content/uploads/2024/05/BackgroundEraser_20240426_122020392.png",
           "isUnique": true,
           "leavesAtEndOfTurn": true
+        },
+        {
+          "name": "Dominate",
+          "image": "https://tudoalaser.com.br/wp-content/uploads/2024/05/BackgroundEraser_20240426_121906929.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": true
+        },
+        {
+          "name": "Overpower",
+          "image": "https://tudoalaser.com.br/wp-content/uploads/2024/05/BackgroundEraser_20240426_121745078.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": true
+        },
+        {
+          "name": "Wager",
+          "image": "https://tudoalaser.com.br/wp-content/uploads/2024/05/BackgroundEraser_20240426_122117683-2048x2044.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": true
         }
       ],
       "countersStartingValues": [
@@ -116,7 +134,11 @@
                 {
                   "section": "Banned",
                   "style": {
-                    "width": "15vh"
+                    "width": "15vh",
+                    "background-image": "url('https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_banned.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center"
                   }
                 }
               ],
@@ -163,7 +185,11 @@
                 {
                   "section": "Arsenal",
                   "style": {
-                    "width": "15vh"
+                    "width": "15vh",
+                    "background-image": "url('https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_arsenal.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center"
                   }
                 }
               ],
