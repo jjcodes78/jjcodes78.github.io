@@ -52,9 +52,16 @@
         "drawPerTurn": "0"
       },
       "defaultNotes": "",
-      "tokens": [],
+      "tokens": [
+        {
+          "name": "GoAgain",
+          "image": "https://tudoalaser.com.br/wp-content/uploads/2024/05/BackgroundEraser_20240426_122020392.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": true
+        }
+      ],
       "countersStartingValues": [
-        0
+        "40"
       ],
       "hideFacedDownCards": false,
       "sections": {
@@ -82,25 +89,25 @@
                 {
                   "section": "Equipment_Head",
                   "style": {
-                    "width": "10.2vh"
+                    "width": "15vh"
                   }
                 },
                 {
                   "section": "Equipment_Chest",
                   "style": {
-                    "width": "10.2vh"
+                    "width": "15vh"
                   }
                 },
                 {
                   "section": "Chain",
                   "style": {
-                    "width": "60vw"
+                    "width": "85vh"
                   }
                 },
                 {
                   "section": "Pitch",
                   "style": {
-                    "width": "10.2vh"
+                    "width": "15vh"
                   }
                 }
               ],
@@ -113,13 +120,13 @@
                 {
                   "section": "Equipment_Arms",
                   "style": {
-                    "width": "10.2vh"
+                    "width": "15vh"
                   }
                 },
                 {
                   "section": "Equipment_Legs",
                   "style": {
-                    "width": "10.2vh"
+                    "width": "15vh"
                   }
                 },
                 {
@@ -129,25 +136,25 @@
                 {
                   "section": "Chosen_Weapon1",
                   "style": {
-                    "width": "10.2vh"
+                    "width": "15vh"
                   }
                 },
                 {
                   "section": "Chosen_Hero",
                   "style": {
-                    "width": "10.2vh"
+                    "width": "15vh"
                   }
                 },
                 {
                   "section": "Chosen_Weapon2",
                   "style": {
-                    "width": "10.2vh"
+                    "width": "15vh"
                   }
                 },
                 {
                   "section": "Arsenal",
                   "style": {
-                    "width": "10.2vh"
+                    "width": "15vh"
                   }
                 }
               ],
@@ -302,8 +309,8 @@
           "Pitch": {
             "title": "Pitch",
             "isHidden": "no",
-            "height": "16",
-            "alignment": "DECK",
+            "height": "18",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
@@ -318,7 +325,7 @@
           "Arsenal": {
             "title": "Arsenal",
             "isHidden": "yes",
-            "height": "16",
+            "height": "18",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -334,7 +341,7 @@
           "Chain": {
             "title": "Chain",
             "isHidden": "no",
-            "height": "16",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -350,7 +357,7 @@
           "Permanents": {
             "title": "Permanents",
             "isHidden": "no",
-            "height": "16",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -366,7 +373,7 @@
           "Equipment_Arms": {
             "title": "Equipment_Arms",
             "isHidden": "no",
-            "height": "16",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -382,7 +389,7 @@
           "Equipment_Head": {
             "title": "Equipment_Head",
             "isHidden": "no",
-            "height": "16",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -398,7 +405,7 @@
           "Equipment_Chest": {
             "title": "Equipment_Chest",
             "isHidden": "no",
-            "height": "16",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -414,7 +421,7 @@
           "Equipment_Legs": {
             "title": "Equipment_Legs",
             "isHidden": "no",
-            "height": "16",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -430,7 +437,7 @@
           "Chosen_Hero": {
             "title": "Chosen_Hero",
             "isHidden": "no",
-            "height": "16",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -446,7 +453,7 @@
           "Chosen_Weapon1": {
             "title": "Chosen_Weapon1",
             "isHidden": "no",
-            "height": "16",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -462,7 +469,7 @@
           "Chosen_Weapon2": {
             "title": "Chosen_Weapon2",
             "isHidden": "no",
-            "height": "16",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
