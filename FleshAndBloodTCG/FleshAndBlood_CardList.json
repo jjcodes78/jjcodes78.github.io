@@ -54,7 +54,7 @@
     "power": "",
     "defense": "",
     "health": "",
-    "tokens": []
+    "tokens": ["ENG025"]
   },
   "ARC123": {
     "id": "ARC123",
@@ -51595,7 +51595,7 @@
   },
   "ENG025": {
     "id": "ENG025",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Inner Chi (Blue)",
