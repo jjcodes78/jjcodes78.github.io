@@ -103,9 +103,13 @@
                   "style": false
                 },
                 {
-                  "section": "Exile",
+                  "section": "Pitch",
                   "style": {
-                    "width": "15vh"
+                    "width": "15vh",
+                    "background-image": "url('https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_pitch.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center"
                   }
                 }
               ],
@@ -147,16 +151,6 @@
                   "section": "Chosen_Weapon2",
                   "style": {
                     "width": "15vh"
-                  }
-                },
-                {
-                  "section": "Pitch",
-                  "style": {
-                    "width": "15vh",
-                    "background-image": "url('https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_pitch.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center"
                   }
                 },
                 {
@@ -267,7 +261,7 @@
             "isDefaultSection": true,
             "title": "Exile",
             "isHidden": "no",
-            "height": "18",
+            "height": "DEFAULT",
             "alignment": "NONE",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
