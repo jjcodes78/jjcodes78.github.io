@@ -76,7 +76,8 @@
           "Equipment_Legs",
           "Arsenal",
           "Chain",
-          "Permanents"
+          "Permanents",
+          "Banned"
         ],
         "layout": {
           "direction": "column",
@@ -103,12 +104,6 @@
                   "style": false
                 },
                 {
-                  "section": "Exile",
-                  "style": {
-                    "width": "15vh"
-                  }
-                },
-                {
                   "section": "Pitch",
                   "style": {
                     "width": "15vh",
@@ -116,6 +111,12 @@
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center"
+                  }
+                },
+                {
+                  "section": "Banned",
+                  "style": {
+                    "width": "15vh"
                   }
                 }
               ],
@@ -180,16 +181,16 @@
           "Chosen_Weapon2"
         ],
         "autoPlayFromHand": {
-          "Action": ["Chain", "Exile"],
-          "Attack Reaction": ["Chain", "Exile"],
-          "Defense Reaction": ["Chain", "Exile"],
-          "Ally": "Permanents",
-          "Token": "Permanents",
-          "Instant": "Chain",
-          "Resource": "Permanents",
-          "Mentor": "Permanents",
+          "Action": ["Chain", "Banned"],
+          "Attack Reaction": ["Chain", "Banned"],
+          "Defense Reaction": ["Chain", "Banned"],
+          "Ally": ["Chain", "Permanents", "Banned"],
+          "Token": ["Chain", "Permanents", "Banned"],
+          "Instant": ["Chain", "Permanents", "Banned"],
+          "Resource": ["Chain", "Permanents", "Banned"],
+          "Mentor": ["Permanents", "Banned"],
           "Block": "Chain",
-          "Companion": "Permanents",
+          "Companion": ["Permanents", "Banned"],
           "Macro": "Permanents"
         },
         "autoPlayFromStack": {},
@@ -266,7 +267,7 @@
           "Exile": {
             "isDefaultSection": true,
             "title": "Exile",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "18",
             "alignment": "NONE",
             "isHorizontalAllowed": false,
@@ -330,6 +331,22 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
+          "Banned": {
+            "title": "Banned",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Banned",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
           "Arsenal": {
             "title": "Arsenal",
             "isHidden": "yes",
@@ -344,7 +361,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Chain": {
             "title": "Chain",
@@ -387,7 +404,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Arms",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -403,7 +420,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Head",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -419,7 +436,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Chest",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -435,7 +452,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Legs",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -451,7 +468,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Hero",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -467,7 +484,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Weapon1",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -483,7 +500,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Weapon2",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
