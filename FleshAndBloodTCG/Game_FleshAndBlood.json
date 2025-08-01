@@ -22,8 +22,8 @@
     ],
     "formats": [
       {
-        "title": "Classic",
-        "gameplay": "Classic",
+        "title": "Blitz",
+        "gameplay": "Blitz",
         "customCategories": [
           "Equipment_Head",
           "Equipment_Chest",
@@ -35,8 +35,8 @@
         ]
       },
       {
-        "title": "Blitz",
-        "gameplay": "Blitz",
+        "title": "Classic",
+        "gameplay": "Classic",
         "customCategories": [
           "Equipment_Head",
           "Equipment_Chest",
