@@ -105,7 +105,11 @@
                 {
                   "section": "Pitch",
                   "style": {
-                    "width": "15vh"
+                    "width": "15vh",
+                    "background-image": "url('https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_pitch.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center"
                   }
                 }
               ],
@@ -324,7 +328,7 @@
             "title": "Arsenal",
             "isHidden": "yes",
             "height": "18",
-            "alignment": "START",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
