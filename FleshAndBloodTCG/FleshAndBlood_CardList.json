@@ -28,8 +28,8 @@
     "health": "",
     "tokens": []
   },
-  "ENG025": {
-    "id": "ENG025",
+  "MST095": {
+    "id": "MST095",
     "isToken": false,
     "face": {
       "front": {
@@ -48,7 +48,7 @@
       "Mystic",
       "Instant"
     ],
-    "set": "ENG",
+    "set": "MST",
     "isHorizontal": false,
     "pitch": "3",
     "power": "",
