@@ -33,6 +33,19 @@
           "Chosen_Weapon1",
           "Chosen_Weapon2"
         ]
+      },
+      {
+        "title": "Blitz",
+        "gameplay": "Blitz",
+        "customCategories": [
+          "Equipment_Head",
+          "Equipment_Chest",
+          "Equipment_Arms",
+          "Equipment_Legs",
+          "Chosen_Hero",
+          "Chosen_Weapon1",
+          "Chosen_Weapon2"
+        ]
       }
     ]
   },
@@ -80,6 +93,510 @@
       ],
       "countersStartingValues": [
         "40"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Pitch",
+          "Chosen_Hero",
+          "Chosen_Weapon1",
+          "Chosen_Weapon2",
+          "Equipment_Head",
+          "Equipment_Chest",
+          "Equipment_Arms",
+          "Equipment_Legs",
+          "Arsenal",
+          "Chain",
+          "Permanents",
+          "Banned"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Equipment_Head",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Equipment_Chest",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Chain",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_combat_chain.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center"
+                  }
+                },
+                {
+                  "section": "Pitch",
+                  "style": {
+                    "width": "15vh",
+                    "background-image": "url('https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_pitch.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center"
+                  }
+                },
+                {
+                  "section": "Banned",
+                  "style": {
+                    "width": "15vh",
+                    "background-image": "url('https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_banned.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Equipment_Arms",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Equipment_Legs",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Permanents",
+                  "style": false
+                },
+                {
+                  "section": "Chosen_Weapon1",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Chosen_Hero",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Chosen_Weapon2",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Arsenal",
+                  "style": {
+                    "width": "15vh",
+                    "background-image": "url('https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_arsenal.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Equipment_Head",
+          "Equipment_Chest",
+          "Equipment_Arms",
+          "Equipment_Legs",
+          "Chosen_Hero",
+          "Chosen_Weapon1",
+          "Chosen_Weapon2"
+        ],
+        "autoPlayFromHand": {
+          "Action": ["Chain", "Banned"],
+          "Attack Reaction": ["Chain", "Banned"],
+          "Defense Reaction": ["Chain", "Banned"],
+          "Ally": ["Chain", "Permanents", "Banned"],
+          "Token": ["Chain", "Permanents", "Banned"],
+          "Instant": ["Chain", "Permanents", "Banned"],
+          "Resource": ["Chain", "Permanents", "Banned"],
+          "Mentor": ["Permanents", "Banned"],
+          "Block": "Chain",
+          "Companion": ["Permanents", "Banned"],
+          "Macro": "Permanents"
+        },
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": false,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "displayedTitle": "Mão",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "Discarte",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck": {
+            "isDefaultSection": true,
+            "title": "Deck",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "displayedTitle": "Deck Principal",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Stack",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Exile": {
+            "isDefaultSection": true,
+            "title": "Exile",
+            "isHidden": "yes",
+            "height": "18",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "Exile",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ExileHidden": {
+            "isDefaultSection": true,
+            "title": "ExileHidden",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "ExileHidden",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sideboard": {
+            "isDefaultSection": true,
+            "title": "Sideboard",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Pitch": {
+            "title": "Pitch",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Pitch",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Banned": {
+            "title": "Banned",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Banned",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Arsenal": {
+            "title": "Arsenal",
+            "isHidden": "yes",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Arsenal",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Chain": {
+            "title": "Chain",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Combat Chain",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Permanents": {
+            "title": "Permanents",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Equipment_Arms": {
+            "title": "Equipment_Arms",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Arms",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Equipment_Head": {
+            "title": "Equipment_Head",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Head",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Equipment_Chest": {
+            "title": "Equipment_Chest",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Chest",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Equipment_Legs": {
+            "title": "Equipment_Legs",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Legs",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Chosen_Hero": {
+            "title": "Chosen_Hero",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Hero",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Chosen_Weapon1": {
+            "title": "Chosen_Weapon1",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Weapon1",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Chosen_Weapon2": {
+            "title": "Chosen_Weapon2",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Weapon2",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    },
+    "Blitz": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": 4,
+        "drawNewHand": false,
+        "putSelectionAtBottom": true,
+        "drawNewSelectedCards": true
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "0"
+      },
+      "defaultNotes": "",
+      "tokens": [
+        {
+          "name": "GoAgain",
+          "image": "https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_go_again.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": true
+        },
+        {
+          "name": "Dominate",
+          "image": "https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_dominate.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": true
+        },
+        {
+          "name": "Overpower",
+          "image": "https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_overpower.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": true
+        },
+        {
+          "name": "Wager",
+          "image": "https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_wager.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": true
+        }
+      ],
+      "countersStartingValues": [
+        "20"
       ],
       "hideFacedDownCards": false,
       "sections": {
