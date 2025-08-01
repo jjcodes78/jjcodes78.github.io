@@ -51595,7 +51595,7 @@
   },
   "ENG025": {
     "id": "ENG025",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "Inner Chi (Blue)",
