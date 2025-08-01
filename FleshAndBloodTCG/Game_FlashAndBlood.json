@@ -309,6 +309,22 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
+          "Arsenal": {
+            "title": "Arsenal",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Pitch",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
           "Chain": {
             "title": "Chain",
             "isHidden": "no",
