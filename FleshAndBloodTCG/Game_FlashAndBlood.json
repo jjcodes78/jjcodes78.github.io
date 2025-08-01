@@ -96,6 +96,12 @@
                   "style": {
                     "width": "100%"
                   }
+                },
+                {
+                  "section": "PItch",
+                  "style": {
+                    "width": "10.2vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -139,7 +145,7 @@
                   "style": false
                 },
                 {
-                  "section": "PItch",
+                  "section": "Arsenal",
                   "style": {
                     "width": "10.2vh"
                   }
