@@ -103,7 +103,7 @@
                   "style": false
                 },
                 {
-                  "section": "Arsenal",
+                  "section": "Exile",
                   "style": {
                     "width": "15vh"
                   }
@@ -160,7 +160,7 @@
                   }
                 },
                 {
-                  "section": "Deck",
+                  "section": "Arsenal",
                   "style": {
                     "width": "15vh"
                   }
@@ -266,14 +266,14 @@
           "Exile": {
             "isDefaultSection": true,
             "title": "Exile",
-            "isHidden": "yes",
-            "height": "DEFAULT",
+            "isHidden": "no",
+            "height": "18",
             "alignment": "NONE",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "noAutoPayTo": true,
             "opponentAlignment": false,
-            "displayedTitle": "Exilio",
+            "displayedTitle": "Exile",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -290,7 +290,7 @@
             "isGroupForbidden": true,
             "noAutoPayTo": true,
             "opponentAlignment": false,
-            "displayedTitle": "Exilio Oculto",
+            "displayedTitle": "ExileHidden",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -315,12 +315,13 @@
             "showHiddenCardInHistory": false
           },
           "Pitch": {
+            "isDefaultSection": true,
             "title": "Pitch",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": "true",
+            "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Pitch",
             "enterTapped": false,
