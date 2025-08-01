@@ -103,6 +103,12 @@
                   "style": false
                 },
                 {
+                  "section": "Exile",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
                   "section": "Pitch",
                   "style": {
                     "width": "15vh",
