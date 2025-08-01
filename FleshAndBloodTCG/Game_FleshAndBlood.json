@@ -398,7 +398,7 @@
             "title": "Chain",
             "isHidden": "no",
             "height": "18",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
