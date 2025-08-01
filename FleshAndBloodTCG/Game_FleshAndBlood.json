@@ -180,12 +180,9 @@
           "Chosen_Weapon2"
         ],
         "autoPlayFromHand": {
-          "Action": "Chain",
-          "Action": "Exile",
-          "Attack Reaction": "Chain",
-          "Attack Reaction": "Exile",
-          "Defense Reaction": "Chain",
-          "Defense Reaction": "Exile",
+          "Action": ["Chain", "Exile"],
+          "Attack Reaction": ["Chain", "Exile"],
+          "Defense Reaction": ["Chain", "Exile"],
           "Ally": "Permanents",
           "Token": "Permanents",
           "Instant": "Chain",
