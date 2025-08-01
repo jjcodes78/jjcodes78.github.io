@@ -25,10 +25,10 @@
         "title": "Classic",
         "gameplay": "Classic",
         "customCategories": [
-          "Equipament_Head",
-          "Equipament_Chest",
-          "Equipament_Arms",
-          "Equipament_Legs",
+          "Equipment_Head",
+          "Equipment_Chest",
+          "Equipment_Arms",
+          "Equipment_Legs",
           "Chosen_Hero",
           "Chosen_Weapon1",
           "Chosen_Weapon2"
@@ -323,7 +323,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
-            "displayedTitle": "Pitch",
+            "displayedTitle": "Arsenal",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
