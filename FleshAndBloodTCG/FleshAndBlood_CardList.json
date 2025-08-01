@@ -181,7 +181,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Achilles Accelerator ()",
+    "name": "Achilles Accelerator",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -210,7 +210,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Adaptive Dissolver ()",
+    "name": "Adaptive Dissolver",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -239,7 +239,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Adaptive Plating ()",
+    "name": "Adaptive Plating",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -354,7 +354,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Aegis, Archangel of Protection ()",
+    "name": "Aegis, Archangel of Protection",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -411,7 +411,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Aether Ashwing ()",
+    "name": "Aether Ashwing",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -442,7 +442,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Aether Bindings of the Third Age ()",
+    "name": "Aether Bindings of the Third Age",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -471,7 +471,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Aether Conduit ()",
+    "name": "Aether Conduit",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -501,7 +501,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Aether Crackers ()",
+    "name": "Aether Crackers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -872,7 +872,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Aether Ironweave ()",
+    "name": "Aether Ironweave",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -1444,7 +1444,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Agility ()",
+    "name": "Agility",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -1502,7 +1502,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Air of a Comeback ()",
+    "name": "Air of a Comeback",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -1558,7 +1558,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Alluvion Constellas ()",
+    "name": "Alluvion Constellas",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -1674,7 +1674,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Amethyst Tiara ()",
+    "name": "Amethyst Tiara",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -2489,7 +2489,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Annals of Sutcliffe ()",
+    "name": "Annals of Sutcliffe",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -2693,7 +2693,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Anothos ()",
+    "name": "Anothos",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -2751,7 +2751,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Apex Bonebreaker ()",
+    "name": "Apex Bonebreaker",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -2809,7 +2809,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Aqua Laps ()",
+    "name": "Aqua Laps",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -2838,7 +2838,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Aqua Seeing Shell ()",
+    "name": "Aqua Seeing Shell",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -2867,7 +2867,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arakni ()",
+    "name": "Arakni",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -2896,7 +2896,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arakni, 5L!p3d 7hRu 7h3 cR4X ()",
+    "name": "Arakni, 5L!p3d 7hRu 7h3 cR4X",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -2925,7 +2925,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arakni, Black Widow ()",
+    "name": "Arakni, Black Widow",
     "type": "Demi-Hero",
     "cost": "",
     "Color": "",
@@ -2954,7 +2954,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arakni, Funnel Web ()",
+    "name": "Arakni, Funnel Web",
     "type": "Demi-Hero",
     "cost": "",
     "Color": "",
@@ -2983,7 +2983,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arakni, Huntsman ()",
+    "name": "Arakni, Huntsman",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -3011,7 +3011,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arakni, Marionette ()",
+    "name": "Arakni, Marionette",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -3040,7 +3040,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arakni, Orb-Weaver ()",
+    "name": "Arakni, Orb-Weaver",
     "type": "Demi-Hero",
     "cost": "",
     "Color": "",
@@ -3069,7 +3069,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arakni, Redback ()",
+    "name": "Arakni, Redback",
     "type": "Demi-Hero",
     "cost": "",
     "Color": "",
@@ -3098,7 +3098,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arakni, Solitary Confinement ()",
+    "name": "Arakni, Solitary Confinement",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -3127,7 +3127,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arakni, Tarantula ()",
+    "name": "Arakni, Tarantula",
     "type": "Demi-Hero",
     "cost": "",
     "Color": "",
@@ -3156,7 +3156,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arakni, Trap-Door ()",
+    "name": "Arakni, Trap-Door",
     "type": "Demi-Hero",
     "cost": "",
     "Color": "",
@@ -3185,7 +3185,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arakni, Web of Deceit ()",
+    "name": "Arakni, Web of Deceit",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -3389,7 +3389,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arcane Lantern ()",
+    "name": "Arcane Lantern",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -3880,7 +3880,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arcanite Fortress ()",
+    "name": "Arcanite Fortress",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -3909,7 +3909,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arcanite Skullcap ()",
+    "name": "Arcanite Skullcap",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -4022,7 +4022,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arena Medic ()",
+    "name": "Arena Medic",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -4135,7 +4135,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arousing Wave ()",
+    "name": "Arousing Wave",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -4396,7 +4396,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ash ()",
+    "name": "Ash",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -4713,7 +4713,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Aurora ()",
+    "name": "Aurora",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -4743,7 +4743,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Aurora, Shooting Star ()",
+    "name": "Aurora, Shooting Star",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -4772,7 +4772,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Aurum Aegis ()",
+    "name": "Aurum Aegis",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -4917,7 +4917,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Avalon, Archangel of Rebirth ()",
+    "name": "Avalon, Archangel of Rebirth",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -5088,7 +5088,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Azalea ()",
+    "name": "Azalea",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -5117,7 +5117,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Azalea, Ace in the Hole ()",
+    "name": "Azalea, Ace in the Hole",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -5145,7 +5145,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Azvolai ()",
+    "name": "Azvolai",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -5607,7 +5607,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Balance of Justice ()",
+    "name": "Balance of Justice",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -5636,7 +5636,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ball Breaker ()",
+    "name": "Ball Breaker",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -5782,7 +5782,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bandana of the Blue Beyond ()",
+    "name": "Bandana of the Blue Beyond",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -5811,7 +5811,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bank Breaker ()",
+    "name": "Bank Breaker",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -5841,7 +5841,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Banksy ()",
+    "name": "Banksy",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -6081,7 +6081,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Barbed Castaway ()",
+    "name": "Barbed Castaway",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -6228,7 +6228,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Barkbone Strapping ()",
+    "name": "Barkbone Strapping",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -6257,7 +6257,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Barkskin of the Millennium Tree ()",
+    "name": "Barkskin of the Millennium Tree",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -6574,7 +6574,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Base of the Mountain ()",
+    "name": "Base of the Mountain",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -6603,7 +6603,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bastion of Duty ()",
+    "name": "Bastion of Duty",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -6632,7 +6632,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bastion of Unity ()",
+    "name": "Bastion of Unity",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -7219,7 +7219,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Beaming Blade ()",
+    "name": "Beaming Blade",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -7456,7 +7456,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Beaten Trackers ()",
+    "name": "Beaten Trackers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -7485,7 +7485,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Beckon Applause ()",
+    "name": "Beckon Applause",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -7544,7 +7544,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Beckoning Mistblade ()",
+    "name": "Beckoning Mistblade",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -7690,7 +7690,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bellona, Archangel of War ()",
+    "name": "Bellona, Archangel of War",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -7719,7 +7719,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Benefactor of Bloodworth Goldmane ()",
+    "name": "Benefactor of Bloodworth Goldmane",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -7746,7 +7746,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Benji, the Piercing Wind ()",
+    "name": "Benji, the Piercing Wind",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -7944,7 +7944,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Betsy ()",
+    "name": "Betsy",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -7973,7 +7973,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Betsy, Skin in the Game ()",
+    "name": "Betsy, Skin in the Game",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -8232,7 +8232,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Big Hits, Big Applause ()",
+    "name": "Big Hits, Big Applause",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -9041,7 +9041,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Blacktek Whisperers ()",
+    "name": "Blacktek Whisperers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -9070,7 +9070,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Blade Beckoner Boots ()",
+    "name": "Blade Beckoner Boots",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -9099,7 +9099,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Blade Beckoner Gauntlets ()",
+    "name": "Blade Beckoner Gauntlets",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -9128,7 +9128,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Blade Beckoner Helm ()",
+    "name": "Blade Beckoner Helm",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -9157,7 +9157,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Blade Beckoner Plating ()",
+    "name": "Blade Beckoner Plating",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -9186,7 +9186,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Blade Cuff ()",
+    "name": "Blade Cuff",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -9443,7 +9443,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Blasmophet, Levia Consumed ()",
+    "name": "Blasmophet, Levia Consumed",
     "type": "Demi-Hero",
     "cost": "",
     "Color": "",
@@ -9472,7 +9472,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Blasmophet, the Soul Harvester ()",
+    "name": "Blasmophet, the Soul Harvester",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -9618,7 +9618,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Blaze, Firemind ()",
+    "name": "Blaze, Firemind",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -9647,7 +9647,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Blazen Yoroi ()",
+    "name": "Blazen Yoroi",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -11298,7 +11298,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Blood Drop Brocade ()",
+    "name": "Blood Drop Brocade",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -11387,7 +11387,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Blood Scent ()",
+    "name": "Blood Scent",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -11416,7 +11416,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Blood Splattered Vest ()",
+    "name": "Blood Splattered Vest",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -11616,7 +11616,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bloodied Boots ()",
+    "name": "Bloodied Boots",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -11645,7 +11645,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bloodied Gauntlet ()",
+    "name": "Bloodied Gauntlet",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -11674,7 +11674,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bloodied Helm ()",
+    "name": "Bloodied Helm",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -11703,7 +11703,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bloodied Oval ()",
+    "name": "Bloodied Oval",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -11732,7 +11732,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bloodied Shield ()",
+    "name": "Bloodied Shield",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -11761,7 +11761,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bloodied Strapping ()",
+    "name": "Bloodied Strapping",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -11790,7 +11790,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bloodrot Pox ()",
+    "name": "Bloodrot Pox",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -11877,7 +11877,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bloodsheath Skeleta ()",
+    "name": "Bloodsheath Skeleta",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -11993,7 +11993,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bloodtorn Bodice ()",
+    "name": "Bloodtorn Bodice",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -12022,7 +12022,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Blossom of Spring ()",
+    "name": "Blossom of Spring",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -12228,7 +12228,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Blue Sea Tricorn ()",
+    "name": "Blue Sea Tricorn",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -12315,7 +12315,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bolfar, Bear Hands ()",
+    "name": "Bolfar, Bear Hands",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -12554,7 +12554,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Boltyn ()",
+    "name": "Boltyn",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -12874,7 +12874,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bone Basher ()",
+    "name": "Bone Basher",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -12932,7 +12932,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bone Vizier ()",
+    "name": "Bone Vizier",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -13399,7 +13399,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bracers of Belief ()",
+    "name": "Bracers of Belief",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -13428,7 +13428,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bracers of Bellona's Grace ()",
+    "name": "Bracers of Bellona's Grace",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -13897,7 +13897,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Braveforge Bracers ()",
+    "name": "Braveforge Bracers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -13926,7 +13926,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bravo ()",
+    "name": "Bravo",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -13955,7 +13955,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bravo, Flattering Showman ()",
+    "name": "Bravo, Flattering Showman",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -13984,7 +13984,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bravo, Showstopper ()",
+    "name": "Bravo, Showstopper",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -14012,7 +14012,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bravo, Star of the Show ()",
+    "name": "Bravo, Star of the Show",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -14270,7 +14270,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Breaker Helm Protos ()",
+    "name": "Breaker Helm Protos",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -14329,7 +14329,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Breaking Scales ()",
+    "name": "Breaking Scales",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -14445,7 +14445,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Breakwater Undertow ()",
+    "name": "Breakwater Undertow",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -14562,7 +14562,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Breeze Rider Boots ()",
+    "name": "Breeze Rider Boots",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -14591,7 +14591,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Brevant, Civic Protector ()",
+    "name": "Brevant, Civic Protector",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -14620,7 +14620,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Briar ()",
+    "name": "Briar",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -14650,7 +14650,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Briar, Warden of Thorns ()",
+    "name": "Briar, Warden of Thorns",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -14795,7 +14795,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bruised Leather ()",
+    "name": "Bruised Leather",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -14908,7 +14908,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Brush of Heavenly Rites ()",
+    "name": "Brush of Heavenly Rites",
     "type": "",
     "cost": "",
     "Color": "",
@@ -15025,7 +15025,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Brutus, Summa Rudis ()",
+    "name": "Brutus, Summa Rudis",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -15081,7 +15081,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Buccaneer's Bounty ()",
+    "name": "Buccaneer's Bounty",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -15312,7 +15312,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bull's Eye Bracers ()",
+    "name": "Bull's Eye Bracers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -15341,7 +15341,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Bunker Beard ()",
+    "name": "Bunker Beard",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -15604,7 +15604,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Burn Bare ()",
+    "name": "Burn Bare",
     "type": "Action",
     "cost": "3",
     "Color": "",
@@ -16244,7 +16244,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Calming Cloak ()",
+    "name": "Calming Cloak",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -16273,7 +16273,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Calming Gesture ()",
+    "name": "Calming Gesture",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -16330,7 +16330,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Cap of Quick Thinking ()",
+    "name": "Cap of Quick Thinking",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -16472,7 +16472,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Captain's Coat ()",
+    "name": "Captain's Coat",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -16501,7 +16501,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Carrion Husk ()",
+    "name": "Carrion Husk",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -16730,7 +16730,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Celestial Kimono ()",
+    "name": "Celestial Kimono",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -17106,7 +17106,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Chane ()",
+    "name": "Chane",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -17136,7 +17136,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Chane, Bound by Shadow ()",
+    "name": "Chane, Bound by Shadow",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -17597,7 +17597,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Chief Ruk'utan ()",
+    "name": "Chief Ruk'utan",
     "type": "Mentor",
     "cost": "",
     "Color": "",
@@ -18263,7 +18263,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Cindra ()",
+    "name": "Cindra",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -18294,7 +18294,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Cindra, Dracai of Retribution ()",
+    "name": "Cindra, Dracai of Retribution",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -18324,7 +18324,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Cintari Saber ()",
+    "name": "Cintari Saber",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -18354,7 +18354,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Cintari Sellsword ()",
+    "name": "Cintari Sellsword",
     "type": "",
     "cost": "",
     "Color": "",
@@ -18384,7 +18384,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Civic Duty ()",
+    "name": "Civic Duty",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -18413,7 +18413,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Civic Guide ()",
+    "name": "Civic Guide",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -18442,7 +18442,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Civic Peak ()",
+    "name": "Civic Peak",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -18471,7 +18471,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Civic Steps ()",
+    "name": "Civic Steps",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -19057,7 +19057,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Claw of Vynserakai ()",
+    "name": "Claw of Vynserakai",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -19227,7 +19227,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Cloak of Darkness ()",
+    "name": "Cloak of Darkness",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -19545,7 +19545,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Coat of Allegiance ()",
+    "name": "Coat of Allegiance",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -19574,7 +19574,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Coat of Frost ()",
+    "name": "Coat of Frost",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -19632,7 +19632,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Code of Conduct: Kill or Be Killed ()",
+    "name": "Code of Conduct: Kill or Be Killed",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -19915,7 +19915,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Cogwerx Base Arms ()",
+    "name": "Cogwerx Base Arms",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -19945,7 +19945,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Cogwerx Base Chest ()",
+    "name": "Cogwerx Base Chest",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -19975,7 +19975,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Cogwerx Base Head ()",
+    "name": "Cogwerx Base Head",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -20005,7 +20005,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Cogwerx Base Legs ()",
+    "name": "Cogwerx Base Legs",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -20035,7 +20035,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Cogwerx Blunderbuss ()",
+    "name": "Cogwerx Blunderbuss",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -20094,7 +20094,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Cogwerx Tinker Rings ()",
+    "name": "Cogwerx Tinker Rings",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -20937,7 +20937,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Compass of Sunken Depths ()",
+    "name": "Compass of Sunken Depths",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -21196,7 +21196,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Conduit of Frostburn ()",
+    "name": "Conduit of Frostburn",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -21226,7 +21226,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Confront Adversity ()",
+    "name": "Confront Adversity",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -21691,7 +21691,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Copper ()",
+    "name": "Copper",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -21750,7 +21750,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Coronet Peak ()",
+    "name": "Coronet Peak",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -21808,7 +21808,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Cosmo, Scroll of Ancestral Tapestry ()",
+    "name": "Cosmo, Scroll of Ancestral Tapestry",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -21922,7 +21922,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Courage ()",
+    "name": "Courage",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -21951,7 +21951,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Courage of Bladehold ()",
+    "name": "Courage of Bladehold",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -22123,7 +22123,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Cracker Jax ()",
+    "name": "Cracker Jax",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -22644,7 +22644,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Crater Fist ()",
+    "name": "Crater Fist",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -22673,7 +22673,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Craterhoof ()",
+    "name": "Craterhoof",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -22847,7 +22847,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Cromai ()",
+    "name": "Cromai",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -22967,7 +22967,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Crouching Tiger ()",
+    "name": "Crouching Tiger",
     "type": "Action",
     "cost": "0",
     "Color": "",
@@ -22996,7 +22996,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Crow's Nest ()",
+    "name": "Crow's Nest",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -23109,7 +23109,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Crowd Roars Fight! ()",
+    "name": "Crowd Roars Fight!",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -23136,7 +23136,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Crown of Dichotomy ()",
+    "name": "Crown of Dichotomy",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -23165,7 +23165,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Crown of Dominion ()",
+    "name": "Crown of Dominion",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -23194,7 +23194,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Crown of Providence ()",
+    "name": "Crown of Providence",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -23223,7 +23223,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Crown of Reflection ()",
+    "name": "Crown of Reflection",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -23252,7 +23252,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Crown of Seeds ()",
+    "name": "Crown of Seeds",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -23281,7 +23281,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Crucible of Aetherweave ()",
+    "name": "Crucible of Aetherweave",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -23515,7 +23515,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Crushing Impact ()",
+    "name": "Crushing Impact",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -24375,7 +24375,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dance of Darkness ()",
+    "name": "Dance of Darkness",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -24404,7 +24404,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Danger Digits ()",
+    "name": "Danger Digits",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -24434,7 +24434,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dash ()",
+    "name": "Dash",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -24463,7 +24463,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dash I\/O ()",
+    "name": "Dash I\/O",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -24491,7 +24491,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dash, Database ()",
+    "name": "Dash, Database",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -24520,7 +24520,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dash, Inventor Extraordinaire ()",
+    "name": "Dash, Inventor Extraordinaire",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -24548,7 +24548,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Data Doll MKII ()",
+    "name": "Data Doll MKII",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -24748,7 +24748,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dawnblade ()",
+    "name": "Dawnblade",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -24778,7 +24778,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dawnblade, Resplendent ()",
+    "name": "Dawnblade, Resplendent",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -24929,7 +24929,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dead Threads ()",
+    "name": "Dead Threads",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -25219,7 +25219,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Death Dealer ()",
+    "name": "Death Dealer",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -25606,7 +25606,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Deathmatch Arena ()",
+    "name": "Deathmatch Arena",
     "type": "Action",
     "cost": "0",
     "Color": "",
@@ -25722,7 +25722,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Decimator Great Axe ()",
+    "name": "Decimator Great Axe",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -25752,7 +25752,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Deep Blue ()",
+    "name": "Deep Blue",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -26565,7 +26565,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Diadem of Dreamstate ()",
+    "name": "Diadem of Dreamstate",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -26594,7 +26594,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Diamond ()",
+    "name": "Diamond",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -26652,7 +26652,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Diamond Hands ()",
+    "name": "Diamond Hands",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -26765,7 +26765,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Didn't See That Coming ()",
+    "name": "Didn't See That Coming",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -26937,7 +26937,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dimenxxional Vortex ()",
+    "name": "Dimenxxional Vortex",
     "type": "Action",
     "cost": "3",
     "Color": "",
@@ -27456,7 +27456,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dominate the Competition ()",
+    "name": "Dominate the Competition",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -27483,7 +27483,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dominia ()",
+    "name": "Dominia",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -27541,7 +27541,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dorinthea ()",
+    "name": "Dorinthea",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -27570,7 +27570,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dorinthea Ironsong ()",
+    "name": "Dorinthea Ironsong",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -27598,7 +27598,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dorinthea, Quicksilver Prodigy ()",
+    "name": "Dorinthea, Quicksilver Prodigy",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -27917,7 +27917,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dracona Optimai ()",
+    "name": "Dracona Optimai",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -28034,7 +28034,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dragons of Legend ()",
+    "name": "Dragons of Legend",
     "type": "Placeholder Card",
     "cost": "",
     "Color": "",
@@ -28062,7 +28062,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dragonscaler Flight Path ()",
+    "name": "Dragonscaler Flight Path",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -28409,7 +28409,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dread Scythe ()",
+    "name": "Dread Scythe",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -28468,7 +28468,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dreadbore ()",
+    "name": "Dreadbore",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -28498,7 +28498,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dream Weavers ()",
+    "name": "Dream Weavers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -28527,7 +28527,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Driftwood Quiver ()",
+    "name": "Driftwood Quiver",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -28675,7 +28675,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Drive Brake ()",
+    "name": "Drive Brake",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -28788,7 +28788,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dromai ()",
+    "name": "Dromai",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -28818,7 +28818,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dromai, Ash Artist ()",
+    "name": "Dromai, Ash Artist",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -29425,7 +29425,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Duskblade ()",
+    "name": "Duskblade",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -29815,7 +29815,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dyadic Carapace ()",
+    "name": "Dyadic Carapace",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -29989,7 +29989,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Earthlore Bounty ()",
+    "name": "Earthlore Bounty",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -30160,7 +30160,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ebon Fold ()",
+    "name": "Ebon Fold",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -30358,7 +30358,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Edge of Autumn ()",
+    "name": "Edge of Autumn",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -30724,7 +30724,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Eloquence ()",
+    "name": "Eloquence",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -30873,7 +30873,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Embodiment of Earth ()",
+    "name": "Embodiment of Earth",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -30902,7 +30902,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Embodiment of Lightning ()",
+    "name": "Embodiment of Lightning",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -31046,7 +31046,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Embrace Adversity ()",
+    "name": "Embrace Adversity",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -31510,7 +31510,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Emperor, Dracai of Aesir ()",
+    "name": "Emperor, Dracai of Aesir",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -31542,7 +31542,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Empyrean Rapture ()",
+    "name": "Empyrean Rapture",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -31658,7 +31658,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Enchanted Quiver ()",
+    "name": "Enchanted Quiver",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -32274,7 +32274,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Enigma ()",
+    "name": "Enigma",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -32391,7 +32391,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Enigma, Ledger of Ancestry ()",
+    "name": "Enigma, Ledger of Ancestry",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -32420,7 +32420,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Enigma, New Moon ()",
+    "name": "Enigma, New Moon",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -35187,7 +35187,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ez Sqeez Bookie Syndicate ()",
+    "name": "Ez Sqeez Bookie Syndicate",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -35387,7 +35387,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Face Adversity ()",
+    "name": "Face Adversity",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -35416,7 +35416,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Face Purgatory ()",
+    "name": "Face Purgatory",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -35532,7 +35532,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fai ()",
+    "name": "Fai",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -35562,7 +35562,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fai, Rising Rebellion ()",
+    "name": "Fai, Rising Rebellion",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -35681,7 +35681,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fang ()",
+    "name": "Fang",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -35712,7 +35712,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fang Strike ()",
+    "name": "Fang Strike",
     "type": "Attack Reaction",
     "cost": "0",
     "Color": "",
@@ -35741,7 +35741,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fang, Dracai of Blades ()",
+    "name": "Fang, Dracai of Blades",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -36087,7 +36087,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fealty ()",
+    "name": "Fealty",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -36631,7 +36631,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fiddle-dee ()",
+    "name": "Fiddle-dee",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -36744,7 +36744,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fight Night Prize Purse ()",
+    "name": "Fight Night Prize Purse",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -36771,7 +36771,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fightmaster Kox ()",
+    "name": "Fightmaster Kox",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -37439,7 +37439,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fish Fingers ()",
+    "name": "Fish Fingers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -37468,7 +37468,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fist Pump ()",
+    "name": "Fist Pump",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -37497,7 +37497,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fisticuffs ()",
+    "name": "Fisticuffs",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -37526,7 +37526,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Flail of Agony ()",
+    "name": "Flail of Agony",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -37708,7 +37708,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Flamescale Furnace ()",
+    "name": "Flamescale Furnace",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -37821,7 +37821,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Flash of Brilliance ()",
+    "name": "Flash of Brilliance",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -37878,7 +37878,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Flat Trackers ()",
+    "name": "Flat Trackers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -38082,7 +38082,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fleet Foot Sandals ()",
+    "name": "Fleet Foot Sandals",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -38453,7 +38453,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Flick Knives ()",
+    "name": "Flick Knives",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -38540,7 +38540,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Flight Path ()",
+    "name": "Flight Path",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -38772,7 +38772,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Florian ()",
+    "name": "Florian",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -38802,7 +38802,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Florian, Rotwood Harbinger ()",
+    "name": "Florian, Rotwood Harbinger",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -39003,7 +39003,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fluttersteps ()",
+    "name": "Fluttersteps",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -39601,7 +39601,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Four Finger Gloves ()",
+    "name": "Four Finger Gloves",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -39659,7 +39659,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Frailty ()",
+    "name": "Frailty",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -39956,7 +39956,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Frontline Gauntlets ()",
+    "name": "Frontline Gauntlets",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -39985,7 +39985,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Frontline Helm ()",
+    "name": "Frontline Helm",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -40014,7 +40014,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Frontline Legs ()",
+    "name": "Frontline Legs",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -40043,7 +40043,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Frontline Plating ()",
+    "name": "Frontline Plating",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -40308,7 +40308,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Frostbite ()",
+    "name": "Frostbite",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -40887,7 +40887,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Fyendal's Spring Tunic ()",
+    "name": "Fyendal's Spring Tunic",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -40916,7 +40916,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Galaxxi Black ()",
+    "name": "Galaxxi Black",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -40947,7 +40947,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gallantry Gold ()",
+    "name": "Gallantry Gold",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -40976,7 +40976,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Galvanic Bender ()",
+    "name": "Galvanic Bender",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -41005,7 +41005,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gambler's Gloves ()",
+    "name": "Gambler's Gloves",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -41205,7 +41205,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gauntlet of Might ()",
+    "name": "Gauntlet of Might",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -41235,7 +41235,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gauntlets of Iron Will ()",
+    "name": "Gauntlets of Iron Will",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -41264,7 +41264,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gauntlets of the Boreal Domain ()",
+    "name": "Gauntlets of the Boreal Domain",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -41295,7 +41295,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gavel of Natural Order ()",
+    "name": "Gavel of Natural Order",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -41383,7 +41383,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Genis Wotchuneed ()",
+    "name": "Genis Wotchuneed",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -41497,7 +41497,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ghostly Touch ()",
+    "name": "Ghostly Touch",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -41845,7 +41845,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Glacial Horns ()",
+    "name": "Glacial Horns",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -41964,7 +41964,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Glidewell Fins ()",
+    "name": "Glidewell Fins",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -42133,7 +42133,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Glory Seeker ()",
+    "name": "Glory Seeker",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -42302,7 +42302,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gold ()",
+    "name": "Gold",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -42476,7 +42476,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gold-Baited Hook ()",
+    "name": "Gold-Baited Hook",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -42505,7 +42505,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Golden Cog ()",
+    "name": "Golden Cog",
     "type": "Cog",
     "cost": "",
     "Color": "",
@@ -42535,7 +42535,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Golden Glare ()",
+    "name": "Golden Glare",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -42712,7 +42712,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Goldkiss Rum ()",
+    "name": "Goldkiss Rum",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -42825,7 +42825,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Goliath Gauntlet ()",
+    "name": "Goliath Gauntlet",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -42912,7 +42912,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Good Time Chapeau ()",
+    "name": "Good Time Chapeau",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -42970,7 +42970,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gorganian Tome ()",
+    "name": "Gorganian Tome",
     "type": "Action",
     "cost": "0",
     "Color": "",
@@ -43027,7 +43027,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Grains of Bloodspill ()",
+    "name": "Grains of Bloodspill",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -43085,7 +43085,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Grandstand Legplates ()",
+    "name": "Grandstand Legplates",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -43114,7 +43114,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Graphene Chelicera ()",
+    "name": "Graphene Chelicera",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -43145,7 +43145,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Grasp of Darkness ()",
+    "name": "Grasp of Darkness",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -43174,7 +43174,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Grasp of the Arknight ()",
+    "name": "Grasp of the Arknight",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -43380,7 +43380,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Graven Call ()",
+    "name": "Graven Call",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -43410,7 +43410,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Graven Justaucorpse ()",
+    "name": "Graven Justaucorpse",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -43439,7 +43439,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gravy Bones ()",
+    "name": "Gravy Bones",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -43469,7 +43469,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gravy Bones, Shipwrecked Looter ()",
+    "name": "Gravy Bones, Shipwrecked Looter",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -43498,7 +43498,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Great Library of Solana ()",
+    "name": "Great Library of Solana",
     "type": "Action",
     "cost": "2",
     "Color": "",
@@ -43611,7 +43611,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Grimoire of the Haunt ()",
+    "name": "Grimoire of the Haunt",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -43757,7 +43757,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Groundbreaker Crix ()",
+    "name": "Groundbreaker Crix",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -44277,7 +44277,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hala Goldenhelm ()",
+    "name": "Hala Goldenhelm",
     "type": "Mentor",
     "cost": "",
     "Color": "",
@@ -44305,7 +44305,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Halo of Illumination ()",
+    "name": "Halo of Illumination",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -44334,7 +44334,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Halo of Lumina Light ()",
+    "name": "Halo of Lumina Light",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -44364,7 +44364,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hammer of Havenhold ()",
+    "name": "Hammer of Havenhold",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -44394,7 +44394,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hammerhead, Harpoon Cannon ()",
+    "name": "Hammerhead, Harpoon Cannon",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -44516,7 +44516,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hanabi Blaster ()",
+    "name": "Hanabi Blaster",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -44575,7 +44575,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hand of Vengeance ()",
+    "name": "Hand of Vengeance",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -44604,7 +44604,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hard Knuckle ()",
+    "name": "Hard Knuckle",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -44633,7 +44633,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Harmonized Kodachi ()",
+    "name": "Harmonized Kodachi",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -44898,7 +44898,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hatchet of Body ()",
+    "name": "Hatchet of Body",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -44928,7 +44928,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hatchet of Mind ()",
+    "name": "Hatchet of Mind",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -45398,7 +45398,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Head Stone ()",
+    "name": "Head Stone",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -45456,7 +45456,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Headliner Helm ()",
+    "name": "Headliner Helm",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -45627,7 +45627,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Heart of Ice ()",
+    "name": "Heart of Ice",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -45656,7 +45656,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Heart of Vengeance ()",
+    "name": "Heart of Vengeance",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -45685,7 +45685,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Heart-throb ()",
+    "name": "Heart-throb",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -45743,7 +45743,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Heartened Cross Strap ()",
+    "name": "Heartened Cross Strap",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -45831,7 +45831,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Heat Wave ()",
+    "name": "Heat Wave",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -46064,7 +46064,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Heavy Industry Gear Shift ()",
+    "name": "Heavy Industry Gear Shift",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -46093,7 +46093,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Heavy Industry Power Plant ()",
+    "name": "Heavy Industry Power Plant",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -46122,7 +46122,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Heavy Industry Ram Stop ()",
+    "name": "Heavy Industry Ram Stop",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -46151,7 +46151,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Heavy Industry Surveillance ()",
+    "name": "Heavy Industry Surveillance",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -46180,7 +46180,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Heirloom of Rabbit Hide ()",
+    "name": "Heirloom of Rabbit Hide",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -46210,7 +46210,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Heirloom of Snake Hide ()",
+    "name": "Heirloom of Snake Hide",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -46240,7 +46240,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Heirloom of Tiger Hide ()",
+    "name": "Heirloom of Tiger Hide",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -46299,7 +46299,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Helio's Mitre ()",
+    "name": "Helio's Mitre",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -46328,7 +46328,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hell Hammer ()",
+    "name": "Hell Hammer",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -46359,7 +46359,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Helm of Halo's Grace ()",
+    "name": "Helm of Halo's Grace",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -46389,7 +46389,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Helm of Isen's Peak ()",
+    "name": "Helm of Isen's Peak",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -46418,7 +46418,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Helm of Lignum Vitae ()",
+    "name": "Helm of Lignum Vitae",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -46447,7 +46447,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Helm of Sharp Eye ()",
+    "name": "Helm of Sharp Eye",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -46476,7 +46476,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Helm of the Arknight ()",
+    "name": "Helm of the Arknight",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -46505,7 +46505,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Helmsman's Peak ()",
+    "name": "Helmsman's Peak",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -47193,7 +47193,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hexagore, the Death Hydra ()",
+    "name": "Hexagore, the Death Hydra",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -47224,7 +47224,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hidden Agenda ()",
+    "name": "Hidden Agenda",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -47253,7 +47253,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hide Tanner ()",
+    "name": "Hide Tanner",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -47310,7 +47310,7 @@
         "isHorizontal": false
       }
     },
-    "name": "High Riser ()",
+    "name": "High Riser",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -47881,7 +47881,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hit the Jackpot ()",
+    "name": "Hit the Jackpot",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -48108,7 +48108,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hold Focus ()",
+    "name": "Hold Focus",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -48193,7 +48193,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Honing Hood ()",
+    "name": "Honing Hood",
     "type": "Equipment",
     "cost": "0",
     "Color": "",
@@ -48222,7 +48222,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hood of Red Sand ()",
+    "name": "Hood of Red Sand",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -48251,7 +48251,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hood of Second Thoughts ()",
+    "name": "Hood of Second Thoughts",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -48308,7 +48308,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hooves of the Shadowbeast ()",
+    "name": "Hooves of the Shadowbeast",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -48338,7 +48338,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hope Merchant's Hood ()",
+    "name": "Hope Merchant's Hood",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -48367,7 +48367,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hornet's Sting ()",
+    "name": "Hornet's Sting",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -48425,7 +48425,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hot Streak ()",
+    "name": "Hot Streak",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -48656,7 +48656,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hummingbird, Call of Adventure ()",
+    "name": "Hummingbird, Call of Adventure",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -49150,7 +49150,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hunter's Klaive ()",
+    "name": "Hunter's Klaive",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -49473,7 +49473,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hyper Driver ()",
+    "name": "Hyper Driver",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -49531,7 +49531,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hyper-X3 ()",
+    "name": "Hyper-X3",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -50855,7 +50855,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Inertia ()",
+    "name": "Inertia",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -51410,7 +51410,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ink-lined Cloak ()",
+    "name": "Ink-lined Cloak",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -51584,7 +51584,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Intellect Penalty ()",
+    "name": "Intellect Penalty",
     "type": "Macro",
     "cost": "",
     "Color": "",
@@ -52402,7 +52402,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ira, Crimson Haze ()",
+    "name": "Ira, Crimson Haze",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -52431,7 +52431,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ira, Scarlet Revenger ()",
+    "name": "Ira, Scarlet Revenger",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -52459,7 +52459,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ire of the Crowd ()",
+    "name": "Ire of the Crowd",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -52486,7 +52486,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Iris of Reality ()",
+    "name": "Iris of Reality",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -52516,7 +52516,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Iris of the Blossom ()",
+    "name": "Iris of the Blossom",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -52545,7 +52545,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ironhide Gauntlet ()",
+    "name": "Ironhide Gauntlet",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -52574,7 +52574,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ironhide Helm ()",
+    "name": "Ironhide Helm",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -52603,7 +52603,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ironhide Legs ()",
+    "name": "Ironhide Legs",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -52632,7 +52632,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ironhide Plate ()",
+    "name": "Ironhide Plate",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -52661,7 +52661,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ironrot Gauntlet ()",
+    "name": "Ironrot Gauntlet",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -52690,7 +52690,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ironrot Helm ()",
+    "name": "Ironrot Helm",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -52719,7 +52719,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ironrot Legs ()",
+    "name": "Ironrot Legs",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -52748,7 +52748,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ironrot Plate ()",
+    "name": "Ironrot Plate",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -52918,7 +52918,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ironsong Versus ()",
+    "name": "Ironsong Versus",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -53118,7 +53118,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Iyslander ()",
+    "name": "Iyslander",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -53148,7 +53148,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Iyslander, Stormbind ()",
+    "name": "Iyslander, Stormbind",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -53350,7 +53350,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jarl Vetrei\u00f0i ()",
+    "name": "Jarl Vetrei\u00f0i",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -53379,7 +53379,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jinglewood, Smash Hit ()",
+    "name": "Jinglewood, Smash Hit",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -53529,7 +53529,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jubeel, Spellbane ()",
+    "name": "Jubeel, Spellbane",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -53791,7 +53791,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kabuto of Imperial Authority ()",
+    "name": "Kabuto of Imperial Authority",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -53820,7 +53820,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kano ()",
+    "name": "Kano",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -53849,7 +53849,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kano, Dracai of Aether ()",
+    "name": "Kano, Dracai of Aether",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -53877,7 +53877,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kassai ()",
+    "name": "Kassai",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -53906,7 +53906,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kassai of the Golden Sand ()",
+    "name": "Kassai of the Golden Sand",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -53934,7 +53934,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kassai, Cintari Sellsword ()",
+    "name": "Kassai, Cintari Sellsword",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -53963,7 +53963,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Katsu ()",
+    "name": "Katsu",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -53992,7 +53992,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Katsu, the Wanderer ()",
+    "name": "Katsu, the Wanderer",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -54020,7 +54020,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kavdaen, Trader of Skins ()",
+    "name": "Kavdaen, Trader of Skins",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -54049,7 +54049,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kayo ()",
+    "name": "Kayo",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -54078,7 +54078,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kayo, Armed and Dangerous ()",
+    "name": "Kayo, Armed and Dangerous",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -54106,7 +54106,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kayo, Berserker Runt ()",
+    "name": "Kayo, Berserker Runt",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -54455,7 +54455,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Knucklehead ()",
+    "name": "Knucklehead",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -54484,7 +54484,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Koi Blessed Kimono ()",
+    "name": "Koi Blessed Kimono",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -54513,7 +54513,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Korshem, Crossroad of Elements ()",
+    "name": "Korshem, Crossroad of Elements",
     "type": "Action",
     "cost": "1",
     "Color": "",
@@ -54542,7 +54542,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kraken's Aethervein ()",
+    "name": "Kraken's Aethervein",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -54572,7 +54572,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kunai of Retribution ()",
+    "name": "Kunai of Retribution",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -54603,7 +54603,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kyloria ()",
+    "name": "Kyloria",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -54717,7 +54717,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Lady Barthimont ()",
+    "name": "Lady Barthimont",
     "type": "Mentor",
     "cost": "",
     "Color": "",
@@ -55499,7 +55499,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Leap Frog Gloves ()",
+    "name": "Leap Frog Gloves",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -55529,7 +55529,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Leap Frog Leggings ()",
+    "name": "Leap Frog Leggings",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -55559,7 +55559,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Leap Frog Slime Skin ()",
+    "name": "Leap Frog Slime Skin",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -55589,7 +55589,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Leap Frog Vocal Sac ()",
+    "name": "Leap Frog Vocal Sac",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -55819,7 +55819,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Let Me Buy You a Drink ()",
+    "name": "Let Me Buy You a Drink",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -55875,7 +55875,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Levia ()",
+    "name": "Levia",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -55905,7 +55905,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Levia, Redeemed ()",
+    "name": "Levia, Redeemed",
     "type": "Demi-Hero",
     "cost": "",
     "Color": "",
@@ -55933,7 +55933,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Levia, Shadowborn Abomination ()",
+    "name": "Levia, Shadowborn Abomination",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -55962,7 +55962,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Lexi ()",
+    "name": "Lexi",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -55992,7 +55992,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Lexi, Livewire ()",
+    "name": "Lexi, Livewire",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -56224,7 +56224,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Light Fingers ()",
+    "name": "Light Fingers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -56490,7 +56490,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Lightning Greaves ()",
+    "name": "Lightning Greaves",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -56776,7 +56776,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Lion's Pounce ()",
+    "name": "Lion's Pounce",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -57239,7 +57239,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Longdraw Half-glove ()",
+    "name": "Longdraw Half-glove",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -57442,7 +57442,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Lord Sutcliffe ()",
+    "name": "Lord Sutcliffe",
     "type": "Mentor",
     "cost": "",
     "Color": "",
@@ -57668,7 +57668,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Luminaris ()",
+    "name": "Luminaris",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -57699,7 +57699,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Luminaris, Angel's Glow ()",
+    "name": "Luminaris, Angel's Glow",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -57730,7 +57730,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Luminaris, Celestial Fury ()",
+    "name": "Luminaris, Celestial Fury",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -58194,7 +58194,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mage Master Boots ()",
+    "name": "Mage Master Boots",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -58223,7 +58223,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Magrar ()",
+    "name": "Magrar",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -58426,7 +58426,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mandible Claw ()",
+    "name": "Mandible Claw",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -58544,7 +58544,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mark of Lightning ()",
+    "name": "Mark of Lightning",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -58777,7 +58777,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mark of the Huntsman ()",
+    "name": "Mark of the Huntsman",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -58924,7 +58924,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Marked ()",
+    "name": "Marked",
     "type": "",
     "cost": "",
     "Color": "",
@@ -58949,7 +58949,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Marlynn ()",
+    "name": "Marlynn",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -58979,7 +58979,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Marlynn, Treasure Hunter ()",
+    "name": "Marlynn, Treasure Hunter",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -59008,7 +59008,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mask of Deceit ()",
+    "name": "Mask of Deceit",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -59037,7 +59037,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mask of Malicious Manifestations ()",
+    "name": "Mask of Malicious Manifestations",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -59067,7 +59067,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mask of Many Faces ()",
+    "name": "Mask of Many Faces",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -59096,7 +59096,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mask of Momentum ()",
+    "name": "Mask of Momentum",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -59125,7 +59125,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mask of Perdition ()",
+    "name": "Mask of Perdition",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -59154,7 +59154,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mask of Recurring Nightmares ()",
+    "name": "Mask of Recurring Nightmares",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -59184,7 +59184,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mask of Shifting Perspectives ()",
+    "name": "Mask of Shifting Perspectives",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -59214,7 +59214,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mask of Three Tails ()",
+    "name": "Mask of Three Tails",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -59243,7 +59243,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mask of Wizened Whiskers ()",
+    "name": "Mask of Wizened Whiskers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -59272,7 +59272,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mask of the Pouncing Lynx ()",
+    "name": "Mask of the Pouncing Lynx",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -59529,7 +59529,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Maxx 'The Hype' Nitro ()",
+    "name": "Maxx 'The Hype' Nitro",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -59557,7 +59557,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Maxx Nitro ()",
+    "name": "Maxx Nitro",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -59875,7 +59875,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Melody, Sing-along ()",
+    "name": "Melody, Sing-along",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -60074,7 +60074,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Merciless Battleaxe ()",
+    "name": "Merciless Battleaxe",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -60104,7 +60104,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Meridian Pathway ()",
+    "name": "Meridian Pathway",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -60221,7 +60221,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Metacarpus Node ()",
+    "name": "Metacarpus Node",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -60250,7 +60250,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Metis, Archangel of Tenacity ()",
+    "name": "Metis, Archangel of Tenacity",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -60336,7 +60336,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Might ()",
+    "name": "Might",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -60455,7 +60455,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Miller's Grindstone ()",
+    "name": "Miller's Grindstone",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -60629,7 +60629,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Minerva Themis ()",
+    "name": "Minerva Themis",
     "type": "Mentor",
     "cost": "",
     "Color": "",
@@ -60744,7 +60744,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mini Meataxe ()",
+    "name": "Mini Meataxe",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -60858,7 +60858,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Miragai ()",
+    "name": "Miragai",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -60946,7 +60946,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Misfire Dampener ()",
+    "name": "Misfire Dampener",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -60975,7 +60975,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mistcloak Gully ()",
+    "name": "Mistcloak Gully",
     "type": "Instant",
     "cost": "1",
     "Color": "",
@@ -61203,7 +61203,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Monstrous Veil ()",
+    "name": "Monstrous Veil",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -62021,7 +62021,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Nasreth, the Soul Harrower ()",
+    "name": "Nasreth, the Soul Harrower",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -62164,7 +62164,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Nebula Blade ()",
+    "name": "Nebula Blade",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -62194,7 +62194,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Nekria ()",
+    "name": "Nekria",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -62224,7 +62224,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Nerve Scalpel ()",
+    "name": "Nerve Scalpel",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -62342,7 +62342,7 @@
         "isHorizontal": false
       }
     },
-    "name": "New Horizon ()",
+    "name": "New Horizon",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -62686,7 +62686,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Nitro Mechanoid ()",
+    "name": "Nitro Mechanoid",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -62859,7 +62859,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Nom de Plume ()",
+    "name": "Nom de Plume",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -63032,7 +63032,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Nullrune Boots ()",
+    "name": "Nullrune Boots",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -63061,7 +63061,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Nullrune Gloves ()",
+    "name": "Nullrune Gloves",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -63090,7 +63090,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Nullrune Hood ()",
+    "name": "Nullrune Hood",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -63119,7 +63119,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Nullrune Robe ()",
+    "name": "Nullrune Robe",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -63177,7 +63177,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Nuu ()",
+    "name": "Nuu",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -63207,7 +63207,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Nuu, Alluring Desire ()",
+    "name": "Nuu, Alluring Desire",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -63520,7 +63520,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Obsidian Fire Vein ()",
+    "name": "Obsidian Fire Vein",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -63581,7 +63581,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Okana Scar Wraps ()",
+    "name": "Okana Scar Wraps",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -63610,7 +63610,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Old Knocker ()",
+    "name": "Old Knocker",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -63639,7 +63639,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Oldhim ()",
+    "name": "Oldhim",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -63669,7 +63669,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Oldhim, Grandfather of Eternity ()",
+    "name": "Oldhim, Grandfather of Eternity",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -63698,7 +63698,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ollin Ice Cap ()",
+    "name": "Ollin Ice Cap",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -63728,7 +63728,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Olympia ()",
+    "name": "Olympia",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -63757,7 +63757,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Olympia, Prized Fighter ()",
+    "name": "Olympia, Prized Fighter",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -64326,7 +64326,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Orbitoclast ()",
+    "name": "Orbitoclast",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -64384,7 +64384,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ornate Tessen ()",
+    "name": "Ornate Tessen",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -64413,7 +64413,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Oscilio ()",
+    "name": "Oscilio",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -64443,7 +64443,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Oscilio, Constella Intelligence ()",
+    "name": "Oscilio, Constella Intelligence",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -64843,7 +64843,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ouvia ()",
+    "name": "Ouvia",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -65218,7 +65218,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Overcome Adversity ()",
+    "name": "Overcome Adversity",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -65969,7 +65969,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Parry Blade ()",
+    "name": "Parry Blade",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -66057,7 +66057,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Patch the Hole ()",
+    "name": "Patch the Hole",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -66114,7 +66114,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Path of Vengeance ()",
+    "name": "Path of Vengeance",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -66606,7 +66606,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Peg Leg ()",
+    "name": "Peg Leg",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -66693,7 +66693,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Perch Grapplers ()",
+    "name": "Perch Grapplers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -67008,7 +67008,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Phantasmal Footsteps ()",
+    "name": "Phantasmal Footsteps",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -67559,7 +67559,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Pick Yourself Up Off the Floor ()",
+    "name": "Pick Yourself Up Off the Floor",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -67991,7 +67991,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Pink Visor ()",
+    "name": "Pink Visor",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -68135,7 +68135,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Plasma Barrel Shot ()",
+    "name": "Plasma Barrel Shot",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -68393,7 +68393,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Plume of Evergrowth ()",
+    "name": "Plume of Evergrowth",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -69284,7 +69284,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Polly Cranka ()",
+    "name": "Polly Cranka",
     "type": "",
     "cost": "",
     "Color": "",
@@ -69314,7 +69314,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ponder ()",
+    "name": "Ponder",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -69427,7 +69427,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Popped Collar Polo ()",
+    "name": "Popped Collar Polo",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -69658,7 +69658,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Pouncing Paws ()",
+    "name": "Pouncing Paws",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -70601,7 +70601,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Prism ()",
+    "name": "Prism",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -70631,7 +70631,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Prism, Advent of Thrones ()",
+    "name": "Prism, Advent of Thrones",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -70661,7 +70661,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Prism, Awakener of Sol ()",
+    "name": "Prism, Awakener of Sol",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -70690,7 +70690,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Prism, Sculptor of Arc Light ()",
+    "name": "Prism, Sculptor of Arc Light",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -70860,7 +70860,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Prized Galea ()",
+    "name": "Prized Galea",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -70917,7 +70917,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Proclamation of Abundance ()",
+    "name": "Proclamation of Abundance",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -70946,7 +70946,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Proclamation of Combat ()",
+    "name": "Proclamation of Combat",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -70975,7 +70975,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Proclamation of Production ()",
+    "name": "Proclamation of Production",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -71004,7 +71004,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Proclamation of Requisition ()",
+    "name": "Proclamation of Requisition",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -71033,7 +71033,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Professor Teklovossen ()",
+    "name": "Professor Teklovossen",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -71262,7 +71262,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Proto Base Arms ()",
+    "name": "Proto Base Arms",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -71292,7 +71292,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Proto Base Chest ()",
+    "name": "Proto Base Chest",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -71322,7 +71322,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Proto Base Head ()",
+    "name": "Proto Base Head",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -71352,7 +71352,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Proto Base Legs ()",
+    "name": "Proto Base Legs",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -71694,7 +71694,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Puffer Jacket ()",
+    "name": "Puffer Jacket",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -71723,7 +71723,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Puffin ()",
+    "name": "Puffin",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -71753,7 +71753,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Puffin, Hightail ()",
+    "name": "Puffin, Hightail",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -72846,7 +72846,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Quartermaster's Boots ()",
+    "name": "Quartermaster's Boots",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -72875,7 +72875,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Quelling Robe ()",
+    "name": "Quelling Robe",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -72904,7 +72904,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Quelling Sleeves ()",
+    "name": "Quelling Sleeves",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -72933,7 +72933,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Quelling Slippers ()",
+    "name": "Quelling Slippers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -72962,7 +72962,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Quick Clicks ()",
+    "name": "Quick Clicks",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -72991,7 +72991,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Quickdodge Flexors ()",
+    "name": "Quickdodge Flexors",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -73020,7 +73020,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Quicken ()",
+    "name": "Quicken",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -73133,7 +73133,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Quicksilver Dagger ()",
+    "name": "Quicksilver Dagger",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -73163,7 +73163,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Quickstep ()",
+    "name": "Quickstep",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -73192,7 +73192,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Quiver of Abyssal Depths ()",
+    "name": "Quiver of Abyssal Depths",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -73221,7 +73221,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Quiver of Rustling Leaves ()",
+    "name": "Quiver of Rustling Leaves",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -73250,7 +73250,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Radiant Flow ()",
+    "name": "Radiant Flow",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -73308,7 +73308,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Radiant Raiment ()",
+    "name": "Radiant Raiment",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -73337,7 +73337,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Radiant Touch ()",
+    "name": "Radiant Touch",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -73366,7 +73366,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Radiant View ()",
+    "name": "Radiant View",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -73395,7 +73395,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ragamuffin's Hat ()",
+    "name": "Ragamuffin's Hat",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -73885,7 +73885,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rally the Underdog ()",
+    "name": "Rally the Underdog",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -74032,7 +74032,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rampart of the Ram's Head ()",
+    "name": "Rampart of the Ram's Head",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -74061,7 +74061,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Random Events Unfold ()",
+    "name": "Random Events Unfold",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -74315,7 +74315,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ravenous Meataxe ()",
+    "name": "Ravenous Meataxe",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -74432,7 +74432,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Raw Meat ()",
+    "name": "Raw Meat",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -74576,7 +74576,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Raydn, Duskbane ()",
+    "name": "Raydn, Duskbane",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -75229,7 +75229,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Reality Refractor ()",
+    "name": "Reality Refractor",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -75346,7 +75346,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Reaping Blade ()",
+    "name": "Reaping Blade",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -75609,7 +75609,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Red Alert Boots ()",
+    "name": "Red Alert Boots",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -75639,7 +75639,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Red Alert Gloves ()",
+    "name": "Red Alert Gloves",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -75669,7 +75669,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Red Alert Vest ()",
+    "name": "Red Alert Vest",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -75699,7 +75699,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Red Alert Visor ()",
+    "name": "Red Alert Visor",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -75789,7 +75789,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Red Liner ()",
+    "name": "Red Liner",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -75849,7 +75849,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Redback Shroud ()",
+    "name": "Redback Shroud",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -75878,7 +75878,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Redspine Manta ()",
+    "name": "Redspine Manta",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -75992,7 +75992,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Redwood Hammer ()",
+    "name": "Redwood Hammer",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -76138,7 +76138,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Refraction Bolters ()",
+    "name": "Refraction Bolters",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -77399,7 +77399,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Reya, the Unyielding ()",
+    "name": "Reya, the Unyielding",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -77428,7 +77428,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rhinar ()",
+    "name": "Rhinar",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -77457,7 +77457,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rhinar, Reckless Rampage ()",
+    "name": "Rhinar, Reckless Rampage",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -77514,7 +77514,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Richter Scale ()",
+    "name": "Richter Scale",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -78401,7 +78401,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Riptide ()",
+    "name": "Riptide",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -78430,7 +78430,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Riptide, Lurker of the Deep ()",
+    "name": "Riptide, Lurker of the Deep",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -79544,7 +79544,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Robe of Autumn's Fall ()",
+    "name": "Robe of Autumn's Fall",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -79573,7 +79573,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Robe of Rapture ()",
+    "name": "Robe of Rapture",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -79659,7 +79659,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rok ()",
+    "name": "Rok",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -79717,7 +79717,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Romping Club ()",
+    "name": "Romping Club",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -79837,7 +79837,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Root-Bound Trunks ()",
+    "name": "Root-Bound Trunks",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -79951,7 +79951,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rosetta Thorn ()",
+    "name": "Rosetta Thorn",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -80065,7 +80065,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rotten Old Buckler ()",
+    "name": "Rotten Old Buckler",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -80123,7 +80123,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rotwood Reaper ()",
+    "name": "Rotwood Reaper",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -80382,7 +80382,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rugged Roller ()",
+    "name": "Rugged Roller",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -80582,7 +80582,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Runaways ()",
+    "name": "Runaways",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -80814,7 +80814,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Runechant ()",
+    "name": "Runechant",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -80843,7 +80843,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Runehold Release ()",
+    "name": "Runehold Release",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -81217,7 +81217,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rust Belt ()",
+    "name": "Rust Belt",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -81306,7 +81306,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ruu'di, Gem Keeper ()",
+    "name": "Ruu'di, Gem Keeper",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -81714,7 +81714,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sanctuary of Aria ()",
+    "name": "Sanctuary of Aria",
     "type": "Macro",
     "cost": "",
     "Color": "",
@@ -81857,7 +81857,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sandscour Greatbow ()",
+    "name": "Sandscour Greatbow",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -82000,7 +82000,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sash of Sandikai ()",
+    "name": "Sash of Sandikai",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -82145,7 +82145,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Savage Sash ()",
+    "name": "Savage Sash",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -82433,7 +82433,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Scabskin Leathers ()",
+    "name": "Scabskin Leathers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -82575,7 +82575,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Scale Peeler ()",
+    "name": "Scale Peeler",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -82808,7 +82808,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Scepter of Pain ()",
+    "name": "Scepter of Pain",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -83126,7 +83126,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Scowling Flesh Bag ()",
+    "name": "Scowling Flesh Bag",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -83646,7 +83646,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Scurv, Stowaway ()",
+    "name": "Scurv, Stowaway",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -83820,7 +83820,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sealace Sarong ()",
+    "name": "Sealace Sarong",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -83849,7 +83849,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Searing Emberblade ()",
+    "name": "Searing Emberblade",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -84115,7 +84115,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Seasoned Saviour ()",
+    "name": "Seasoned Saviour",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -85066,7 +85066,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Seeker's Gilet ()",
+    "name": "Seeker's Gilet",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -85095,7 +85095,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Seeker's Hood ()",
+    "name": "Seeker's Hood",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -85124,7 +85124,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Seeker's Leggings ()",
+    "name": "Seeker's Leggings",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -85153,7 +85153,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Seeker's Mitts ()",
+    "name": "Seeker's Mitts",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -85269,7 +85269,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Seerstone ()",
+    "name": "Seerstone",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -85411,7 +85411,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Seismic Surge ()",
+    "name": "Seismic Surge",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -85440,7 +85440,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sekem, Archangel of Ravages ()",
+    "name": "Sekem, Archangel of Ravages",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -85526,7 +85526,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ser Boltyn, Breaker of Dawn ()",
+    "name": "Ser Boltyn, Breaker of Dawn",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -85909,7 +85909,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sharp Shooters ()",
+    "name": "Sharp Shooters",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -86137,7 +86137,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sheltered Cove ()",
+    "name": "Sheltered Cove",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -86477,7 +86477,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shiver ()",
+    "name": "Shiver",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -86508,7 +86508,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shiyana, Diamond Gemini ()",
+    "name": "Shiyana, Diamond Gemini",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -86537,7 +86537,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shock Charmers ()",
+    "name": "Shock Charmers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -86566,7 +86566,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shock Frock ()",
+    "name": "Shock Frock",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -86911,7 +86911,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shriek Razors ()",
+    "name": "Shriek Razors",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -87027,7 +87027,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shroud of Darkness ()",
+    "name": "Shroud of Darkness",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -88121,7 +88121,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Silent Stilettos ()",
+    "name": "Silent Stilettos",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -88150,7 +88150,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Silken Form ()",
+    "name": "Silken Form",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -88180,7 +88180,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Silken Gi ()",
+    "name": "Silken Gi",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -88209,7 +88209,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Silver ()",
+    "name": "Silver",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -88238,7 +88238,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Silver Palms ()",
+    "name": "Silver Palms",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -88438,7 +88438,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Silversheen Needle ()",
+    "name": "Silversheen Needle",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -89270,7 +89270,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Skull Crushers ()",
+    "name": "Skull Crushers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -89299,7 +89299,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Skullbone Crosswrap ()",
+    "name": "Skullbone Crosswrap",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -89328,7 +89328,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Skullhorn ()",
+    "name": "Skullhorn",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -89528,7 +89528,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Skybody Keikoi ()",
+    "name": "Skybody Keikoi",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -89647,7 +89647,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Skycrest Keikoi ()",
+    "name": "Skycrest Keikoi",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -89676,7 +89676,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Skyhold Keikoi ()",
+    "name": "Skyhold Keikoi",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -89705,7 +89705,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Skywalker Keikoi ()",
+    "name": "Skywalker Keikoi",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -89936,7 +89936,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sledge of Anvilheim ()",
+    "name": "Sledge of Anvilheim",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -90140,7 +90140,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Slither ()",
+    "name": "Slither",
     "type": "Attack Reaction",
     "cost": "0",
     "Color": "",
@@ -90947,7 +90947,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Snapdragon Scalers ()",
+    "name": "Snapdragon Scalers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -91359,7 +91359,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Solar Plexus ()",
+    "name": "Solar Plexus",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -92049,7 +92049,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Soul Shackle ()",
+    "name": "Soul Shackle",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -92194,7 +92194,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Soulbond Resolve ()",
+    "name": "Soulbond Resolve",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -92913,7 +92913,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Spectral Shield ()",
+    "name": "Spectral Shield",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -92942,7 +92942,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Spell Fray Cloak ()",
+    "name": "Spell Fray Cloak",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -92971,7 +92971,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Spell Fray Gloves ()",
+    "name": "Spell Fray Gloves",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -93000,7 +93000,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Spell Fray Leggings ()",
+    "name": "Spell Fray Leggings",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -93029,7 +93029,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Spell Fray Tiara ()",
+    "name": "Spell Fray Tiara",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -93058,7 +93058,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Spellbane Aegis ()",
+    "name": "Spellbane Aegis",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -93261,7 +93261,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Spellbound Creepers ()",
+    "name": "Spellbound Creepers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -93290,7 +93290,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Spellfire Cloak ()",
+    "name": "Spellfire Cloak",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -93403,7 +93403,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Spider's Bite ()",
+    "name": "Spider's Bite",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -93897,7 +93897,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Spitfire ()",
+    "name": "Spitfire",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -94043,7 +94043,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Spoiled Skull ()",
+    "name": "Spoiled Skull",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -94505,7 +94505,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Squizzy & Floof ()",
+    "name": "Squizzy & Floof",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -94680,7 +94680,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Stadium Centerpiece ()",
+    "name": "Stadium Centerpiece",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -94709,7 +94709,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Staff of Verdant Shoots ()",
+    "name": "Staff of Verdant Shoots",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -94824,7 +94824,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Stalagmite, Bastion of Isenloft ()",
+    "name": "Stalagmite, Bastion of Isenloft",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -94883,7 +94883,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Stand Ground ()",
+    "name": "Stand Ground",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -94941,7 +94941,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Star Fall ()",
+    "name": "Star Fall",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -95001,7 +95001,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Starlight Striders ()",
+    "name": "Starlight Striders",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -95031,7 +95031,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Starting Point ()",
+    "name": "Starting Point",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -95544,7 +95544,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Steelbraid Buckler ()",
+    "name": "Steelbraid Buckler",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -95573,7 +95573,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sticky Fingers ()",
+    "name": "Sticky Fingers",
     "type": "",
     "cost": "",
     "Color": "",
@@ -95980,7 +95980,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Stonewall Gauntlet ()",
+    "name": "Stonewall Gauntlet",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -96009,7 +96009,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Stonewall Impasse ()",
+    "name": "Stonewall Impasse",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -96125,7 +96125,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Storm Striders ()",
+    "name": "Storm Striders",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -96154,7 +96154,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Storm of Sandikai ()",
+    "name": "Storm of Sandikai",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -96475,7 +96475,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Stride of Reprisal ()",
+    "name": "Stride of Reprisal",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -96823,7 +96823,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Stubby Hammerers ()",
+    "name": "Stubby Hammerers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -97138,7 +97138,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Summit, the Unforgiving ()",
+    "name": "Summit, the Unforgiving",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -97282,7 +97282,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sunkwater Exoshell ()",
+    "name": "Sunkwater Exoshell",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -97311,7 +97311,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sunkwater Lookout ()",
+    "name": "Sunkwater Lookout",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -97340,7 +97340,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sunkwater Pincers ()",
+    "name": "Sunkwater Pincers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -97397,7 +97397,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Suraya, Archangel of Erudition ()",
+    "name": "Suraya, Archangel of Erudition",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -97426,7 +97426,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Suraya, Archangel of Knowledge ()",
+    "name": "Suraya, Archangel of Knowledge",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -97485,7 +97485,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Surgent Aethertide ()",
+    "name": "Surgent Aethertide",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -97802,7 +97802,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sutcliffe's Suede Hides ()",
+    "name": "Sutcliffe's Suede Hides",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -98038,7 +98038,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Swiftstrike Bracers ()",
+    "name": "Swiftstrike Bracers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -98441,7 +98441,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Symbiosis Shot ()",
+    "name": "Symbiosis Shot",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -98701,7 +98701,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Taipanis, Dracai of Judgement ()",
+    "name": "Taipanis, Dracai of Judgement",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -99273,7 +99273,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Talishar, the Lost Prince ()",
+    "name": "Talishar, the Lost Prince",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -99506,7 +99506,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Talismanic Lens ()",
+    "name": "Talismanic Lens",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -99592,7 +99592,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Target Totalizer ()",
+    "name": "Target Totalizer",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -99650,7 +99650,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Taylor ()",
+    "name": "Taylor",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -99819,7 +99819,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tearing Shuko ()",
+    "name": "Tearing Shuko",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -99848,7 +99848,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tectonic Crust ()",
+    "name": "Tectonic Crust",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -99878,7 +99878,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tectonic Plating ()",
+    "name": "Tectonic Plating",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -100022,7 +100022,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Teklo Base Arms ()",
+    "name": "Teklo Base Arms",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -100052,7 +100052,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Teklo Base Chest ()",
+    "name": "Teklo Base Chest",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -100082,7 +100082,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Teklo Base Head ()",
+    "name": "Teklo Base Head",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -100112,7 +100112,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Teklo Base Legs ()",
+    "name": "Teklo Base Legs",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -100142,7 +100142,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Teklo Blaster ()",
+    "name": "Teklo Blaster",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -100201,7 +100201,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Teklo Foundry Heart ()",
+    "name": "Teklo Foundry Heart",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -100230,7 +100230,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Teklo Leveler ()",
+    "name": "Teklo Leveler",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -100260,7 +100260,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Teklo Plasma Pistol ()",
+    "name": "Teklo Plasma Pistol",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -100403,7 +100403,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Teklovossen ()",
+    "name": "Teklovossen",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -100516,7 +100516,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Teklovossen, Esteemed Magnate ()",
+    "name": "Teklovossen, Esteemed Magnate",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -100544,7 +100544,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Teklovossen, the Mechropotent ()",
+    "name": "Teklovossen, the Mechropotent",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -100746,7 +100746,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Terra ()",
+    "name": "Terra",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -100947,7 +100947,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Testament of Valahai ()",
+    "name": "Testament of Valahai",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -101090,7 +101090,7 @@
         "isHorizontal": false
       }
     },
-    "name": "The Hand that Pulls the Strings ()",
+    "name": "The Hand that Pulls the Strings",
     "type": "Mentor",
     "cost": "",
     "Color": "",
@@ -101118,7 +101118,7 @@
         "isHorizontal": false
       }
     },
-    "name": "The Librarian ()",
+    "name": "The Librarian",
     "type": "Mentor",
     "cost": "",
     "Color": "",
@@ -101146,7 +101146,7 @@
         "isHorizontal": false
       }
     },
-    "name": "The Moat Exchange ()",
+    "name": "The Moat Exchange",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -101202,7 +101202,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Themai ()",
+    "name": "Themai",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -101232,7 +101232,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Themis, Archangel of Judgment ()",
+    "name": "Themis, Archangel of Judgment",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -101261,7 +101261,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Theryon, Magister of Justice ()",
+    "name": "Theryon, Magister of Justice",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -101406,7 +101406,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Threadbare Tunic ()",
+    "name": "Threadbare Tunic",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -102073,7 +102073,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ticket Puncher ()",
+    "name": "Ticket Puncher",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -102218,7 +102218,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tide Flippers ()",
+    "name": "Tide Flippers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -102390,7 +102390,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tiger Stripe Shuko ()",
+    "name": "Tiger Stripe Shuko",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -102448,7 +102448,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tiger Taming Khakkara ()",
+    "name": "Tiger Taming Khakkara",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -102506,7 +102506,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Time Skippers ()",
+    "name": "Time Skippers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -102881,7 +102881,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Titan's Fist ()",
+    "name": "Titan's Fist",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -103307,7 +103307,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tomeltai ()",
+    "name": "Tomeltai",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -103800,7 +103800,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Toxic Tips ()",
+    "name": "Toxic Tips",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -104346,7 +104346,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Traverse the Universe ()",
+    "name": "Traverse the Universe",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -104375,7 +104375,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Treasure Island ()",
+    "name": "Treasure Island",
     "type": "Macro",
     "cost": "",
     "Color": "",
@@ -104404,7 +104404,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tremor of Anticipation ()",
+    "name": "Tremor of Anticipation",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -104431,7 +104431,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tremor of Resistance ()",
+    "name": "Tremor of Resistance",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -104547,7 +104547,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tremorshield Sabatons ()",
+    "name": "Tremorshield Sabatons",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -104576,7 +104576,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Trench of Sunken Treasure ()",
+    "name": "Trench of Sunken Treasure",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -104813,7 +104813,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tricorn of Saltwater Death ()",
+    "name": "Tricorn of Saltwater Death",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -105044,7 +105044,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Truths Retold ()",
+    "name": "Truths Retold",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -105161,7 +105161,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Twelve Petal K\u0101\u1e63\u0101ya ()",
+    "name": "Twelve Petal K\u0101\u1e63\u0101ya",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -105307,7 +105307,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Twinkle Toes ()",
+    "name": "Twinkle Toes",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -105649,7 +105649,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Undertow Stilettos ()",
+    "name": "Undertow Stilettos",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -105797,7 +105797,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Unicycle ()",
+    "name": "Unicycle",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -106312,7 +106312,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Uphold Tradition ()",
+    "name": "Uphold Tradition",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -106457,7 +106457,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ursur, the Soul Reaper ()",
+    "name": "Ursur, the Soul Reaper",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -106487,7 +106487,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Uzuri ()",
+    "name": "Uzuri",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -106516,7 +106516,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Uzuri, Switchblade ()",
+    "name": "Uzuri, Switchblade",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -106664,7 +106664,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Valda Brightaxe ()",
+    "name": "Valda Brightaxe",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -106693,7 +106693,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Valda, Seismic Impact ()",
+    "name": "Valda, Seismic Impact",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -106721,7 +106721,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Valiant Dynamo ()",
+    "name": "Valiant Dynamo",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -106840,7 +106840,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Vambrace of Determination ()",
+    "name": "Vambrace of Determination",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -107572,7 +107572,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Verdance ()",
+    "name": "Verdance",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -107602,7 +107602,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Verdance, Thorn of the Rose ()",
+    "name": "Verdance, Thorn of the Rose",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -107631,7 +107631,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Vest of the First Fist ()",
+    "name": "Vest of the First Fist",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -107660,7 +107660,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Vestige of Sol ()",
+    "name": "Vestige of Sol",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -107776,7 +107776,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Vexing Quillhand ()",
+    "name": "Vexing Quillhand",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -107805,7 +107805,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Victor Goldmane ()",
+    "name": "Victor Goldmane",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -107834,7 +107834,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Victor Goldmane, High and Mighty ()",
+    "name": "Victor Goldmane, High and Mighty",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -107862,7 +107862,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Victor Goldmane, Match Fixer ()",
+    "name": "Victor Goldmane, Match Fixer",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -107891,7 +107891,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Victoria, Archangel of Triumph ()",
+    "name": "Victoria, Archangel of Triumph",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -107920,7 +107920,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Vigor ()",
+    "name": "Vigor",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -107949,7 +107949,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Vigor Girth ()",
+    "name": "Vigor Girth",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -108443,7 +108443,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Viserai ()",
+    "name": "Viserai",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -108472,7 +108472,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Viserai, Rune Blood ()",
+    "name": "Viserai, Rune Blood",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -108556,7 +108556,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Visit the 'Winner Takes All' ()",
+    "name": "Visit the 'Winner Takes All'",
     "type": "Event",
     "cost": "",
     "Color": "",
@@ -108751,7 +108751,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Viziertronic Model i ()",
+    "name": "Viziertronic Model i",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -108867,7 +108867,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Voltaire, Strike Twice ()",
+    "name": "Voltaire, Strike Twice",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -108982,7 +108982,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Volzar, the Lightning Rod ()",
+    "name": "Volzar, the Lightning Rod",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -109013,7 +109013,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Vow of Vengeance ()",
+    "name": "Vow of Vengeance",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -109042,7 +109042,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Vynnset ()",
+    "name": "Vynnset",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -109072,7 +109072,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Vynnset, Iron Maiden ()",
+    "name": "Vynnset, Iron Maiden",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -109101,7 +109101,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Vynserakai ()",
+    "name": "Vynserakai",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -109840,7 +109840,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Waning Moon ()",
+    "name": "Waning Moon",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -110047,7 +110047,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Warband of Bellona ()",
+    "name": "Warband of Bellona",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -110189,7 +110189,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Warpath of Winged Grace ()",
+    "name": "Warpath of Winged Grace",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -110421,7 +110421,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Washed Up Wave ()",
+    "name": "Washed Up Wave",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -110622,7 +110622,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Wave of Reality ()",
+    "name": "Wave of Reality",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -110651,7 +110651,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Waves of Aqua Marine ()",
+    "name": "Waves of Aqua Marine",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -110882,7 +110882,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Wayfinder's Crest ()",
+    "name": "Wayfinder's Crest",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -111163,7 +111163,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Well Grounded ()",
+    "name": "Well Grounded",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -111597,7 +111597,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Widow Back Abdomen ()",
+    "name": "Widow Back Abdomen",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -111626,7 +111626,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Widow Claw Tarsus ()",
+    "name": "Widow Claw Tarsus",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -111655,7 +111655,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Widow Veil Respirator ()",
+    "name": "Widow Veil Respirator",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -111684,7 +111684,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Widow Web Crawler ()",
+    "name": "Widow Web Crawler",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -112206,7 +112206,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Winter's Wail ()",
+    "name": "Winter's Wail",
     "type": "Weapon",
     "cost": "",
     "Color": "",
@@ -113055,7 +113055,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Yendurai ()",
+    "name": "Yendurai",
     "type": "Ally",
     "cost": "",
     "Color": "",
@@ -113201,7 +113201,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Yoji, Royal Protector ()",
+    "name": "Yoji, Royal Protector",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -113230,7 +113230,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Yorick, Weaver of Tales ()",
+    "name": "Yorick, Weaver of Tales",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -113343,7 +113343,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Zap Clappers ()",
+    "name": "Zap Clappers",
     "type": "Equipment",
     "cost": "",
     "Color": "",
@@ -113460,7 +113460,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Zen ()",
+    "name": "Zen",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -113490,7 +113490,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Zen State ()",
+    "name": "Zen State",
     "type": "Token",
     "cost": "",
     "Color": "",
@@ -113519,7 +113519,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Zen, Tamer of Purpose ()",
+    "name": "Zen, Tamer of Purpose",
     "type": "Hero",
     "cost": "",
     "Color": "",
@@ -113548,7 +113548,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Zephyr Needle ()",
+    "name": "Zephyr Needle",
     "type": "Weapon",
     "cost": "",
     "Color": "",
