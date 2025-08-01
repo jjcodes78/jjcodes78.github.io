@@ -119,7 +119,12 @@
                 },
                 {
                   "section": "Chain",
-                  "style": false
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_combat_chain.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center"
+                  }
                 },
                 {
                   "section": "Pitch",
