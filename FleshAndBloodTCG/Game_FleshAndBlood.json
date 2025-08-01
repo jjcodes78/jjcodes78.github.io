@@ -103,13 +103,9 @@
                   "style": false
                 },
                 {
-                  "section": "Pitch",
+                  "section": "Arsenal",
                   "style": {
-                    "width": "15vh",
-                    "background-image": "url('https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_pitch.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center"
+                    "width": "15vh"
                   }
                 }
               ],
@@ -151,6 +147,16 @@
                   "section": "Chosen_Weapon2",
                   "style": {
                     "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Pitch",
+                  "style": {
+                    "width": "15vh",
+                    "background-image": "url('https://jjcodes78.github.io/FleshAndBloodTCG/images/fab_pitch.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center"
                   }
                 },
                 {
