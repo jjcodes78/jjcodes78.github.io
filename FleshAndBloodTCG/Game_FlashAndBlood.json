@@ -303,7 +303,7 @@
             "title": "Pitch",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "START",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
