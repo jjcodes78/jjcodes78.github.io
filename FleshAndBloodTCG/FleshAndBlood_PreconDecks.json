@@ -11,12 +11,12 @@
     "lastModifiedAt": "2025-08-02T01:14:53.950Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Arms",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Chest",
-        "Chosen_Weapon1",
+        "Hero",
+        "Arms",
+        "Legs",
+        "Head",
+        "Chest",
+        "LeftHand",
         "Action"
       ],
       "Sideboard": [],
@@ -114,37 +114,37 @@
           "id": "ARC084"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "ARC077"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "CRU141"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "AVS003"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "BRI008"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "EVR103"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "ARC075"
@@ -164,12 +164,12 @@
     "lastModifiedAt": "2025-08-02T01:16:17.440Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Legs",
-        "Equipment_Chest",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Chosen_Weapon1",
+        "Hero",
+        "Legs",
+        "Chest",
+        "Head",
+        "Arms",
+        "LeftHand",
         "Action",
         "Instant",
         "Defense Reaction"
@@ -265,37 +265,37 @@
           "id": "MON063"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "FAB109"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "ROS250"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "APR003"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "BRI006"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "ARC154"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "APR001"
@@ -315,12 +315,12 @@
     "lastModifiedAt": "2025-08-02T01:12:26.284Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Legs",
-        "Equipment_Chest",
-        "Equipment_Arms",
-        "Equipment_Head",
-        "Chosen_Weapon1",
+        "Hero",
+        "Legs",
+        "Chest",
+        "Arms",
+        "Head",
+        "LeftHand",
         "Action",
         "Defense Reaction",
         "Attack Reaction"
@@ -416,37 +416,37 @@
           "id": "ASR026"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "ASR002"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "ASR003"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "ASR005"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "ASR004"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "ARA006"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "ASR001"
@@ -466,12 +466,12 @@
     "lastModifiedAt": "2025-08-02T01:11:31.548Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon1",
-        "Equipment_Arms",
-        "Equipment_Head",
-        "Equipment_Chest",
-        "Equipment_Legs",
+        "Hero",
+        "LeftHand",
+        "Arms",
+        "Head",
+        "Chest",
+        "Legs",
         "Action",
         "Block",
         "Ally"
@@ -567,37 +567,37 @@
           "id": "AGB019"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "AGB007"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "AGB005"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "AGB004"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "AGB006"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "AGB003"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "AGB001"
@@ -617,12 +617,12 @@
     "lastModifiedAt": "2025-08-02T01:24:49.255Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon1",
-        "Equipment_Chest",
-        "Equipment_Arms",
-        "Equipment_Legs",
-        "Equipment_Head",
+        "Hero",
+        "LeftHand",
+        "Chest",
+        "Arms",
+        "Legs",
+        "Head",
         "Action"
       ],
       "Sideboard": [],
@@ -712,37 +712,37 @@
           "id": "AMX027"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "AMX003"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "AMX006"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "AMX005"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "AMX004"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "AMX002"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "AMX001"
@@ -762,12 +762,12 @@
     "lastModifiedAt": "2025-08-02T01:26:41.110Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Arms",
-        "Equipment_Legs",
-        "Equipment_Chest",
-        "Equipment_Head",
-        "Chosen_Weapon1",
+        "Hero",
+        "Arms",
+        "Legs",
+        "Chest",
+        "Head",
+        "LeftHand",
         "Action",
         "Instant"
       ],
@@ -860,37 +860,37 @@
           "id": "AST021"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "AST002"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "AST003"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "AST004"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "AST006"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "AST005"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "AST001"
@@ -910,13 +910,13 @@
     "lastModifiedAt": "2025-08-02T01:17:45.790Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Chest",
-        "Chosen_Weapon2",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Chosen_Weapon1",
+        "Hero",
+        "Chest",
+        "RightHand",
+        "Legs",
+        "Head",
+        "Arms",
+        "LeftHand",
         "Action",
         "Block",
         "Instant"
@@ -1008,43 +1008,43 @@
           "id": "AJV027"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "AJV002"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "AJV006"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "AJV004"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "AJV007"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "AJV003"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "AJV005"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "AJV001"
@@ -1064,12 +1064,12 @@
     "lastModifiedAt": "2025-08-02T01:19:19.933Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Equipment_Chest",
-        "Equipment_Legs",
-        "Chosen_Weapon1",
+        "Hero",
+        "Head",
+        "Arms",
+        "Chest",
+        "Legs",
+        "LeftHand",
         "Action"
       ],
       "Sideboard": [],
@@ -1159,37 +1159,37 @@
           "id": "AIO024"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "AIO002"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "AIO006"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "AIO004"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "AIO005"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "AIO003"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "AIO001"
@@ -1209,13 +1209,13 @@
     "lastModifiedAt": "2025-08-02T01:11:08.277Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Equipment_Chest",
-        "Equipment_Legs",
-        "Chosen_Weapon2",
-        "Chosen_Weapon1",
+        "Hero",
+        "Head",
+        "Arms",
+        "Chest",
+        "Legs",
+        "RightHand",
+        "LeftHand",
         "Action",
         "Instant"
       ],
@@ -1312,43 +1312,43 @@
           "id": "AAZ026"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "AAZ002"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "AAZ003"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "AAZ007"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "AAZ005"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "AAZ006"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "AAZ004"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "AAZ001"
@@ -1368,12 +1368,12 @@
     "lastModifiedAt": "2025-08-02T01:20:39.123Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Legs",
-        "Equipment_Chest",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Chosen_Weapon1",
+        "Hero",
+        "Legs",
+        "Chest",
+        "Head",
+        "Arms",
+        "LeftHand",
         "Action",
         "Attack Reaction",
         "Defense Reaction"
@@ -1465,37 +1465,37 @@
           "id": "ASB025"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "ASB002"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "ASB005"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "ASB003"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "ASB004"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "ASB006"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "ASB001"
@@ -1515,13 +1515,13 @@
     "lastModifiedAt": "2025-08-02T01:08:01.365Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon2",
-        "Chosen_Weapon1",
-        "Equipment_Arms",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Chest",
+        "Hero",
+        "RightHand",
+        "LeftHand",
+        "Arms",
+        "Legs",
+        "Head",
+        "Chest",
         "Defense Reaction",
         "Action",
         "Attack Reaction"
@@ -1613,43 +1613,43 @@
           "id": "ARA026"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "ARA004"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "ARA003"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "ARA006"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "ARA005"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "ARA002"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "ARA002"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "ARA001"
@@ -1669,13 +1669,13 @@
     "lastModifiedAt": "2025-08-02T01:06:42.015Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Head",
-        "Equipment_Chest",
-        "Equipment_Legs",
-        "Chosen_Weapon2",
-        "Equipment_Arms",
-        "Chosen_Weapon1",
+        "Hero",
+        "Head",
+        "Chest",
+        "Legs",
+        "RightHand",
+        "Arms",
+        "LeftHand",
         "Action"
       ],
       "Sideboard": [],
@@ -1761,43 +1761,43 @@
           "id": "AZL027"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "AZL002"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "ARC153"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "AAZ003"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "AUR006"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "AZL005"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "AZL004"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "ARC039"
@@ -1817,13 +1817,13 @@
     "lastModifiedAt": "2025-08-02T01:05:40.602Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Chest",
-        "Equipment_Head",
-        "Equipment_Legs",
-        "Equipment_Arms",
-        "Chosen_Weapon2",
-        "Chosen_Weapon1",
+        "Hero",
+        "Chest",
+        "Head",
+        "Legs",
+        "Arms",
+        "RightHand",
+        "LeftHand",
         "Action",
         "Attack Reaction"
       ],
@@ -1912,43 +1912,43 @@
           "id": "BEN026"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "BEN002"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "BEN002"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "BEN005"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "BEN006"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "BEN003"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "BEN004"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "BEN001"
@@ -1968,13 +1968,13 @@
     "lastModifiedAt": "2025-08-02T01:03:52.872Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Legs",
-        "Equipment_Arms",
-        "Equipment_Head",
-        "Equipment_Chest",
-        "Chosen_Weapon2",
-        "Chosen_Weapon1",
+        "Hero",
+        "Legs",
+        "Arms",
+        "Head",
+        "Chest",
+        "RightHand",
+        "LeftHand",
         "Action",
         "Attack Reaction"
       ],
@@ -2063,43 +2063,43 @@
           "id": "BEN026"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "BEN002"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "BEN002"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "ARA004"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "KAT003"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "BEN005"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "FAI006"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "HER007"
@@ -2119,13 +2119,13 @@
     "lastModifiedAt": "2025-08-02T01:02:33.171Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon1",
-        "Equipment_Arms",
-        "Equipment_Chest",
-        "Equipment_Head",
-        "Equipment_Legs",
-        "Chosen_Weapon2",
+        "Hero",
+        "LeftHand",
+        "Arms",
+        "Chest",
+        "Head",
+        "Legs",
+        "RightHand",
         "Defense Reaction",
         "Action"
       ],
@@ -2214,43 +2214,43 @@
           "id": "OUT226"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "LGS137"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "AUR006"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "ARA003"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "AZL005"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "ARA005"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "AZL002"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "HER080"
@@ -2270,13 +2270,13 @@
     "lastModifiedAt": "2025-08-02T01:01:25.866Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Chest",
-        "Equipment_Head",
-        "Equipment_Legs",
-        "Equipment_Arms",
-        "Chosen_Weapon2",
-        "Chosen_Weapon1",
+        "Hero",
+        "Chest",
+        "Head",
+        "Legs",
+        "Arms",
+        "RightHand",
+        "LeftHand",
         "Action",
         "Instant",
         "Attack Reaction",
@@ -2375,43 +2375,43 @@
           "id": "UZU027"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "ARA002"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "ARA002"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "BEN005"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "DRO008"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "BEN003"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "UPR184"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "HER076"
@@ -2431,12 +2431,12 @@
     "lastModifiedAt": "2025-08-02T00:59:43.488Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Equipment_Chest",
-        "Equipment_Legs",
-        "Chosen_Weapon1",
+        "Hero",
+        "Head",
+        "Arms",
+        "Chest",
+        "Legs",
+        "LeftHand",
         "Action"
       ],
       "Sideboard": [],
@@ -2530,37 +2530,37 @@
           "id": "EVR081"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "ARC003"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "ARC005"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "DRO006"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "BVO006"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "ARC155"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "ARC002"
@@ -2580,12 +2580,12 @@
     "lastModifiedAt": "2025-08-02T00:58:24.320Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon1",
-        "Equipment_Head",
-        "Equipment_Chest",
-        "Equipment_Arms",
-        "Equipment_Legs",
+        "Hero",
+        "LeftHand",
+        "Head",
+        "Chest",
+        "Arms",
+        "Legs",
         "Action"
       ],
       "Sideboard": [],
@@ -2675,37 +2675,37 @@
           "id": "ARC146"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "ARC154"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "ARC157"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "ARC117"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "ARC151"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "ARC115"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "ARC114"
@@ -2725,12 +2725,12 @@
     "lastModifiedAt": "2025-08-02T00:56:56.953Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Legs",
-        "Equipment_Arms",
-        "Equipment_Head",
-        "Equipment_Chest",
-        "Chosen_Weapon1",
+        "Hero",
+        "Legs",
+        "Arms",
+        "Head",
+        "Chest",
+        "LeftHand",
         "Action"
       ],
       "Sideboard": [],
@@ -2816,37 +2816,37 @@
           "id": "EVR118"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "ARC077"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "CHN005"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "ARC079"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "ARC157"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "BRI008"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "ARC076"
@@ -2866,12 +2866,12 @@
     "lastModifiedAt": "2025-08-02T00:55:45.665Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Legs",
-        "Equipment_Chest",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Chosen_Weapon1",
+        "Hero",
+        "Legs",
+        "Chest",
+        "Head",
+        "Arms",
+        "LeftHand",
         "Action",
         "Attack Reaction",
         "Defense Reaction"
@@ -2963,37 +2963,37 @@
           "id": "WTR216"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "CRU078"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "BOL007"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "ARC155"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "ARC156"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "TEA007"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "HER008"
@@ -3013,11 +3013,11 @@
     "lastModifiedAt": "2025-08-02T00:54:20.605Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Chest",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Arms",
+        "Hero",
+        "Chest",
+        "Legs",
+        "Head",
+        "Arms",
         "Weapon",
         "Action",
         "Defense Reaction",
@@ -3116,31 +3116,31 @@
           "id": "BVO027"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "BVO006"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "BVO004"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "ARC158"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "ARC156"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "BVO002"
@@ -3160,12 +3160,12 @@
     "lastModifiedAt": "2025-08-02T00:52:54.325Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Head",
-        "Equipment_Legs",
-        "Equipment_Arms",
-        "Equipment_Chest",
-        "Chosen_Weapon1",
+        "Hero",
+        "Head",
+        "Legs",
+        "Arms",
+        "Chest",
+        "LeftHand",
         "Action",
         "Attack Reaction"
       ],
@@ -3254,37 +3254,37 @@
           "id": "BVO027"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "CRU003"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "RNR005"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "BVO006"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "ARC158"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "ARC155"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "HER005"
@@ -3304,12 +3304,12 @@
     "lastModifiedAt": "2025-08-02T00:49:31.118Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon1",
-        "Equipment_Legs",
-        "Equipment_Arms",
-        "Equipment_Head",
-        "Equipment_Chest",
+        "Hero",
+        "LeftHand",
+        "Legs",
+        "Arms",
+        "Head",
+        "Chest",
         "Action",
         "Instant",
         "Defense Reaction"
@@ -3401,37 +3401,37 @@
           "id": "FLR011"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "LGS321"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "FLR003"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "LGS319"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "FLR006"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "LGS333"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "ROS014"
@@ -3451,12 +3451,12 @@
     "lastModifiedAt": "2025-08-02T00:48:18.888Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Legs",
-        "Equipment_Arms",
-        "Equipment_Head",
-        "Equipment_Chest",
-        "Chosen_Weapon1",
+        "Hero",
+        "Legs",
+        "Arms",
+        "Head",
+        "Chest",
+        "LeftHand",
         "Action",
         "Instant",
         "Defense Reaction"
@@ -3548,37 +3548,37 @@
           "id": "FLR011"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "FLR002"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "AUA004"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "FLR003"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "AUA005"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "FLR006"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "FLR001"
@@ -3598,12 +3598,12 @@
     "lastModifiedAt": "2025-08-02T00:46:45.820Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Legs",
-        "Equipment_Chest",
-        "Equipment_Arms",
-        "Equipment_Head",
-        "Chosen_Weapon1",
+        "Hero",
+        "Legs",
+        "Chest",
+        "Arms",
+        "Head",
+        "LeftHand",
         "Action",
         "Instant"
       ],
@@ -3692,37 +3692,37 @@
           "id": "AUA026"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "LGS334"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "AUA003"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "LGS319"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "LGS318"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "LGS315"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "OSC001"
@@ -3742,12 +3742,12 @@
     "lastModifiedAt": "2025-08-02T00:45:22.350Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon1",
-        "Equipment_Arms",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Chest",
+        "Hero",
+        "LeftHand",
+        "Arms",
+        "Legs",
+        "Head",
+        "Chest",
         "Action",
         "Instant"
       ],
@@ -3836,37 +3836,37 @@
           "id": "AUA026"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "AUA004"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "AUA003"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "AUA006"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "AUA005"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "AST002"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "AUA001"
@@ -3886,12 +3886,12 @@
     "lastModifiedAt": "2025-08-01T23:06:20.896Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Arms",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Chest",
-        "Chosen_Weapon1",
+        "Hero",
+        "Arms",
+        "Legs",
+        "Head",
+        "Chest",
+        "LeftHand",
         "Action",
         "Instant"
       ],
@@ -3988,37 +3988,37 @@
           "id": "LGS289"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "LGS292"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "MST049"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "LGS268"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "LGS273"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "LGS276"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "MST047"
@@ -4038,12 +4038,12 @@
     "lastModifiedAt": "2025-08-01T23:04:22.388Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Arms",
-        "Equipment_Head",
-        "Equipment_Legs",
-        "Equipment_Chest",
-        "Chosen_Weapon1",
+        "Hero",
+        "Arms",
+        "Head",
+        "Legs",
+        "Chest",
+        "LeftHand",
         "Action",
         "Instant",
         "Defense Reaction"
@@ -4143,37 +4143,37 @@
           "id": "ENG015"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "ENG002"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "ENG004"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "ENG006"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "ENG003"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "ENG005"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "ENG001"
@@ -4193,13 +4193,13 @@
     "lastModifiedAt": "2025-08-01T22:52:08.473Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Legs",
-        "Equipment_Chest",
-        "Equipment_Arms",
-        "Equipment_Head",
-        "Chosen_Weapon2",
-        "Chosen_Weapon1",
+        "Hero",
+        "Legs",
+        "Chest",
+        "Arms",
+        "Head",
+        "RightHand",
+        "LeftHand",
         "Action",
         "Attack Reaction",
         "Instant"
@@ -4295,43 +4295,43 @@
           "id": "LGS285"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "LGS290"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "LGS290"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "LGS274"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "LGS269"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "LGS275"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "LGS270"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "MST002"
@@ -4351,13 +4351,13 @@
     "lastModifiedAt": "2025-08-01T22:50:26.081Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Chest",
-        "Equipment_Head",
-        "Equipment_Legs",
-        "Equipment_Arms",
-        "Chosen_Weapon2",
-        "Chosen_Weapon1",
+        "Hero",
+        "Chest",
+        "Head",
+        "Legs",
+        "Arms",
+        "RightHand",
+        "LeftHand",
         "Attack Reaction",
         "Action",
         "Instant"
@@ -4449,43 +4449,43 @@
           "id": "HVY160"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "CRU079"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "HVY095"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "HVY100"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "HVY155"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "HVY099"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "BET005"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "HVY091"
@@ -4505,13 +4505,13 @@
     "lastModifiedAt": "2025-08-01T22:48:58.888Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Chest",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Equipment_Legs",
-        "Chosen_Weapon2",
-        "Chosen_Weapon1",
+        "Hero",
+        "Chest",
+        "Head",
+        "Arms",
+        "Legs",
+        "RightHand",
+        "LeftHand",
         "Action"
       ],
       "Sideboard": [],
@@ -4597,43 +4597,43 @@
           "id": "HVY044"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "HVY006"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "AKO002"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "HVY155"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "BET006"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "HVY010"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "HVY011"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "HER005"
@@ -4653,13 +4653,13 @@
     "lastModifiedAt": "2025-08-01T22:47:47.254Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Chest",
-        "Chosen_Weapon2",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Chosen_Weapon1",
+        "Hero",
+        "Chest",
+        "RightHand",
+        "Legs",
+        "Head",
+        "Arms",
+        "LeftHand",
         "Action",
         "Block"
       ],
@@ -4748,43 +4748,43 @@
           "id": "HVY182"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "HVY050"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "BET006"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "HVY054"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "BET007"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "HVY052"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "BET005"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "HVY048"
@@ -4804,13 +4804,13 @@
     "lastModifiedAt": "2025-08-01T22:46:35.497Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Chest",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Chosen_Weapon2",
-        "Chosen_Weapon1",
+        "Hero",
+        "Chest",
+        "Legs",
+        "Head",
+        "Arms",
+        "RightHand",
+        "LeftHand",
         "Action",
         "Attack Reaction"
       ],
@@ -4899,43 +4899,43 @@
           "id": "BEN026"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "BET002"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "BET003"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "BET006"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "BET004"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "BET007"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "BET005"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "BET001"
@@ -4955,12 +4955,12 @@
     "lastModifiedAt": "2025-08-01T22:45:10.471Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Chest",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Equipment_Legs",
-        "Chosen_Weapon1",
+        "Hero",
+        "Chest",
+        "Head",
+        "Arms",
+        "Legs",
+        "LeftHand",
         "Action",
         "Block"
       ],
@@ -5049,37 +5049,37 @@
           "id": "HVY161"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "HVY007"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "HVY155"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "BET006"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "AKO003"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "HVY011"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "HVY002"
@@ -5099,13 +5099,13 @@
     "lastModifiedAt": "2025-08-01T22:43:21.998Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Chest",
-        "Equipment_Head",
-        "Chosen_Weapon2",
-        "Equipment_Legs",
-        "Equipment_Arms",
-        "Chosen_Weapon1",
+        "Hero",
+        "Chest",
+        "Head",
+        "RightHand",
+        "Legs",
+        "Arms",
+        "LeftHand",
         "Attack Reaction",
         "Action"
       ],
@@ -5194,43 +5194,43 @@
           "id": "HVY191"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "CRU079"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "HVY100"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "HVY155"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "HVY096"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "HVY098"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "BET005"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "HVY093"
@@ -5250,13 +5250,13 @@
     "lastModifiedAt": "2025-08-01T22:40:51.403Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon2",
-        "Chosen_Weapon1",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Equipment_Chest",
+        "Hero",
+        "RightHand",
+        "LeftHand",
+        "Legs",
+        "Head",
+        "Arms",
+        "Chest",
         "Action",
         "Defense Reaction"
       ],
@@ -5357,43 +5357,43 @@
           "id": "ELE008"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "ELE145"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "BVO006"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "BVO004"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "DRO008"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "ELE202"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "ELE204"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "ELE002"
@@ -5413,12 +5413,12 @@
     "lastModifiedAt": "2025-08-01T22:39:19.950Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon1",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Equipment_Chest",
+        "Hero",
+        "LeftHand",
+        "Legs",
+        "Head",
+        "Arms",
+        "Chest",
         "Action",
         "Instant"
       ],
@@ -5519,37 +5519,37 @@
           "id": "BRI023"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "BRI006"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "BRI007"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "BRI005"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "BRI008"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "BRI004"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "BRI001"
@@ -5569,12 +5569,12 @@
     "lastModifiedAt": "2025-08-01T22:37:54.837Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon1",
-        "Equipment_Arms",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Chest",
+        "Hero",
+        "LeftHand",
+        "Arms",
+        "Legs",
+        "Head",
+        "Chest",
         "Action",
         "Instant",
         "Defense Reaction"
@@ -5678,37 +5678,37 @@
           "id": "CRU127"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "DRO006"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "ELE214"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "AUR006"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "ELE174"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "ELE033"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "ELE032"
@@ -5728,13 +5728,13 @@
     "lastModifiedAt": "2025-08-01T22:36:16.207Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Chest",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Chosen_Weapon2",
-        "Chosen_Weapon1",
+        "Hero",
+        "Chest",
+        "Legs",
+        "Head",
+        "Arms",
+        "RightHand",
+        "LeftHand",
         "Action",
         "Attack Reaction",
         "Mentor"
@@ -5838,43 +5838,43 @@
           "id": "BOL002"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "BOL003"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "BOL004"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "BOL007"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "BOL005"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "ARA006"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "BOL006"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "BOL001"
@@ -5894,12 +5894,12 @@
     "lastModifiedAt": "2025-08-01T22:34:34.972Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Arms",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Chest",
-        "Chosen_Weapon1",
+        "Hero",
+        "Arms",
+        "Legs",
+        "Head",
+        "Chest",
+        "LeftHand",
         "Action",
         "Mentor"
       ],
@@ -6000,37 +6000,37 @@
           "id": "CHN002"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "CHN003"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "CHN005"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "CHN004"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "ARA006"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "CHN006"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "CHN001"
@@ -6050,12 +6050,12 @@
     "lastModifiedAt": "2025-08-01T22:30:24.574Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon1",
-        "Equipment_Chest",
-        "Equipment_Legs",
-        "Equipment_Arms",
-        "Equipment_Head",
+        "Hero",
+        "LeftHand",
+        "Chest",
+        "Legs",
+        "Arms",
+        "Head",
         "Action",
         "Instant",
         "Mentor"
@@ -6159,37 +6159,37 @@
           "id": "FAB045"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "CHN004"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "BVO006"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "LEV007"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "BOL006"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "LEV003"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "DTD104"
@@ -6209,12 +6209,12 @@
     "lastModifiedAt": "2025-08-01T22:30:44.573Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon1",
-        "Equipment_Legs",
-        "Equipment_Chest",
-        "Equipment_Head",
-        "Equipment_Arms",
+        "Hero",
+        "LeftHand",
+        "Legs",
+        "Chest",
+        "Head",
+        "Arms",
         "Action",
         "Instant",
         "Mentor"
@@ -6318,37 +6318,37 @@
           "id": "FAB043"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "HER034"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "MON090"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "BOL005"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "BRI006"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "AUR029"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "FAB098"
@@ -6368,12 +6368,12 @@
     "lastModifiedAt": "2025-08-01T22:31:03.871Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon1",
-        "Equipment_Arms",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Chest",
+        "Hero",
+        "LeftHand",
+        "Arms",
+        "Legs",
+        "Head",
+        "Chest",
         "Action",
         "Instant",
         "Defense Reaction"
@@ -6465,37 +6465,37 @@
           "id": "ASB016"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "DRO001"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "DRO006"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "DRO005"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "DRO008"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "DRO007"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "DRO004"
@@ -6515,12 +6515,12 @@
     "lastModifiedAt": "2025-08-01T22:31:19.237Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Chest",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Chosen_Weapon1",
+        "Hero",
+        "Chest",
+        "Legs",
+        "Head",
+        "Arms",
+        "LeftHand",
         "Action"
       ],
       "Sideboard": [],
@@ -6610,37 +6610,37 @@
           "id": "FAI027"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "FAI001"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "FAB147"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "FAI005"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "FAI003"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "FAI006"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "FAI004"
@@ -6660,12 +6660,12 @@
     "lastModifiedAt": "2025-08-01T22:31:42.947Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon2",
-        "Equipment_Head",
-        "Equipment_Legs",
-        "Equipment_Arms",
-        "Equipment_Chest",
+        "Hero",
+        "RightHand",
+        "Head",
+        "Legs",
+        "Arms",
+        "Chest",
         "Action",
         "Defense Reaction"
       ],
@@ -6758,37 +6758,37 @@
           "id": "CIN027"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "CIN004"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "ARK005"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "CIN006"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "CIN001"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "CIN003"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 2,
           "id": "CIN002"
@@ -6808,12 +6808,12 @@
     "lastModifiedAt": "2025-08-02T01:21:48.363Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Equipment_Chest",
-        "Equipment_Head",
-        "Equipment_Arms",
-        "Equipment_Legs",
-        "Chosen_Weapon1",
+        "Hero",
+        "Chest",
+        "Head",
+        "Arms",
+        "Legs",
+        "LeftHand",
         "Action"
       ],
       "Sideboard": [],
@@ -6899,37 +6899,37 @@
           "id": "AKO026"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "AKO002"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "AKO006"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "AKO005"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "AKO003"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "AKO004"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "AKO001"
@@ -6949,13 +6949,13 @@
     "lastModifiedAt": "2025-08-01T22:32:02.107Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon2",
-        "Chosen_Weapon1",
-        "Equipment_Legs",
-        "Equipment_Chest",
-        "Equipment_Head",
-        "Equipment_Arms",
+        "Hero",
+        "RightHand",
+        "LeftHand",
+        "Legs",
+        "Chest",
+        "Head",
+        "Arms",
         "Action",
         "Defense Reaction",
         "Attack Reaction"
@@ -7234,43 +7234,43 @@
           "id": "HNT213"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "HNT002"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "ARK005"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "HNT169"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "HNT193"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "ARK006"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "GEM006"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "GEM006"
@@ -7290,13 +7290,13 @@
     "lastModifiedAt": "2025-08-01T22:32:24.456Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon2",
-        "Chosen_Weapon1",
-        "Equipment_Head",
-        "Equipment_Legs",
-        "Equipment_Chest",
-        "Equipment_Arms",
+        "Hero",
+        "RightHand",
+        "LeftHand",
+        "Head",
+        "Legs",
+        "Chest",
+        "Arms",
         "Attack Reaction",
         "Action",
         "Instant",
@@ -7395,43 +7395,43 @@
           "id": "FNG018"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "FNG001"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "FNG005"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "FNG004"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "FNG006"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "CIN003"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "FNG002"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "FNG002"
@@ -7451,13 +7451,13 @@
     "lastModifiedAt": "2025-08-01T22:32:55.970Z",
     "deckList": {
       "categoriesOrder": [
-        "Chosen_Hero",
-        "Chosen_Weapon2",
-        "Chosen_Weapon1",
-        "Equipment_Legs",
-        "Equipment_Head",
-        "Equipment_Chest",
-        "Equipment_Arms",
+        "Hero",
+        "RightHand",
+        "LeftHand",
+        "Legs",
+        "Head",
+        "Chest",
+        "Arms",
         "Action",
         "Attack Reaction",
         "Defense Reaction",
@@ -7544,43 +7544,43 @@
           "id": "ARK007"
         }
       ],
-      "Chosen_Hero": [
+      "Hero": [
         {
           "count": 1,
           "id": "ARK001"
         }
       ],
-      "Equipment_Arms": [
+      "Arms": [
         {
           "count": 1,
           "id": "ARK005"
         }
       ],
-      "Equipment_Chest": [
+      "Chest": [
         {
           "count": 1,
           "id": "ARK004"
         }
       ],
-      "Equipment_Head": [
+      "Head": [
         {
           "count": 1,
           "id": "ARK003"
         }
       ],
-      "Equipment_Legs": [
+      "Legs": [
         {
           "count": 1,
           "id": "ARK006"
         }
       ],
-      "Chosen_Weapon1": [
+      "LeftHand": [
         {
           "count": 1,
           "id": "ARA002"
         }
       ],
-      "Chosen_Weapon2": [
+      "RightHand": [
         {
           "count": 1,
           "id": "ARA002"
