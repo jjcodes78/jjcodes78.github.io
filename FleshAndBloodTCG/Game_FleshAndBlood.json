@@ -50,13 +50,13 @@
     ]
   },
   "gameplay": {
-    "Classic": {
+    "Blitz": {
       "mulligan": {
         "info": "",
-        "startingHandSize": 0,
+        "startingHandSize": 4,
         "drawNewHand": false,
-        "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
+        "putSelectionAtBottom": true,
+        "drawNewSelectedCards": true
       },
       "newTurn": {
         "drawOnStart": false,
@@ -92,7 +92,7 @@
         }
       ],
       "countersStartingValues": [
-        "40"
+        "20"
       ],
       "hideFacedDownCards": false,
       "sections": {
@@ -554,13 +554,13 @@
         }
       }
     },
-    "Blitz": {
+    "Classic": {
       "mulligan": {
         "info": "",
-        "startingHandSize": 4,
+        "startingHandSize": 0,
         "drawNewHand": false,
-        "putSelectionAtBottom": true,
-        "drawNewSelectedCards": true
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
       },
       "newTurn": {
         "drawOnStart": false,
@@ -596,7 +596,7 @@
         }
       ],
       "countersStartingValues": [
-        "20"
+        "40"
       ],
       "hideFacedDownCards": false,
       "sections": {

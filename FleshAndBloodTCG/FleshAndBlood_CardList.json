@@ -38,6 +38,13 @@
         "cost": "0",
         "image": "https:\/\/storage.googleapis.com\/fabmaster\/cardfaces\/2024-MST-ENG\/EN\/ENG025.png",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Inner Chi (Blue)",
+        "type": "Resource",
+        "cost": "",
+        "image": "https:\/\/storage.googleapis.com\/fabmaster\/cardfaces\/2024-MST-ENG\/EN\/ENG025_BACK.png",
+        "isHorizontal": false
       }
     },
     "name": "A Drop in the Ocean (Blue)",
