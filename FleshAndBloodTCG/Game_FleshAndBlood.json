@@ -25,26 +25,26 @@
         "title": "Blitz",
         "gameplay": "Blitz",
         "customCategories": [
-          "Equipment_Head",
-          "Equipment_Chest",
-          "Equipment_Arms",
-          "Equipment_Legs",
-          "Chosen_Hero",
-          "Chosen_Weapon1",
-          "Chosen_Weapon2"
+          "Head",
+          "Chest",
+          "Arms",
+          "Legs",
+          "Hero",
+          "LeftHand",
+          "RightHand"
         ]
       },
       {
         "title": "Classic",
         "gameplay": "Classic",
         "customCategories": [
-          "Equipment_Head",
-          "Equipment_Chest",
-          "Equipment_Arms",
-          "Equipment_Legs",
-          "Chosen_Hero",
-          "Chosen_Weapon1",
-          "Chosen_Weapon2"
+          "Head",
+          "Chest",
+          "Arms",
+          "Legs",
+          "Hero",
+          "LeftHand",
+          "RightHand"
         ]
       }
     ]
@@ -98,13 +98,13 @@
       "sections": {
         "customSections": [
           "Pitch",
-          "Chosen_Hero",
-          "Chosen_Weapon1",
-          "Chosen_Weapon2",
-          "Equipment_Head",
-          "Equipment_Chest",
-          "Equipment_Arms",
-          "Equipment_Legs",
+          "Hero",
+          "LeftHand",
+          "RightHand",
+          "Head",
+          "Chest",
+          "Arms",
+          "Legs",
           "Arsenal",
           "Chain",
           "Permanents",
@@ -119,13 +119,13 @@
               "style": false,
               "content": [
                 {
-                  "section": "Equipment_Head",
+                  "section": "Head",
                   "style": {
                     "width": "15vh"
                   }
                 },
                 {
-                  "section": "Equipment_Chest",
+                  "section": "Chest",
                   "style": {
                     "width": "15vh"
                   }
@@ -167,13 +167,13 @@
               "style": false,
               "content": [
                 {
-                  "section": "Equipment_Arms",
+                  "section": "Arms",
                   "style": {
                     "width": "15vh"
                   }
                 },
                 {
-                  "section": "Equipment_Legs",
+                  "section": "Legs",
                   "style": {
                     "width": "15vh"
                   }
@@ -183,19 +183,19 @@
                   "style": false
                 },
                 {
-                  "section": "Chosen_Weapon1",
+                  "section": "LeftHand",
                   "style": {
                     "width": "15vh"
                   }
                 },
                 {
-                  "section": "Chosen_Hero",
+                  "section": "Hero",
                   "style": {
                     "width": "15vh"
                   }
                 },
                 {
-                  "section": "Chosen_Weapon2",
+                  "section": "RightHand",
                   "style": {
                     "width": "15vh"
                   }
@@ -216,13 +216,13 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Equipment_Head",
-          "Equipment_Chest",
-          "Equipment_Arms",
-          "Equipment_Legs",
-          "Chosen_Hero",
-          "Chosen_Weapon1",
-          "Chosen_Weapon2"
+          "Head",
+          "Chest",
+          "Arms",
+          "Legs",
+          "Hero",
+          "LeftHand",
+          "RightHand"
         ],
         "autoPlayFromHand": {
           "Action": ["Chain", "Banned"],
@@ -237,7 +237,19 @@
           "Companion": ["Permanents", "Banned"],
           "Macro": "Permanents"
         },
-        "autoPlayFromStack": {},
+        "autoPlayFromStack": {
+          "Action": ["Chain", "Banned"],
+          "Attack Reaction": ["Chain", "Banned"],
+          "Defense Reaction": ["Chain", "Banned"],
+          "Ally": ["Chain", "Permanents", "Banned"],
+          "Token": ["Chain", "Permanents", "Banned"],
+          "Instant": ["Chain", "Permanents", "Banned"],
+          "Resource": ["Chain", "Permanents", "Banned"],
+          "Mentor": ["Permanents", "Banned"],
+          "Block": "Chain",
+          "Companion": ["Permanents", "Banned"],
+          "Macro": "Permanents"
+        },
         "sectionsDict": {
           "Hand": {
             "isDefaultSection": true,
@@ -439,8 +451,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Equipment_Arms": {
-            "title": "Equipment_Arms",
+          "Arms": {
+            "title": "Arms",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
@@ -455,8 +467,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Equipment_Head": {
-            "title": "Equipment_Head",
+          "Head": {
+            "title": "Head",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
@@ -471,8 +483,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Equipment_Chest": {
-            "title": "Equipment_Chest",
+          "Chest": {
+            "title": "Chest",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
@@ -487,8 +499,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Equipment_Legs": {
-            "title": "Equipment_Legs",
+          "Legs": {
+            "title": "Legs",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
@@ -503,8 +515,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Chosen_Hero": {
-            "title": "Chosen_Hero",
+          "Hero": {
+            "title": "Hero",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
@@ -519,8 +531,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Chosen_Weapon1": {
-            "title": "Chosen_Weapon1",
+          "LeftHand": {
+            "title": "LeftHand",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
@@ -535,8 +547,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Chosen_Weapon2": {
-            "title": "Chosen_Weapon2",
+          "RightHand": {
+            "title": "RightHand",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
@@ -557,10 +569,10 @@
     "Classic": {
       "mulligan": {
         "info": "",
-        "startingHandSize": 0,
+        "startingHandSize": 4,
         "drawNewHand": false,
-        "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
+        "putSelectionAtBottom": true,
+        "drawNewSelectedCards": true
       },
       "newTurn": {
         "drawOnStart": false,
@@ -602,13 +614,13 @@
       "sections": {
         "customSections": [
           "Pitch",
-          "Chosen_Hero",
-          "Chosen_Weapon1",
-          "Chosen_Weapon2",
-          "Equipment_Head",
-          "Equipment_Chest",
-          "Equipment_Arms",
-          "Equipment_Legs",
+          "Hero",
+          "LeftHand",
+          "RightHand",
+          "Head",
+          "Chest",
+          "Arms",
+          "Legs",
           "Arsenal",
           "Chain",
           "Permanents",
@@ -623,13 +635,13 @@
               "style": false,
               "content": [
                 {
-                  "section": "Equipment_Head",
+                  "section": "Head",
                   "style": {
                     "width": "15vh"
                   }
                 },
                 {
-                  "section": "Equipment_Chest",
+                  "section": "Chest",
                   "style": {
                     "width": "15vh"
                   }
@@ -671,13 +683,13 @@
               "style": false,
               "content": [
                 {
-                  "section": "Equipment_Arms",
+                  "section": "Arms",
                   "style": {
                     "width": "15vh"
                   }
                 },
                 {
-                  "section": "Equipment_Legs",
+                  "section": "Legs",
                   "style": {
                     "width": "15vh"
                   }
@@ -687,19 +699,19 @@
                   "style": false
                 },
                 {
-                  "section": "Chosen_Weapon1",
+                  "section": "LeftHand",
                   "style": {
                     "width": "15vh"
                   }
                 },
                 {
-                  "section": "Chosen_Hero",
+                  "section": "Hero",
                   "style": {
                     "width": "15vh"
                   }
                 },
                 {
-                  "section": "Chosen_Weapon2",
+                  "section": "RightHand",
                   "style": {
                     "width": "15vh"
                   }
@@ -720,13 +732,13 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Equipment_Head",
-          "Equipment_Chest",
-          "Equipment_Arms",
-          "Equipment_Legs",
-          "Chosen_Hero",
-          "Chosen_Weapon1",
-          "Chosen_Weapon2"
+          "Head",
+          "Chest",
+          "Arms",
+          "Legs",
+          "Hero",
+          "LeftHand",
+          "RightHand"
         ],
         "autoPlayFromHand": {
           "Action": ["Chain", "Banned"],
@@ -741,7 +753,19 @@
           "Companion": ["Permanents", "Banned"],
           "Macro": "Permanents"
         },
-        "autoPlayFromStack": {},
+        "autoPlayFromStack": {
+          "Action": ["Chain", "Banned"],
+          "Attack Reaction": ["Chain", "Banned"],
+          "Defense Reaction": ["Chain", "Banned"],
+          "Ally": ["Chain", "Permanents", "Banned"],
+          "Token": ["Chain", "Permanents", "Banned"],
+          "Instant": ["Chain", "Permanents", "Banned"],
+          "Resource": ["Chain", "Permanents", "Banned"],
+          "Mentor": ["Permanents", "Banned"],
+          "Block": "Chain",
+          "Companion": ["Permanents", "Banned"],
+          "Macro": "Permanents"
+        },
         "sectionsDict": {
           "Hand": {
             "isDefaultSection": true,
@@ -943,8 +967,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Equipment_Arms": {
-            "title": "Equipment_Arms",
+          "Arms": {
+            "title": "Arms",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
@@ -959,8 +983,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Equipment_Head": {
-            "title": "Equipment_Head",
+          "Head": {
+            "title": "Head",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
@@ -975,8 +999,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Equipment_Chest": {
-            "title": "Equipment_Chest",
+          "Chest": {
+            "title": "Chest",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
@@ -991,8 +1015,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Equipment_Legs": {
-            "title": "Equipment_Legs",
+          "Legs": {
+            "title": "Legs",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
@@ -1007,8 +1031,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Chosen_Hero": {
-            "title": "Chosen_Hero",
+          "Hero": {
+            "title": "Hero",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
@@ -1023,8 +1047,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Chosen_Weapon1": {
-            "title": "Chosen_Weapon1",
+          "LeftHand": {
+            "title": "LeftHand",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
@@ -1039,8 +1063,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Chosen_Weapon2": {
-            "title": "Chosen_Weapon2",
+          "RightHand": {
+            "title": "RightHand",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
