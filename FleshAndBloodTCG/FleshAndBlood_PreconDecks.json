@@ -1504,6 +1504,5299 @@
     }
   },
   {
+    "title": "Outsiders - Arakni (Assassin)",
+    "id": "260be2b1-cb3b-412f-b19d-0a75952be05c",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-02T01:07:06.348Z",
+    "lastModifiedAt": "2025-08-02T01:08:01.365Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Chosen_Weapon2",
+        "Chosen_Weapon1",
+        "Equipment_Arms",
+        "Equipment_Legs",
+        "Equipment_Head",
+        "Equipment_Chest",
+        "Defense Reaction",
+        "Action",
+        "Attack Reaction"
+      ],
+      "Sideboard": [],
+      "Defense Reaction": [
+        {
+          "count": 2,
+          "id": "ARA019"
+        }
+      ],
+      "Action": [
+        {
+          "count": 2,
+          "id": "ARA007"
+        },
+        {
+          "count": 2,
+          "id": "ARA008"
+        },
+        {
+          "count": 2,
+          "id": "ARA009"
+        },
+        {
+          "count": 2,
+          "id": "ARA010"
+        },
+        {
+          "count": 2,
+          "id": "ARA011"
+        },
+        {
+          "count": 2,
+          "id": "ARA012"
+        },
+        {
+          "count": 2,
+          "id": "ARA015"
+        },
+        {
+          "count": 2,
+          "id": "ARA014"
+        },
+        {
+          "count": 2,
+          "id": "ARA013"
+        },
+        {
+          "count": 2,
+          "id": "ARA020"
+        },
+        {
+          "count": 2,
+          "id": "ARA021"
+        },
+        {
+          "count": 2,
+          "id": "ARA022"
+        },
+        {
+          "count": 2,
+          "id": "ARA023"
+        },
+        {
+          "count": 2,
+          "id": "ARA024"
+        },
+        {
+          "count": 2,
+          "id": "ARA025"
+        }
+      ],
+      "Attack Reaction": [
+        {
+          "count": 2,
+          "id": "ARA016"
+        },
+        {
+          "count": 2,
+          "id": "ARA017"
+        },
+        {
+          "count": 2,
+          "id": "ARA018"
+        },
+        {
+          "count": 2,
+          "id": "ARA026"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "ARA004"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "ARA003"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "ARA006"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "ARA005"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "ARA002"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "ARA002"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "ARA001"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Outsiders - Azalea (Ranger)",
+    "id": "26098fac-a970-4473-b7a9-596dfd3db4cd",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-02T01:05:56.849Z",
+    "lastModifiedAt": "2025-08-02T01:06:42.015Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Head",
+        "Equipment_Chest",
+        "Equipment_Legs",
+        "Chosen_Weapon2",
+        "Equipment_Arms",
+        "Chosen_Weapon1",
+        "Action"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "AZL008"
+        },
+        {
+          "count": 2,
+          "id": "AZL019"
+        },
+        {
+          "count": 2,
+          "id": "AAZ011"
+        },
+        {
+          "count": 2,
+          "id": "AZL010"
+        },
+        {
+          "count": 2,
+          "id": "AAZ012"
+        },
+        {
+          "count": 2,
+          "id": "ARC066"
+        },
+        {
+          "count": 2,
+          "id": "AAZ022"
+        },
+        {
+          "count": 2,
+          "id": "AAZ014"
+        },
+        {
+          "count": 2,
+          "id": "AZL018"
+        },
+        {
+          "count": 2,
+          "id": "AZL013"
+        },
+        {
+          "count": 2,
+          "id": "AZL014"
+        },
+        {
+          "count": 2,
+          "id": "AZL015"
+        },
+        {
+          "count": 2,
+          "id": "AZL016"
+        },
+        {
+          "count": 2,
+          "id": "AZL021"
+        },
+        {
+          "count": 2,
+          "id": "AAZ023"
+        },
+        {
+          "count": 2,
+          "id": "AZL023"
+        },
+        {
+          "count": 2,
+          "id": "AZL026"
+        },
+        {
+          "count": 2,
+          "id": "AZL024"
+        },
+        {
+          "count": 2,
+          "id": "AAZ028"
+        },
+        {
+          "count": 2,
+          "id": "AZL027"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "AZL002"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "ARC153"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "AAZ003"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "AUR006"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "AZL005"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "AZL004"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "ARC039"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Outsiders - Benji (Ninja)",
+    "id": "f26782e2-edf3-4500-98a2-1d4a1fea1582",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-02T01:04:28.199Z",
+    "lastModifiedAt": "2025-08-02T01:05:40.602Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Chest",
+        "Equipment_Head",
+        "Equipment_Legs",
+        "Equipment_Arms",
+        "Chosen_Weapon2",
+        "Chosen_Weapon1",
+        "Action",
+        "Attack Reaction"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "BEN008"
+        },
+        {
+          "count": 2,
+          "id": "BEN007"
+        },
+        {
+          "count": 2,
+          "id": "BEN011"
+        },
+        {
+          "count": 2,
+          "id": "BEN010"
+        },
+        {
+          "count": 2,
+          "id": "ARA015"
+        },
+        {
+          "count": 2,
+          "id": "BEN009"
+        },
+        {
+          "count": 2,
+          "id": "BEN014"
+        },
+        {
+          "count": 2,
+          "id": "BEN018"
+        },
+        {
+          "count": 2,
+          "id": "BEN017"
+        },
+        {
+          "count": 2,
+          "id": "BEN016"
+        },
+        {
+          "count": 2,
+          "id": "BEN019"
+        },
+        {
+          "count": 2,
+          "id": "BEN020"
+        },
+        {
+          "count": 2,
+          "id": "BEN015"
+        },
+        {
+          "count": 2,
+          "id": "BEN021"
+        },
+        {
+          "count": 2,
+          "id": "BEN024"
+        },
+        {
+          "count": 2,
+          "id": "BEN022"
+        },
+        {
+          "count": 2,
+          "id": "BEN023"
+        },
+        {
+          "count": 2,
+          "id": "ASR023"
+        }
+      ],
+      "Attack Reaction": [
+        {
+          "count": 2,
+          "id": "ARA017"
+        },
+        {
+          "count": 2,
+          "id": "BEN026"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "BEN002"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "BEN002"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "BEN005"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "BEN006"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "BEN003"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "BEN004"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "BEN001"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Outsiders - Katsu (Ninja)",
+    "id": "f0ba1c08-a3f7-4093-83cc-bbb4a6bdbce2",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-02T01:02:59.994Z",
+    "lastModifiedAt": "2025-08-02T01:03:52.872Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Legs",
+        "Equipment_Arms",
+        "Equipment_Head",
+        "Equipment_Chest",
+        "Chosen_Weapon2",
+        "Chosen_Weapon1",
+        "Action",
+        "Attack Reaction"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "KAT014"
+        },
+        {
+          "count": 2,
+          "id": "KAT007"
+        },
+        {
+          "count": 2,
+          "id": "KAT008"
+        },
+        {
+          "count": 2,
+          "id": "KAT011"
+        },
+        {
+          "count": 2,
+          "id": "BEN010"
+        },
+        {
+          "count": 2,
+          "id": "KAT012"
+        },
+        {
+          "count": 2,
+          "id": "AGB012"
+        },
+        {
+          "count": 2,
+          "id": "KAT010"
+        },
+        {
+          "count": 2,
+          "id": "FAB249"
+        },
+        {
+          "count": 2,
+          "id": "BEN018"
+        },
+        {
+          "count": 2,
+          "id": "KAT018"
+        },
+        {
+          "count": 2,
+          "id": "BEN017"
+        },
+        {
+          "count": 2,
+          "id": "BEN016"
+        },
+        {
+          "count": 2,
+          "id": "KAT019"
+        },
+        {
+          "count": 2,
+          "id": "BEN021"
+        },
+        {
+          "count": 2,
+          "id": "BEN024"
+        },
+        {
+          "count": 2,
+          "id": "BEN022"
+        },
+        {
+          "count": 2,
+          "id": "KAT024"
+        },
+        {
+          "count": 2,
+          "id": "KAT023"
+        }
+      ],
+      "Attack Reaction": [
+        {
+          "count": 2,
+          "id": "BEN026"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "BEN002"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "BEN002"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "ARA004"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "KAT003"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "BEN005"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "FAI006"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "HER007"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Outsiders - Riptide (Ranger)",
+    "id": "29bbceb8-4dec-48e3-9123-6f357932007c",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-02T01:01:43.703Z",
+    "lastModifiedAt": "2025-08-02T01:02:33.171Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Chosen_Weapon1",
+        "Equipment_Arms",
+        "Equipment_Chest",
+        "Equipment_Head",
+        "Equipment_Legs",
+        "Chosen_Weapon2",
+        "Defense Reaction",
+        "Action"
+      ],
+      "Sideboard": [],
+      "Defense Reaction": [
+        {
+          "count": 2,
+          "id": "ARA019"
+        },
+        {
+          "count": 2,
+          "id": "OUT172"
+        },
+        {
+          "count": 2,
+          "id": "OUT173"
+        },
+        {
+          "count": 2,
+          "id": "LGS138"
+        },
+        {
+          "count": 2,
+          "id": "LGS139"
+        },
+        {
+          "count": 2,
+          "id": "LGS140"
+        }
+      ],
+      "Action": [
+        {
+          "count": 2,
+          "id": "AZL008"
+        },
+        {
+          "count": 2,
+          "id": "DYN162"
+        },
+        {
+          "count": 2,
+          "id": "CRU135"
+        },
+        {
+          "count": 2,
+          "id": "AZL010"
+        },
+        {
+          "count": 2,
+          "id": "AAZ012"
+        },
+        {
+          "count": 2,
+          "id": "ARC066"
+        },
+        {
+          "count": 2,
+          "id": "AAZ022"
+        },
+        {
+          "count": 2,
+          "id": "ARC069"
+        },
+        {
+          "count": 2,
+          "id": "AAZ014"
+        },
+        {
+          "count": 2,
+          "id": "AZL016"
+        },
+        {
+          "count": 2,
+          "id": "OUT116"
+        },
+        {
+          "count": 2,
+          "id": "OUT119"
+        },
+        {
+          "count": 2,
+          "id": "OUT122"
+        },
+        {
+          "count": 2,
+          "id": "OUT226"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "LGS137"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "AUR006"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "ARA003"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "AZL005"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "ARA005"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "AZL002"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "HER080"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Outsiders - Uzuri (Assassin)",
+    "id": "0a2d3c0f-39a9-4203-9dff-1cfe99cdf182",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-02T01:00:31.702Z",
+    "lastModifiedAt": "2025-08-02T01:01:25.866Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Chest",
+        "Equipment_Head",
+        "Equipment_Legs",
+        "Equipment_Arms",
+        "Chosen_Weapon2",
+        "Chosen_Weapon1",
+        "Action",
+        "Instant",
+        "Attack Reaction",
+        "Defense Reaction"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "OUT201"
+        },
+        {
+          "count": 2,
+          "id": "FAB132"
+        },
+        {
+          "count": 2,
+          "id": "UZU010"
+        },
+        {
+          "count": 1,
+          "id": "OUT204"
+        },
+        {
+          "count": 1,
+          "id": "AKO009"
+        },
+        {
+          "count": 2,
+          "id": "ARA008"
+        },
+        {
+          "count": 2,
+          "id": "ARA009"
+        },
+        {
+          "count": 2,
+          "id": "ARA012"
+        },
+        {
+          "count": 2,
+          "id": "OUT018"
+        },
+        {
+          "count": 2,
+          "id": "ARA020"
+        },
+        {
+          "count": 2,
+          "id": "OUT028"
+        },
+        {
+          "count": 2,
+          "id": "OUT037"
+        },
+        {
+          "count": 2,
+          "id": "OUT040"
+        },
+        {
+          "count": 2,
+          "id": "ARA022"
+        },
+        {
+          "count": 2,
+          "id": "OUT029"
+        },
+        {
+          "count": 2,
+          "id": "ARA023"
+        },
+        {
+          "count": 2,
+          "id": "ARA024"
+        },
+        {
+          "count": 2,
+          "id": "ARA025"
+        }
+      ],
+      "Instant": [
+        {
+          "count": 2,
+          "id": "FAB131"
+        }
+      ],
+      "Attack Reaction": [
+        {
+          "count": 2,
+          "id": "ARA026"
+        }
+      ],
+      "Defense Reaction": [
+        {
+          "count": 2,
+          "id": "UZU027"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "ARA002"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "ARA002"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "BEN005"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "DRO008"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "BEN003"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "UPR184"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "HER076"
+        }
+      ]
+    }
+  },
+  {
+    "title": "History Pack 1 - Dash (Mechanologist)",
+    "id": "817ca214-371e-4a72-a97f-0fd1bcba0cc0",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-02T00:59:01.143Z",
+    "lastModifiedAt": "2025-08-02T00:59:43.488Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Head",
+        "Equipment_Arms",
+        "Equipment_Chest",
+        "Equipment_Legs",
+        "Chosen_Weapon1",
+        "Action"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 1,
+          "id": "AIO016"
+        },
+        {
+          "count": 2,
+          "id": "CRU106"
+        },
+        {
+          "count": 1,
+          "id": "AMX019"
+        },
+        {
+          "count": 2,
+          "id": "ARC020"
+        },
+        {
+          "count": 2,
+          "id": "EVR076"
+        },
+        {
+          "count": 2,
+          "id": "ARC011"
+        },
+        {
+          "count": 2,
+          "id": "EVR082"
+        },
+        {
+          "count": 2,
+          "id": "AIO011"
+        },
+        {
+          "count": 2,
+          "id": "AIO012"
+        },
+        {
+          "count": 2,
+          "id": "AIO013"
+        },
+        {
+          "count": 2,
+          "id": "ARC021"
+        },
+        {
+          "count": 1,
+          "id": "EVR077"
+        },
+        {
+          "count": 2,
+          "id": "ARC024"
+        },
+        {
+          "count": 2,
+          "id": "AIO019"
+        },
+        {
+          "count": 1,
+          "id": "ARC018"
+        },
+        {
+          "count": 2,
+          "id": "CRU111"
+        },
+        {
+          "count": 2,
+          "id": "ARC022"
+        },
+        {
+          "count": 2,
+          "id": "EVR078"
+        },
+        {
+          "count": 2,
+          "id": "ARC025"
+        },
+        {
+          "count": 2,
+          "id": "AIO023"
+        },
+        {
+          "count": 2,
+          "id": "AIO024"
+        },
+        {
+          "count": 2,
+          "id": "EVR081"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "ARC003"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "ARC005"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "DRO006"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "BVO006"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "ARC155"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "ARC002"
+        }
+      ]
+    }
+  },
+  {
+    "title": "History Pack 1 - Kano (Wizard)",
+    "id": "05c3d2a0-e74e-4a8a-bb6b-7812ff4457c9",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-02T00:57:26.099Z",
+    "lastModifiedAt": "2025-08-02T00:58:24.320Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Chosen_Weapon1",
+        "Equipment_Head",
+        "Equipment_Chest",
+        "Equipment_Arms",
+        "Equipment_Legs",
+        "Action"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "ARC132"
+        },
+        {
+          "count": 2,
+          "id": "ARC126"
+        },
+        {
+          "count": 2,
+          "id": "ARC138"
+        },
+        {
+          "count": 2,
+          "id": "ARC141"
+        },
+        {
+          "count": 2,
+          "id": "EVR134"
+        },
+        {
+          "count": 2,
+          "id": "ARC147"
+        },
+        {
+          "count": 2,
+          "id": "ARC144"
+        },
+        {
+          "count": 2,
+          "id": "ARC142"
+        },
+        {
+          "count": 2,
+          "id": "ARC148"
+        },
+        {
+          "count": 2,
+          "id": "ARC145"
+        },
+        {
+          "count": 2,
+          "id": "ARC134"
+        },
+        {
+          "count": 2,
+          "id": "EVR127"
+        },
+        {
+          "count": 1,
+          "id": "ASR027"
+        },
+        {
+          "count": 1,
+          "id": "EVR185"
+        },
+        {
+          "count": 2,
+          "id": "EVR130"
+        },
+        {
+          "count": 2,
+          "id": "ARC140"
+        },
+        {
+          "count": 2,
+          "id": "ARC143"
+        },
+        {
+          "count": 2,
+          "id": "EVR136"
+        },
+        {
+          "count": 2,
+          "id": "ARC149"
+        },
+        {
+          "count": 2,
+          "id": "ARC217"
+        },
+        {
+          "count": 2,
+          "id": "ARC146"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "ARC154"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "ARC157"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "ARC117"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "ARC151"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "ARC115"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "ARC114"
+        }
+      ]
+    }
+  },
+  {
+    "title": "History Pack 1 - Viserai (Runeblade)",
+    "id": "e2c3fd45-7408-46d2-8db1-c4bf85ed2786",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-02T00:56:12.715Z",
+    "lastModifiedAt": "2025-08-02T00:56:56.953Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Legs",
+        "Equipment_Arms",
+        "Equipment_Head",
+        "Equipment_Chest",
+        "Chosen_Weapon1",
+        "Action"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "ARC094"
+        },
+        {
+          "count": 2,
+          "id": "AST007"
+        },
+        {
+          "count": 2,
+          "id": "MON266"
+        },
+        {
+          "count": 2,
+          "id": "MON260"
+        },
+        {
+          "count": 2,
+          "id": "ARC203"
+        },
+        {
+          "count": 2,
+          "id": "AUA014"
+        },
+        {
+          "count": 2,
+          "id": "MON296"
+        },
+        {
+          "count": 2,
+          "id": "ARC109"
+        },
+        {
+          "count": 2,
+          "id": "ARC100"
+        },
+        {
+          "count": 2,
+          "id": "EVR116"
+        },
+        {
+          "count": 2,
+          "id": "CRU152"
+        },
+        {
+          "count": 2,
+          "id": "EVR117"
+        },
+        {
+          "count": 2,
+          "id": "ARC086"
+        },
+        {
+          "count": 2,
+          "id": "AST024"
+        },
+        {
+          "count": 2,
+          "id": "MON268"
+        },
+        {
+          "count": 2,
+          "id": "ARC108"
+        },
+        {
+          "count": 2,
+          "id": "CRU147"
+        },
+        {
+          "count": 2,
+          "id": "CRU153"
+        },
+        {
+          "count": 2,
+          "id": "MON298"
+        },
+        {
+          "count": 2,
+          "id": "EVR118"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "ARC077"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "CHN005"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "ARC079"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "ARC157"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "BRI008"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "ARC076"
+        }
+      ]
+    }
+  },
+  {
+    "title": "History Pack 1 - Dorinthea (Warrior)",
+    "id": "cec60327-e078-4e4f-a612-0dccd19f92a6",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-02T00:54:46.366Z",
+    "lastModifiedAt": "2025-08-02T00:55:45.665Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Legs",
+        "Equipment_Chest",
+        "Equipment_Head",
+        "Equipment_Arms",
+        "Chosen_Weapon1",
+        "Action",
+        "Attack Reaction",
+        "Defense Reaction"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "TEA012"
+        },
+        {
+          "count": 2,
+          "id": "DVR026"
+        },
+        {
+          "count": 2,
+          "id": "EVR057"
+        },
+        {
+          "count": 2,
+          "id": "DVR011"
+        },
+        {
+          "count": 2,
+          "id": "DVR017"
+        },
+        {
+          "count": 2,
+          "id": "CRU092"
+        },
+        {
+          "count": 2,
+          "id": "TEA022"
+        },
+        {
+          "count": 2,
+          "id": "CRU093"
+        }
+      ],
+      "Attack Reaction": [
+        {
+          "count": 2,
+          "id": "DVR015"
+        },
+        {
+          "count": 2,
+          "id": "DVR016"
+        },
+        {
+          "count": 2,
+          "id": "CRU088"
+        },
+        {
+          "count": 2,
+          "id": "ARK016"
+        },
+        {
+          "count": 2,
+          "id": "TEA009"
+        },
+        {
+          "count": 2,
+          "id": "LGS030"
+        },
+        {
+          "count": 2,
+          "id": "EVR065"
+        },
+        {
+          "count": 2,
+          "id": "LGS031"
+        },
+        {
+          "count": 2,
+          "id": "CRU090"
+        },
+        {
+          "count": 2,
+          "id": "WTR125"
+        },
+        {
+          "count": 2,
+          "id": "WTR140"
+        }
+      ],
+      "Defense Reaction": [
+        {
+          "count": 2,
+          "id": "WTR216"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "CRU078"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "BOL007"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "ARC155"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "ARC156"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "TEA007"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "HER008"
+        }
+      ]
+    }
+  },
+  {
+    "title": "History Pack 1 - Bravo (Guardian)",
+    "id": "712e180d-7f49-4443-bb27-ef3cb388fb78",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-02T00:53:22.632Z",
+    "lastModifiedAt": "2025-08-02T00:54:20.605Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Chest",
+        "Equipment_Legs",
+        "Equipment_Head",
+        "Equipment_Arms",
+        "Weapon",
+        "Action",
+        "Defense Reaction",
+        "Attack Reaction"
+      ],
+      "Sideboard": [],
+      "Weapon": [
+        {
+          "count": 1,
+          "id": "BVO003"
+        }
+      ],
+      "Action": [
+        {
+          "count": 2,
+          "id": "BVO009"
+        },
+        {
+          "count": 2,
+          "id": "WTR063"
+        },
+        {
+          "count": 2,
+          "id": "BVO010"
+        },
+        {
+          "count": 2,
+          "id": "ELE209"
+        },
+        {
+          "count": 2,
+          "id": "WTR061"
+        },
+        {
+          "count": 2,
+          "id": "WTR064"
+        },
+        {
+          "count": 2,
+          "id": "BVO013"
+        },
+        {
+          "count": 2,
+          "id": "BVO017"
+        },
+        {
+          "count": 2,
+          "id": "CRU037"
+        },
+        {
+          "count": 2,
+          "id": "WTR068"
+        },
+        {
+          "count": 2,
+          "id": "BVO019"
+        },
+        {
+          "count": 2,
+          "id": "CRU040"
+        },
+        {
+          "count": 2,
+          "id": "BDD016"
+        },
+        {
+          "count": 2,
+          "id": "HVY230"
+        },
+        {
+          "count": 2,
+          "id": "BVO029"
+        },
+        {
+          "count": 2,
+          "id": "EVR026"
+        }
+      ],
+      "Defense Reaction": [
+        {
+          "count": 2,
+          "id": "ASB016"
+        },
+        {
+          "count": 2,
+          "id": "BVO020"
+        },
+        {
+          "count": 2,
+          "id": "UZU027"
+        }
+      ],
+      "Attack Reaction": [
+        {
+          "count": 2,
+          "id": "BVO027"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "BVO006"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "BVO004"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "ARC158"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "ARC156"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "BVO002"
+        }
+      ]
+    }
+  },
+  {
+    "title": "History Pack 1 - Rhinar (Brute)",
+    "id": "4dcc3695-0a21-4227-ae80-6a6dd3c0b91b",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-02T00:51:52.237Z",
+    "lastModifiedAt": "2025-08-02T00:52:54.325Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Head",
+        "Equipment_Legs",
+        "Equipment_Arms",
+        "Equipment_Chest",
+        "Chosen_Weapon1",
+        "Action",
+        "Attack Reaction"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "AKO007"
+        },
+        {
+          "count": 2,
+          "id": "WTR017"
+        },
+        {
+          "count": 2,
+          "id": "HVY032"
+        },
+        {
+          "count": 2,
+          "id": "AKO010"
+        },
+        {
+          "count": 2,
+          "id": "AKO011"
+        },
+        {
+          "count": 2,
+          "id": "CRU016"
+        },
+        {
+          "count": 2,
+          "id": "RNR011"
+        },
+        {
+          "count": 2,
+          "id": "RNR012"
+        },
+        {
+          "count": 2,
+          "id": "AKO014"
+        },
+        {
+          "count": 2,
+          "id": "LGS020"
+        },
+        {
+          "count": 2,
+          "id": "CRU017"
+        },
+        {
+          "count": 2,
+          "id": "RNR016"
+        },
+        {
+          "count": 2,
+          "id": "RNR017"
+        },
+        {
+          "count": 2,
+          "id": "LGS021"
+        },
+        {
+          "count": 2,
+          "id": "ARC205"
+        },
+        {
+          "count": 2,
+          "id": "EVR007"
+        },
+        {
+          "count": 2,
+          "id": "RNR026"
+        },
+        {
+          "count": 2,
+          "id": "AKO026"
+        }
+      ],
+      "Attack Reaction": [
+        {
+          "count": 2,
+          "id": "WTR207"
+        },
+        {
+          "count": 2,
+          "id": "BVO027"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "CRU003"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "RNR005"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "BVO006"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "ARC158"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "ARC155"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "HER005"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Rosetta - Verdance (Elemental Wizard)",
+    "id": "34787834-f1c1-4b0f-98ea-b76b65eab2af",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-02T00:48:47.476Z",
+    "lastModifiedAt": "2025-08-02T00:49:31.118Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Chosen_Weapon1",
+        "Equipment_Legs",
+        "Equipment_Arms",
+        "Equipment_Head",
+        "Equipment_Chest",
+        "Action",
+        "Instant",
+        "Defense Reaction"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "DYN197"
+        },
+        {
+          "count": 2,
+          "id": "ELE128"
+        },
+        {
+          "count": 2,
+          "id": "ROS049"
+        },
+        {
+          "count": 2,
+          "id": "FLR008"
+        },
+        {
+          "count": 2,
+          "id": "FAB261"
+        },
+        {
+          "count": 2,
+          "id": "LGS367"
+        },
+        {
+          "count": 2,
+          "id": "ROS201"
+        },
+        {
+          "count": 2,
+          "id": "ROS050"
+        },
+        {
+          "count": 2,
+          "id": "ROS188"
+        },
+        {
+          "count": 2,
+          "id": "AJV014"
+        },
+        {
+          "count": 2,
+          "id": "ROS051"
+        },
+        {
+          "count": 2,
+          "id": "FLR022"
+        },
+        {
+          "count": 2,
+          "id": "ROS229"
+        },
+        {
+          "count": 2,
+          "id": "ROS063"
+        },
+        {
+          "count": 2,
+          "id": "ROS178"
+        },
+        {
+          "count": 2,
+          "id": "LGS330"
+        },
+        {
+          "count": 2,
+          "id": "ROS041"
+        }
+      ],
+      "Instant": [
+        {
+          "count": 2,
+          "id": "ROS067"
+        },
+        {
+          "count": 2,
+          "id": "LGS340"
+        }
+      ],
+      "Defense Reaction": [
+        {
+          "count": 2,
+          "id": "FLR011"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "LGS321"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "FLR003"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "LGS319"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "FLR006"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "LGS333"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "ROS014"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Rosetta - Florian (Elemental Runeblade)",
+    "id": "ea9c25e7-7b29-418e-a636-db90f281fa80",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-02T00:47:08.896Z",
+    "lastModifiedAt": "2025-08-02T00:48:18.888Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Legs",
+        "Equipment_Arms",
+        "Equipment_Head",
+        "Equipment_Chest",
+        "Chosen_Weapon1",
+        "Action",
+        "Instant",
+        "Defense Reaction"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "FLR012"
+        },
+        {
+          "count": 2,
+          "id": "FLR007"
+        },
+        {
+          "count": 2,
+          "id": "FLR014"
+        },
+        {
+          "count": 2,
+          "id": "FLR008"
+        },
+        {
+          "count": 2,
+          "id": "FLR015"
+        },
+        {
+          "count": 2,
+          "id": "ARC091"
+        },
+        {
+          "count": 2,
+          "id": "AUA015"
+        },
+        {
+          "count": 2,
+          "id": "FLR017"
+        },
+        {
+          "count": 2,
+          "id": "FLR010"
+        },
+        {
+          "count": 2,
+          "id": "FLR018"
+        },
+        {
+          "count": 2,
+          "id": "FLR024"
+        },
+        {
+          "count": 2,
+          "id": "AJV014"
+        },
+        {
+          "count": 2,
+          "id": "FLR020"
+        },
+        {
+          "count": 2,
+          "id": "FLR025"
+        },
+        {
+          "count": 2,
+          "id": "FLR021"
+        },
+        {
+          "count": 2,
+          "id": "FLR022"
+        },
+        {
+          "count": 2,
+          "id": "FLR023"
+        }
+      ],
+      "Instant": [
+        {
+          "count": 2,
+          "id": "FLR013"
+        },
+        {
+          "count": 2,
+          "id": "FLR026"
+        }
+      ],
+      "Defense Reaction": [
+        {
+          "count": 2,
+          "id": "FLR011"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "FLR002"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "AUA004"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "FLR003"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "AUA005"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "FLR006"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "FLR001"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Rosetta - Oscilio (Wizard)",
+    "id": "7268b2ea-2b9f-47c1-9e76-92350155d9b7",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-02T00:45:49.187Z",
+    "lastModifiedAt": "2025-08-02T00:46:45.820Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Legs",
+        "Equipment_Chest",
+        "Equipment_Arms",
+        "Equipment_Head",
+        "Chosen_Weapon1",
+        "Action",
+        "Instant"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "DYN197"
+        },
+        {
+          "count": 2,
+          "id": "OSC012"
+        },
+        {
+          "count": 2,
+          "id": "AUA007"
+        },
+        {
+          "count": 2,
+          "id": "OSC014"
+        },
+        {
+          "count": 2,
+          "id": "OSC015"
+        },
+        {
+          "count": 2,
+          "id": "ELE177"
+        },
+        {
+          "count": 2,
+          "id": "AST010"
+        },
+        {
+          "count": 2,
+          "id": "AUA009"
+        },
+        {
+          "count": 2,
+          "id": "FAB277"
+        },
+        {
+          "count": 2,
+          "id": "AST011"
+        },
+        {
+          "count": 2,
+          "id": "OSC018"
+        },
+        {
+          "count": 2,
+          "id": "OSC019"
+        },
+        {
+          "count": 2,
+          "id": "OSC021"
+        },
+        {
+          "count": 2,
+          "id": "OSC022"
+        },
+        {
+          "count": 2,
+          "id": "OSC023"
+        }
+      ],
+      "Instant": [
+        {
+          "count": 2,
+          "id": "LGS335"
+        },
+        {
+          "count": 2,
+          "id": "AST020"
+        },
+        {
+          "count": 2,
+          "id": "LGS324"
+        },
+        {
+          "count": 2,
+          "id": "LGS327"
+        },
+        {
+          "count": 2,
+          "id": "AUA026"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "LGS334"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "AUA003"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "LGS319"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "LGS318"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "LGS315"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "OSC001"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Rosetta - Aurora (Elemental Runeblade)",
+    "id": "01ccca35-e0c4-4fda-97c4-fa3dc2f83b35",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-02T00:43:55.531Z",
+    "lastModifiedAt": "2025-08-02T00:45:22.350Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Chosen_Weapon1",
+        "Equipment_Arms",
+        "Equipment_Legs",
+        "Equipment_Head",
+        "Equipment_Chest",
+        "Action",
+        "Instant"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "AUA007"
+        },
+        {
+          "count": 2,
+          "id": "AST010"
+        },
+        {
+          "count": 2,
+          "id": "AUA009"
+        },
+        {
+          "count": 2,
+          "id": "AUA010"
+        },
+        {
+          "count": 2,
+          "id": "AUA011"
+        },
+        {
+          "count": 2,
+          "id": "AUA012"
+        },
+        {
+          "count": 2,
+          "id": "AST011"
+        },
+        {
+          "count": 2,
+          "id": "AUA014"
+        },
+        {
+          "count": 2,
+          "id": "AUA015"
+        },
+        {
+          "count": 2,
+          "id": "AUA016"
+        },
+        {
+          "count": 2,
+          "id": "AUA019"
+        },
+        {
+          "count": 2,
+          "id": "AST025"
+        },
+        {
+          "count": 2,
+          "id": "AUA021"
+        },
+        {
+          "count": 2,
+          "id": "AUA022"
+        },
+        {
+          "count": 2,
+          "id": "AUA025"
+        },
+        {
+          "count": 2,
+          "id": "AUA023"
+        }
+      ],
+      "Instant": [
+        {
+          "count": 2,
+          "id": "AST017"
+        },
+        {
+          "count": 2,
+          "id": "AST020"
+        },
+        {
+          "count": 2,
+          "id": "AUA024"
+        },
+        {
+          "count": 2,
+          "id": "AUA026"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "AUA004"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "AUA003"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "AUA006"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "AUA005"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "AST002"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "AUA001"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Part the Mistveil - Zen (Mystic Ninja)",
+    "id": "8ed31ef1-c001-461d-8475-655b39ae62bc",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-01T23:05:37.922Z",
+    "lastModifiedAt": "2025-08-01T23:06:20.896Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Arms",
+        "Equipment_Legs",
+        "Equipment_Head",
+        "Equipment_Chest",
+        "Chosen_Weapon1",
+        "Action",
+        "Instant"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "MST173"
+        },
+        {
+          "count": 2,
+          "id": "MST057"
+        },
+        {
+          "count": 2,
+          "id": "DYN050"
+        },
+        {
+          "count": 2,
+          "id": "MST060"
+        },
+        {
+          "count": 2,
+          "id": "DYN056"
+        },
+        {
+          "count": 2,
+          "id": "DYN059"
+        },
+        {
+          "count": 2,
+          "id": "MST063"
+        },
+        {
+          "count": 2,
+          "id": "MST185"
+        },
+        {
+          "count": 2,
+          "id": "MST212"
+        },
+        {
+          "count": 2,
+          "id": "LGS265"
+        },
+        {
+          "count": 2,
+          "id": "MST174"
+        },
+        {
+          "count": 2,
+          "id": "MST064"
+        },
+        {
+          "count": 2,
+          "id": "MST166"
+        },
+        {
+          "count": 2,
+          "id": "MST175"
+        },
+        {
+          "count": 2,
+          "id": "DYN052"
+        },
+        {
+          "count": 2,
+          "id": "MST062"
+        },
+        {
+          "count": 2,
+          "id": "DYN058"
+        },
+        {
+          "count": 2,
+          "id": "MST187"
+        }
+      ],
+      "Instant": [
+        {
+          "count": 1,
+          "id": "ENG027"
+        },
+        {
+          "count": 1,
+          "id": "ENG028"
+        },
+        {
+          "count": 1,
+          "id": "LGS288"
+        },
+        {
+          "count": 1,
+          "id": "LGS289"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "LGS292"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "MST049"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "LGS268"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "LGS273"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "LGS276"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "MST047"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Part the Mistveil - Enigma (Mystic Illusionist)",
+    "id": "2cdf21a9-53f9-405c-829e-2e68430406ca",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-01T22:52:31.466Z",
+    "lastModifiedAt": "2025-08-01T23:04:22.388Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Arms",
+        "Equipment_Head",
+        "Equipment_Legs",
+        "Equipment_Chest",
+        "Chosen_Weapon1",
+        "Action",
+        "Instant",
+        "Defense Reaction"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "ENG007"
+        },
+        {
+          "count": 2,
+          "id": "ENG008"
+        },
+        {
+          "count": 2,
+          "id": "ENG012"
+        },
+        {
+          "count": 2,
+          "id": "ENG016"
+        },
+        {
+          "count": 2,
+          "id": "ENG017"
+        },
+        {
+          "count": 2,
+          "id": "ENG018"
+        },
+        {
+          "count": 2,
+          "id": "ENG019"
+        },
+        {
+          "count": 2,
+          "id": "ENG020"
+        },
+        {
+          "count": 2,
+          "id": "ENG021"
+        },
+        {
+          "count": 2,
+          "id": "ENG014"
+        },
+        {
+          "count": 2,
+          "id": "ENG022"
+        }
+      ],
+      "Instant": [
+        {
+          "count": 2,
+          "id": "ENG009"
+        },
+        {
+          "count": 2,
+          "id": "ENG011"
+        },
+        {
+          "count": 2,
+          "id": "ENG010"
+        },
+        {
+          "count": 2,
+          "id": "ENG013"
+        },
+        {
+          "count": 1,
+          "id": "ENG026"
+        },
+        {
+          "count": 2,
+          "id": "ENG023"
+        },
+        {
+          "count": 1,
+          "id": "ENG027"
+        },
+        {
+          "count": 1,
+          "id": "ENG028"
+        },
+        {
+          "count": 2,
+          "id": "ENG024"
+        },
+        {
+          "count": 1,
+          "id": "MST095"
+        }
+      ],
+      "Defense Reaction": [
+        {
+          "count": 2,
+          "id": "ENG015"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "ENG002"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "ENG004"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "ENG006"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "ENG003"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "ENG005"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "ENG001"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Part the Mistveil - Nuu (Mystic Assassin)",
+    "id": "28ae31f8-f4e9-40b8-a117-ff02f7cec67d",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-01T22:51:05.906Z",
+    "lastModifiedAt": "2025-08-01T22:52:08.473Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Legs",
+        "Equipment_Chest",
+        "Equipment_Arms",
+        "Equipment_Head",
+        "Chosen_Weapon2",
+        "Chosen_Weapon1",
+        "Action",
+        "Attack Reaction",
+        "Instant"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "MST106"
+        },
+        {
+          "count": 2,
+          "id": "MST115"
+        },
+        {
+          "count": 2,
+          "id": "MST118"
+        },
+        {
+          "count": 2,
+          "id": "MST112"
+        },
+        {
+          "count": 2,
+          "id": "MST121"
+        },
+        {
+          "count": 2,
+          "id": "MST124"
+        },
+        {
+          "count": 2,
+          "id": "MST111"
+        },
+        {
+          "count": 2,
+          "id": "MST117"
+        },
+        {
+          "count": 2,
+          "id": "FAB240"
+        },
+        {
+          "count": 2,
+          "id": "MST120"
+        },
+        {
+          "count": 2,
+          "id": "MST202"
+        },
+        {
+          "count": 2,
+          "id": "MST123"
+        },
+        {
+          "count": 2,
+          "id": "MST126"
+        },
+        {
+          "count": 2,
+          "id": "MST088"
+        }
+      ],
+      "Attack Reaction": [
+        {
+          "count": 2,
+          "id": "MST014"
+        },
+        {
+          "count": 2,
+          "id": "MST020"
+        },
+        {
+          "count": 2,
+          "id": "MST015"
+        },
+        {
+          "count": 2,
+          "id": "MST016"
+        },
+        {
+          "count": 2,
+          "id": "MST013"
+        }
+      ],
+      "Instant": [
+        {
+          "count": 1,
+          "id": "LGS284"
+        },
+        {
+          "count": 1,
+          "id": "LGS285"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "LGS290"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "LGS290"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "LGS274"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "LGS269"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "LGS275"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "LGS270"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "MST002"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Heavy Hitters - Kassai (Warrior)",
+    "id": "250dee0b-d540-4f14-b7e4-ca3532fff9f4",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-01T22:49:22.082Z",
+    "lastModifiedAt": "2025-08-01T22:50:26.081Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Chest",
+        "Equipment_Head",
+        "Equipment_Legs",
+        "Equipment_Arms",
+        "Chosen_Weapon2",
+        "Chosen_Weapon1",
+        "Attack Reaction",
+        "Action",
+        "Instant"
+      ],
+      "Sideboard": [],
+      "Attack Reaction": [
+        {
+          "count": 2,
+          "id": "HVY115"
+        },
+        {
+          "count": 2,
+          "id": "HVY106"
+        },
+        {
+          "count": 2,
+          "id": "HVY118"
+        },
+        {
+          "count": 2,
+          "id": "HVY110"
+        },
+        {
+          "count": 2,
+          "id": "HVY117"
+        },
+        {
+          "count": 2,
+          "id": "HVY120"
+        }
+      ],
+      "Action": [
+        {
+          "count": 2,
+          "id": "HVY121"
+        },
+        {
+          "count": 2,
+          "id": "HVY172"
+        },
+        {
+          "count": 2,
+          "id": "FAB202"
+        },
+        {
+          "count": 2,
+          "id": "HVY183"
+        },
+        {
+          "count": 2,
+          "id": "HVY166"
+        },
+        {
+          "count": 2,
+          "id": "FAI021"
+        },
+        {
+          "count": 2,
+          "id": "HVY122"
+        },
+        {
+          "count": 2,
+          "id": "HVY128"
+        },
+        {
+          "count": 2,
+          "id": "HVY173"
+        },
+        {
+          "count": 2,
+          "id": "HVY232"
+        },
+        {
+          "count": 2,
+          "id": "HVY123"
+        },
+        {
+          "count": 2,
+          "id": "HVY129"
+        },
+        {
+          "count": 2,
+          "id": "HVY133"
+        }
+      ],
+      "Instant": [
+        {
+          "count": 2,
+          "id": "HVY160"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "CRU079"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "HVY095"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "HVY100"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "HVY155"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "HVY099"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "BET005"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "HVY091"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Heavy Hitters - Rhinar (Brute)",
+    "id": "8883136f-5e71-46ff-9f74-15ad96b9f392",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-01T22:48:10.088Z",
+    "lastModifiedAt": "2025-08-01T22:48:58.888Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Chest",
+        "Equipment_Head",
+        "Equipment_Arms",
+        "Equipment_Legs",
+        "Chosen_Weapon2",
+        "Chosen_Weapon1",
+        "Action"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "HVY163"
+        },
+        {
+          "count": 2,
+          "id": "HVY026"
+        },
+        {
+          "count": 2,
+          "id": "AKO007"
+        },
+        {
+          "count": 2,
+          "id": "HVY017"
+        },
+        {
+          "count": 2,
+          "id": "HVY041"
+        },
+        {
+          "count": 2,
+          "id": "HVY143"
+        },
+        {
+          "count": 2,
+          "id": "HVY032"
+        },
+        {
+          "count": 2,
+          "id": "HVY035"
+        },
+        {
+          "count": 2,
+          "id": "HVY023"
+        },
+        {
+          "count": 2,
+          "id": "HVY164"
+        },
+        {
+          "count": 2,
+          "id": "HVY042"
+        },
+        {
+          "count": 2,
+          "id": "HVY144"
+        },
+        {
+          "count": 2,
+          "id": "HVY021"
+        },
+        {
+          "count": 2,
+          "id": "AKO018"
+        },
+        {
+          "count": 2,
+          "id": "HVY043"
+        },
+        {
+          "count": 2,
+          "id": "HVY154"
+        },
+        {
+          "count": 2,
+          "id": "HVY174"
+        },
+        {
+          "count": 2,
+          "id": "HVY034"
+        },
+        {
+          "count": 2,
+          "id": "AKO021"
+        },
+        {
+          "count": 2,
+          "id": "HVY044"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "HVY006"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "AKO002"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "HVY155"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "BET006"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "HVY010"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "HVY011"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "HER005"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Heavy Hitters - Victor (Guardian)",
+    "id": "df5e8d8b-8d5d-4748-9862-be7d6abc6b5a",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-01T22:46:58.730Z",
+    "lastModifiedAt": "2025-08-01T22:47:47.254Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Chest",
+        "Chosen_Weapon2",
+        "Equipment_Legs",
+        "Equipment_Head",
+        "Equipment_Arms",
+        "Chosen_Weapon1",
+        "Action",
+        "Block"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "BET008"
+        },
+        {
+          "count": 2,
+          "id": "BET009"
+        },
+        {
+          "count": 2,
+          "id": "AKO011"
+        },
+        {
+          "count": 2,
+          "id": "HVY077"
+        },
+        {
+          "count": 2,
+          "id": "HVY144"
+        },
+        {
+          "count": 2,
+          "id": "HVY226"
+        },
+        {
+          "count": 2,
+          "id": "HVY229"
+        },
+        {
+          "count": 2,
+          "id": "HVY078"
+        },
+        {
+          "count": 2,
+          "id": "HVY081"
+        },
+        {
+          "count": 2,
+          "id": "HVY139"
+        },
+        {
+          "count": 2,
+          "id": "HVY179"
+        },
+        {
+          "count": 2,
+          "id": "BET019"
+        },
+        {
+          "count": 2,
+          "id": "BET020"
+        },
+        {
+          "count": 2,
+          "id": "AKO020"
+        },
+        {
+          "count": 2,
+          "id": "HVY227"
+        },
+        {
+          "count": 2,
+          "id": "HVY079"
+        },
+        {
+          "count": 2,
+          "id": "HVY082"
+        }
+      ],
+      "Block": [
+        {
+          "count": 2,
+          "id": "HVY141"
+        },
+        {
+          "count": 2,
+          "id": "FAB199"
+        },
+        {
+          "count": 2,
+          "id": "HVY182"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "HVY050"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "BET006"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "HVY054"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "BET007"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "HVY052"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "BET005"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "HVY048"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Heavy Hitters - Betsy (Guardian)",
+    "id": "d4a2490c-1c65-4c59-837c-962eb2579f5b",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-01T22:45:34.748Z",
+    "lastModifiedAt": "2025-08-01T22:46:35.497Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Chest",
+        "Equipment_Legs",
+        "Equipment_Head",
+        "Equipment_Arms",
+        "Chosen_Weapon2",
+        "Chosen_Weapon1",
+        "Action",
+        "Attack Reaction"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "BET015"
+        },
+        {
+          "count": 2,
+          "id": "BET016"
+        },
+        {
+          "count": 2,
+          "id": "BET008"
+        },
+        {
+          "count": 2,
+          "id": "BET009"
+        },
+        {
+          "count": 2,
+          "id": "BET017"
+        },
+        {
+          "count": 2,
+          "id": "BET010"
+        },
+        {
+          "count": 2,
+          "id": "BET011"
+        },
+        {
+          "count": 2,
+          "id": "BET012"
+        },
+        {
+          "count": 2,
+          "id": "BET013"
+        },
+        {
+          "count": 2,
+          "id": "BET014"
+        },
+        {
+          "count": 2,
+          "id": "BET018"
+        },
+        {
+          "count": 2,
+          "id": "BET023"
+        },
+        {
+          "count": 2,
+          "id": "BET024"
+        },
+        {
+          "count": 2,
+          "id": "BET019"
+        },
+        {
+          "count": 2,
+          "id": "BET020"
+        },
+        {
+          "count": 2,
+          "id": "BET025"
+        },
+        {
+          "count": 2,
+          "id": "BET021"
+        },
+        {
+          "count": 2,
+          "id": "BET026"
+        },
+        {
+          "count": 2,
+          "id": "BET027"
+        }
+      ],
+      "Attack Reaction": [
+        {
+          "count": 2,
+          "id": "BEN026"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "BET002"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "BET003"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "BET006"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "BET004"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "BET007"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "BET005"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "BET001"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Heavy Hitters - Kayo (Brute)",
+    "id": "96d9207a-fd43-419b-9d1e-c9fd05621d51",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-01T22:43:52.610Z",
+    "lastModifiedAt": "2025-08-01T22:45:10.471Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Chest",
+        "Equipment_Head",
+        "Equipment_Arms",
+        "Equipment_Legs",
+        "Chosen_Weapon1",
+        "Action",
+        "Block"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "HVY163"
+        },
+        {
+          "count": 2,
+          "id": "AKO007"
+        },
+        {
+          "count": 2,
+          "id": "HVY213"
+        },
+        {
+          "count": 2,
+          "id": "HVY152"
+        },
+        {
+          "count": 2,
+          "id": "HVY172"
+        },
+        {
+          "count": 2,
+          "id": "AKO011"
+        },
+        {
+          "count": 2,
+          "id": "HVY146"
+        },
+        {
+          "count": 2,
+          "id": "AKO014"
+        },
+        {
+          "count": 2,
+          "id": "HVY164"
+        },
+        {
+          "count": 2,
+          "id": "AKO016"
+        },
+        {
+          "count": 2,
+          "id": "HVY021"
+        },
+        {
+          "count": 2,
+          "id": "HVY229"
+        },
+        {
+          "count": 2,
+          "id": "HVY147"
+        },
+        {
+          "count": 2,
+          "id": "EVR012"
+        },
+        {
+          "count": 2,
+          "id": "AKO017"
+        },
+        {
+          "count": 2,
+          "id": "HVY154"
+        },
+        {
+          "count": 2,
+          "id": "HVY174"
+        },
+        {
+          "count": 2,
+          "id": "AKO020"
+        },
+        {
+          "count": 2,
+          "id": "HVY022"
+        }
+      ],
+      "Block": [
+        {
+          "count": 2,
+          "id": "HVY161"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "HVY007"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "HVY155"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "BET006"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "AKO003"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "HVY011"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "HVY002"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Heavy Hitters - Olympia (Warrior)",
+    "id": "434e6eb3-1cbd-4adb-868f-74d8ec68b79a",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-01T22:42:06.647Z",
+    "lastModifiedAt": "2025-08-01T22:43:21.998Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Chest",
+        "Equipment_Head",
+        "Chosen_Weapon2",
+        "Equipment_Legs",
+        "Equipment_Arms",
+        "Chosen_Weapon1",
+        "Attack Reaction",
+        "Action"
+      ],
+      "Sideboard": [],
+      "Attack Reaction": [
+        {
+          "count": 2,
+          "id": "HVY115"
+        },
+        {
+          "count": 2,
+          "id": "HVY109"
+        },
+        {
+          "count": 2,
+          "id": "HVY112"
+        },
+        {
+          "count": 2,
+          "id": "HVY117"
+        },
+        {
+          "count": 2,
+          "id": "HVY108"
+        }
+      ],
+      "Action": [
+        {
+          "count": 2,
+          "id": "HVY124"
+        },
+        {
+          "count": 2,
+          "id": "HVY127"
+        },
+        {
+          "count": 2,
+          "id": "HVY130"
+        },
+        {
+          "count": 2,
+          "id": "HVY172"
+        },
+        {
+          "count": 2,
+          "id": "HVY183"
+        },
+        {
+          "count": 2,
+          "id": "HVY166"
+        },
+        {
+          "count": 2,
+          "id": "HVY169"
+        },
+        {
+          "count": 2,
+          "id": "BET014"
+        },
+        {
+          "count": 2,
+          "id": "HVY125"
+        },
+        {
+          "count": 2,
+          "id": "HVY173"
+        },
+        {
+          "count": 2,
+          "id": "HVY126"
+        },
+        {
+          "count": 2,
+          "id": "HVY129"
+        },
+        {
+          "count": 2,
+          "id": "HVY132"
+        },
+        {
+          "count": 2,
+          "id": "HVY171"
+        },
+        {
+          "count": 2,
+          "id": "HVY191"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "CRU079"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "HVY100"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "HVY155"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "HVY096"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "HVY098"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "BET005"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "HVY093"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tales of Aria - Oldhim (Elemental Guardian)",
+    "id": "d639860c-aabd-4b0b-89b3-2203b4143af8",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-01T22:39:51.859Z",
+    "lastModifiedAt": "2025-08-01T22:40:51.403Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Chosen_Weapon2",
+        "Chosen_Weapon1",
+        "Equipment_Legs",
+        "Equipment_Head",
+        "Equipment_Arms",
+        "Equipment_Chest",
+        "Action",
+        "Defense Reaction"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 1,
+          "id": "ELE206"
+        },
+        {
+          "count": 1,
+          "id": "ELE148"
+        },
+        {
+          "count": 2,
+          "id": "ELE016"
+        },
+        {
+          "count": 2,
+          "id": "AJV012"
+        },
+        {
+          "count": 2,
+          "id": "ELE028"
+        },
+        {
+          "count": 2,
+          "id": "ELE209"
+        },
+        {
+          "count": 1,
+          "id": "ELE154"
+        },
+        {
+          "count": 2,
+          "id": "ELE167"
+        },
+        {
+          "count": 2,
+          "id": "ELE170"
+        },
+        {
+          "count": 2,
+          "id": "AJV026"
+        },
+        {
+          "count": 2,
+          "id": "AJV014"
+        },
+        {
+          "count": 2,
+          "id": "ELE133"
+        },
+        {
+          "count": 2,
+          "id": "BRI024"
+        },
+        {
+          "count": 2,
+          "id": "ELE015"
+        },
+        {
+          "count": 1,
+          "id": "ELE121"
+        },
+        {
+          "count": 2,
+          "id": "AJV015"
+        },
+        {
+          "count": 2,
+          "id": "ELE021"
+        },
+        {
+          "count": 2,
+          "id": "ELE024"
+        },
+        {
+          "count": 2,
+          "id": "AJV023"
+        },
+        {
+          "count": 2,
+          "id": "ELE211"
+        },
+        {
+          "count": 2,
+          "id": "AJV016"
+        }
+      ],
+      "Defense Reaction": [
+        {
+          "count": 1,
+          "id": "ELE010"
+        },
+        {
+          "count": 1,
+          "id": "ELE008"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "ELE145"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "BVO006"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "BVO004"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "DRO008"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "ELE202"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "ELE204"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "ELE002"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tales of Aria - Briar (Elemental Runeblade)",
+    "id": "89f3fbac-5cad-40e7-aafd-3aeaaee34486",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-01T22:38:34.017Z",
+    "lastModifiedAt": "2025-08-01T22:39:19.950Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Chosen_Weapon1",
+        "Equipment_Legs",
+        "Equipment_Head",
+        "Equipment_Arms",
+        "Equipment_Chest",
+        "Action",
+        "Instant"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "BRI012"
+        },
+        {
+          "count": 2,
+          "id": "BRI017"
+        },
+        {
+          "count": 2,
+          "id": "BRI019"
+        },
+        {
+          "count": 2,
+          "id": "BRI016"
+        },
+        {
+          "count": 2,
+          "id": "AST009"
+        },
+        {
+          "count": 1,
+          "id": "BRI018"
+        },
+        {
+          "count": 1,
+          "id": "BRI009"
+        },
+        {
+          "count": 1,
+          "id": "BRI027"
+        },
+        {
+          "count": 2,
+          "id": "BRI010"
+        },
+        {
+          "count": 2,
+          "id": "BRI020"
+        },
+        {
+          "count": 2,
+          "id": "BRI011"
+        },
+        {
+          "count": 1,
+          "id": "BRI021"
+        },
+        {
+          "count": 2,
+          "id": "BRI022"
+        },
+        {
+          "count": 2,
+          "id": "BRI030"
+        },
+        {
+          "count": 1,
+          "id": "BRI031"
+        },
+        {
+          "count": 2,
+          "id": "AUR018"
+        },
+        {
+          "count": 2,
+          "id": "BRI013"
+        },
+        {
+          "count": 2,
+          "id": "BRI026"
+        },
+        {
+          "count": 2,
+          "id": "BRI015"
+        },
+        {
+          "count": 2,
+          "id": "BRI024"
+        },
+        {
+          "count": 2,
+          "id": "BRI014"
+        },
+        {
+          "count": 2,
+          "id": "BRI025"
+        }
+      ],
+      "Instant": [
+        {
+          "count": 1,
+          "id": "BRI023"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "BRI006"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "BRI007"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "BRI005"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "BRI008"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "BRI004"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "BRI001"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tales of Aria - Lexi (Elemental Ranger)",
+    "id": "29d97dff-3aef-4202-8360-c781913c6b18",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-01T22:36:51.808Z",
+    "lastModifiedAt": "2025-08-01T22:37:54.837Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Chosen_Weapon1",
+        "Equipment_Arms",
+        "Equipment_Legs",
+        "Equipment_Head",
+        "Equipment_Chest",
+        "Action",
+        "Instant",
+        "Defense Reaction"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "ELE044"
+        },
+        {
+          "count": 1,
+          "id": "AAZ009"
+        },
+        {
+          "count": 2,
+          "id": "ELE047"
+        },
+        {
+          "count": 2,
+          "id": "ELE053"
+        },
+        {
+          "count": 2,
+          "id": "ELE198"
+        },
+        {
+          "count": 2,
+          "id": "AST009"
+        },
+        {
+          "count": 2,
+          "id": "ELE059"
+        },
+        {
+          "count": 2,
+          "id": "AUA010"
+        },
+        {
+          "count": 2,
+          "id": "ELE219"
+        },
+        {
+          "count": 2,
+          "id": "ELE195"
+        },
+        {
+          "count": 1,
+          "id": "ELE041"
+        },
+        {
+          "count": 1,
+          "id": "ARC054"
+        },
+        {
+          "count": 1,
+          "id": "ELE180"
+        },
+        {
+          "count": 2,
+          "id": "ELE048"
+        },
+        {
+          "count": 2,
+          "id": "ELE164"
+        },
+        {
+          "count": 2,
+          "id": "ELE051"
+        },
+        {
+          "count": 2,
+          "id": "ELE060"
+        },
+        {
+          "count": 2,
+          "id": "AUR017"
+        },
+        {
+          "count": 2,
+          "id": "ELE201"
+        },
+        {
+          "count": 2,
+          "id": "ELE200"
+        },
+        {
+          "count": 2,
+          "id": "AJV025"
+        }
+      ],
+      "Instant": [
+        {
+          "count": 1,
+          "id": "AST021"
+        }
+      ],
+      "Defense Reaction": [
+        {
+          "count": 1,
+          "id": "CRU127"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "DRO006"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "ELE214"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "AUR006"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "ELE174"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "ELE033"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "ELE032"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Monarch - Boltyn (Light Warrior)",
+    "id": "af0dfeda-24a0-4cdd-a483-4c5457a53342",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-01T22:35:31.628Z",
+    "lastModifiedAt": "2025-08-01T22:36:16.207Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Chest",
+        "Equipment_Legs",
+        "Equipment_Head",
+        "Equipment_Arms",
+        "Chosen_Weapon2",
+        "Chosen_Weapon1",
+        "Action",
+        "Attack Reaction",
+        "Mentor"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 1,
+          "id": "BOL010"
+        },
+        {
+          "count": 2,
+          "id": "ASB008"
+        },
+        {
+          "count": 2,
+          "id": "BOL013"
+        },
+        {
+          "count": 1,
+          "id": "BOL029"
+        },
+        {
+          "count": 2,
+          "id": "ASB009"
+        },
+        {
+          "count": 2,
+          "id": "ASB010"
+        },
+        {
+          "count": 1,
+          "id": "BOL024"
+        },
+        {
+          "count": 2,
+          "id": "BOL030"
+        },
+        {
+          "count": 2,
+          "id": "BOL025"
+        },
+        {
+          "count": 2,
+          "id": "ASB013"
+        },
+        {
+          "count": 1,
+          "id": "BOL017"
+        },
+        {
+          "count": 2,
+          "id": "BOL019"
+        },
+        {
+          "count": 2,
+          "id": "BOL020"
+        },
+        {
+          "count": 2,
+          "id": "BOL026"
+        },
+        {
+          "count": 2,
+          "id": "ASB022"
+        },
+        {
+          "count": 1,
+          "id": "ASB023"
+        },
+        {
+          "count": 2,
+          "id": "BOL022"
+        },
+        {
+          "count": 2,
+          "id": "BOL023"
+        },
+        {
+          "count": 2,
+          "id": "BOL027"
+        },
+        {
+          "count": 2,
+          "id": "BOL028"
+        }
+      ],
+      "Attack Reaction": [
+        {
+          "count": 2,
+          "id": "ASB014"
+        },
+        {
+          "count": 2,
+          "id": "BOL018"
+        }
+      ],
+      "Mentor": [
+        {
+          "count": 1,
+          "id": "BOL002"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "BOL003"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "BOL004"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "BOL007"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "BOL005"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "ARA006"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "BOL006"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "BOL001"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Monarch - Chane (Shadow Runeblade)",
+    "id": "9fb01127-2958-4c62-b9c2-6cd61d41c48e",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-01T22:33:30.546Z",
+    "lastModifiedAt": "2025-08-01T22:34:34.972Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Arms",
+        "Equipment_Legs",
+        "Equipment_Head",
+        "Equipment_Chest",
+        "Chosen_Weapon1",
+        "Action",
+        "Mentor"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "CHN009"
+        },
+        {
+          "count": 2,
+          "id": "CHN025"
+        },
+        {
+          "count": 2,
+          "id": "CHN021"
+        },
+        {
+          "count": 1,
+          "id": "CHN022"
+        },
+        {
+          "count": 2,
+          "id": "CHN010"
+        },
+        {
+          "count": 2,
+          "id": "CHN011"
+        },
+        {
+          "count": 2,
+          "id": "CHN012"
+        },
+        {
+          "count": 2,
+          "id": "CHN013"
+        },
+        {
+          "count": 2,
+          "id": "CHN014"
+        },
+        {
+          "count": 1,
+          "id": "CHN008"
+        },
+        {
+          "count": 1,
+          "id": "CHN015"
+        },
+        {
+          "count": 1,
+          "id": "CHN026"
+        },
+        {
+          "count": 2,
+          "id": "CHN028"
+        },
+        {
+          "count": 2,
+          "id": "CHN023"
+        },
+        {
+          "count": 2,
+          "id": "CHN016"
+        },
+        {
+          "count": 1,
+          "id": "CHN017"
+        },
+        {
+          "count": 2,
+          "id": "CHN024"
+        },
+        {
+          "count": 2,
+          "id": "CHN029"
+        },
+        {
+          "count": 2,
+          "id": "AST024"
+        },
+        {
+          "count": 2,
+          "id": "CHN018"
+        },
+        {
+          "count": 2,
+          "id": "CHN019"
+        },
+        {
+          "count": 2,
+          "id": "CHN020"
+        }
+      ],
+      "Mentor": [
+        {
+          "count": 1,
+          "id": "CHN002"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "CHN003"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "CHN005"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "CHN004"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "ARA006"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "CHN006"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "CHN001"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Monarch - Levia (Brute)",
+    "id": "472b59b6-9d27-4711-8444-fe01832fa675",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-01T22:26:11.123Z",
+    "lastModifiedAt": "2025-08-01T22:30:24.574Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Chosen_Weapon1",
+        "Equipment_Chest",
+        "Equipment_Legs",
+        "Equipment_Arms",
+        "Equipment_Head",
+        "Action",
+        "Instant",
+        "Mentor"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "FAB023"
+        },
+        {
+          "count": 1,
+          "id": "LEV023"
+        },
+        {
+          "count": 2,
+          "id": "LEV010"
+        },
+        {
+          "count": 2,
+          "id": "LEV011"
+        },
+        {
+          "count": 1,
+          "id": "LEV012"
+        },
+        {
+          "count": 2,
+          "id": "LEV013"
+        },
+        {
+          "count": 2,
+          "id": "LEV014"
+        },
+        {
+          "count": 2,
+          "id": "AKO011"
+        },
+        {
+          "count": 2,
+          "id": "LEV026"
+        },
+        {
+          "count": 2,
+          "id": "LEV015"
+        },
+        {
+          "count": 1,
+          "id": "LEV016"
+        },
+        {
+          "count": 2,
+          "id": "LEV017"
+        },
+        {
+          "count": 2,
+          "id": "CHN023"
+        },
+        {
+          "count": 2,
+          "id": "LEV027"
+        },
+        {
+          "count": 2,
+          "id": "LEV018"
+        },
+        {
+          "count": 1,
+          "id": "LEV019"
+        },
+        {
+          "count": 2,
+          "id": "LEV020"
+        },
+        {
+          "count": 2,
+          "id": "LEV021"
+        },
+        {
+          "count": 2,
+          "id": "HVY230"
+        },
+        {
+          "count": 1,
+          "id": "LEV008"
+        },
+        {
+          "count": 2,
+          "id": "LEV022"
+        }
+      ],
+      "Instant": [
+        {
+          "count": 2,
+          "id": "LEV025"
+        }
+      ],
+      "Mentor": [
+        {
+          "count": 1,
+          "id": "FAB045"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "CHN004"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "BVO006"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "LEV007"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "BOL006"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "LEV003"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "DTD104"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Monarch - Prism (Light Illusionist)",
+    "id": "cbc95aef-454f-44a0-a395-50b78bc08137",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-01T22:21:48.502Z",
+    "lastModifiedAt": "2025-08-01T22:30:44.573Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Chosen_Weapon1",
+        "Equipment_Legs",
+        "Equipment_Chest",
+        "Equipment_Head",
+        "Equipment_Arms",
+        "Action",
+        "Instant",
+        "Mentor"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "DTD014"
+        },
+        {
+          "count": 2,
+          "id": "DTD017"
+        },
+        {
+          "count": 2,
+          "id": "DTD020"
+        },
+        {
+          "count": 2,
+          "id": "DTD023"
+        },
+        {
+          "count": 2,
+          "id": "MON072"
+        },
+        {
+          "count": 1,
+          "id": "LGS054"
+        },
+        {
+          "count": 2,
+          "id": "MON081"
+        },
+        {
+          "count": 2,
+          "id": "DTD029"
+        },
+        {
+          "count": 2,
+          "id": "MON099"
+        },
+        {
+          "count": 1,
+          "id": "DTD013"
+        },
+        {
+          "count": 2,
+          "id": "BOL026"
+        },
+        {
+          "count": 2,
+          "id": "MON100"
+        },
+        {
+          "count": 2,
+          "id": "DTD016"
+        },
+        {
+          "count": 2,
+          "id": "DTD019"
+        },
+        {
+          "count": 2,
+          "id": "DTD022"
+        },
+        {
+          "count": 2,
+          "id": "DTD025"
+        },
+        {
+          "count": 2,
+          "id": "BOL027"
+        },
+        {
+          "count": 2,
+          "id": "MON103"
+        },
+        {
+          "count": 2,
+          "id": "DTD031"
+        }
+      ],
+      "Instant": [
+        {
+          "count": 1,
+          "id": "MON092"
+        },
+        {
+          "count": 1,
+          "id": "FAB026"
+        },
+        {
+          "count": 1,
+          "id": "FAB027"
+        }
+      ],
+      "Mentor": [
+        {
+          "count": 1,
+          "id": "FAB043"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "HER034"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "MON090"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "BOL005"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "BRI006"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "AUR029"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "FAB098"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Uprising - Dromai (Draconic Illusionist)",
+    "id": "c3b74f8f-4361-42b1-af22-75653d73b1bf",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-01T19:42:57.551Z",
+    "lastModifiedAt": "2025-08-01T22:31:03.871Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Chosen_Weapon1",
+        "Equipment_Arms",
+        "Equipment_Legs",
+        "Equipment_Head",
+        "Equipment_Chest",
+        "Action",
+        "Instant",
+        "Defense Reaction"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "DRO012"
+        },
+        {
+          "count": 2,
+          "id": "CRU192"
+        },
+        {
+          "count": 2,
+          "id": "DRO023"
+        },
+        {
+          "count": 2,
+          "id": "DRO015"
+        },
+        {
+          "count": 2,
+          "id": "DRO014"
+        },
+        {
+          "count": 2,
+          "id": "DRO016"
+        },
+        {
+          "count": 2,
+          "id": "DRO020"
+        },
+        {
+          "count": 2,
+          "id": "DRO025"
+        },
+        {
+          "count": 2,
+          "id": "DRO010"
+        },
+        {
+          "count": 2,
+          "id": "DRO011"
+        },
+        {
+          "count": 2,
+          "id": "AAZ012"
+        },
+        {
+          "count": 2,
+          "id": "DRO009"
+        },
+        {
+          "count": 2,
+          "id": "DRO013"
+        },
+        {
+          "count": 2,
+          "id": "DRO019"
+        },
+        {
+          "count": 2,
+          "id": "DRO017"
+        },
+        {
+          "count": 2,
+          "id": "DRO022"
+        },
+        {
+          "count": 2,
+          "id": "DRO018"
+        }
+      ],
+      "Instant": [
+        {
+          "count": 2,
+          "id": "DRO027"
+        },
+        {
+          "count": 2,
+          "id": "DRO026"
+        }
+      ],
+      "Defense Reaction": [
+        {
+          "count": 2,
+          "id": "ASB016"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "DRO001"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "DRO006"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "DRO005"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "DRO008"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "DRO007"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "DRO004"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Uprising - Fai (Draconic Ninja)",
+    "id": "0d4bf7ca-834e-4cf8-bd74-20d6d9f11911",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 46,
+    "createdAt": "2025-08-01T19:35:51.267Z",
+    "lastModifiedAt": "2025-08-01T22:31:19.237Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Equipment_Chest",
+        "Equipment_Legs",
+        "Equipment_Head",
+        "Equipment_Arms",
+        "Chosen_Weapon1",
+        "Action"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "CIN008"
+        },
+        {
+          "count": 2,
+          "id": "FAI020"
+        },
+        {
+          "count": 2,
+          "id": "FAI016"
+        },
+        {
+          "count": 2,
+          "id": "CIN011"
+        },
+        {
+          "count": 2,
+          "id": "FAI013"
+        },
+        {
+          "count": 2,
+          "id": "FAI012"
+        },
+        {
+          "count": 1,
+          "id": "FAI022"
+        },
+        {
+          "count": 2,
+          "id": "FAI011"
+        },
+        {
+          "count": 2,
+          "id": "FAI015"
+        },
+        {
+          "count": 2,
+          "id": "FAI008"
+        },
+        {
+          "count": 2,
+          "id": "FAI017"
+        },
+        {
+          "count": 1,
+          "id": "FAI009"
+        },
+        {
+          "count": 2,
+          "id": "FAI007"
+        },
+        {
+          "count": 2,
+          "id": "CIN018"
+        },
+        {
+          "count": 2,
+          "id": "FAI014"
+        },
+        {
+          "count": 2,
+          "id": "FAI021"
+        },
+        {
+          "count": 2,
+          "id": "FAI026"
+        },
+        {
+          "count": 2,
+          "id": "FAI024"
+        },
+        {
+          "count": 2,
+          "id": "FAI025"
+        },
+        {
+          "count": 2,
+          "id": "FAI023"
+        },
+        {
+          "count": 2,
+          "id": "FAI027"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "FAI001"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "FAB147"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "FAI005"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "FAI003"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "FAI006"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "FAI004"
+        }
+      ]
+    }
+  },
+  {
+    "title": "HuntedX - Cindra (Royal Draconic Ninja)",
+    "id": "fad95974-3911-4a5e-9f3d-0c40f3628f38",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-01T18:53:03.099Z",
+    "lastModifiedAt": "2025-08-01T22:31:42.947Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Chosen_Weapon2",
+        "Equipment_Head",
+        "Equipment_Legs",
+        "Equipment_Arms",
+        "Equipment_Chest",
+        "Action",
+        "Defense Reaction"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "CIN007"
+        },
+        {
+          "count": 2,
+          "id": "CIN008"
+        },
+        {
+          "count": 2,
+          "id": "CIN009"
+        },
+        {
+          "count": 2,
+          "id": "CIN010"
+        },
+        {
+          "count": 2,
+          "id": "CIN011"
+        },
+        {
+          "count": 2,
+          "id": "CIN012"
+        },
+        {
+          "count": 2,
+          "id": "CIN013"
+        },
+        {
+          "count": 2,
+          "id": "CIN014"
+        },
+        {
+          "count": 1,
+          "id": "CIN015"
+        },
+        {
+          "count": 2,
+          "id": "CIN016"
+        },
+        {
+          "count": 2,
+          "id": "CIN017"
+        },
+        {
+          "count": 2,
+          "id": "CIN018"
+        },
+        {
+          "count": 2,
+          "id": "CIN019"
+        },
+        {
+          "count": 2,
+          "id": "CIN020"
+        },
+        {
+          "count": 1,
+          "id": "CIN021"
+        },
+        {
+          "count": 2,
+          "id": "CIN022"
+        },
+        {
+          "count": 2,
+          "id": "CIN023"
+        },
+        {
+          "count": 2,
+          "id": "CIN024"
+        },
+        {
+          "count": 2,
+          "id": "CIN025"
+        },
+        {
+          "count": 2,
+          "id": "CIN026"
+        }
+      ],
+      "Defense Reaction": [
+        {
+          "count": 2,
+          "id": "CIN027"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "CIN004"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "ARK005"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "CIN006"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "CIN001"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "CIN003"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 2,
+          "id": "CIN002"
+        }
+      ]
+    }
+  },
+  {
     "title": "Armory Deck: Kayo (Brute)",
     "id": "426951d1-d201-4485-9308-19120124303f",
     "game": "Flash and Blood",
@@ -1640,6 +6933,657 @@
         {
           "count": 1,
           "id": "AKO001"
+        }
+      ]
+    }
+  },
+  {
+    "title": "HuntedX - Arakni, Web of Deceit (Chaos Assassin)",
+    "id": "5b089225-8b8d-495c-8507-e9fb0782b8f6",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-01T04:28:22.264Z",
+    "lastModifiedAt": "2025-08-01T22:32:02.107Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Chosen_Weapon2",
+        "Chosen_Weapon1",
+        "Equipment_Legs",
+        "Equipment_Chest",
+        "Equipment_Head",
+        "Equipment_Arms",
+        "Action",
+        "Defense Reaction",
+        "Attack Reaction"
+      ],
+      "Sideboard": [
+        {
+          "id": "HNT003",
+          "isToken": false,
+          "face": {
+            "front": {
+              "name": "Arakni, Black Widow",
+              "type": "Demi-Hero",
+              "cost": "",
+              "image": "https://storage.googleapis.com/fabmaster/cardfaces/2025-HNT/EN/HNT003.png",
+              "isHorizontal": false
+            }
+          },
+          "name": "Arakni, Black Widow",
+          "type": "Demi-Hero",
+          "cost": "",
+          "Color": "",
+          "Type": [
+            "Chaos",
+            "Assassin",
+            "Demi-Hero"
+          ],
+          "set": "HNT",
+          "isHorizontal": false,
+          "pitch": "",
+          "power": "",
+          "defense": "",
+          "health": "*",
+          "tokens": [],
+          "elementId": "c8aef08a-2bea-4a75-b109-858d24063f23",
+          "count": 1
+        },
+        {
+          "id": "HNT004",
+          "isToken": false,
+          "face": {
+            "front": {
+              "name": "Arakni, Funnel Web",
+              "type": "Demi-Hero",
+              "cost": "",
+              "image": "https://storage.googleapis.com/fabmaster/cardfaces/2025-HNT/EN/HNT004.png",
+              "isHorizontal": false
+            }
+          },
+          "name": "Arakni, Funnel Web",
+          "type": "Demi-Hero",
+          "cost": "",
+          "Color": "",
+          "Type": [
+            "Chaos",
+            "Assassin",
+            "Demi-Hero"
+          ],
+          "set": "HNT",
+          "isHorizontal": false,
+          "pitch": "",
+          "power": "",
+          "defense": "",
+          "health": "*",
+          "tokens": [],
+          "elementId": "b925f497-98d3-43e2-a33f-f27b1d457378",
+          "count": 1
+        },
+        {
+          "id": "HNT005",
+          "isToken": false,
+          "face": {
+            "front": {
+              "name": "Arakni, Orb-Weaver",
+              "type": "Demi-Hero",
+              "cost": "",
+              "image": "https://storage.googleapis.com/fabmaster/cardfaces/2025-HNT/EN/HNT005.png",
+              "isHorizontal": false
+            }
+          },
+          "name": "Arakni, Orb-Weaver",
+          "type": "Demi-Hero",
+          "cost": "",
+          "Color": "",
+          "Type": [
+            "Chaos",
+            "Assassin",
+            "Demi-Hero"
+          ],
+          "set": "HNT",
+          "isHorizontal": false,
+          "pitch": "",
+          "power": "",
+          "defense": "",
+          "health": "*",
+          "tokens": [],
+          "elementId": "94b87180-99bd-4583-8832-08b6154e0e61",
+          "count": 1
+        },
+        {
+          "id": "HNT006",
+          "isToken": false,
+          "face": {
+            "front": {
+              "name": "Arakni, Redback",
+              "type": "Demi-Hero",
+              "cost": "",
+              "image": "https://storage.googleapis.com/fabmaster/cardfaces/2025-HNT/EN/HNT006.png",
+              "isHorizontal": false
+            }
+          },
+          "name": "Arakni, Redback",
+          "type": "Demi-Hero",
+          "cost": "",
+          "Color": "",
+          "Type": [
+            "Chaos",
+            "Assassin",
+            "Demi-Hero"
+          ],
+          "set": "HNT",
+          "isHorizontal": false,
+          "pitch": "",
+          "power": "",
+          "defense": "",
+          "health": "*",
+          "tokens": [],
+          "elementId": "22285514-cc44-4046-8da5-7e4cb3f78b85",
+          "count": 1
+        },
+        {
+          "id": "HNT007",
+          "isToken": false,
+          "face": {
+            "front": {
+              "name": "Arakni, Tarantula",
+              "type": "Demi-Hero",
+              "cost": "",
+              "image": "https://storage.googleapis.com/fabmaster/cardfaces/2025-HNT/EN/HNT007.png",
+              "isHorizontal": false
+            }
+          },
+          "name": "Arakni, Tarantula",
+          "type": "Demi-Hero",
+          "cost": "",
+          "Color": "",
+          "Type": [
+            "Chaos",
+            "Assassin",
+            "Demi-Hero"
+          ],
+          "set": "HNT",
+          "isHorizontal": false,
+          "pitch": "",
+          "power": "",
+          "defense": "",
+          "health": "*",
+          "tokens": [],
+          "elementId": "8dfb774f-475f-4d34-ab6f-f9208dc68649",
+          "count": 1
+        },
+        {
+          "id": "HNT008",
+          "isToken": false,
+          "face": {
+            "front": {
+              "name": "Arakni, Trap-Door",
+              "type": "Demi-Hero",
+              "cost": "",
+              "image": "https://d2wlb52bya4y8z.cloudfront.net/media/cards/large/HNT008.webp",
+              "isHorizontal": false
+            }
+          },
+          "name": "Arakni, Trap-Door",
+          "type": "Demi-Hero",
+          "cost": "",
+          "Color": "",
+          "Type": [
+            "Chaos",
+            "Assassin",
+            "Demi-Hero"
+          ],
+          "set": "HNT",
+          "isHorizontal": false,
+          "pitch": "",
+          "power": "",
+          "defense": "",
+          "health": "*",
+          "tokens": [],
+          "elementId": "e6bbbc9e-844f-4b86-b3b2-2be5f0fc76b9",
+          "count": 1
+        }
+      ],
+      "Action": [
+        {
+          "count": 2,
+          "id": "HNT029"
+        },
+        {
+          "count": 2,
+          "id": "HNT017"
+        },
+        {
+          "count": 2,
+          "id": "GEM021"
+        },
+        {
+          "count": 2,
+          "id": "GEM022"
+        },
+        {
+          "count": 2,
+          "id": "FAB323"
+        },
+        {
+          "count": 2,
+          "id": "HNT044"
+        },
+        {
+          "count": 2,
+          "id": "HNT232"
+        },
+        {
+          "count": 2,
+          "id": "HNT045"
+        },
+        {
+          "count": 2,
+          "id": "HNT034"
+        },
+        {
+          "count": 2,
+          "id": "HNT037"
+        },
+        {
+          "count": 2,
+          "id": "HNT046"
+        },
+        {
+          "count": 2,
+          "id": "ARK026"
+        },
+        {
+          "count": 2,
+          "id": "HNT022"
+        }
+      ],
+      "Defense Reaction": [
+        {
+          "count": 2,
+          "id": "HNT214"
+        },
+        {
+          "count": 2,
+          "id": "HNT191"
+        }
+      ],
+      "Attack Reaction": [
+        {
+          "count": 2,
+          "id": "ARA016"
+        },
+        {
+          "count": 2,
+          "id": "FNG015"
+        },
+        {
+          "count": 2,
+          "id": "HNT051"
+        },
+        {
+          "count": 2,
+          "id": "HNT025"
+        },
+        {
+          "count": 2,
+          "id": "HNT213"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "HNT002"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "ARK005"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "HNT169"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "HNT193"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "ARK006"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "GEM006"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "GEM006"
+        }
+      ]
+    }
+  },
+  {
+    "title": "HuntedX - Fang (Royal Draconic Warrior)",
+    "id": "0ad54053-22f2-4896-bfba-7a43d9a594ce",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 47,
+    "createdAt": "2025-08-01T19:15:47.556Z",
+    "lastModifiedAt": "2025-08-01T22:32:24.456Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Chosen_Weapon2",
+        "Chosen_Weapon1",
+        "Equipment_Head",
+        "Equipment_Legs",
+        "Equipment_Chest",
+        "Equipment_Arms",
+        "Attack Reaction",
+        "Action",
+        "Instant",
+        "Defense Reaction"
+      ],
+      "Sideboard": [],
+      "Attack Reaction": [
+        {
+          "count": 2,
+          "id": "FNG009"
+        },
+        {
+          "count": 2,
+          "id": "FNG010"
+        },
+        {
+          "count": 2,
+          "id": "FNG011"
+        },
+        {
+          "count": 2,
+          "id": "FNG012"
+        },
+        {
+          "count": 1,
+          "id": "FNG013"
+        },
+        {
+          "count": 2,
+          "id": "ARK015"
+        },
+        {
+          "count": 2,
+          "id": "FNG015"
+        },
+        {
+          "count": 2,
+          "id": "FNG016"
+        },
+        {
+          "count": 2,
+          "id": "FNG017"
+        }
+      ],
+      "Action": [
+        {
+          "count": 2,
+          "id": "FAB318"
+        },
+        {
+          "count": 1,
+          "id": "CIN015"
+        },
+        {
+          "count": 2,
+          "id": "FNG019"
+        },
+        {
+          "count": 2,
+          "id": "FNG022"
+        },
+        {
+          "count": 2,
+          "id": "FNG023"
+        },
+        {
+          "count": 2,
+          "id": "FNG024"
+        },
+        {
+          "count": 2,
+          "id": "FNG025"
+        },
+        {
+          "count": 2,
+          "id": "FNG026"
+        },
+        {
+          "count": 2,
+          "id": "FNG027"
+        }
+      ],
+      "Instant": [
+        {
+          "count": 2,
+          "id": "FNG020"
+        },
+        {
+          "count": 2,
+          "id": "FNG021"
+        }
+      ],
+      "Defense Reaction": [
+        {
+          "count": 2,
+          "id": "FNG018"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "FNG001"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "FNG005"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "FNG004"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "FNG006"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "CIN003"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "FNG002"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "FNG002"
+        }
+      ]
+    }
+  },
+  {
+    "title": "HuntedX - Arakni (Assassin)",
+    "id": "db652ec0-4b7c-477c-89ce-973908a1cdd6",
+    "game": "Flash and Blood",
+    "format": [
+      "Blitz"
+    ],
+    "cardCount": 43,
+    "createdAt": "2025-08-01T19:18:22.991Z",
+    "lastModifiedAt": "2025-08-01T22:32:55.970Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Chosen_Hero",
+        "Chosen_Weapon2",
+        "Chosen_Weapon1",
+        "Equipment_Legs",
+        "Equipment_Head",
+        "Equipment_Chest",
+        "Equipment_Arms",
+        "Action",
+        "Attack Reaction",
+        "Defense Reaction",
+        "Mentor"
+      ],
+      "Sideboard": [],
+      "Action": [
+        {
+          "count": 2,
+          "id": "ARK008"
+        },
+        {
+          "count": 2,
+          "id": "ARK009"
+        },
+        {
+          "count": 2,
+          "id": "ARK010"
+        },
+        {
+          "count": 2,
+          "id": "ARK011"
+        },
+        {
+          "count": 2,
+          "id": "ARK012"
+        },
+        {
+          "count": 2,
+          "id": "ARK013"
+        },
+        {
+          "count": 2,
+          "id": "ARK019"
+        },
+        {
+          "count": 2,
+          "id": "ARK020"
+        },
+        {
+          "count": 2,
+          "id": "ARK021"
+        },
+        {
+          "count": 2,
+          "id": "ARK026"
+        }
+      ],
+      "Attack Reaction": [
+        {
+          "count": 2,
+          "id": "ARK014"
+        },
+        {
+          "count": 2,
+          "id": "ARK015"
+        },
+        {
+          "count": 2,
+          "id": "ARK018"
+        },
+        {
+          "count": 2,
+          "id": "ARK022"
+        },
+        {
+          "count": 2,
+          "id": "ARK023"
+        },
+        {
+          "count": 2,
+          "id": "ARK025"
+        }
+      ],
+      "Defense Reaction": [
+        {
+          "count": 2,
+          "id": "ARK017"
+        }
+      ],
+      "Mentor": [
+        {
+          "count": 2,
+          "id": "ARK007"
+        }
+      ],
+      "Chosen_Hero": [
+        {
+          "count": 1,
+          "id": "ARK001"
+        }
+      ],
+      "Equipment_Arms": [
+        {
+          "count": 1,
+          "id": "ARK005"
+        }
+      ],
+      "Equipment_Chest": [
+        {
+          "count": 1,
+          "id": "ARK004"
+        }
+      ],
+      "Equipment_Head": [
+        {
+          "count": 1,
+          "id": "ARK003"
+        }
+      ],
+      "Equipment_Legs": [
+        {
+          "count": 1,
+          "id": "ARK006"
+        }
+      ],
+      "Chosen_Weapon1": [
+        {
+          "count": 1,
+          "id": "ARA002"
+        }
+      ],
+      "Chosen_Weapon2": [
+        {
+          "count": 1,
+          "id": "ARA002"
         }
       ]
     }
