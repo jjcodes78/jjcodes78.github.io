@@ -108,6 +108,7 @@
           "Arsenal",
           "Chain",
           "Permanents",
+          "Permanents_HeroSoul",
           "Banned"
         ],
         "layout": {
@@ -199,6 +200,10 @@
                   "style": {
                     "width": "15vh"
                   }
+                },
+                {
+                  "section": "Permanents_HeroSoul",
+                  "style": false
                 },
                 {
                   "section": "Arsenal",
@@ -444,6 +449,22 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Permanents_HeroSoul": {
+            "title": "Permanents_HeroSoul",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Permanents or Hero Soul",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -624,6 +645,7 @@
           "Arsenal",
           "Chain",
           "Permanents",
+          "Permanents_HeroSoul",
           "Banned"
         ],
         "layout": {
@@ -715,6 +737,10 @@
                   "style": {
                     "width": "15vh"
                   }
+                },
+                {
+                  "section": "Permanents_HeroSoul",
+                  "style": false
                 },
                 {
                   "section": "Arsenal",
@@ -960,6 +986,22 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Permanents_HeroSoul": {
+            "title": "Permanents_HeroSoul",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Permanents or Hero Soul",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
