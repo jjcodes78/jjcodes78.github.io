@@ -369,7 +369,7 @@
     }
   },
   {
-    "title": "Master Yi - Proving Grounds Deck",
+    "title": "Master Yi - Proving Grounds",
     "id": "a1a2d06e-e390-4d29-b476-993c63c63629",
     "game": "RiftboundBR",
     "format": [
@@ -492,7 +492,7 @@
     }
   },
   {
-  "title": "Viktor Champion Deck (Origins Precon)",
+  "title": "Viktor Champion (Origins Precon)",
   "id": "14afc05e-e701-4780-b6bc-85a52fb8b1f5",
   "game": "RiftboundBR",
   "format": ["Classic", "Multiplayer"],
@@ -627,7 +627,7 @@
   }
 },
   {
-  "title": "Jinx Champion Deck (Origins Precon)",
+  "title": "Jinx Champion (Origins Precon)",
   "id": "cad79829-50cc-40a6-9142-9e74ffe4d09c",
   "game": "RiftboundBR",
   "format": [
@@ -761,7 +761,7 @@
   }
 },
   {
-  "title": "Lee Sin Champion Deck (Origins Precon)",
+  "title": "Lee Sin Champion (Origins Precon)",
   "id": "8c445121-c092-4887-bddf-79b752b2fedb",
   "game": "RiftboundBR",
   "format": [
@@ -895,7 +895,7 @@
   }
 },
   {
-    "title": "Jinx Trial Deck",
+    "title": "Jinx Trial Demo",
     "id": "e4f7c8b2-11a8-486b-8c72-e800eb0e6c01",
     "game": "Riftbound",
     "format": ["Classic", "Multiplayer"],
@@ -1026,7 +1026,7 @@
     }
   },
   {
-    "title": "Viktor Trial Deck",
+    "title": "Viktor Trial Demo",
     "id": "f155c212-b26c-4ec6-8e0f-14497195aefc",
     "game": "Riftbound",
     "format": ["Classic", "Multiplayer"],
@@ -1153,7 +1153,7 @@
     }
   },
   {
-    "title": "Volibear Trial Deck",
+    "title": "Volibear Trial Demo",
     "id": "07821faf-2668-406e-b04d-ef51395a9587",
     "game": "Riftbound",
     "format": ["Classic", "Multiplayer"],
@@ -1277,7 +1277,7 @@
     }
   },
   {
-  "title": "Yasuo Trial Deck",
+  "title": "Yasuo Trial Demo",
   "id": "89805a5d-cc02-4f33-83f8-e04ab23b4c1e",
   "game": "Riftbound",
   "format": ["Classic", "Multiplayer"],
