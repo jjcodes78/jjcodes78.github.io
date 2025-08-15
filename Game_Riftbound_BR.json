@@ -81,7 +81,7 @@
                 "drawOnStart": false,
                 "sharedTurn": false,
                 "firstPlayerTokenName": "",
-                "drawPerTurn": "0"
+                "drawPerTurn": 1
             },
             "defaultNotes": "",
             "tokens": [],
@@ -510,7 +510,7 @@
                 "drawOnStart": false,
                 "sharedTurn": false,
                 "firstPlayerTokenName": "",
-                "drawPerTurn": "0"
+                "drawPerTurn": 1
             },
             "defaultNotes": "",
             "tokens": [],
