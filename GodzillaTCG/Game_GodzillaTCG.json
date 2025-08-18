@@ -10,7 +10,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://jjcodes78.github.io/FleshAndBloodTCG/FleshAndBlood_CardList.json?v=0108202520031978",
+    "dataUrl": "https://jjcodes78.github.io/GodzillaTCG/GodzillaTCG_CardList.json?v=0108202520031978",
     "cardBack": "https://en.godzilla-cardgame.com/wordpress/wp-content/themes/godzilla_tcg-e/assets/img/common/card_back.png"
   },
   "deckBuilding": {
@@ -347,7 +347,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Strategy2": {
             "title": "Strategy2",
@@ -363,13 +363,13 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "MonsterDeck": {
             "title": "MonsterDeck",
             "isHidden": "no",
             "height": "18",
-            "alignment": "CENTER",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -395,7 +395,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Zone1": {
             "title": "Zone1",
@@ -411,7 +411,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Zone2": {
             "title": "Zone2",
@@ -427,7 +427,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Zone3": {
             "title": "Zone3",
@@ -443,7 +443,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Zone4": {
             "title": "Zone4",
@@ -459,7 +459,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Zone5": {
             "title": "Zone5",
@@ -475,7 +475,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Zone6": {
             "title": "Zone6",
@@ -491,7 +491,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Zone7": {
             "title": "Zone7",
@@ -507,7 +507,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Zone8": {
             "title": "Zone8",
@@ -523,7 +523,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           }
         }
       }

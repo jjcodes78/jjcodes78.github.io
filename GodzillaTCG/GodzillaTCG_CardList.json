@@ -1,0 +1,28 @@
+{
+  "ESD01-001": {
+    "id": "ESD01-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla(2023)",
+        "type": "Monster",
+        "cost": "1",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-001ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Godzilla(2023)",
+    "type": "Monster",
+    "cost": "1",
+    "Color": "Red",
+    "Type": [
+      "Monster"
+    ],
+    "set": "ESD01",
+    "isHorizontal": false,
+    "threat": 6000,
+    "level": "1",
+    "counter": 0,
+    "tokens": []
+  }
+}
