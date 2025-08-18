@@ -10,7 +10,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "",
+    "dataUrl": "https://jjcodes78.github.io/FleshAndBloodTCG/FleshAndBlood_CardList.json?v=0108202520031978",
     "cardBack": "https://en.godzilla-cardgame.com/wordpress/wp-content/themes/godzilla_tcg-e/assets/img/common/card_back.png"
   },
   "deckBuilding": {
