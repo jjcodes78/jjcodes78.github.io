@@ -93,24 +93,40 @@
                 {
                   "section": "RageZone",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-ragezone.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
                     "width": "15vh"
                   }
                 },
                 {
                   "section": "Zone8",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone8.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
                     "width": "15vh"
                   }
                 },
                 {
                   "section": "Zone7",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone7.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
                     "width": "15vh"
                   }
                 },
                 {
                   "section": "Zone6",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone6.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
                     "width": "15vh"
                   }
                 }
@@ -132,30 +148,50 @@
                 {
                   "section": "Zone1",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone1.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
                     "width": "15vh"
                   }
                 },
                 {
                   "section": "Zone2",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone2.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
                     "width": "15vh"
                   }
                 },
                 {
                   "section": "Zone3",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone3.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
                     "width": "15vh"
                   }
                 },
                 {
                   "section": "Zone4",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone4.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
                     "width": "15vh"
                   }
                 },
                 {
                   "section": "Zone5",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone5.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
                     "width": "15vh"
                   }
                 }
