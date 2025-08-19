@@ -70,7 +70,8 @@
           "Zone3",
           "Zone2",
           "Zone1",
-          "MonsterDeck"
+          "MonsterDeck",
+          "EmptyZone"
         ],
         "layout": {
           "direction": "column",
@@ -141,6 +142,12 @@
                     "background-position": "center",
                     "width": "15vh"
                   }
+                },
+                {
+                  "section": "EmptyZone",
+                  "style": {
+                    "width": "15vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -204,6 +211,12 @@
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "EmptyZone",
+                  "style": {
                     "width": "15vh"
                   }
                 }
@@ -524,6 +537,22 @@
           "Zone8": {
             "title": "Zone8",
             "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "EmptyZone": {
+            "title": "EmptyZone",
+            "isHidden": "yes",
             "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
