@@ -2190,14 +2190,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(1954)(1)",
+        "name": "Godzilla(1954)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-001ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(1954)(1)",
+    "name": "Godzilla(1954)-EBP01-001",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2217,14 +2217,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(1954)(1)",
+        "name": "Godzilla(1954)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-001_2.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(1954)(1)",
+    "name": "Godzilla(1954)-EBP01-001",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2244,14 +2244,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(1954)(2)",
+        "name": "Godzilla(1954)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-002ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(1954)(2)",
+    "name": "Godzilla(1954)-EBP01-002",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2271,14 +2271,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(1954)(3)",
+        "name": "Godzilla(1954)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-003ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(1954)(3)",
+    "name": "Godzilla(1954)-EBP01-003",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2298,14 +2298,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(1954)(4)",
+        "name": "Godzilla(1954)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-004ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(1954)(4)",
+    "name": "Godzilla(1954)-EBP01-004",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2325,14 +2325,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(1955)(4)",
+        "name": "Godzilla(1955)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-005ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(1955)(4)",
+    "name": "Godzilla(1955)-EBP01-005",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2352,14 +2352,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(1974)(3)",
+        "name": "Godzilla(1974)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-006ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(1974)(3)",
+    "name": "Godzilla(1974)-EBP01-006",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2379,14 +2379,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(1975)(4)",
+        "name": "Godzilla(1975)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-007ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(1975)(4)",
+    "name": "Godzilla(1975)-EBP01-007",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2406,14 +2406,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2004)(3)",
+        "name": "Godzilla(2004)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-008ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2004)(3)",
+    "name": "Godzilla(2004)-EBP01-008",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2433,14 +2433,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)[EBP01-009]",
+        "name": "Godzilla(2023)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-009ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)",
+    "name": "Godzilla(2023)-EBP01-009",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2460,14 +2460,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)[EBP01-010]",
+        "name": "Godzilla(2023)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-010ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)",
+    "name": "Godzilla(2023)-EBP01-010",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2487,14 +2487,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(Fest Godzilla)(1)",
+        "name": "Godzilla(Fest Godzilla)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-011ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(Fest Godzilla)(1)",
+    "name": "Godzilla(Fest Godzilla)-EBP01-011",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2514,14 +2514,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(Fest Godzilla)(2)",
+        "name": "Godzilla(Fest Godzilla)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-012ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(Fest Godzilla)(2)",
+    "name": "Godzilla(Fest Godzilla)-EBP01-012",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2541,14 +2541,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(Fest Godzilla)(3)",
+        "name": "Godzilla(Fest Godzilla)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-013ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(Fest Godzilla)(3)",
+    "name": "Godzilla(Fest Godzilla)-EBP01-013",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2568,14 +2568,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(Fest Godzilla)(4)",
+        "name": "Godzilla(Fest Godzilla)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-014ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(Fest Godzilla)(4)",
+    "name": "Godzilla(Fest Godzilla)-EBP01-014",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2595,14 +2595,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(Fest Godzilla)(4a)",
+        "name": "Godzilla(Fest Godzilla)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-015ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(Fest Godzilla)(4a)",
+    "name": "Godzilla(Fest Godzilla)-EBP01-015",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2622,14 +2622,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(1989)(2)",
+        "name": "Godzilla(1989)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-034ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(1989)(2)",
+    "name": "Godzilla(1989)-EBP01-034",
     "type": "Monster",
     "cost": "0",
     "Color": "Blue",
@@ -2649,14 +2649,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(1989)(3)",
+        "name": "Godzilla(1989)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-035ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(1989)(3)",
+    "name": "Godzilla(1989)-EBP01-035",
     "type": "Monster",
     "cost": "0",
     "Color": "Blue",
@@ -2676,14 +2676,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(1992)(4)",
+        "name": "Godzilla(1992)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-036ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(1992)(4)",
+    "name": "Godzilla(1992)-EBP01-036",
     "type": "Monster",
     "cost": "0",
     "Color": "Blue",
@@ -2703,14 +2703,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(1995)(3)",
+        "name": "Godzilla(1995)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-037ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(1995)(3)",
+    "name": "Godzilla(1995)-EBP01-037",
     "type": "Monster",
     "cost": "0",
     "Color": "Blue",
@@ -2730,14 +2730,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(1995)(4)",
+        "name": "Godzilla(1995)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-038ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(1995)(4)",
+    "name": "Godzilla(1995)-EBP01-038",
     "type": "Monster",
     "cost": "0",
     "Color": "Blue",
@@ -2757,14 +2757,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(1999)(2)",
+        "name": "Godzilla(1999)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-039ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(1999)(2)",
+    "name": "Godzilla(1999)-EBP01-039",
     "type": "Monster",
     "cost": "0",
     "Color": "Blue",
@@ -2784,14 +2784,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(1999)(4)",
+        "name": "Godzilla(1999)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-040ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(1999)(4)",
+    "name": "Godzilla(1999)-EBP01-040",
     "type": "Monster",
     "cost": "0",
     "Color": "Blue",
@@ -2811,14 +2811,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2000)(1)",
+        "name": "Godzilla(2000)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-041ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2000)(1)",
+    "name": "Godzilla(2000)-EBP01-041",
     "type": "Monster",
     "cost": "0",
     "Color": "Blue",
@@ -2838,14 +2838,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2000)(3)",
+        "name": "Godzilla(2000)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-042ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2000)(3)",
+    "name": "Godzilla(2000)-EBP01-042",
     "type": "Monster",
     "cost": "0",
     "Color": "Blue",
@@ -2865,14 +2865,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2000)(4)",
+        "name": "Godzilla(2000)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-043ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2000)(4)",
+    "name": "Godzilla(2000)-EBP01-043",
     "type": "Monster",
     "cost": "0",
     "Color": "Blue",
