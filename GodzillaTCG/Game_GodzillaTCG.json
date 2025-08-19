@@ -52,7 +52,20 @@
         "drawPerTurn": "0"
       },
       "defaultNotes": "",
-      "tokens": [],
+      "tokens": [
+        {
+          "name": "Invasion",
+          "image": "https://jjcodes78.github.io/GodzillaTCG/images/godzilla-invasion-marker.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": true
+        },
+        {
+          "name": "Monster",
+          "image": "https://jjcodes78.github.io/GodzillaTCG/images/godzilla-monster-marker.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": true
+        }
+      ],
       "countersStartingValues": [
         "0"
       ],
