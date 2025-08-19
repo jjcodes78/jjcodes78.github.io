@@ -70,8 +70,7 @@
           "Zone3",
           "Zone2",
           "Zone1",
-          "MonsterDeck",
-          "EmptyZone"
+          "MonsterDeck"
         ],
         "layout": {
           "direction": "column",
@@ -527,22 +526,6 @@
           "Zone8": {
             "title": "Zone8",
             "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "EmptyZone": {
-            "title": "EmptyZone",
-            "isHidden": "yes",
             "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
