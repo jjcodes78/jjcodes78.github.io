@@ -80,7 +80,7 @@
               "direction": "row",
               "style": {
                 "align": "center",
-                "marginRight": "30vh"
+                "right": "25vh"
               },
               "content": [
                 {
@@ -150,7 +150,7 @@
               "direction": "row",
               "style": {
                 "align": "center",
-                "marginRight": "30vh"
+                "right": "25vh"
               },
               "content": [
                 {
