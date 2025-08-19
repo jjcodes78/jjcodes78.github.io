@@ -79,7 +79,8 @@
             {
               "direction": "row",
               "style": {
-                "align": "center"
+                "align": "center",
+                "marginRight": "30vh"
               },
               "content": [
                 {
@@ -139,8 +140,7 @@
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
-                    "width": "15vh",
-                    "marginRight": "15vh"
+                    "width": "15vh"
                   }
                 }
               ],
@@ -149,7 +149,8 @@
             {
               "direction": "row",
               "style": {
-                "align": "center"
+                "align": "center",
+                "marginRight": "30vh"
               },
               "content": [
                 {
@@ -205,8 +206,7 @@
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
-                    "width": "15vh",
-                    "marginRight": "15vh"
+                    "width": "15vh"
                   }
                 }
               ],
