@@ -2001,14 +2001,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)(1)",
+        "name": "Godzilla(2023)[ESD01-001]",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-001ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)(1)",
+    "name": "Godzilla(2023)[ESD01-001]",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2028,14 +2028,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)(2)",
+        "name": "Godzilla(2023)[ESD01-002]",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-002ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)(2)",
+    "name": "Godzilla(2023)[ESD01-002]",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2055,14 +2055,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)(3)",
+        "name": "Godzilla(2023)[ESD01-003]",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-003ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)(3)",
+    "name": "Godzilla(2023)[ESD01-003]",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2082,14 +2082,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)(4)",
+        "name": "Godzilla(2023)[ESD01-004]",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-004ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)(4)",
+    "name": "Godzilla(2023)[ESD01-004]",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2109,14 +2109,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)(2)",
+        "name": "Godzilla(2023)[ESD01-005]",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-005ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)(2)",
+    "name": "Godzilla(2023)[ESD01-005]",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2136,14 +2136,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)(3)",
+        "name": "Godzilla(2023)[ESD01-006]",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-006ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)(3)",
+    "name": "Godzilla(2023)[ESD01-006]",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2163,14 +2163,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)(4)",
+        "name": "Godzilla(2023)[ESD01-007]",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-007ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)(4)",
+    "name": "Godzilla(2023)[ESD01-007]",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2433,14 +2433,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)(3)",
+        "name": "Godzilla(2023)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-009ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)(3)",
+    "name": "Godzilla(2023)[EBP01-009]",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2460,14 +2460,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)(4)",
+        "name": "Godzilla(2023)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-010ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)(4)",
+    "name": "Godzilla(2023)[EBP01-010]",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
