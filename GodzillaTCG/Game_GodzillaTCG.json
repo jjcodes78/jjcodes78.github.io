@@ -86,7 +86,7 @@
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
-                    "width": "15vh"
+                    "width": "30vh"
                   }
                 },
                 {
@@ -96,7 +96,7 @@
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
-                    "width": "15vh"
+                    "width": "30vh"
                   }
                 },
                 {
@@ -105,8 +105,7 @@
                     "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-ragezone.png')",
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "15vh"
+                    "background-position": "center"
                   }
                 },
                 {
