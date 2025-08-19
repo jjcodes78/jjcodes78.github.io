@@ -2433,14 +2433,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)",
+        "name": "Godzilla(2023)[EBP01-009]",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-009ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)[EBP01-009]",
+    "name": "Godzilla(2023)",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2460,14 +2460,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)",
+        "name": "Godzilla(2023)[EBP01-010]",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-010ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)[EBP01-010]",
+    "name": "Godzilla(2023)",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
