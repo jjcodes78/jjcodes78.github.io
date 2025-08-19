@@ -1,4 +1,759 @@
 {
+  "Rage-EGZ30": {
+    "id": "Rage-EGZ30",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/Rage-EGZ30ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ30+": {
+    "id": "Rage-EGZ30+",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/Rage-EGZ30_2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ30++": {
+    "id": "Rage-EGZ30++",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/Rage-EGZ30_3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ24": {
+    "id": "Rage-EGZ24",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ24ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ24+": {
+    "id": "Rage-EGZ24+",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ24_2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ24++": {
+    "id": "Rage-EGZ24++",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ24_3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ23": {
+    "id": "Rage-EGZ23",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ23ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ23+": {
+    "id": "Rage-EGZ23+",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ23_2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ23++": {
+    "id": "Rage-EGZ23++",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ23_3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ19": {
+    "id": "Rage-EGZ19",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ19ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ19+": {
+    "id": "Rage-EGZ19+",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ19_2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ19++": {
+    "id": "Rage-EGZ19++",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ19_3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ17": {
+    "id": "Rage-EGZ17",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ17ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ17+": {
+    "id": "Rage-EGZ17+",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ17_2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ17++": {
+    "id": "Rage-EGZ17++",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ17_3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ16": {
+    "id": "Rage-EGZ16",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/Rage-EGZ16ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ16+": {
+    "id": "Rage-EGZ16+",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/Rage-EGZ16_2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ16++": {
+    "id": "Rage-EGZ16++",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/Rage-EGZ16_3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ14": {
+    "id": "Rage-EGZ14",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ14ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ14+": {
+    "id": "Rage-EGZ14+",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ14_2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ14++": {
+    "id": "Rage-EGZ14++",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ14_3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ09": {
+    "id": "Rage-EGZ09",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ09ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ09+": {
+    "id": "Rage-EGZ09+",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ09_2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ09++": {
+    "id": "Rage-EGZ09++",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ09_3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-E01": {
+    "id": "Rage-E01",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-E01ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ01": {
+    "id": "Rage-EGZ01",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-E01ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ01+": {
+    "id": "Rage-EGZ01+",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ01_2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "Rage-EGZ01++": {
+    "id": "Rage-EGZ01++",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rage (Threat +5000)",
+        "type": "Rage",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/Rage-EGZ01_3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rage (Threat +5000)",
+    "type": "Rage",
+    "cost": "0",
+    "Color": "None",
+    "Type": [
+      "Rage"
+    ],
+    "set": "EGZ",
+    "isHorizontal": false,
+    "threat": 5000,
+    "rank": "0",
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-028": {
+    "id": "EBP01-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla vs. Mechagodzilla",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-028ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Godzilla vs. Mechagodzilla",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "2",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
   "ESD01-001": {
     "id": "ESD01-001",
     "isToken": false,
@@ -6,22 +761,23 @@
       "front": {
         "name": "Godzilla(2023)",
         "type": "Monster",
-        "cost": "1",
+        "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-001ol.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(2023)",
     "type": "Monster",
-    "cost": "1",
+    "cost": "0",
     "Color": "Red",
     "Type": [
       "Monster"
     ],
-    "set": "ESD01",
+    "set": "ESD",
     "isHorizontal": false,
     "threat": 6000,
-    "level": "1",
+    "rank": "1",
+    "invade": 1,
     "counter": 0,
     "tokens": []
   }

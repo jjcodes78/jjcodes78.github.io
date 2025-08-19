@@ -16,11 +16,12 @@
   "deckBuilding": {
     "mainFilters": [
       "type",
-      "level",
+      "rank",
       "name",
       "Color",
       "threat",
-      "counter"
+      "counter",
+      "invade"
     ],
     "formats": [
       {
