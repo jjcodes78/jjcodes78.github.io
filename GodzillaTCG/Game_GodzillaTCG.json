@@ -378,7 +378,7 @@
             "title": "MonsterDeck",
             "isHidden": "yes",
             "height": "18",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
