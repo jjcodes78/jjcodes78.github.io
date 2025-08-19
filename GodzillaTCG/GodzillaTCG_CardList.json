@@ -1915,6 +1915,87 @@
     "counter": 0,
     "tokens": []
   },
+  "EBP01-016": {
+    "id": "EBP01-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ebirah(2004)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-016ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ebirah(2004)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "1",
+    "invade": 1,
+    "counter": 1000,
+    "tokens": []
+  },
+  "EBP01-016+": {
+    "id": "EBP01-016+",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ebirah(2004)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-016_2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ebirah(2004)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "1",
+    "invade": 1,
+    "counter": 1000,
+    "tokens": []
+  },
+  "ESD02-007": {
+    "id": "ESD02-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mothra(larva)(1992)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/ESD02-007ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mothra(larva)(1992)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "2",
+    "invade": 1,
+    "counter": 1000,
+    "tokens": []
+  },
   "ESD01-001": {
     "id": "ESD01-001",
     "isToken": false,
