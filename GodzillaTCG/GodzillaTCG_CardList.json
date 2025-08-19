@@ -1915,87 +1915,6 @@
     "counter": 0,
     "tokens": []
   },
-  "EBP01-016": {
-    "id": "EBP01-016",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Ebirah(2004)",
-        "type": "Battle",
-        "cost": "0",
-        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-016ol.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Ebirah(2004)",
-    "type": "Battle",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Battle"
-    ],
-    "set": "ESD",
-    "isHorizontal": false,
-    "threat": 0,
-    "rank": "1",
-    "invade": 1,
-    "counter": 1000,
-    "tokens": []
-  },
-  "EBP01-016+": {
-    "id": "EBP01-016+",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Ebirah(2004)",
-        "type": "Battle",
-        "cost": "0",
-        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-016_2.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Ebirah(2004)",
-    "type": "Battle",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Battle"
-    ],
-    "set": "ESD",
-    "isHorizontal": false,
-    "threat": 0,
-    "rank": "1",
-    "invade": 1,
-    "counter": 1000,
-    "tokens": []
-  },
-  "ESD02-007": {
-    "id": "ESD02-007",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Mothra(larva)(1992)",
-        "type": "Battle",
-        "cost": "0",
-        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/ESD02-007ol.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Mothra(larva)(1992)",
-    "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
-    ],
-    "set": "ESD",
-    "isHorizontal": false,
-    "threat": 0,
-    "rank": "2",
-    "invade": 1,
-    "counter": 1000,
-    "tokens": []
-  },
   "ESD01-001": {
     "id": "ESD01-001",
     "isToken": false,
@@ -2185,6 +2104,141 @@
     "counter": 0,
     "tokens": []
   },
+  "ESD01-008": {
+    "id": "ESD01-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shinseimaru",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-008ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shinseimaru",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "2",
+    "invade": 1,
+    "counter": 2000,
+    "tokens": []
+  },
+  "ESD01-009": {
+    "id": "ESD01-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reinforcements",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-009ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reinforcements",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "4",
+    "invade": 1,
+    "counter": 2000,
+    "tokens": []
+  },
+  "ESD01-010": {
+    "id": "ESD01-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "City of Tokyo",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-010ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "City of Tokyo",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "6",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD01-011": {
+    "id": "ESD01-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla(2023)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-011ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Godzilla(2023)-ESD001-011",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "5",
+    "invade": 1,
+    "counter": 3000,
+    "tokens": []
+  },
+  "ESD01-012": {
+    "id": "ESD01-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla(2023)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-012ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Godzilla(2023)-ESD001-012",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "7",
+    "invade": 2,
+    "counter": 7000,
+    "tokens": []
+  },
   "ESD02-001": {
     "id": "ESD02-001",
     "isToken": false,
@@ -2345,6 +2399,195 @@
     "rank": "4",
     "invade": 1,
     "counter": 0,
+    "tokens": []
+  },
+  "ESD02-007": {
+    "id": "ESD02-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mothra(larva)(1992)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/ESD02-007ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mothra(larva)(1992)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "2",
+    "invade": 1,
+    "counter": 1000,
+    "tokens": []
+  },
+  "ESD02-008": {
+    "id": "ESD02-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battra(larva)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/ESD02-008ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Battra(larva)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "3",
+    "invade": 1,
+    "counter": 2000,
+    "tokens": []
+  },
+  "ESD02-009": {
+    "id": "ESD02-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Super-X",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/ESD02-009ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Super-X",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "4",
+    "invade": 1,
+    "counter": 3000,
+    "tokens": []
+  },
+  "ESD02-010": {
+    "id": "ESD02-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mothra(imago)(1992)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/ESD02-010ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mothra(imago)(1992)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "5",
+    "invade": 2,
+    "counter": 5000,
+    "tokens": []
+  },
+  "ESD02-011": {
+    "id": "ESD02-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battra(imago)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/ESD02-011ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Battra(imago)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "6",
+    "invade": 1,
+    "counter": 5000,
+    "tokens": []
+  },
+  "ESD02-012": {
+    "id": "ESD02-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mechagodzilla(1993)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/ESD02-012ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mechagodzilla(1993)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "7",
+    "invade": 1,
+    "counter": 5000,
+    "tokens": []
+  },
+  "ESD02-013": {
+    "id": "ESD02-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Destoroyah Perfect Form",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/ESD02-013ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Destoroyah Perfect Form",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "8",
+    "invade": 2,
+    "counter": 13000,
     "tokens": []
   },
   "EBP01-001": {
@@ -2779,6 +3022,357 @@
     "counter": 0,
     "tokens": []
   },
+  "EBP01-016": {
+    "id": "EBP01-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ebirah(2004)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-016ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ebirah(2004)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "1",
+    "invade": 1,
+    "counter": 1000,
+    "tokens": []
+  },
+  "EBP01-016+": {
+    "id": "EBP01-016+",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ebirah(2004)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-016_2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ebirah(2004)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "1",
+    "invade": 1,
+    "counter": 1000,
+    "tokens": []
+  },
+  "EBP01-017": {
+    "id": "EBP01-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kumonga(2004)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-017ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kumonga(2004)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "2",
+    "invade": 1,
+    "counter": 1000,
+    "tokens": []
+  },
+  "EBP01-018": {
+    "id": "EBP01-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mechagodzilla(1974)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-018ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mechagodzilla(1974)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "3",
+    "invade": 1,
+    "counter": 1000,
+    "tokens": []
+  },
+  "EBP01-019": {
+    "id": "EBP01-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kamacuras(1967)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-019ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kamacuras(1967)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "3",
+    "invade": 1,
+    "counter": 2000,
+    "tokens": []
+  },
+  "EBP01-020": {
+    "id": "EBP01-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anguirus(1968)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-020ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anguirus(1968)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "3",
+    "invade": 1,
+    "counter": 2000,
+    "tokens": []
+  },
+  "EBP01-021": {
+    "id": "EBP01-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rodan(1968)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-021ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rodan(1968)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "4",
+    "invade": 1,
+    "counter": 3000,
+    "tokens": []
+  },
+  "EBP01-022": {
+    "id": "EBP01-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Titanosaurus",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-022ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Titanosaurus",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "5",
+    "invade": 1,
+    "counter": 4000,
+    "tokens": []
+  },
+  "EBP01-023": {
+    "id": "EBP01-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mechagodzilla(1975)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-023ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mechagodzilla(1975)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "5",
+    "invade": 1,
+    "counter": 4000,
+    "tokens": []
+  },
+  "EBP01-024": {
+    "id": "EBP01-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Minilla(2004)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-024ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Minilla(2004)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "6",
+    "invade": 1,
+    "counter": 2000,
+    "tokens": []
+  },
+  "EBP01-025": {
+    "id": "EBP01-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "King Caesar(1974)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-025ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "King Caesar(1974)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "6",
+    "invade": 1,
+    "counter": 4000,
+    "tokens": []
+  },
+  "EBP01-026": {
+    "id": "EBP01-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jet Jaguar(2023)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-026ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jet Jaguar(2023)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "7",
+    "invade": 2,
+    "counter": 7000,
+    "tokens": []
+  },
+  "EBP01-027": {
+    "id": "EBP01-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hedorah(1971)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-027ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hedorah(1971)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "7",
+    "invade": 2,
+    "counter": 7000,
+    "tokens": []
+  },
   "EBP01-034": {
     "id": "EBP01-034",
     "isToken": false,
@@ -3047,6 +3641,708 @@
     "rank": "4",
     "invade": 1,
     "counter": 0,
+    "tokens": []
+  },
+  "EBP01-044": {
+    "id": "EBP01-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mothra(egg)(1992)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-044ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mothra(egg)(1992)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "1",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-045": {
+    "id": "EBP01-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Meganula",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-045ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Meganula",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "2",
+    "invade": 1,
+    "counter": 1000,
+    "tokens": []
+  },
+  "EBP01-046": {
+    "id": "EBP01-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "MBT-MB92",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-046ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "MBT-MB92",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "3",
+    "invade": 1,
+    "counter": 1000,
+    "tokens": []
+  },
+  "EBP01-047": {
+    "id": "EBP01-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orga",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-047ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orga",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "3",
+    "invade": 1,
+    "counter": 2000,
+    "tokens": []
+  },
+  "EBP01-048": {
+    "id": "EBP01-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Biollante Rose Form",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-048ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Biollante Rose Form",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "3",
+    "invade": 1,
+    "counter": 2000,
+    "tokens": []
+  },
+  "EBP01-049": {
+    "id": "EBP01-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Destoroyah Aggregate Form",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-049ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Destoroyah Aggregate Form",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "4",
+    "invade": 1,
+    "counter": 3000,
+    "tokens": []
+  },
+  "EBP01-050": {
+    "id": "EBP01-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mothra(larva)(1992)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-050ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mothra(larva)(1992)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "4",
+    "invade": 1,
+    "counter": 3000,
+    "tokens": []
+  },
+  "EBP01-051": {
+    "id": "EBP01-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orga Phase II",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-051ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orga Phase II",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "4",
+    "invade": 1,
+    "counter": 3000,
+    "tokens": []
+  },
+  "EBP01-052": {
+    "id": "EBP01-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Megaguirus",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-052ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Megaguirus",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "5",
+    "invade": 2,
+    "counter": 3000,
+    "tokens": []
+  },
+  "EBP01-053": {
+    "id": "EBP01-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rodan(1993)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-053ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rodan(1993)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "5",
+    "invade": 1,
+    "counter": 5000,
+    "tokens": []
+  },
+  "EBP01-054": {
+    "id": "EBP01-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Destoroyah Flying Form",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-054ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Destoroyah Flying Form",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "6",
+    "invade": 1,
+    "counter": 4000,
+    "tokens": []
+  },
+  "EBP01-055": {
+    "id": "EBP01-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battra(imago)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-055ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Battra(imago)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "6",
+    "invade": 1,
+    "counter": 5000,
+    "tokens": []
+  },
+  "EBP01-056": {
+    "id": "EBP01-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Super X2",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-056ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Super X2",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "6",
+    "invade": 2,
+    "counter": 5000,
+    "tokens": []
+  },
+  "EBP01-057": {
+    "id": "EBP01-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mothra(imago)(1992)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-057ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mothra(imago)(1992)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "7",
+    "invade": 2,
+    "counter": 5000,
+    "tokens": []
+  },
+  "EBP01-058": {
+    "id": "EBP01-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Biollante Plant Beast Form",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-058ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Biollante Plant Beast Form",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "7",
+    "invade": 1,
+    "counter": 6000,
+    "tokens": []
+  },
+  "EBP01-059": {
+    "id": "EBP01-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fire Rodan",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-059ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fire Rodan",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "7",
+    "invade": 1,
+    "counter": 6000,
+    "tokens": []
+  },
+  "EBP01-060": {
+    "id": "EBP01-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Destoroyah Perfect Form",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-060ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Destoroyah Perfect Form",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "8",
+    "invade": 1,
+    "counter": 10000,
+    "tokens": []
+  },
+  "EBP01-067": {
+    "id": "EBP01-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gorosaurus",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-067ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gorosaurus",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "2",
+    "invade": 2,
+    "counter": 1000,
+    "tokens": []
+  },
+  "EBP01-068": {
+    "id": "EBP01-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manda(1968)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-068ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Manda(1968)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "3",
+    "invade": 2,
+    "counter": 1000,
+    "tokens": []
+  },
+  "EBP01-069": {
+    "id": "EBP01-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Varan",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-069ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Varan",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "4",
+    "invade": 1,
+    "counter": 3000,
+    "tokens": []
+  },
+  "EBP01-070": {
+    "id": "EBP01-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baragon(1968)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-070ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baragon(1968)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "5",
+    "invade": 1,
+    "counter": 4000,
+    "tokens": []
+  },
+  "EBP01-071": {
+    "id": "EBP01-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Giant Condor",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-071ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Giant Condor",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "5",
+    "invade": 1,
+    "counter": 5000,
+    "tokens": []
+  },
+  "EBP01-072": {
+    "id": "EBP01-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gigan(2022)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-072ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gigan(2022)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "6",
+    "invade": 1,
+    "counter": 5000,
+    "tokens": []
+  },
+  "EBP01-073": {
+    "id": "EBP01-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla Against Mechagodzilla",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-073ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Godzilla Against Mechagodzilla",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "7",
+    "invade": 2,
+    "counter": 10000,
+    "tokens": []
+  },
+  "EBP01-074": {
+    "id": "EBP01-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "King Ghidorah(2024)",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-074ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "King Ghidorah(2024)",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "8",
+    "invade": 1,
+    "counter": 8000,
+    "tokens": []
+  },
+  "EBP01-075": {
+    "id": "EBP01-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla, King of the Monsters",
+        "type": "Battle",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/EBP01/EBP01-075ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Godzilla, King of the Monsters",
+    "type": "Battle",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Battle"
+    ],
+    "set": "EBP",
+    "isHorizontal": false,
+    "threat": 0,
+    "rank": "8",
+    "invade": 2,
+    "counter": 5000,
     "tokens": []
   }
 }
