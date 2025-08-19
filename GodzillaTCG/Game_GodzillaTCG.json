@@ -86,7 +86,7 @@
                 {
                   "section": "Strategy1",
                   "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-strategyzone.png')",
+                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-strategyzone1.png')",
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
@@ -96,7 +96,7 @@
                 {
                   "section": "Strategy2",
                   "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-strategyzone.png')",
+                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-strategyzone2.png')",
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
