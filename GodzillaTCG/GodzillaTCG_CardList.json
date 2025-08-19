@@ -2001,14 +2001,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)[ESD01-001]",
+        "name": "Godzilla(2023)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-001ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)[ESD01-001]",
+    "name": "Godzilla(2023)-ESD01-001",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2028,14 +2028,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)[ESD01-002]",
+        "name": "Godzilla(2023)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-002ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)[ESD01-002]",
+    "name": "Godzilla(2023)-ESD01-002",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2055,14 +2055,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)[ESD01-003]",
+        "name": "Godzilla(2023)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-003ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)[ESD01-003]",
+    "name": "Godzilla(2023)-ESD01-003",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2082,14 +2082,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)[ESD01-004]",
+        "name": "Godzilla(2023)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-004ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)[ESD01-004]",
+    "name": "Godzilla(2023)-ESD01-004",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2109,14 +2109,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)[ESD01-005]",
+        "name": "Godzilla(2023)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-005ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)[ESD01-005]",
+    "name": "Godzilla(2023)-ESD01-005",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2136,14 +2136,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)[ESD01-006]",
+        "name": "Godzilla(2023)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-006ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)[ESD01-006]",
+    "name": "Godzilla(2023)-ESD01-006",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2163,14 +2163,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Godzilla(2023)[ESD01-007]",
+        "name": "Godzilla(2023)",
         "type": "Monster",
         "cost": "0",
         "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD01/ESD01-007ol.png",
         "isHorizontal": false
       }
     },
-    "name": "Godzilla(2023)[ESD01-007]",
+    "name": "Godzilla(2023)-ESD01-007",
     "type": "Monster",
     "cost": "0",
     "Color": "Red",
@@ -2182,6 +2182,168 @@
     "threat": 38000,
     "rank": "4",
     "invade": 2,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD02-001": {
+    "id": "ESD02-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla(1984)",
+        "type": "Monster",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/ESD02-001ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Godzilla(1984)-ESD02-001",
+    "type": "Monster",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Monster"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 6000,
+    "rank": "1",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD02-002": {
+    "id": "ESD02-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla(1989)",
+        "type": "Monster",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/ESD02-002ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Godzilla(1989)-ESD02-002",
+    "type": "Monster",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Monster"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 15000,
+    "rank": "2",
+    "invade": 2,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD02-003": {
+    "id": "ESD02-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla(1992)",
+        "type": "Monster",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/ESD02-003ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Godzilla(1992)-ESD02-003",
+    "type": "Monster",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Monster"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 18000,
+    "rank": "3",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD02-004": {
+    "id": "ESD02-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla(1994)",
+        "type": "Monster",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/ESD02-004ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Godzilla(1994)-ESD02-004",
+    "type": "Monster",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Monster"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 35000,
+    "rank": "4",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD02-005": {
+    "id": "ESD02-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla(1993)",
+        "type": "Monster",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/ESD02-005ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Godzilla(1993)-ESD02-005",
+    "type": "Monster",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Monster"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 20000,
+    "rank": "3",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD02-006": {
+    "id": "ESD02-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla(1995)",
+        "type": "Monster",
+        "cost": "0",
+        "image": "https://en.godzilla-cardgame.com/wordpress/wp-content/images/cardlist/ESD02/ESD02-006ol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Godzilla(1995)-ESD02-006",
+    "type": "Monster",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Monster"
+    ],
+    "set": "ESD",
+    "isHorizontal": false,
+    "threat": 36000,
+    "rank": "4",
+    "invade": 1,
     "counter": 0,
     "tokens": []
   },
