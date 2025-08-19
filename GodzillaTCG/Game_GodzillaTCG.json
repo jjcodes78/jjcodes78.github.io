@@ -140,13 +140,8 @@
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
-                    "width": "15vh"
-                  }
-                },
-                {
-                  "section": "EmptyZone",
-                  "style": {
-                    "width": "15vh"
+                    "width": "15vh",
+                    "marginRight": "15vh"
                   }
                 }
               ],
@@ -211,13 +206,8 @@
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
-                    "width": "15vh"
-                  }
-                },
-                {
-                  "section": "EmptyZone",
-                  "style": {
-                    "width": "15vh"
+                    "width": "15vh",
+                    "marginRight": "15vh"
                   }
                 }
               ],
