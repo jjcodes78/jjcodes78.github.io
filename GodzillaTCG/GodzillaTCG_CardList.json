@@ -642,7 +642,7 @@
     "Type": [
       "Rage"
     ],
-    "set": "EGZ",
+    "set": "E01",
     "isHorizontal": false,
     "threat": 5000,
     "rank": "0",
@@ -1101,6 +1101,816 @@
     "isHorizontal": true,
     "threat": 0,
     "rank": "1",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-062": {
+    "id": "EBP01-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla vs. Destoroyah",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-062ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Godzilla vs. Destoroyah",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "3",
+    "invade": 2,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-062+": {
+    "id": "EBP01-062+",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla vs. Destoroyah",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-062_2.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Godzilla vs. Destoroyah",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "3",
+    "invade": 2,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-063": {
+    "id": "EBP01-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guardians Awaken",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-063ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Guardians Awaken",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "4",
+    "invade": 2,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-063+": {
+    "id": "EBP01-063+",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guardians Awaken",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-063_2.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Guardians Awaken",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "4",
+    "invade": 2,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-064": {
+    "id": "EBP01-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla vs. Megaguirus",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-064ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Godzilla vs. Megaguirus",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "5",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-064+": {
+    "id": "EBP01-064+",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla vs. Megaguirus",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-064_2.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Godzilla vs. Megaguirus",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "5",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-065": {
+    "id": "EBP01-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla vs. Destoroyah",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-065ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Godzilla vs. Destoroyah",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "6",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-065+": {
+    "id": "EBP01-065+",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla vs. Destoroyah",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-065_2.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Godzilla vs. Destoroyah",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "6",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-066": {
+    "id": "EBP01-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla vs. Biollante",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-066ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Godzilla vs. Biollante",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "7",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-066+": {
+    "id": "EBP01-066+",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla vs. Biollante",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-066_2.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Godzilla vs. Biollante",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "7",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-076": {
+    "id": "EBP01-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Destroy All Monsters",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-076ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Destroy All Monsters",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "2",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-076+": {
+    "id": "EBP01-076+",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Destroy All Monsters",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-076_2.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Destroy All Monsters",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "2",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-077": {
+    "id": "EBP01-077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oxygen Destroyer",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-077ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Oxygen Destroyer",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "4",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-077+": {
+    "id": "EBP01-077+",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oxygen Destroyer",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-077_2.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Oxygen Destroyer",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "4",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-078": {
+    "id": "EBP01-078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla Attacks",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-078ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Godzilla Attacks",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "4",
+    "invade": 2,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-078+": {
+    "id": "EBP01-078+",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla Attacks",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-078_2.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Godzilla Attacks",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "4",
+    "invade": 2,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-079": {
+    "id": "EBP01-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gravity Beam",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-079ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Gravity Beam",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "5",
+    "invade": 2,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-079+": {
+    "id": "EBP01-079+",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gravity Beam",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-079_2.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Gravity Beam",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "5",
+    "invade": 2,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-080": {
+    "id": "EBP01-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla and its son on Monster Island",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-080ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Godzilla and its son on Monster Island",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "6",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "EBP01-080+": {
+    "id": "EBP01-080+",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla and its son on Monster Island",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01/EBP01-080_2.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Godzilla and its son on Monster Island",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "EBP",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "6",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD01-013": {
+    "id": "ESD01-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ginza Annihilated",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/ESD01/ESD01-013ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Ginza Annihilated",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "ESD",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "4",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD01-014": {
+    "id": "ESD01-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla Emerges",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/ESD01/ESD01-014ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Godzilla Emerges",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "ESD",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "6",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD01-014+": {
+    "id": "ESD01-014+",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla Emerges",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/ESD01/ESD01-014_2.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Godzilla Emerges",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "ESD",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "6",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD01-015": {
+    "id": "ESD01-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Operation Wadatsumi",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/ESD01/ESD01-015ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Operation Wadatsumi",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "ESD",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "7",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD01-016": {
+    "id": "ESD01-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heat Ray",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/ESD01/ESD01-016ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Heat Ray",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "ESD",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "1",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD01-016_2": {
+    "id": "ESD01-016_2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heat Ray",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/ESD01/ESD01-016_2.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Heat Ray",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "ESD",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "1",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD01-016_3": {
+    "id": "ESD01-016_3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heat Ray",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/ESD01/ESD01-016_3.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Heat Ray",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "ESD",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "1",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD01-016+": {
+    "id": "ESD01-016+",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heat Ray",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/ESD01/ESD01-016_4.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Heat Ray",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "White",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "ESD",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "1",
+    "invade": 1,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD02-014": {
+    "id": "ESD02-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Legend of Infant Island",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/ESD02/ESD02-014ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "The Legend of Infant Island",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "ESD",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "5",
+    "invade": 2,
+    "counter": 0,
+    "tokens": []
+  },
+  "ESD02-015": {
+    "id": "ESD02-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Burning Godzilla's Rampage",
+        "type": "Strategy",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/ESD02/ESD02-015ol.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Burning Godzilla's Rampage",
+    "type": "Strategy",
+    "cost": "0",
+    "Color": "Blue",
+    "Type": [
+      "Strategy"
+    ],
+    "set": "ESD",
+    "isHorizontal": true,
+    "threat": 0,
+    "rank": "7",
     "invade": 1,
     "counter": 0,
     "tokens": []
