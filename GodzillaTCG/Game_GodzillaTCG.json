@@ -3,7 +3,10 @@
   "menuBackgroundImage": "https://wallpapers.com/images/hd/godzilla-4k-ocean-j4mrrzqjy9vdfhxf.jpg",
   "defaultRessources": {
     "backgrounds": [
-      "https://wallpapers.com/images/hd/godzilla-4k-ocean-j4mrrzqjy9vdfhxf.jpg"
+      "https://wallpapers.com/images/hd/godzilla-4k-ocean-j4mrrzqjy9vdfhxf.jpg",
+      "https://jjcodes78.github.io/GodzillaTCG/images/godzilla-playmat-red.jpg",
+      "https://jjcodes78.github.io/GodzillaTCG/images/godzilla-playmat-blue.jpg",
+      "https://jjcodes78.github.io/GodzillaTCG/images/godzilla-playmat-gray.jpg"
     ],
     "decksUrl": "https://jjcodes78.github.io/GodzillaTCG/GodzillaTCG_PreconDecks.json?v=190820250447"
   },
