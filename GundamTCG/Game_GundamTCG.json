@@ -47,7 +47,7 @@
         "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
-        "drawPerTurn": "0"
+        "drawPerTurn": "1"
       },
       "defaultNotes": "",
       "tokens": [],
@@ -102,7 +102,7 @@
                   "section": "RESOURCE",
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-resources-deck.png')",
-                    "background-size": "contain",
+                    "background-size": "cover",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
                     "width": "15vh"
@@ -130,9 +130,9 @@
         },
         "autoPlayFromStack": {
           "UNIT TOKEN": "BattleArea",
-          "Unit": "BattleArea",
+          "UNIT": "BattleArea",
           "PILOT": "BattleArea",
-          "COMMAND": "BattleArea",
+          "COMMAND": "Discard",
           "BASE": "BaseArea"
         },
         "sectionsDict": {
