@@ -209,7 +209,7 @@
             "isDefaultSection": true,
             "title": "Exile",
             "isHidden": "yes",
-            "height": "18",
+            "height": "SMALL",
             "alignment": "NONE",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
@@ -275,7 +275,7 @@
           "ShieldsArea": {
             "title": "ShieldsArea",
             "isHidden": "yes",
-            "height": "18",
+            "height": "SMALL",
             "alignment": "none",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -307,7 +307,7 @@
           "RESOURCE": {
             "title": "RESOURCE",
             "isHidden": "yes",
-            "height": "18",
+            "height": "SMALL",
             "alignment": "DECK",
             "drawPerTurn": 1,
             "opponentAlignment": false,
@@ -324,7 +324,7 @@
           "Mana": {
             "title": "Mana",
             "isHidden": "no",
-            "height": "18",
+            "height": "SMALL",
             "alignment": "none",
             "opponentAlignment": false,
             "noAutoPayTo": true,
