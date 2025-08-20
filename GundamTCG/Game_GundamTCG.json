@@ -305,7 +305,7 @@
             "noQuickActions": false
           },
           "RESOURCE": {
-            "title": "ResourcesDeck",
+            "title": "RESOURCE",
             "isHidden": "yes",
             "height": "18",
             "alignment": "DECK",
@@ -313,7 +313,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "",
+            "displayedTitle": "Resource Deck",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -322,14 +322,14 @@
             "noQuickActions": false
           },
           "Mana": {
-            "title": "ResourcesArea",
+            "title": "Mana",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "",
+            "displayedTitle": "Resources Area",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
