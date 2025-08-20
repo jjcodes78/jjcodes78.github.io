@@ -56,7 +56,12 @@
       "sections": {
         "customSections": [
           "BaseArea",
-          "ShieldsArea",
+          "Shield1",
+          "Shield2",
+          "Shield3",
+          "Shield4",
+          "Shield5",
+          "Shield6",
           "RESOURCE",
           "Mana",
           "BattleArea"
@@ -95,8 +100,41 @@
               },
               "content": [
                 {
-                  "section": "ShieldsArea",
-                  "style": false
+                  "section": "Shield1",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Shield2",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Shield3",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Shield4",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Shield5",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Shield6",
+                  "style": {
+                    "width": "15vh",
+                    "margin-right": "5vh"
+                  }
                 },
                 {
                   "section": "RESOURCE",
@@ -272,7 +310,87 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": true
           },
-          "ShieldsArea": {
+          "Shield1": {
+            "title": "ShieldsArea",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "none",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Shield2": {
+            "title": "ShieldsArea",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "none",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Shield3": {
+            "title": "ShieldsArea",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "none",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Shield4": {
+            "title": "ShieldsArea",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "none",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Shield5": {
+            "title": "ShieldsArea",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "none",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Shield6": {
             "title": "ShieldsArea",
             "isHidden": "yes",
             "height": "SMALL",
