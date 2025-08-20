@@ -20,7 +20,9 @@
       "type",
       "level",
       "name",
-      "Color"
+      "Color",
+      "ap",
+      "hp"
     ],
     "formats": [
       {
@@ -115,18 +117,18 @@
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
-          "Token": "Stack",
-          "Unit": "Stack",
-          "Pilot": "Stack",
-          "Command": "Stack",
-          "Base": "Stack"
+          "UNIT TOKEN": "Stack",
+          "UNIT": "Stack",
+          "PILOT": "Stack",
+          "COMMAND": "Stack",
+          "BASE": "Stack"
         },
         "autoPlayFromStack": {
-          "Token": "BattleArea",
+          "UNIT TOKEN": "BattleArea",
           "Unit": "BattleArea",
-          "Pilot": "BattleArea",
-          "Command": "BattleArea",
-          "Base": "BaseArea"
+          "PILOT": "BattleArea",
+          "COMMAND": "BattleArea",
+          "BASE": "BaseArea"
         },
         "sectionsDict": {
           "Hand": {
