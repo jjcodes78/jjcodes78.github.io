@@ -29,7 +29,7 @@
         "title": "Classic",
         "gameplay": "Classic",
         "customCategories": [
-          "EX RESOURCES"
+          "EX RESOURCE"
         ]
       }
     ]
@@ -57,7 +57,7 @@
         "customSections": [
           "BaseArea",
           "ShieldsArea",
-          "EX RESOURCES",
+          "EX RESOURCE",
           "Mana",
           "BattleArea"
         ],
@@ -99,7 +99,7 @@
                   "style": false
                 },
                 {
-                  "section": "EX RESOURCES",
+                  "section": "EX RESOURCE",
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-resources-deck.png')",
                     "background-size": "contain",
@@ -118,7 +118,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "EX RESOURCES"
+          "EX RESOURCE"
         ],
         "autoPlayFromHand": {
           "UNIT TOKEN": "Stack",
@@ -126,7 +126,7 @@
           "PILOT": "Stack",
           "COMMAND": "Stack",
           "BASE": "Stack",
-          "EX RESOURCES": "Mana"
+          "EX RESOURCE": "Mana"
         },
         "autoPlayFromStack": {
           "UNIT TOKEN": "BattleArea",
@@ -304,7 +304,7 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
-          "EX RESOURCES": {
+          "EX RESOURCE": {
             "title": "ResourcesDeck",
             "isHidden": "yes",
             "height": "18",
