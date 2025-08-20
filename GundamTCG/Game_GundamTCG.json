@@ -28,7 +28,9 @@
       {
         "title": "Classic",
         "gameplay": "Classic",
-        "customCategories": []
+        "customCategories": [
+          "EX RESOURCES"
+        ]
       }
     ]
   },
@@ -55,8 +57,8 @@
         "customSections": [
           "BaseArea",
           "ShieldsArea",
-          "ResourcesDeck",
-          "ResourceArea",
+          "EX RESOURCES",
+          "Mana",
           "BattleArea"
         ],
         "layout": {
@@ -97,7 +99,7 @@
                   "style": false
                 },
                 {
-                  "section": "ResourcesDeck",
+                  "section": "EX RESOURCES",
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-resources-deck.png')",
                     "background-size": "contain",
@@ -107,7 +109,7 @@
                   }
                 },
                 {
-                  "section": "ResourceArea",
+                  "section": "Mana",
                   "style": ""
                 }
               ],
@@ -115,13 +117,16 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [],
+        "categoriesAlreadyOnBoard": [
+          "EX RESOURCES"
+        ],
         "autoPlayFromHand": {
           "UNIT TOKEN": "Stack",
           "UNIT": "Stack",
           "PILOT": "Stack",
           "COMMAND": "Stack",
-          "BASE": "Stack"
+          "BASE": "Stack",
+          "EX RESOURCES": "Mana"
         },
         "autoPlayFromStack": {
           "UNIT TOKEN": "BattleArea",
@@ -299,7 +304,7 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
-          "ResourcesDeck": {
+          "EX RESOURCES": {
             "title": "ResourcesDeck",
             "isHidden": "yes",
             "height": "18",
@@ -316,8 +321,8 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
-          "ResourceArea": {
-            "title": "ResourceArea",
+          "Mana": {
+            "title": "ResourcesArea",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
