@@ -297,7 +297,7 @@
           "BaseArea": {
             "title": "BaseArea",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -311,9 +311,9 @@
             "noQuickActions": true
           },
           "Shield1": {
-            "title": "ShieldsArea",
+            "title": "Shield1",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "none",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -327,9 +327,9 @@
             "noQuickActions": true
           },
           "Shield2": {
-            "title": "ShieldsArea",
+            "title": "Shield2",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "none",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -343,9 +343,9 @@
             "noQuickActions": true
           },
           "Shield3": {
-            "title": "ShieldsArea",
+            "title": "Shield3",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "none",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -359,9 +359,9 @@
             "noQuickActions": true
           },
           "Shield4": {
-            "title": "ShieldsArea",
+            "title": "Shield4",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "none",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -375,9 +375,9 @@
             "noQuickActions": true
           },
           "Shield5": {
-            "title": "ShieldsArea",
+            "title": "Shield5",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "none",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -391,9 +391,9 @@
             "noQuickActions": true
           },
           "Shield6": {
-            "title": "ShieldsArea",
+            "title": "Shield6",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "none",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -409,7 +409,7 @@
           "BattleArea": {
             "title": "BattleArea",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -425,7 +425,7 @@
           "RESOURCE": {
             "title": "RESOURCE",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "DECK",
             "drawPerTurn": 1,
             "opponentAlignment": false,
@@ -442,7 +442,7 @@
           "Mana": {
             "title": "Mana",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "none",
             "opponentAlignment": false,
             "noAutoPayTo": true,
