@@ -13,7 +13,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://jjcodes78.github.io/GundamTCG/GundamTCG_CardList.json?v=0108202520031978",
-    "cardBack": "https://jjcodes78.github.io/GundamTCG/images/card_back.webp"
+    "cardBack": "https://jjcodes78.github.io/GundamTCG/images/back_card.webp"
   },
   "deckBuilding": {
     "mainFilters": [
