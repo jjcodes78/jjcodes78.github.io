@@ -1225,7 +1225,7 @@
   },
   "EXB-001_p5": {
     "id": "EXB-001_p5",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Base",
@@ -2665,7 +2665,7 @@
   },
   "EXR-001_p5": {
     "id": "EXR-001_p5",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -3529,7 +3529,7 @@
   },
   "EXR-001_p4": {
     "id": "EXR-001_p4",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -3577,7 +3577,7 @@
   },
   "EXB-001": {
     "id": "EXB-001",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Base",
@@ -4393,7 +4393,7 @@
   },
   "EXB-001_p3": {
     "id": "EXB-001_p3",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Base",
@@ -4417,7 +4417,7 @@
   },
   "EXBP-001": {
     "id": "EXBP-001",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Base",
@@ -5185,7 +5185,7 @@
   },
   "EXB-001_p4": {
     "id": "EXB-001_p4",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Base",
@@ -5737,7 +5737,7 @@
   },
   "EXBP-005": {
     "id": "EXBP-005",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Base",
@@ -6001,7 +6001,7 @@
   },
   "EXR-001_p3": {
     "id": "EXR-001_p3",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -6097,7 +6097,7 @@
   },
   "EXR-001_p1": {
     "id": "EXR-001_p1",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -7009,7 +7009,7 @@
   },
   "EXRP-002": {
     "id": "EXRP-002",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -7417,7 +7417,7 @@
   },
   "EXBP-004": {
     "id": "EXBP-004",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Base",
@@ -7561,7 +7561,7 @@
   },
   "EXR-001": {
     "id": "EXR-001",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -7681,7 +7681,7 @@
   },
   "EXRP-001": {
     "id": "EXRP-001",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -8449,7 +8449,7 @@
   },
   "EXB-001_p2": {
     "id": "EXB-001_p2",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Base",
@@ -8689,7 +8689,7 @@
   },
   "EXR-001_p2": {
     "id": "EXR-001_p2",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -8929,7 +8929,7 @@
   },
   "EXB-001_p1": {
     "id": "EXB-001_p1",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Base",
@@ -9265,7 +9265,7 @@
   },
   "EXBP-002": {
     "id": "EXBP-002",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Base",
@@ -9913,7 +9913,7 @@
   },
   "EXBP-003": {
     "id": "EXBP-003",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Base",
