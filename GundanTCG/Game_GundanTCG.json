@@ -69,7 +69,13 @@
               "content": [
                 {
                   "section": "BaseArea",
-                  "style": ""
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GundanTCG/images/gundan-base.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
+                    "width": "15vh"
+                  }
                 },
                 {
                   "section": "BattleArea",
@@ -90,7 +96,13 @@
                 },
                 {
                   "section": "ResourcesDeck",
-                  "style": ""
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GundanTCG/images/gundan-resources-deck.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
+                    "width": "15vh"
+                  }
                 },
                 {
                   "section": "ResourceArea",
