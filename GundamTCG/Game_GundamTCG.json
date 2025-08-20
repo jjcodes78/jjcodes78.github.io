@@ -102,7 +102,7 @@
                   "section": "RESOURCE",
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-resources-deck.png')",
-                    "background-size": "cover",
+                    "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
                     "width": "15vh"
