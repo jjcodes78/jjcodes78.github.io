@@ -10,7 +10,7 @@
     "decksUrl": ""
   },
   "customHelp": "",
-  "cardRotation": 45,
+  "cardRotation": "90",
   "cards": {
     "dataUrl": "https://jjcodes78.github.io/GundanTCG/GundanTCG_CardList.json?v=0108202520031978",
     "cardBack": "https://jjcodes78.github.io/GundanTCG/images/card_back.webp"
@@ -51,19 +51,11 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Strategy1",
-          "Strategy2",
-          "RageZone",
-          "Zone8",
-          "Zone7",
-          "Zone6",
-          "Zone5",
-          "Zone4",
-          "Zone3",
-          "Zone2",
-          "Zone1",
-          "MonsterDeck",
-          "EmptyZone"
+          "BaseArea",
+          "ShieldsArea",
+          "ResourcesDeck",
+          "ResourceArea",
+          "BattleArea"
         ],
         "layout": {
           "direction": "column",
@@ -76,70 +68,12 @@
               },
               "content": [
                 {
-                  "section": "Strategy1",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-strategyzone1.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "15vh"
-                  }
+                  "section": "BaseArea",
+                  "style": ""
                 },
                 {
-                  "section": "Strategy2",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-strategyzone2.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "15vh"
-                  }
-                },
-                {
-                  "section": "RageZone",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-ragezone.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "15vh"
-                  }
-                },
-                {
-                  "section": "Zone8",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone8.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "15vh"
-                  }
-                },
-                {
-                  "section": "Zone7",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone7.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "15vh"
-                  }
-                },
-                {
-                  "section": "Zone6",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone6.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "15vh"
-                  }
-                },
-                {
-                  "section": "EmptyZone",
-                  "style": {
-                    "width": "15vh"
-                  }
+                  "section": "BattleArea",
+                  "style": ""
                 }
               ],
               "isSymetricalForOpponents": false
@@ -151,83 +85,36 @@
               },
               "content": [
                 {
-                  "section": "MonsterDeck",
-                  "style": {
-                    "width": "15vh"
-                  }
+                  "section": "ShieldsArea",
+                  "style": false
                 },
                 {
-                  "section": "Zone1",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone1.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "15vh"
-                  }
+                  "section": "ResourcesDeck",
+                  "style": ""
                 },
                 {
-                  "section": "Zone2",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone2.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "15vh"
-                  }
-                },
-                {
-                  "section": "Zone3",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone3.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "15vh"
-                  }
-                },
-                {
-                  "section": "Zone4",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone4.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "15vh"
-                  }
-                },
-                {
-                  "section": "Zone5",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone5.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "15vh"
-                  }
-                },
-                {
-                  "section": "EmptyZone",
-                  "style": {
-                    "width": "15vh"
-                  }
+                  "section": "ResourceArea",
+                  "style": ""
                 }
               ],
               "isSymetricalForOpponents": false
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [
-          "MonsterDeck"
-        ],
+        "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
           "Token": "Stack",
-          "Battle": "Stack",
-          "Monster": "Stack",
-          "Strategy": "Stack"
+          "Unit": "Stack",
+          "Pilot": "Stack",
+          "Command": "Stack",
+          "Base": "Stack"
         },
         "autoPlayFromStack": {
-          "Token": "RageZone"
+          "Token": "BattleArea",
+          "Unit": "BattleArea",
+          "Pilot": "BattleArea",
+          "Command": "BattleArea",
+          "Base": "BaseArea"
         },
         "sectionsDict": {
           "Hand": {
@@ -350,10 +237,10 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Strategy1": {
-            "title": "Strategy1",
+          "BaseArea": {
+            "title": "BaseArea",
             "isHidden": "no",
-            "height": "18",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -366,27 +253,44 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": true
           },
-          "Strategy2": {
-            "title": "Strategy2",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "MonsterDeck": {
-            "title": "MonsterDeck",
+          "ShieldsArea": {
+            "title": "ShieldsArea",
             "isHidden": "yes",
             "height": "18",
             "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "BattleArea": {
+            "title": "BattleArea",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "ResourcesDeck": {
+            "title": "ResourcesDeck",
+            "isHidden": "yes",
+            "height": "18",
+            "alignment": "DECK",
+            "drawPerTurn": 1,
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -398,153 +302,9 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
-          "RageZone": {
-            "title": "RageZone",
+          "ResourceArea": {
+            "title": "ResourceArea",
             "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "Zone1": {
-            "title": "Zone1",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "Zone2": {
-            "title": "Zone2",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "Zone3": {
-            "title": "Zone3",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "Zone4": {
-            "title": "Zone4",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "Zone5": {
-            "title": "Zone5",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "Zone6": {
-            "title": "Zone6",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "Zone7": {
-            "title": "Zone7",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "Zone8": {
-            "title": "Zone8",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "EmptyZone": {
-            "title": "EmptyZone",
-            "isHidden": "yes",
             "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
