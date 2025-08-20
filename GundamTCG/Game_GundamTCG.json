@@ -281,7 +281,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "",
-            "enterTapped": true,
+            "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
