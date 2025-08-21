@@ -206,7 +206,7 @@
             "isGroupForbidden": true,
             "opponentAlignment": false,
             "noAutoPayTo": true,
-            "displayedTitle": "Deck Principal",
+            "displayedTitle": "Main Deck",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -305,7 +305,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "",
+            "displayedTitle": "Shields",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -376,7 +376,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": true
+            "noQuickActions": false
           }
         }
       }
