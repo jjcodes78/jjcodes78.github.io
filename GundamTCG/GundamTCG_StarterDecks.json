@@ -6,15 +6,16 @@
     "format": [
       "Classic"
     ],
-    "cardCount": 48,
+    "cardCount": 60,
     "createdAt": "2025-08-21T00:21:07.157Z",
-    "lastModifiedAt": "2025-08-21T00:37:44.884Z",
+    "lastModifiedAt": "2025-08-21T16:30:58.232Z",
     "deckList": {
       "categoriesOrder": [
         "UNIT",
         "COMMAND",
         "PILOT",
-        "BASE"
+        "BASE",
+        "RESOURCE"
       ],
       "Sideboard": [],
       "UNIT": [
@@ -41,6 +42,10 @@
         {
           "count": 4,
           "id": "ST01-009_p1"
+        },
+        {
+          "count": 4,
+          "id": "ST04-001_p2"
         }
       ],
       "COMMAND": [
@@ -53,7 +58,7 @@
           "id": "GD01-118"
         },
         {
-          "count": 4,
+          "count": 2,
           "id": "ST04-012"
         }
       ],
@@ -75,6 +80,12 @@
         {
           "count": 4,
           "id": "ST04-015"
+        }
+      ],
+      "RESOURCE": [
+        {
+          "count": 10,
+          "id": "R-001_p4"
         }
       ]
     }
@@ -438,9 +449,9 @@
     "format": [
       "Classic"
     ],
-    "cardCount": 56,
+    "cardCount": 60,
     "createdAt": "2025-08-21T00:16:30.277Z",
-    "lastModifiedAt": "2025-08-21T00:20:47.898Z",
+    "lastModifiedAt": "2025-08-21T16:32:58.323Z",
     "deckList": {
       "categoriesOrder": [
         "UNIT",
@@ -478,6 +489,10 @@
         {
           "count": 4,
           "id": "ST04-007"
+        },
+        {
+          "count": 4,
+          "id": "ST04-008"
         }
       ],
       "PILOT": [
@@ -508,12 +523,8 @@
       ],
       "RESOURCE": [
         {
-          "count": 5,
+          "count": 10,
           "id": "R-001_p4"
-        },
-        {
-          "count": 5,
-          "id": "R-001_p5"
         }
       ]
     }
