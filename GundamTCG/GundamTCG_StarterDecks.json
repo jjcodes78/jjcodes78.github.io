@@ -786,5 +786,125 @@
         }
       ]
     }
+  },
+  {
+    "title": "Blue-Green Breach Link Unit Deck",
+    "id": "bb6b59d4-3ba7-46f3-8e29-5b173e5b9674",
+    "game": "Gundam CardGame",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 50,
+    "createdAt": "2025-08-21T18:28:48.027Z",
+    "lastModifiedAt": "2025-08-21T18:43:51.340Z",
+    "deckList": {
+      "categoriesOrder": [
+        "UNIT",
+        "PILOT",
+        "COMMAND",
+        "BASE"
+      ],
+      "Sideboard": [],
+      "UNIT": [
+        {
+          "count": 1,
+          "id": "ST01-001"
+        },
+        {
+          "count": 3,
+          "id": "ST01-002"
+        },
+        {
+          "count": 2,
+          "id": "ST01-005"
+        },
+        {
+          "count": 1,
+          "id": "ST02-001"
+        },
+        {
+          "count": 3,
+          "id": "ST02-005"
+        },
+        {
+          "count": 2,
+          "id": "ST03-007"
+        },
+        {
+          "count": 2,
+          "id": "ST03-008"
+        },
+        {
+          "count": 2,
+          "id": "GD01-004"
+        },
+        {
+          "count": 2,
+          "id": "GD01-015"
+        },
+        {
+          "count": 2,
+          "id": "GD01-016"
+        },
+        {
+          "count": 2,
+          "id": "GD01-026"
+        },
+        {
+          "count": 3,
+          "id": "GD01-031"
+        },
+        {
+          "count": 3,
+          "id": "GD01-040"
+        },
+        {
+          "count": 2,
+          "id": "GD01-030"
+        }
+      ],
+      "PILOT": [
+        {
+          "count": 3,
+          "id": "ST01-010_p1"
+        },
+        {
+          "count": 3,
+          "id": "ST03-011"
+        },
+        {
+          "count": 2,
+          "id": "ST02-010"
+        }
+      ],
+      "COMMAND": [
+        {
+          "count": 1,
+          "id": "GD01-105"
+        },
+        {
+          "count": 2,
+          "id": "ST01-013"
+        },
+        {
+          "count": 2,
+          "id": "GD01-100"
+        },
+        {
+          "count": 1,
+          "id": "GD01-099"
+        }
+      ],
+      "BASE": [
+        {
+          "count": 3,
+          "id": "ST03-016"
+        },
+        {
+          "count": 3,
+          "id": "ST01-015"
+        }
+      ]
+    }
   }
 ]
