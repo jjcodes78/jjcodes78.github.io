@@ -71,30 +71,6 @@
     "pilot": "Daguza Mackle",
     "tokens": []
   },
-  "ST03-008_p2": {
-    "id": "ST03-008_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Zaku \u2161",
-        "type": "UNIT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST03-008_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Zaku \u2161-ST03-008",
-    "type": "UNIT",
-    "cost": "1",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "2",
-    "ap": "1",
-    "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-123": {
     "id": "GD01-123",
     "isToken": false,
@@ -335,30 +311,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-016_p1": {
-    "id": "GD01-016_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Jegan",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-016_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Jegan-GD01-016",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "2",
-    "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-025": {
     "id": "GD01-025",
     "isToken": false,
@@ -476,30 +428,6 @@
     "level": "3",
     "ap": "4",
     "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-100_p2": {
-    "id": "GD01-100_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "A Show of Resolve",
-        "type": "COMMAND",
-        "cost": "3",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-100_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "A Show of Resolve-GD01-100",
-    "type": "COMMAND",
-    "cost": "3",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "-",
-    "hp": "-",
     "pilot": "",
     "tokens": []
   },
@@ -863,30 +791,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-013_p1": {
-    "id": "GD01-013_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Gundam",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-013_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gundam-GD01-013",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "3",
-    "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-028": {
     "id": "GD01-028",
     "isToken": false,
@@ -935,30 +839,6 @@
     "pilot": "",
     "tokens": []
   },
-  "ST01-012_p2": {
-    "id": "ST01-012_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Thoroughly Damaged",
-        "type": "COMMAND",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST01-012_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Thoroughly Damaged-ST01-012",
-    "type": "COMMAND",
-    "cost": "1",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "2",
-    "ap": "+0",
-    "hp": "+1",
-    "pilot": "Hayato Kobayashi",
-    "tokens": []
-  },
   "GD01-064": {
     "id": "GD01-064",
     "isToken": false,
@@ -1002,30 +882,6 @@
     "set": "Newtype Rising [GD01]",
     "isHorizontal": false,
     "level": "6",
-    "ap": "-",
-    "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-105_p2": {
-    "id": "GD01-105_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Citizens, Take a Stand!",
-        "type": "COMMAND",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-105_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Citizens, Take a Stand!-GD01-105",
-    "type": "COMMAND",
-    "cost": "1",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
     "ap": "-",
     "hp": "-",
     "pilot": "",
@@ -1199,102 +1055,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-120_p1": {
-    "id": "GD01-120_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Naval Bombardment",
-        "type": "COMMAND",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-120_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Naval Bombardment-GD01-120",
-    "type": "COMMAND",
-    "cost": "1",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "2",
-    "ap": "-",
-    "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
-  "EXB-001_p5": {
-    "id": "EXB-001_p5",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "EX Base",
-        "type": "EX BASE",
-        "cost": "-",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/EXB-001_p5.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "EX Base-EXB-001",
-    "type": "EX BASE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-097_p1": {
-    "id": "GD01-097_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Guel Jeturk",
-        "type": "PILOT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-097_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Guel Jeturk-GD01-097",
-    "type": "PILOT",
-    "cost": "1",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "+1",
-    "hp": "+1",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-070_p1": {
-    "id": "GD01-070_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Gundam Aerial",
-        "type": "UNIT",
-        "cost": "3",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-070_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gundam Aerial-GD01-070",
-    "type": "UNIT",
-    "cost": "3",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "5",
-    "ap": "3",
-    "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-071_p1": {
     "id": "GD01-071_p1",
     "isToken": false,
@@ -1316,30 +1076,6 @@
     "level": "4",
     "ap": "3",
     "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-070_p2": {
-    "id": "GD01-070_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Gundam Aerial",
-        "type": "UNIT",
-        "cost": "3",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-070_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gundam Aerial-GD01-070",
-    "type": "UNIT",
-    "cost": "3",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "5",
-    "ap": "3",
-    "hp": "3",
     "pilot": "",
     "tokens": []
   },
@@ -1436,30 +1172,6 @@
     "level": "4",
     "ap": "+1",
     "hp": "+2",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-009_p1": {
-    "id": "GD01-009_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "G-Fighter",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-009_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "G-Fighter-GD01-009",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "3",
-    "hp": "2",
     "pilot": "",
     "tokens": []
   },
@@ -1604,30 +1316,6 @@
     "level": "2",
     "ap": "2",
     "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
-  "T-006_p1": {
-    "id": "T-006_p1",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Char's Zaku \u2161",
-        "type": "UNIT TOKEN",
-        "cost": "-",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/T-006_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Char's Zaku \u2161-T-006",
-    "type": "UNIT TOKEN",
-    "cost": "-",
-    "Color": "-",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "1",
-    "hp": "1",
     "pilot": "",
     "tokens": []
   },
@@ -1823,30 +1511,6 @@
     "pilot": "",
     "tokens": []
   },
-  "ST03-011_p3": {
-    "id": "ST03-011_p3",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Char Aznable",
-        "type": "PILOT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST03-011_p3.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Char Aznable-ST03-011",
-    "type": "PILOT",
-    "cost": "1",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "+1",
-    "hp": "+1",
-    "pilot": "",
-    "tokens": []
-  },
   "R-002_p2": {
     "id": "R-002_p2",
     "isToken": false,
@@ -1919,54 +1583,6 @@
     "pilot": "",
     "tokens": []
   },
-  "ST04-001_p2": {
-    "id": "ST04-001_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Aile Strike Gundam",
-        "type": "UNIT",
-        "cost": "4",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST04-001_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Aile Strike Gundam-ST04-001",
-    "type": "UNIT",
-    "cost": "4",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "5",
-    "ap": "4",
-    "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
-  "R-001_p4": {
-    "id": "R-001_p4",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Resource",
-        "type": "RESOURCE",
-        "cost": "-",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/R-001_p4.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Resource-R-001",
-    "type": "RESOURCE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "3",
-    "hp": "1",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-043": {
     "id": "GD01-043",
     "isToken": false,
@@ -1991,30 +1607,6 @@
     "pilot": "",
     "tokens": []
   },
-  "ST01-016_p2": {
-    "id": "ST01-016_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Asticassia School of Technology, Earth House",
-        "type": "BASE",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST01-016_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Asticassia School of Technology, Earth House-ST01-016",
-    "type": "BASE",
-    "cost": "1",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "2",
-    "ap": "-",
-    "hp": "5",
-    "pilot": "",
-    "tokens": []
-  },
   "R-003_p1": {
     "id": "R-003_p1",
     "isToken": false,
@@ -2036,54 +1628,6 @@
     "level": "-",
     "ap": "-",
     "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST04-010_p2": {
-    "id": "ST04-010_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Kira Yamato",
-        "type": "PILOT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST04-010_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Kira Yamato-ST04-010",
-    "type": "PILOT",
-    "cost": "1",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "+2",
-    "hp": "+1",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST01-001_p2": {
-    "id": "ST01-001_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Gundam",
-        "type": "UNIT",
-        "cost": "3",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST01-001_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gundam-ST01-001",
-    "type": "UNIT",
-    "cost": "3",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "3",
-    "hp": "4",
     "pilot": "",
     "tokens": []
   },
@@ -2279,30 +1823,6 @@
     "pilot": "",
     "tokens": []
   },
-  "ST02-005_p2": {
-    "id": "ST02-005_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Maganac",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST02-005_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Maganac-ST02-005",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "2",
-    "ap": "3",
-    "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-117_p1": {
     "id": "GD01-117_p1",
     "isToken": false,
@@ -2447,30 +1967,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-091_p1": {
-    "id": "GD01-091_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Chang Wufei",
-        "type": "PILOT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-091_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Chang Wufei-GD01-091",
-    "type": "PILOT",
-    "cost": "1",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "+2",
-    "hp": "+1",
-    "pilot": "",
-    "tokens": []
-  },
   "ST04-010_p1": {
     "id": "ST04-010_p1",
     "isToken": false,
@@ -2519,78 +2015,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-041_p1": {
-    "id": "GD01-041_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Shenlong Gundam",
-        "type": "UNIT",
-        "cost": "3",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-041_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Shenlong Gundam-GD01-041",
-    "type": "UNIT",
-    "cost": "3",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "4",
-    "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST04-002_p2": {
-    "id": "ST04-002_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Strike Gundam",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST04-002_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Strike Gundam-ST04-002",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "3",
-    "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-068_p1": {
-    "id": "GD01-068_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Perfect Strike Gundam",
-        "type": "UNIT",
-        "cost": "3",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-068_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Perfect Strike Gundam-GD01-068",
-    "type": "UNIT",
-    "cost": "3",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "5",
-    "ap": "4",
-    "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-004": {
     "id": "GD01-004",
     "isToken": false,
@@ -2615,30 +2039,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-099_p1": {
-    "id": "GD01-099_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Intercept Orders",
-        "type": "COMMAND",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-099_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Intercept Orders-GD01-099",
-    "type": "COMMAND",
-    "cost": "2",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "-",
-    "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
   "ST02-002_p4": {
     "id": "ST02-002_p4",
     "isToken": false,
@@ -2660,30 +2060,6 @@
     "level": "3",
     "ap": "2",
     "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
-  "EXR-001_p5": {
-    "id": "EXR-001_p5",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "EX Resource",
-        "type": "EX RESOURCE",
-        "cost": "-",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/EXR-001_p5.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "EX Resource-EXR-001",
-    "type": "EX RESOURCE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "-",
     "pilot": "",
     "tokens": []
   },
@@ -2804,30 +2180,6 @@
     "level": "5",
     "ap": "2",
     "hp": "1",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST03-007_p2": {
-    "id": "ST03-007_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Zaku \u2160",
-        "type": "UNIT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST03-007_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Zaku \u2160-ST03-007",
-    "type": "UNIT",
-    "cost": "1",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "1",
-    "ap": "1",
-    "hp": "2",
     "pilot": "",
     "tokens": []
   },
@@ -2996,30 +2348,6 @@
     "level": "5",
     "ap": "4",
     "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-117_p2": {
-    "id": "GD01-117_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "The Witch and the Bride",
-        "type": "COMMAND",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-117_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "The Witch and the Bride-GD01-117",
-    "type": "COMMAND",
-    "cost": "2",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "5",
-    "ap": "-",
-    "hp": "-",
     "pilot": "",
     "tokens": []
   },
@@ -3359,30 +2687,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-034_p1": {
-    "id": "GD01-034_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Gundam Heavyarms",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-034_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gundam Heavyarms-GD01-034",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "3",
-    "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-002": {
     "id": "GD01-002",
     "isToken": false,
@@ -3455,30 +2759,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-018_p1": {
-    "id": "GD01-018_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "ReZEL",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-018_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "ReZEL-GD01-018",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "4",
-    "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-067": {
     "id": "GD01-067",
     "isToken": false,
@@ -3529,7 +2809,7 @@
   },
   "EXR-001_p4": {
     "id": "EXR-001_p4",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -3551,33 +2831,9 @@
     "pilot": "",
     "tokens": []
   },
-  "ST01-007_p2": {
-    "id": "ST01-007_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Gundam Aerial (Bit on Form)",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST01-007_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gundam Aerial (Bit on Form)-ST01-007",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "3",
-    "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
   "EXB-001": {
     "id": "EXB-001",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Base",
@@ -3620,54 +2876,6 @@
     "level": "5",
     "ap": "3",
     "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-107_p2": {
-    "id": "GD01-107_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "First Contact",
-        "type": "COMMAND",
-        "cost": "3",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-107_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "First Contact-GD01-107",
-    "type": "COMMAND",
-    "cost": "3",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "-",
-    "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST01-010_p2": {
-    "id": "ST01-010_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Amuro Ray",
-        "type": "PILOT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST01-010_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Amuro Ray-ST01-010",
-    "type": "PILOT",
-    "cost": "1",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "+2",
-    "hp": "+1",
     "pilot": "",
     "tokens": []
   },
@@ -3764,54 +2972,6 @@
     "level": "3",
     "ap": "3",
     "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-026_p1": {
-    "id": "GD01-026_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Char's Zaku \u2161",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-026_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Char's Zaku \u2161-GD01-026",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "3",
-    "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-100_p3": {
-    "id": "GD01-100_p3",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "A Show of Resolve",
-        "type": "COMMAND",
-        "cost": "3",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-100_p3.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "A Show of Resolve-GD01-100",
-    "type": "COMMAND",
-    "cost": "3",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "-",
-    "hp": "-",
     "pilot": "",
     "tokens": []
   },
@@ -4028,30 +3188,6 @@
     "level": "-",
     "ap": "-",
     "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
-  "T-002_p1": {
-    "id": "T-002_p1",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Guncannon",
-        "type": "UNIT TOKEN",
-        "cost": "-",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/T-002_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Guncannon-T-002",
-    "type": "UNIT TOKEN",
-    "cost": "-",
-    "Color": "-",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "3",
-    "hp": "3",
     "pilot": "",
     "tokens": []
   },
@@ -4393,7 +3529,7 @@
   },
   "EXB-001_p3": {
     "id": "EXB-001_p3",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Base",
@@ -4417,7 +3553,7 @@
   },
   "EXBP-001": {
     "id": "EXBP-001",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Base",
@@ -4631,30 +3767,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-118_p3": {
-    "id": "GD01-118_p3",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Overflowing Affection",
-        "type": "COMMAND",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-118_p3.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Overflowing Affection-GD01-118",
-    "type": "COMMAND",
-    "cost": "1",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "2",
-    "ap": "-",
-    "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
   "ST03-008_p1": {
     "id": "ST03-008_p1",
     "isToken": false,
@@ -4751,54 +3863,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-040_p1": {
-    "id": "GD01-040_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Wing Gundam",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-040_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Wing Gundam-GD01-040",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "5",
-    "ap": "4",
-    "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST01-008_p2": {
-    "id": "ST01-008_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Demi Trainer",
-        "type": "UNIT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST01-008_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Demi Trainer-ST01-008",
-    "type": "UNIT",
-    "cost": "1",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "1",
-    "ap": "1",
-    "hp": "1",
-    "pilot": "",
-    "tokens": []
-  },
   "R-008": {
     "id": "R-008",
     "isToken": false,
@@ -4845,54 +3909,6 @@
     "ap": "4",
     "hp": "6",
     "pilot": "",
-    "tokens": []
-  },
-  "T-001_p1": {
-    "id": "T-001_p1",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Gundam",
-        "type": "UNIT TOKEN",
-        "cost": "-",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/T-001_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gundam-T-001",
-    "type": "UNIT TOKEN",
-    "cost": "-",
-    "Color": "-",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST02-013_p2": {
-    "id": "ST02-013_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Peaceful Timbre",
-        "type": "COMMAND",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST02-013_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Peaceful Timbre-ST02-013",
-    "type": "COMMAND",
-    "cost": "1",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "+1",
-    "hp": "+1",
-    "pilot": "Quatre Raberba Winner",
     "tokens": []
   },
   "ST04-015": {
@@ -5185,7 +4201,7 @@
   },
   "EXB-001_p4": {
     "id": "EXB-001_p4",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Base",
@@ -5228,30 +4244,6 @@
     "level": "3",
     "ap": "2",
     "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST04-005_p2": {
-    "id": "ST04-005_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Strike Dagger",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST04-005_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Strike Dagger-ST04-005",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "2",
-    "ap": "3",
-    "hp": "2",
     "pilot": "",
     "tokens": []
   },
@@ -5323,30 +4315,6 @@
     "isHorizontal": false,
     "level": "3",
     "ap": "+1",
-    "hp": "+1",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST02-010_p2": {
-    "id": "ST02-010_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Heero Yuy",
-        "type": "PILOT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST02-010_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Heero Yuy-ST02-010",
-    "type": "PILOT",
-    "cost": "1",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "+2",
     "hp": "+1",
     "pilot": "",
     "tokens": []
@@ -5495,30 +4463,6 @@
     "pilot": "",
     "tokens": []
   },
-  "ST04-015_p2": {
-    "id": "ST04-015_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Archangel",
-        "type": "BASE",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST04-015_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Archangel-ST04-015",
-    "type": "BASE",
-    "cost": "1",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "-",
-    "hp": "5",
-    "pilot": "",
-    "tokens": []
-  },
   "ST03-004": {
     "id": "ST03-004",
     "isToken": false,
@@ -5564,30 +4508,6 @@
     "level": "4",
     "ap": "+1",
     "hp": "+2",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST02-002_p2": {
-    "id": "ST02-002_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Wing Gundam (Bird Mode)",
-        "type": "UNIT",
-        "cost": "3",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST02-002_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Wing Gundam (Bird Mode)-ST02-002",
-    "type": "UNIT",
-    "cost": "3",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "2",
-    "hp": "2",
     "pilot": "",
     "tokens": []
   },
@@ -5737,7 +4657,7 @@
   },
   "EXBP-005": {
     "id": "EXBP-005",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Base",
@@ -5975,33 +4895,9 @@
     "pilot": "Mu La Flaga",
     "tokens": []
   },
-  "ST01-015_p2": {
-    "id": "ST01-015_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "White Base",
-        "type": "BASE",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST01-015_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "White Base-ST01-015",
-    "type": "BASE",
-    "cost": "2",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "-",
-    "hp": "5",
-    "pilot": "",
-    "tokens": []
-  },
   "EXR-001_p3": {
     "id": "EXR-001_p3",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -6020,30 +4916,6 @@
     "level": "-",
     "ap": "-",
     "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST02-001_p2": {
-    "id": "ST02-001_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Wing Gundam",
-        "type": "UNIT",
-        "cost": "4",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST02-001_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Wing Gundam-ST02-001",
-    "type": "UNIT",
-    "cost": "4",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "6",
-    "ap": "4",
-    "hp": "5",
     "pilot": "",
     "tokens": []
   },
@@ -6097,7 +4969,7 @@
   },
   "EXR-001_p1": {
     "id": "EXR-001_p1",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -6332,30 +5204,6 @@
     "level": "2",
     "ap": "-",
     "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-088_p2": {
-    "id": "GD01-088_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Banagher Links",
-        "type": "PILOT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-088_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Banagher Links-GD01-088",
-    "type": "PILOT",
-    "cost": "1",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "5",
-    "ap": "+2",
-    "hp": "+2",
     "pilot": "",
     "tokens": []
   },
@@ -6671,54 +5519,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-076_p1": {
-    "id": "GD01-076_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Michaelis",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-076_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Michaelis-GD01-076",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "3",
-    "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
-  "T-003_p1": {
-    "id": "T-003_p1",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "Guntank",
-        "type": "UNIT TOKEN",
-        "cost": "-",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/T-003_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Guntank-T-003",
-    "type": "UNIT TOKEN",
-    "cost": "-",
-    "Color": "-",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "2",
-    "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-067_p1": {
     "id": "GD01-067_p1",
     "isToken": false,
@@ -6764,30 +5564,6 @@
     "level": "2",
     "ap": "2",
     "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-031_p1": {
-    "id": "GD01-031_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Gelgoog",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-031_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gelgoog-GD01-031",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "4",
-    "hp": "3",
     "pilot": "",
     "tokens": []
   },
@@ -6911,30 +5687,6 @@
     "pilot": "",
     "tokens": []
   },
-  "ST01-005_p2": {
-    "id": "ST01-005_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "GM",
-        "type": "UNIT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST01-005_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "GM-ST01-005",
-    "type": "UNIT",
-    "cost": "1",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "2",
-    "ap": "2",
-    "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
   "ST04-006": {
     "id": "ST04-006",
     "isToken": false,
@@ -6983,33 +5735,9 @@
     "pilot": "Yonem Kirks",
     "tokens": []
   },
-  "ST03-016_p2": {
-    "id": "ST03-016_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Falmel",
-        "type": "BASE",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST03-016_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Falmel-ST03-016",
-    "type": "BASE",
-    "cost": "2",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "-",
-    "hp": "5",
-    "pilot": "",
-    "tokens": []
-  },
   "EXRP-002": {
     "id": "EXRP-002",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -7100,30 +5828,6 @@
     "level": "4",
     "ap": "3",
     "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-030_p1": {
-    "id": "GD01-030_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Rick Dom",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-030_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Rick Dom-GD01-030",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "3",
-    "hp": "3",
     "pilot": "",
     "tokens": []
   },
@@ -7417,7 +6121,7 @@
   },
   "EXBP-004": {
     "id": "EXBP-004",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Base",
@@ -7561,7 +6265,7 @@
   },
   "EXR-001": {
     "id": "EXR-001",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -7631,30 +6335,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-026_p2": {
-    "id": "GD01-026_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Char's Zaku \u2161",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-026_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Char's Zaku \u2161-GD01-026",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "3",
-    "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
   "ST04-011_p2": {
     "id": "ST04-011_p2",
     "isToken": false,
@@ -7681,7 +6361,7 @@
   },
   "EXRP-001": {
     "id": "EXRP-001",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -7748,30 +6428,6 @@
     "level": "3",
     "ap": "2",
     "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST04-001_p3": {
-    "id": "ST04-001_p3",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Aile Strike Gundam",
-        "type": "UNIT",
-        "cost": "4",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST04-001_p3.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Aile Strike Gundam-ST04-001",
-    "type": "UNIT",
-    "cost": "4",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "5",
-    "ap": "4",
-    "hp": "4",
     "pilot": "",
     "tokens": []
   },
@@ -7868,30 +6524,6 @@
     "level": "4",
     "ap": "3",
     "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST01-011_p3": {
-    "id": "ST01-011_p3",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Suletta Mercury",
-        "type": "PILOT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST01-011_p3.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Suletta Mercury-ST01-011",
-    "type": "PILOT",
-    "cost": "1",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "+1",
-    "hp": "+2",
     "pilot": "",
     "tokens": []
   },
@@ -8015,30 +6647,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-081_p1": {
-    "id": "GD01-081_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "M1 Astray",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-081_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "M1 Astray-GD01-081",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "2",
-    "ap": "2",
-    "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-016_p2": {
     "id": "GD01-016_p2",
     "isToken": false,
@@ -8060,30 +6668,6 @@
     "level": "3",
     "ap": "2",
     "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-088_p1": {
-    "id": "GD01-088_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Banagher Links",
-        "type": "PILOT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-088_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Banagher Links-GD01-088",
-    "type": "PILOT",
-    "cost": "1",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "5",
-    "ap": "+2",
-    "hp": "+2",
     "pilot": "",
     "tokens": []
   },
@@ -8135,54 +6719,6 @@
     "pilot": "Andrew Waldfeld",
     "tokens": []
   },
-  "GD01-072_p1": {
-    "id": "GD01-072_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Launcher Strike Gundam",
-        "type": "UNIT",
-        "cost": "3",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-072_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Launcher Strike Gundam-GD01-072",
-    "type": "UNIT",
-    "cost": "3",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "3",
-    "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-004_p2": {
-    "id": "GD01-004_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Guncannon",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-004_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Guncannon-GD01-004",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "2",
-    "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
   "R-006": {
     "id": "R-006",
     "isToken": false,
@@ -8229,30 +6765,6 @@
     "ap": "2",
     "hp": "2",
     "pilot": "",
-    "tokens": []
-  },
-  "ST01-013_p2": {
-    "id": "ST01-013_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Kai's Resolve",
-        "type": "COMMAND",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST01-013_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Kai's Resolve-ST01-013",
-    "type": "COMMAND",
-    "cost": "1",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "+1",
-    "hp": "+0",
-    "pilot": "Kai Shiden",
     "tokens": []
   },
   "GD01-070_p3": {
@@ -8449,7 +6961,7 @@
   },
   "EXB-001_p2": {
     "id": "EXB-001_p2",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Base",
@@ -8543,54 +7055,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-004_p1": {
-    "id": "GD01-004_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Guncannon",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-004_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Guncannon-GD01-004",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "2",
-    "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-075_p1": {
-    "id": "GD01-075_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Darilbalde",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-075_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Darilbalde-GD01-075",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "4",
-    "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
   "ST01-014_p2": {
     "id": "ST01-014_p2",
     "isToken": false,
@@ -8639,30 +7103,6 @@
     "pilot": "Dozle Zabi",
     "tokens": []
   },
-  "ST02-015_p2": {
-    "id": "ST02-015_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Saint Gabriel Institute",
-        "type": "BASE",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST02-015_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Saint Gabriel Institute-ST02-015",
-    "type": "BASE",
-    "cost": "2",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "2",
-    "ap": "-",
-    "hp": "5",
-    "pilot": "",
-    "tokens": []
-  },
   "ST03-007": {
     "id": "ST03-007",
     "isToken": false,
@@ -8689,7 +7129,7 @@
   },
   "EXR-001_p2": {
     "id": "EXR-001_p2",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -8708,30 +7148,6 @@
     "level": "-",
     "ap": "-",
     "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-028_p1": {
-    "id": "GD01-028_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Gundam Sandrock",
-        "type": "UNIT",
-        "cost": "3",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-028_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gundam Sandrock-GD01-028",
-    "type": "UNIT",
-    "cost": "3",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "5",
-    "ap": "4",
-    "hp": "4",
     "pilot": "",
     "tokens": []
   },
@@ -8855,30 +7271,6 @@
     "pilot": "",
     "tokens": []
   },
-  "ST02-012_p2": {
-    "id": "ST02-012_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Simultaneous Fire",
-        "type": "COMMAND",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST02-012_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Simultaneous Fire-ST02-012",
-    "type": "COMMAND",
-    "cost": "1",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "+1",
-    "hp": "+1",
-    "pilot": "Trowa Barton",
-    "tokens": []
-  },
   "T-004": {
     "id": "T-004",
     "isToken": true,
@@ -8929,7 +7321,7 @@
   },
   "EXB-001_p1": {
     "id": "EXB-001_p1",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Base",
@@ -8948,30 +7340,6 @@
     "level": "-",
     "ap": "-",
     "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-118_p2": {
-    "id": "GD01-118_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Overflowing Affection",
-        "type": "COMMAND",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-118_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Overflowing Affection-GD01-118",
-    "type": "COMMAND",
-    "cost": "1",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "2",
-    "ap": "-",
-    "hp": "-",
     "pilot": "",
     "tokens": []
   },
@@ -9071,30 +7439,6 @@
     "pilot": "Mu La Flaga",
     "tokens": []
   },
-  "ST01-002_p2": {
-    "id": "ST01-002_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Gundam (MA Form)",
-        "type": "UNIT",
-        "cost": "3",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST01-002_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gundam (MA Form)-ST01-002",
-    "type": "UNIT",
-    "cost": "3",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "5",
-    "ap": "4",
-    "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-058": {
     "id": "GD01-058",
     "isToken": false,
@@ -9115,54 +7459,6 @@
     "isHorizontal": false,
     "level": "3",
     "ap": "3",
-    "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST03-011_p2": {
-    "id": "ST03-011_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Char Aznable",
-        "type": "PILOT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST03-011_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Char Aznable-ST03-011",
-    "type": "PILOT",
-    "cost": "1",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "+1",
-    "hp": "+1",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-011_p1": {
-    "id": "GD01-011_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Loto",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-011_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Loto-GD01-011",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "2",
-    "ap": "2",
     "hp": "2",
     "pilot": "",
     "tokens": []
@@ -9265,7 +7561,7 @@
   },
   "EXBP-002": {
     "id": "EXBP-002",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Base",
@@ -9356,30 +7652,6 @@
     "level": "1",
     "ap": "1",
     "hp": "1",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-077_p1": {
-    "id": "GD01-077_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Strike Gundam",
-        "type": "UNIT",
-        "cost": "2",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-077_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Strike Gundam-GD01-077",
-    "type": "UNIT",
-    "cost": "2",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "3",
-    "hp": "4",
     "pilot": "",
     "tokens": []
   },
@@ -9500,30 +7772,6 @@
     "level": "2",
     "ap": "2",
     "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
-  "R-001_p5": {
-    "id": "R-001_p5",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Resource",
-        "type": "RESOURCE",
-        "cost": "-",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/R-001_p5.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Resource-R-001",
-    "type": "RESOURCE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "-",
     "pilot": "",
     "tokens": []
   },
@@ -9743,54 +7991,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-089_p1": {
-    "id": "GD01-089_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Riddhe Marcenas",
-        "type": "PILOT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-089_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Riddhe Marcenas-GD01-089",
-    "type": "PILOT",
-    "cost": "1",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "+1",
-    "hp": "+1",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST02-001_p3": {
-    "id": "ST02-001_p3",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Wing Gundam",
-        "type": "UNIT",
-        "cost": "4",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST02-001_p3.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Wing Gundam-ST02-001",
-    "type": "UNIT",
-    "cost": "4",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "6",
-    "ap": "4",
-    "hp": "5",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-029_p1": {
     "id": "GD01-029_p1",
     "isToken": false,
@@ -9913,7 +8113,7 @@
   },
   "EXBP-003": {
     "id": "EXBP-003",
-    "isToken": true,
+    "isToken": false,
     "face": {
       "front": {
         "name": "EX Base",
@@ -9980,30 +8180,6 @@
     "level": "5",
     "ap": "+2",
     "hp": "+2",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-107_p1": {
-    "id": "GD01-107_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "First Contact",
-        "type": "COMMAND",
-        "cost": "3",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-107_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "First Contact-GD01-107",
-    "type": "COMMAND",
-    "cost": "3",
-    "Color": "Green",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "3",
-    "ap": "-",
-    "hp": "-",
     "pilot": "",
     "tokens": []
   },
@@ -10103,30 +8279,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-124_p1": {
-    "id": "GD01-124_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Side 7",
-        "type": "BASE",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-124_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Side 7-GD01-124",
-    "type": "BASE",
-    "cost": "1",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "1",
-    "ap": "-",
-    "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
   "ST03-015": {
     "id": "ST03-015",
     "isToken": false,
@@ -10220,30 +8372,6 @@
     "level": "-",
     "ap": "-",
     "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-005_p2": {
-    "id": "GD01-005_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Unicorn Gundam (Unicorn Mode)",
-        "type": "UNIT",
-        "cost": "4",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-005_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Unicorn Gundam (Unicorn Mode)-GD01-005",
-    "type": "UNIT",
-    "cost": "4",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "5",
-    "ap": "4",
-    "hp": "3",
     "pilot": "",
     "tokens": []
   },
@@ -10367,30 +8495,6 @@
     "pilot": "",
     "tokens": []
   },
-  "GD01-008_p1": {
-    "id": "GD01-008_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Guntank",
-        "type": "UNIT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-008_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Guntank-GD01-008",
-    "type": "UNIT",
-    "cost": "1",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "2",
-    "ap": "1",
-    "hp": "2",
-    "pilot": "",
-    "tokens": []
-  },
   "R-008_p1": {
     "id": "R-008_p1",
     "isToken": false,
@@ -10413,30 +8517,6 @@
     "ap": "-",
     "hp": "-",
     "pilot": "",
-    "tokens": []
-  },
-  "ST04-013_p2": {
-    "id": "ST04-013_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Hawk of Endymion",
-        "type": "COMMAND",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST04-013_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Hawk of Endymion-ST04-013",
-    "type": "COMMAND",
-    "cost": "1",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "2",
-    "ap": "+1",
-    "hp": "+0",
-    "pilot": "Mu La Flaga",
     "tokens": []
   },
   "GD01-039": {
@@ -10631,30 +8711,6 @@
     "pilot": "",
     "tokens": []
   },
-  "ST01-001_p3": {
-    "id": "ST01-001_p3",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Gundam",
-        "type": "UNIT",
-        "cost": "3",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST01-001_p3.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gundam-ST01-001",
-    "type": "UNIT",
-    "cost": "3",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "3",
-    "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-053": {
     "id": "GD01-053",
     "isToken": false,
@@ -10748,54 +8804,6 @@
     "level": "4",
     "ap": "+2",
     "hp": "+1",
-    "pilot": "",
-    "tokens": []
-  },
-  "GD01-015_p1": {
-    "id": "GD01-015_p1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Ball",
-        "type": "UNIT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/GD01-015_p1.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Ball-GD01-015",
-    "type": "UNIT",
-    "cost": "1",
-    "Color": "Blue",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "1",
-    "ap": "1",
-    "hp": "1",
-    "pilot": "",
-    "tokens": []
-  },
-  "ST01-011_p2": {
-    "id": "ST01-011_p2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Suletta Mercury",
-        "type": "PILOT",
-        "cost": "1",
-        "image": "https:\/\/www.gundam-gcg.com\/en\/images\/cards\/card\/ST01-011_p2.webp?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Suletta Mercury-ST01-011",
-    "type": "PILOT",
-    "cost": "1",
-    "Color": "White",
-    "set": "Edition Beta",
-    "isHorizontal": false,
-    "level": "4",
-    "ap": "+1",
-    "hp": "+2",
     "pilot": "",
     "tokens": []
   },
