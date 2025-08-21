@@ -66,9 +66,7 @@
           "leavesAtEndOfTurn": true
         }
       ],
-      "countersStartingValues": [
-        "0"
-      ],
+      "countersStartingValues": [],
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
