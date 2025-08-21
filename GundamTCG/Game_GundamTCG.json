@@ -78,17 +78,23 @@
                     "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-base.png')",
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
-                    "background-position": "center",
                     "width": "15vh"
                   }
                 },
                 {
                   "section": "BattleArea",
-                  "style": ""
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-battle-area.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat"
+                  }
                 },
                 {
                   "section": "DeployArea",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-deploy-area.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
                     "width": "30%"
                   }
                 }
@@ -113,13 +119,16 @@
                     "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-resources-deck.png')",
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
-                    "background-position": "center",
                     "width": "15vh"
                   }
                 },
                 {
                   "section": "Mana",
-                  "style": ""
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-resources-area.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
