@@ -75,7 +75,7 @@
                 {
                   "section": "BaseArea",
                   "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-base.png')",
+                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-base.png?v=210820251327')",
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
@@ -122,7 +122,7 @@
                 {
                   "section": "RESOURCE",
                   "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-resources-deck.png')",
+                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-resources-deck.png?v=210820251327')",
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "width": "15vh"
