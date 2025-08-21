@@ -56,15 +56,11 @@
       "sections": {
         "customSections": [
           "BaseArea",
-          "Shield1",
-          "Shield2",
-          "Shield3",
-          "Shield4",
-          "Shield5",
-          "Shield6",
+          "BattleArea",
+          "DeployArea",
+          "Shields",
           "RESOURCE",
-          "Mana",
-          "BattleArea"
+          "Mana"
         ],
         "layout": {
           "direction": "column",
@@ -89,6 +85,12 @@
                 {
                   "section": "BattleArea",
                   "style": ""
+                },
+                {
+                  "section": "DeployArea",
+                  "style": {
+                    "width": "30%"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -100,40 +102,9 @@
               },
               "content": [
                 {
-                  "section": "Shield1",
+                  "section": "Shields",
                   "style": {
                     "width": "15vh"
-                  }
-                },
-                {
-                  "section": "Shield2",
-                  "style": {
-                    "width": "15vh"
-                  }
-                },
-                {
-                  "section": "Shield3",
-                  "style": {
-                    "width": "15vh"
-                  }
-                },
-                {
-                  "section": "Shield4",
-                  "style": {
-                    "width": "15vh"
-                  }
-                },
-                {
-                  "section": "Shield5",
-                  "style": {
-                    "width": "15vh"
-                  }
-                },
-                {
-                  "section": "Shield6",
-                  "style": {
-                    "width": "15vh",
-                    "margin-right": "5vh"
                   }
                 },
                 {
@@ -167,9 +138,9 @@
           "RESOURCE": "Mana"
         },
         "autoPlayFromStack": {
-          "UNIT TOKEN": "BattleArea",
-          "UNIT": "BattleArea",
-          "PILOT": "BattleArea",
+          "UNIT TOKEN": "DeployArea",
+          "UNIT": "DeployArea",
+          "PILOT": "DeployArea",
           "COMMAND": "Discard",
           "BASE": "BaseArea"
         },
@@ -310,91 +281,11 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": true
           },
-          "Shield1": {
-            "title": "Shield1",
+          "Shields": {
+            "title": "Shields",
             "isHidden": "yes",
             "height": "18",
-            "alignment": "center",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "Shield2": {
-            "title": "Shield2",
-            "isHidden": "yes",
-            "height": "18",
-            "alignment": "center",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "Shield3": {
-            "title": "Shield3",
-            "isHidden": "yes",
-            "height": "18",
-            "alignment": "center",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "Shield4": {
-            "title": "Shield4",
-            "isHidden": "yes",
-            "height": "18",
-            "alignment": "center",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "Shield5": {
-            "title": "Shield5",
-            "isHidden": "yes",
-            "height": "18",
-            "alignment": "center",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true
-          },
-          "Shield6": {
-            "title": "Shield6",
-            "isHidden": "yes",
-            "height": "18",
-            "alignment": "center",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -408,6 +299,22 @@
           },
           "BattleArea": {
             "title": "BattleArea",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "DeployArea": {
+            "title": "DeployArea",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
