@@ -3503,30 +3503,6 @@
     "pilot": "Yonem Kirks",
     "tokens": []
   },
-  "EXRP-002": {
-    "id": "EXRP-002",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "EX Resource",
-        "type": "EX RESOURCE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/EXRP002.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "EX Resource-EXRP-002",
-    "type": "EX RESOURCE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
   "ST03-010": {
     "id": "ST03-010",
     "isToken": false,
@@ -3823,7 +3799,7 @@
         "name": "EX Resource",
         "type": "EX RESOURCE",
         "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/EXRP001.jpg?2507252",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/gundamexresource1.jpg?2507252",
         "isHorizontal": false
       }
     },
