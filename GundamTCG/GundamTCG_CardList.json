@@ -215,30 +215,6 @@
     "pilot": "",
     "tokens": []
   },
-  "RP-001": {
-    "id": "RP-001",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Resource",
-        "type": "RESOURCE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/RP001.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Resource-RP-001",
-    "type": "RESOURCE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-126": {
     "id": "GD01-126",
     "isToken": false,
@@ -308,30 +284,6 @@
     "level": "6",
     "ap": "5",
     "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
-  "RP-005": {
-    "id": "RP-005",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Resource",
-        "type": "RESOURCE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/RP005.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Resource-RP-005",
-    "type": "RESOURCE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "-",
     "pilot": "",
     "tokens": []
   },
@@ -932,30 +884,6 @@
     "level": "4",
     "ap": "+1",
     "hp": "+2",
-    "pilot": "",
-    "tokens": []
-  },
-  "RP-004": {
-    "id": "RP-004",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Resource",
-        "type": "RESOURCE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/RP004.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Resource-RP-004",
-    "type": "RESOURCE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "-",
     "pilot": "",
     "tokens": []
   },
@@ -3095,30 +3023,6 @@
     "pilot": "",
     "tokens": []
   },
-  "RP-002": {
-    "id": "RP-002",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Resource",
-        "type": "RESOURCE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/RP002.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Resource-RP-002",
-    "type": "RESOURCE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-115": {
     "id": "GD01-115",
     "isToken": false,
@@ -3191,30 +3095,6 @@
     "pilot": "",
     "tokens": []
   },
-  "RP-010": {
-    "id": "RP-010",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Resource",
-        "type": "RESOURCE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/RP010.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Resource-RP-010",
-    "type": "RESOURCE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
   "T-008": {
     "id": "T-008",
     "isToken": true,
@@ -3258,30 +3138,6 @@
     "set": "Zeon's Rush [ST03]",
     "isHorizontal": false,
     "level": "2",
-    "ap": "-",
-    "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
-  "RP-003": {
-    "id": "RP-003",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Resource",
-        "type": "RESOURCE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/RP003.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Resource-RP-003",
-    "type": "RESOURCE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
     "ap": "-",
     "hp": "-",
     "pilot": "",
@@ -4079,30 +3935,6 @@
     "pilot": "",
     "tokens": []
   },
-  "RP-007": {
-    "id": "RP-007",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Resource",
-        "type": "RESOURCE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/RP007.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Resource-RP-007",
-    "type": "RESOURCE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-120": {
     "id": "GD01-120",
     "isToken": false,
@@ -4487,30 +4319,6 @@
     "pilot": "",
     "tokens": []
   },
-  "RP-006": {
-    "id": "RP-006",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Resource",
-        "type": "RESOURCE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/RP006.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Resource-RP-006",
-    "type": "RESOURCE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "-",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-017": {
     "id": "GD01-017",
     "isToken": false,
@@ -4724,30 +4532,6 @@
     "level": "4",
     "ap": "1",
     "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
-  "RP-008": {
-    "id": "RP-008",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Resource",
-        "type": "RESOURCE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/RP008.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Resource-RP-008",
-    "type": "RESOURCE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "-",
     "pilot": "",
     "tokens": []
   },
@@ -5204,30 +4988,6 @@
     "level": "3",
     "ap": "2",
     "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
-  "RP-009": {
-    "id": "RP-009",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Resource",
-        "type": "RESOURCE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/RP009.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "Resource-RP-009",
-    "type": "RESOURCE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "-",
     "pilot": "",
     "tokens": []
   },
