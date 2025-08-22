@@ -159,7 +159,9 @@
           "UNIT": "DeployArea",
           "PILOT": "DeployArea",
           "COMMAND": "Discard",
-          "BASE": "BaseArea"
+          "BASE": "BaseArea",
+          "EX RESOURCE": "Mana",
+          "EX BASE": "BaseArea"
         },
         "sectionsDict": {
           "Hand": {
