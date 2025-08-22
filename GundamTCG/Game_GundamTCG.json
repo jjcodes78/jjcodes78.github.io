@@ -8,12 +8,12 @@
       "https://images.hdqwalls.com/wallpapers/call-of-duty-mobile-x-gundam-0x.jpg",
       "https://wallpapercat.com/w/full/6/e/f/2115588-3840x2160-desktop-4k-gundam-wallpaper-photo.jpg"
     ],
-    "decksUrl": "https://jjcodes78.github.io/GundamTCG/GundamTCG_StarterDecks.json?V=210820251544"
+    "decksUrl": "https://jjcodes78.github.io/GundamTCG/GundamTCG_StarterDecks.json?V=220820251137"
   },
   "customHelp": "",
   "cardRotation": "45",
   "cards": {
-    "dataUrl": "https://jjcodes78.github.io/GundamTCG/GundamTCG_CardList.json?v=210820251608",
+    "dataUrl": "https://jjcodes78.github.io/GundamTCG/GundamTCG_CardList.json?v=220820251137",
     "cardBack": "https://jjcodes78.github.io/GundamTCG/images/card_back.png"
   },
   "deckBuilding": {
