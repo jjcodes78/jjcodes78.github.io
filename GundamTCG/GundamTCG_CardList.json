@@ -2207,30 +2207,6 @@
     "pilot": "",
     "tokens": []
   },
-  "EXBP-001": {
-    "id": "EXBP-001",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "EX Base",
-        "type": "EX BASE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/EXBP001.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "EX Base-EXBP-001",
-    "type": "EX BASE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-078": {
     "id": "GD01-078",
     "isToken": false,
