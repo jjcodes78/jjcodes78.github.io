@@ -2927,30 +2927,6 @@
     "pilot": "",
     "tokens": []
   },
-  "EXBP-005": {
-    "id": "EXBP-005",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "EX Base",
-        "type": "EX BASE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/EXBP005.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "EX Base-EXBP-005",
-    "type": "EX BASE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
   "GD01-092": {
     "id": "GD01-092",
     "isToken": false,
@@ -3668,30 +3644,6 @@
     "level": "1",
     "ap": "1",
     "hp": "1",
-    "pilot": "",
-    "tokens": []
-  },
-  "EXBP-004": {
-    "id": "EXBP-004",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "EX Base",
-        "type": "EX BASE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/EXBP004.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "EX Base-EXBP-004",
-    "type": "EX BASE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "3",
     "pilot": "",
     "tokens": []
   },
@@ -4511,30 +4463,6 @@
     "pilot": "",
     "tokens": []
   },
-  "EXBP-002": {
-    "id": "EXBP-002",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "EX Base",
-        "type": "EX BASE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/EXBP002.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "EX Base-EXBP-002",
-    "type": "EX BASE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "3",
-    "pilot": "",
-    "tokens": []
-  },
   "ST02-009": {
     "id": "ST02-009",
     "isToken": false,
@@ -4796,30 +4724,6 @@
     "level": "5",
     "ap": "4",
     "hp": "4",
-    "pilot": "",
-    "tokens": []
-  },
-  "EXBP-003": {
-    "id": "EXBP-003",
-    "isToken": true,
-    "face": {
-      "front": {
-        "name": "EX Base",
-        "type": "EX BASE",
-        "cost": "-",
-        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/EXBP003.jpg?2507252",
-        "isHorizontal": false
-      }
-    },
-    "name": "EX Base-EXBP-003",
-    "type": "EX BASE",
-    "cost": "-",
-    "Color": "-",
-    "set": "Promotion Card",
-    "isHorizontal": false,
-    "level": "-",
-    "ap": "-",
-    "hp": "3",
     "pilot": "",
     "tokens": []
   },
