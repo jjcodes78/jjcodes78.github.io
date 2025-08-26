@@ -393,6 +393,9 @@
         "cost": "-",
         "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/R004.jpg?2507252",
         "isHorizontal": false
+      },
+      "back": {
+        "image": "https://jjcodes78.github.io/GundamTCG/images/resource_back.png"
       }
     },
     "name": "Resource-R-004",
@@ -467,6 +470,9 @@
         "cost": "-",
         "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/R002.jpg?2507252",
         "isHorizontal": false
+      },
+      "back": {
+        "image": "https://jjcodes78.github.io/GundamTCG/images/resource_back.png"
       }
     },
     "name": "Resource-R-002",
@@ -1189,6 +1195,9 @@
         "cost": "-",
         "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/R005.jpg?2507252",
         "isHorizontal": false
+      },
+      "back": {
+        "image": "https://jjcodes78.github.io/GundamTCG/images/resource_back.png"
       }
     },
     "name": "Resource-R-005",
@@ -1431,6 +1440,9 @@
         "cost": "-",
         "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/R007.jpg?2507252",
         "isHorizontal": false
+      },
+      "back": {
+        "image": "https://jjcodes78.github.io/GundamTCG/images/resource_back.png"
       }
     },
     "name": "Resource-R-007",
@@ -1505,6 +1517,9 @@
         "cost": "-",
         "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/R003.jpg?2507252",
         "isHorizontal": false
+      },
+      "back": {
+        "image": "https://jjcodes78.github.io/GundamTCG/images/resource_back.png"
       }
     },
     "name": "Resource-R-003",
@@ -2371,6 +2386,9 @@
         "cost": "-",
         "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/R008.jpg?2507252",
         "isHorizontal": false
+      },
+      "back": {
+        "image": "https://jjcodes78.github.io/GundamTCG/images/resource_back.png"
       }
     },
     "name": "Resource-R-008",
@@ -2805,6 +2823,9 @@
         "cost": "-",
         "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/R009.jpg?2507252",
         "isHorizontal": false
+      },
+      "back": {
+        "image": "https://jjcodes78.github.io/GundamTCG/images/resource_back.png"
       }
     },
     "name": "Resource-R-009",
@@ -3335,6 +3356,9 @@
         "cost": "-",
         "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/R001.jpg?2507252",
         "isHorizontal": false
+      },
+      "back": {
+        "image": "https://jjcodes78.github.io/GundamTCG/images/resource_back.png"
       }
     },
     "name": "Resource-R-001",
@@ -3721,6 +3745,9 @@
         "cost": "-",
         "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/EXR001.jpg?2507252",
         "isHorizontal": false
+      },
+      "back": {
+        "image": "https://jjcodes78.github.io/GundamTCG/images/resource_back.png"
       }
     },
     "name": "EX Resource-EXR-001",
@@ -3987,6 +4014,9 @@
         "cost": "-",
         "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/R006.jpg?2507252",
         "isHorizontal": false
+      },
+      "back": {
+        "image": "https://jjcodes78.github.io/GundamTCG/images/resource_back.png"
       }
     },
     "name": "Resource-R-006",
