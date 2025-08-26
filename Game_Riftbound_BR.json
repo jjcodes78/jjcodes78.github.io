@@ -493,7 +493,15 @@
                         "enterSpun": false,
                         "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
-                        "showHiddenCardInHistory": false
+                        "showHiddenCardInHistory": false,
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "Runes",
+                                "position": "BOTTOM"
+                            },
+                            "image": "https://jjcodes78.github.io/images/recycleButton.png"
+                        }
                     }
                 }
             }
@@ -866,7 +874,15 @@
                         "enterSpun": false,
                         "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
-                        "showHiddenCardInHistory": false
+                        "showHiddenCardInHistory": false,
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "Runes",
+                                "position": "BOTTOM"
+                            },
+                            "image": "https://jjcodes78.github.io/images/recycleButton.png"
+                        }
                     },
                     "Hand": {
                         "isDefaultSection": true,
