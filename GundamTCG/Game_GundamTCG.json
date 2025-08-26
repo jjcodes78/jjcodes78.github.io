@@ -84,6 +84,15 @@
                   }
                 },
                 {
+                  "section": "Shields",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-shield-area.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "width": "15vh"
+                  }
+                },
+                {
                   "section": "BattleArea",
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-battle-area.png')",
@@ -111,15 +120,6 @@
                 "align": "center"
               },
               "content": [
-                {
-                  "section": "Shields",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-shield-area.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "width": "15vh"
-                  }
-                },
                 {
                   "section": "RESOURCE",
                   "style": {
