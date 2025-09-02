@@ -1,0 +1,46 @@
+{
+  "FB000": {
+    "id": "FB000",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sabedoria",
+        "type": "Sabedoria",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/FaithBattle/images/faith-battle-mana.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabedoria",
+    "type": "Sabedoria",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB058": {
+    "id": "FB058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Espada Guardiã",
+        "type": "Artefato",
+        "cost": 1,
+        "image": "https://faithbattle.com.br/img/artefatos/58.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Espada Guardiã",
+    "type": "Artefato",
+    "cost": 1,
+    "rarity": "Lendario",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 1,
+    "tokens": []
+  }
+}

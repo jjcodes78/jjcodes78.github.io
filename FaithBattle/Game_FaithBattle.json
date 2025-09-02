@@ -1,0 +1,302 @@
+{
+    "name": "Faith Battle",
+    "menuBackgroundImage": "https://jjcodes78.github.io/FaithBattle/images/Faith_Desktop.jpg",
+    "defaultRessources": {
+        "backgrounds": [
+            "https://jjcodes78.github.io/FaithBattle/images/Faith_Desktop.jpg"
+        ],
+        "decksUrl": ""
+    },
+    "customHelp": "",
+    "cardRotation": "45",
+    "cards": {
+        "dataUrl": "https://jjcodes78.github.io/FaithBattle/FaithBattle_CardList.json?v=310720251331",
+        "cardBack": "https://jjcodes78.github.io/images/faith-battle-back.png"
+    },
+    "deckBuilding": {
+        "mainFilters": [
+            "type",
+            "cost",
+            "name",
+            "rarity"
+        ],
+        "formats": [
+            {
+                "title": "Classic",
+                "gameplay": "Classic",
+                "customCategories": [
+                    "Sabedoria"
+                ]
+            }
+        ]
+    },
+    "gameplay": {
+        "Classic": {
+            "mulligan": {
+                "info": "",
+                "startingHandSize": 0,
+                "drawNewHand": false,
+                "putSelectionAtBottom": false,
+                "drawNewSelectedCards": false
+            },
+            "newTurn": {
+                "drawOnStart": false,
+                "sharedTurn": false,
+                "firstPlayerTokenName": "",
+                "drawPerTurn": 1
+            },
+            "defaultNotes": "",
+            "tokens": [],
+            "countersStartingValues": [
+                0
+            ],
+            "hideFacedDownCards": false,
+            "sections": {
+                "customSections": [
+                    "Sabedorias",
+                    "Mana",
+                    "Preparacao",
+                    "CampoBatalha"
+                ],
+                "layout": {
+                    "direction": "column",
+                    "isSymetricalForOpponents": false,
+                    "content": [
+                        {
+                            "direction": "row",
+                            "style": false,
+                            "content": [
+                                {
+                                    "section": "CampoBatalha",
+                                    "style": {}
+                                }
+                            ],
+                            "isSymetricalForOpponents": false
+                        },
+                        {
+                            "direction": "row",
+                            "style": false,
+                            "content": [
+                                {
+                                    "section": "Sabedorias",
+                                    "style": false
+                                },
+                                {
+                                    "section": "Mana",
+                                    "style": {
+                                        "width": "35%"
+                                    }
+                                },
+                                {
+                                    "section": "Preparacao",
+                                    "style": false
+                                }
+                            ],
+                            "isSymetricalForOpponents": false
+                        }
+                    ]
+                },
+                "categoriesAlreadyOnBoard": [],
+                "autoPlayFromHand": {
+                    "Artefato": "Stack",
+                    "Heroi": "Stack",
+                    "Milagre": "Stack",
+                    "Pecado": "Stack"
+                },
+                "autoPlayFromStack": {
+                    "Milagre": "Discard",
+                    "Heroi": "Preparacao",
+                    "Artefato": "Preparacao",
+                    "Pecado": "Discard"
+                },
+                "sectionsDict": {
+                    "Hand": {
+                        "isDefaultSection": true,
+                        "title": "Hand",
+                        "isHidden": "opponent-only",
+                        "height": "DEFAULT",
+                        "alignment": "CENTER",
+                        "autoPayFrom": false,
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "displayedTitle": "Mão",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Discard": {
+                        "isDefaultSection": true,
+                        "title": "Discard",
+                        "isHidden": "no",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "noAutoPayTo": true,
+                        "opponentAlignment": false,
+                        "displayedTitle": "Discarte",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Deck": {
+                        "isDefaultSection": true,
+                        "title": "Deck",
+                        "isHidden": "yes",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "displayedTitle": "Deck Principal",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Stack": {
+                        "isDefaultSection": true,
+                        "title": "Stack",
+                        "isHidden": "no",
+                        "height": "HUGE",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "displayedTitle": "Chain",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Exile": {
+                        "isDefaultSection": true,
+                        "title": "Exile",
+                        "isHidden": "yes",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "noAutoPayTo": true,
+                        "opponentAlignment": false,
+                        "displayedTitle": "Exilio",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "ExileHidden": {
+                        "isDefaultSection": true,
+                        "title": "ExileHidden",
+                        "isHidden": "yes",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "noAutoPayTo": true,
+                        "opponentAlignment": false,
+                        "displayedTitle": "Exilio Oculto",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Sideboard": {
+                        "isDefaultSection": true,
+                        "title": "Sideboard",
+                        "isHidden": "yes",
+                        "height": "DEFAULT",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "displayedTitle": "",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Sabedorias": {
+                        "title": "Sabedorias",
+                        "isHidden": "yes",
+                        "height": "SMALL",
+                        "alignment": "DECK",
+                        "drawPerTurn": 2,
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": false,
+                        "displayedTitle": "Deck Sabedoria",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Preparacao": {
+                        "title": "Preparacao",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Preparação",
+                        "noQuickActions": false,
+                        "enterTapped": true,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "CampoBatalha": {
+                        "title": "CampoBatalha",
+                        "isHidden": "opponent-only",
+                        "height": "18",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Campo de Batalha",
+                        "noQuickActions": true,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Mana": {
+                        "title": "Mana",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": false,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Sabedorias",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    }
+                }
+            }
+        },
+    }
+}
