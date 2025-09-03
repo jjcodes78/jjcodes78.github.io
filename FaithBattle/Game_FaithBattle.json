@@ -71,6 +71,10 @@
                                 {
                                     "section": "Extra",
                                     "style": {
+                                        "background-image": "url('https://jjcodes78.github.io/FaithBattle/images/faith-battle-extra-deck.png?v=210820251327')",
+                                        "background-size": "contain",
+                                        "background-repeat": "no-repeat",
+                                        "background-position": "center",
                                         "width": "35%"
                                     }
                                 },
