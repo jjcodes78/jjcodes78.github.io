@@ -42,5 +42,1039 @@
     "atk": 1,
     "def": 1,
     "tokens": []
+  },
+  "FB098": {
+    "id": "FB098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arvore da Vida",
+        "type": "Artefato",
+        "cost": 7,
+        "image": "https://faithbattle.com.br/img/artefatos/98.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arvore da Vida",
+    "type": "Artefato",
+    "cost": 7,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB056": {
+    "id": "FB056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altar dos Patriarcas",
+        "type": "Artefato",
+        "cost": 4,
+        "image": "https://faithbattle.com.br/img/artefatos/56.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Altar dos Patriarcas",
+    "type": "Artefato",
+    "cost": 4,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB023": {
+    "id": "FB023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Espada do Espírito",
+        "type": "Artefato",
+        "cost": 3,
+        "image": "https://faithbattle.com.br/img/artefatos/23.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Espada do Espírito",
+    "type": "Artefato",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB004": {
+    "id": "FB004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Salomão",
+        "type": "Heroi",
+        "cost": 4,
+        "image": "https://faithbattle.com.br/img/herois/4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Salomão",
+    "type": "Heroi",
+    "cost": 4,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 2,
+    "def": 2,
+    "tokens": []
+  },
+  "FB007": {
+    "id": "FB007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abraão",
+        "type": "Heroi",
+        "cost": 2,
+        "image": "https://faithbattle.com.br/img/herois/7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abraão",
+    "type": "Heroi",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 2,
+    "tokens": []
+  },
+  "FB069": {
+    "id": "FB069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sara",
+        "type": "Heroi",
+        "cost": 2,
+        "image": "https://faithbattle.com.br/img/herois/69.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sara",
+    "type": "Heroi",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 2,
+    "tokens": []
+  },
+  "FB068": {
+    "id": "FB068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rebeca",
+        "type": "Heroi",
+        "cost": 2,
+        "image": "https://faithbattle.com.br/img/herois/68.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rebeca",
+    "type": "Heroi",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 1,
+    "tokens": []
+  },
+  "FB061": {
+    "id": "FB061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Agar",
+        "type": "Heroi",
+        "cost": 3,
+        "image": "https://faithbattle.com.br/img/herois/61.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Agar",
+    "type": "Heroi",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 1,
+    "tokens": []
+  },
+  "FB060": {
+    "id": "FB060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abel",
+        "type": "Heroi",
+        "cost": 1,
+        "image": "https://faithbattle.com.br/img/herois/60.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abel",
+    "type": "Heroi",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 1,
+    "tokens": []
+  },
+  "FB066": {
+    "id": "FB066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Matusalém",
+        "type": "Heroi",
+        "cost": 3,
+        "image": "https://faithbattle.com.br/img/herois/66.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Matusalém",
+    "type": "Heroi",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 1,
+    "tokens": []
+  },
+  "FB065": {
+    "id": "FB065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jó",
+        "type": "Heroi",
+        "cost": 5,
+        "image": "https://faithbattle.com.br/img/herois/65.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jó",
+    "type": "Herois",
+    "cost": 5,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 5,
+    "tokens": []
+  },
+  "FB071": {
+    "id": "FB071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sete",
+        "type": "Heroi",
+        "cost": 2,
+        "image": "https://faithbattle.com.br/img/herois/71.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sete",
+    "type": "Heroi",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 1,
+    "tokens": []
+  },
+  "FB092": {
+    "id": "FB092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Enos",
+        "type": "Heroi",
+        "cost": 2,
+        "image": "https://faithbattle.com.br/img/herois/92.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Enos",
+    "type": "Heroi",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 2,
+    "def": 2,
+    "tokens": []
+  },
+  "FB064": {
+    "id": "FB064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Isaque",
+        "type": "Heroi",
+        "cost": 4,
+        "image": "https://faithbattle.com.br/img/herois/64.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Isaque",
+    "type": "Heroi",
+    "cost": 4,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 2,
+    "def": 3,
+    "tokens": []
+  },
+  "FB001": {
+    "id": "FB001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moisés",
+        "type": "Heroi",
+        "cost": 3,
+        "image": "https://faithbattle.com.br/img/herois/1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moisés",
+    "type": "Heroi",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 2,
+    "def": 2,
+    "tokens": []
+  },
+  "FB005": {
+    "id": "FB005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eva",
+        "type": "Heroi",
+        "cost": 1,
+        "image": "https://faithbattle.com.br/img/herois/5.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eva",
+    "type": "Heroi",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 1,
+    "tokens": []
+  },
+  "FB002": {
+    "id": "FB002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Davi",
+        "type": "Heroi",
+        "cost": 3,
+        "image": "https://faithbattle.com.br/img/herois/2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Davi",
+    "type": "Heroi",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 3,
+    "def": 2,
+    "tokens": []
+  },
+  "FB067": {
+    "id": "FB067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pelegue",
+        "type": "Heroi",
+        "cost": 5,
+        "image": "https://faithbattle.com.br/img/herois/67.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pelegue",
+    "type": "Heroi",
+    "cost": 5,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 3,
+    "def": 3,
+    "tokens": []
+  },
+  "FB012": {
+    "id": "FB012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maria",
+        "type": "Heroi",
+        "cost": 2,
+        "image": "https://faithbattle.com.br/img/herois/12.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maria",
+    "type": "Heroi",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 2,
+    "tokens": []
+  },
+  "FB096": {
+    "id": "FB096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abel, o Pastor",
+        "type": "Heroi",
+        "cost": 1,
+        "image": "https://faithbattle.com.br/img/herois/96.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abel, o Pastor",
+    "type": "Heroi",
+    "cost": 1,
+    "rarity": "Lendario",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 3,
+    "tokens": []
+  },
+  "FB052": {
+    "id": "FB052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moisés",
+        "type": "Heroi",
+        "cost": 3,
+        "image": "https://faithbattle.com.br/img/herois/52.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moisés",
+    "type": "Heroi",
+    "cost": 3,
+    "rarity": "Lendario",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 2,
+    "def": 3,
+    "tokens": []
+  },
+  "FB100": {
+    "id": "FB100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sara, a Matriarca",
+        "type": "Heroi",
+        "cost": 2,
+        "image": "https://faithbattle.com.br/img/herois/100.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sara, a Matriarca",
+    "type": "Heroi",
+    "cost": 2,
+    "rarity": "Lendario",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 2,
+    "def": 2,
+    "tokens": []
+  },
+  "FB113": {
+    "id": "FB113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eva, Auxiliadora",
+        "type": "Heroi",
+        "cost": 1,
+        "image": "https://faithbattle.com.br/img/herois/113.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eva, Auxiliadora",
+    "type": "Heroi",
+    "cost": 1,
+    "rarity": "Lendario",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 2,
+    "def": 1,
+    "tokens": []
+  },
+  "FB095": {
+    "id": "FB095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Isaque, o Herdeiro",
+        "type": "Heroi",
+        "cost": 4,
+        "image": "https://faithbattle.com.br/img/herois/95.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Isaque, o Herdeiro",
+    "type": "Heroi",
+    "cost": 4,
+    "rarity": "Lendario",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 3,
+    "def": 3,
+    "tokens": []
+  },
+  "FB094": {
+    "id": "FB094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abraão, Pai da Fé",
+        "type": "Heroi",
+        "cost": 2,
+        "image": "https://faithbattle.com.br/img/herois/94.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abraão, Pai da Fé",
+    "type": "Heroi",
+    "cost": 2,
+    "rarity": "Lendario",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 3,
+    "tokens": []
+  },
+  "FB079": {
+    "id": "FB079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dízimo",
+        "type": "Milagre",
+        "cost": 1,
+        "image": "https://faithbattle.com.br/img/milagres/79.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dízimo",
+    "type": "Milagre",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB111": {
+    "id": "FB111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Imagem e Semelhança",
+        "type": "Milagre",
+        "cost": 3,
+        "image": "https://faithbattle.com.br/img/milagres/111.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Imagem e Semelhança",
+    "type": "Milagre",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB017": {
+    "id": "FB017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Proteção Divina",
+        "type": "Milagre",
+        "cost": 1,
+        "image": "https://faithbattle.com.br/img/milagres/17.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Proteção Divina",
+    "type": "Milagre",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB076": {
+    "id": "FB076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shabbat",
+        "type": "Milagre",
+        "cost": 7,
+        "image": "https://faithbattle.com.br/img/milagres/76.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shabbat",
+    "type": "Milagre",
+    "cost": 7,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB099": {
+    "id": "FB099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gênese de Tudo",
+        "type": "Milagre",
+        "cost": 4,
+        "image": "https://faithbattle.com.br/img/milagres/99.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gênese de Tudo",
+    "type": "Milagre",
+    "cost": 4,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB083": {
+    "id": "FB083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Protoevangelho",
+        "type": "Milagre",
+        "cost": 5,
+        "image": "https://faithbattle.com.br/img/milagres/83.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Protoevangelho",
+    "type": "Milagre",
+    "cost": 5,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB084": {
+    "id": "FB084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oferta do Justo",
+        "type": "Milagre",
+        "cost": 1,
+        "image": "https://faithbattle.com.br/img/milagres/84.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oferta do Justo",
+    "type": "Milagre",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB077": {
+    "id": "FB077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ira de Deus",
+        "type": "Milagre",
+        "cost": 7,
+        "image": "https://faithbattle.com.br/img/milagres/77.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ira de Deus",
+    "type": "Milagre",
+    "cost": 7,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB019": {
+    "id": "FB019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ressurreição",
+        "type": "Milagre",
+        "cost": 3,
+        "image": "https://faithbattle.com.br/img/milagres/19.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ressurreição",
+    "type": "Milagre",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB020": {
+    "id": "FB020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saça Ardente",
+        "type": "Milagre",
+        "cost": 2,
+        "image": "https://faithbattle.com.br/img/milagres/20.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saça Ardente",
+    "type": "Milagre",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB014": {
+    "id": "FB014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fogo do Céu",
+        "type": "Milagre",
+        "cost": 3,
+        "image": "https://faithbattle.com.br/img/milagres/14.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fogo do Céu",
+    "type": "Milagre",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB048": {
+    "id": "FB048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "No céu tem pão",
+        "type": "Milagre",
+        "cost": 3,
+        "image": "https://faithbattle.com.br/img/milagres/48.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "No céu tem pão",
+    "type": "Milagre",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB029": {
+    "id": "FB029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cordeiro de Deus",
+        "type": "Milagre",
+        "cost": 4,
+        "image": "https://faithbattle.com.br/img/milagres/29.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cordeiro de Deus",
+    "type": "Milagre",
+    "cost": 4,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB018": {
+    "id": "FB018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Liberação Celestial",
+        "type": "Milagre",
+        "cost": 2,
+        "image": "https://faithbattle.com.br/img/milagres/18.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Liberação Celestial",
+    "type": "Milagre",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB073": {
+    "id": "FB073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Adjuntora Idônea",
+        "type": "Milagre",
+        "cost": 3,
+        "image": "https://faithbattle.com.br/img/milagres/73.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Adjuntora Idônea",
+    "type": "Milagre",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB085": {
+    "id": "FB085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Provação de Fé",
+        "type": "Milagre",
+        "cost": 2,
+        "image": "https://faithbattle.com.br/img/milagres/85.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Provação de Fé",
+    "type": "Milagre",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB042": {
+    "id": "FB042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sabedoria de Salomão",
+        "type": "Milagre",
+        "cost": 1,
+        "image": "https://faithbattle.com.br/img/milagres/42.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabedoria de Salomão",
+    "type": "Milagre",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB013": {
+    "id": "FB013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Força de Sansão",
+        "type": "Milagre",
+        "cost": 2,
+        "image": "https://faithbattle.com.br/img/milagres/13.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Força de Sansão",
+    "type": "Milagre",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB087": {
+    "id": "FB087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sinal Divino",
+        "type": "Milagre",
+        "cost": 3,
+        "image": "https://faithbattle.com.br/img/milagres/87.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sinal Divino",
+    "type": "Milagre",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB086": {
+    "id": "FB086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Casos de Família",
+        "type": "Milagre",
+        "cost": 1,
+        "image": "https://faithbattle.com.br/img/milagres/86.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Casos de Família",
+    "type": "Milagre",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB030": {
+    "id": "FB030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Traição",
+        "type": "Pecado",
+        "cost": 2,
+        "image": "https://faithbattle.com.br/img/pacados/30.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Traição",
+    "type": "Pecado",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FB114": {
+    "id": "FB114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Olhar para Trás",
+        "type": "Pecado",
+        "cost": 3,
+        "image": "https://faithbattle.com.br/img/pacados/114.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Olhar para Trás",
+    "type": "Pecado",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
   }
 }
