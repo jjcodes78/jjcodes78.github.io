@@ -1676,14 +1676,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dúvidar da Promessa",
+        "name": "Duvidar da Promessa",
         "type": "Pecado",
         "cost": 3,
         "image": "https://faithbattle.com.br/img/pecados/90.png",
         "isHorizontal": false
       }
     },
-    "name": "Dúvidar da Promessa",
+    "name": "Duvidar da Promessa",
     "type": "Pecado",
     "cost": 3,
     "rarity": "Comum",

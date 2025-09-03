@@ -1,6 +1,6 @@
 [
   {
-    "title": "MIRACLES",
+    "title": "Milagres",
     "id": "1f6dbfb5-c6b7-4624-994e-a3462fade518",
     "game": "Faith Battle",
     "format": [
@@ -245,7 +245,7 @@
     }
   },
   {
-    "title": "LEGENDS",
+    "title": "Lendários",
     "id": "a4927286-d949-4e17-9add-f89e36d30435",
     "game": "Faith Battle",
     "format": [
@@ -379,6 +379,614 @@
         {
           "count": 2,
           "id": "FB083"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Fortaleza Inabalável",
+    "id": "f3107bb7-22dd-4355-b841-32bed87c0428",
+    "game": "Faith Battle",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 41,
+    "createdAt": "2025-09-03T03:27:19.139Z",
+    "lastModifiedAt": "2025-09-03T03:28:51.276Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Extra",
+        "Heroi",
+        "Herois",
+        "Artefato",
+        "Milagre",
+        "Sabedorias"
+      ],
+      "Sideboard": [],
+      "Heroi": [
+        {
+          "count": 2,
+          "id": "FB012"
+        },
+        {
+          "count": 2,
+          "id": "FB061"
+        },
+        {
+          "count": 2,
+          "id": "FB066"
+        },
+        {
+          "count": 1,
+          "id": "FB064"
+        },
+        {
+          "count": 2,
+          "id": "FB004"
+        },
+        {
+          "count": 2,
+          "id": "FB067"
+        },
+        {
+          "count": 2,
+          "id": "FB008"
+        }
+      ],
+      "Extra": [
+        {
+          "count": 1,
+          "id": "FB095"
+        }
+      ],
+      "Herois": [
+        {
+          "count": 2,
+          "id": "FB065"
+        }
+      ],
+      "Artefato": [
+        {
+          "count": 2,
+          "id": "FB057"
+        },
+        {
+          "count": 1,
+          "id": "FB098"
+        }
+      ],
+      "Milagre": [
+        {
+          "count": 2,
+          "id": "FB080"
+        },
+        {
+          "count": 2,
+          "id": "FB111"
+        },
+        {
+          "count": 2,
+          "id": "FB019"
+        },
+        {
+          "count": 2,
+          "id": "FB029"
+        },
+        {
+          "count": 2,
+          "id": "FB099"
+        },
+        {
+          "count": 2,
+          "id": "FB076"
+        }
+      ],
+      "Sabedorias": [
+        {
+          "count": 10,
+          "id": "FB000"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Nascidos do Edén",
+    "id": "2e1159eb-b636-4d87-bef0-7f68101f036d",
+    "game": "Faith Battle",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 43,
+    "createdAt": "2025-09-03T03:34:55.056Z",
+    "lastModifiedAt": "2025-09-03T03:34:55.056Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Extra",
+        "Heroi",
+        "Milagre",
+        "Pecado",
+        "Sabedorias"
+      ],
+      "Sideboard": [],
+      "Heroi": [
+        {
+          "count": 1,
+          "id": "FB060"
+        },
+        {
+          "count": 1,
+          "id": "FB010"
+        },
+        {
+          "count": 1,
+          "id": "FB005"
+        },
+        {
+          "count": 2,
+          "id": "FB011"
+        },
+        {
+          "count": 2,
+          "id": "FB068"
+        },
+        {
+          "count": 2,
+          "id": "FB071"
+        },
+        {
+          "count": 2,
+          "id": "FB061"
+        },
+        {
+          "count": 1,
+          "id": "FB001"
+        }
+      ],
+      "Extra": [
+        {
+          "count": 1,
+          "id": "FB113"
+        },
+        {
+          "count": 1,
+          "id": "FB112"
+        },
+        {
+          "count": 1,
+          "id": "FB096"
+        },
+        {
+          "count": 1,
+          "id": "FB052"
+        }
+      ],
+      "Milagre": [
+        {
+          "count": 2,
+          "id": "FB042"
+        },
+        {
+          "count": 2,
+          "id": "FB013"
+        },
+        {
+          "count": 2,
+          "id": "FB018"
+        },
+        {
+          "count": 2,
+          "id": "FB020"
+        },
+        {
+          "count": 2,
+          "id": "FB073"
+        },
+        {
+          "count": 2,
+          "id": "FB019"
+        },
+        {
+          "count": 2,
+          "id": "FB087"
+        },
+        {
+          "count": 2,
+          "id": "FB083"
+        }
+      ],
+      "Pecado": [
+        {
+          "count": 1,
+          "id": "FB090"
+        }
+      ],
+      "Sabedorias": [
+        {
+          "count": 10,
+          "id": "FB000"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Lamina do Pacto",
+    "id": "2b555004-0029-4b48-ac30-e027e7334896",
+    "game": "Faith Battle",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 43,
+    "createdAt": "2025-09-03T03:39:08.948Z",
+    "lastModifiedAt": "2025-09-03T03:39:08.948Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Extra",
+        "Sabedorias",
+        "Heroi",
+        "Artefato",
+        "Milagre",
+        "Pecado"
+      ],
+      "Sideboard": [],
+      "Sabedorias": [
+        {
+          "count": 10,
+          "id": "FB000"
+        }
+      ],
+      "Heroi": [
+        {
+          "count": 1,
+          "id": "FB005"
+        },
+        {
+          "count": 2,
+          "id": "FB068"
+        },
+        {
+          "count": 1,
+          "id": "FB069"
+        },
+        {
+          "count": 1,
+          "id": "FB001"
+        }
+      ],
+      "Extra": [
+        {
+          "count": 1,
+          "id": "FB113"
+        },
+        {
+          "count": 1,
+          "id": "FB100"
+        },
+        {
+          "count": 1,
+          "id": "FB052"
+        }
+      ],
+      "Artefato": [
+        {
+          "count": 1,
+          "id": "FB058"
+        }
+      ],
+      "Milagre": [
+        {
+          "count": 2,
+          "id": "FB079"
+        },
+        {
+          "count": 2,
+          "id": "FB084"
+        },
+        {
+          "count": 2,
+          "id": "FB017"
+        },
+        {
+          "count": 2,
+          "id": "FB018"
+        },
+        {
+          "count": 2,
+          "id": "FB117"
+        },
+        {
+          "count": 2,
+          "id": "FB048"
+        },
+        {
+          "count": 2,
+          "id": "FB019"
+        },
+        {
+          "count": 2,
+          "id": "FB029"
+        },
+        {
+          "count": 2,
+          "id": "FB083"
+        },
+        {
+          "count": 2,
+          "id": "FB021"
+        }
+      ],
+      "Pecado": [
+        {
+          "count": 2,
+          "id": "FB089"
+        },
+        {
+          "count": 2,
+          "id": "FB030"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Batedores de Jericó",
+    "id": "845a3aa0-703d-4580-b487-d4cec61fabbe",
+    "game": "Faith Battle",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 45,
+    "createdAt": "2025-09-03T03:41:18.542Z",
+    "lastModifiedAt": "2025-09-03T03:41:18.542Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Extra",
+        "Sabedorias",
+        "Heroi",
+        "Artefato",
+        "Milagre",
+        "Pecado"
+      ],
+      "Sideboard": [],
+      "Sabedorias": [
+        {
+          "count": 10,
+          "id": "FB000"
+        }
+      ],
+      "Heroi": [
+        {
+          "count": 2,
+          "id": "FB060"
+        },
+        {
+          "count": 2,
+          "id": "FB010"
+        },
+        {
+          "count": 1,
+          "id": "FB005"
+        },
+        {
+          "count": 2,
+          "id": "FB012"
+        },
+        {
+          "count": 2,
+          "id": "FB068"
+        },
+        {
+          "count": 1,
+          "id": "FB071"
+        },
+        {
+          "count": 2,
+          "id": "FB061"
+        },
+        {
+          "count": 1,
+          "id": "FB001"
+        }
+      ],
+      "Extra": [
+        {
+          "count": 1,
+          "id": "FB112"
+        },
+        {
+          "count": 1,
+          "id": "FB113"
+        },
+        {
+          "count": 1,
+          "id": "FB052"
+        }
+      ],
+      "Artefato": [
+        {
+          "count": 1,
+          "id": "FB058"
+        },
+        {
+          "count": 1,
+          "id": "FB023"
+        }
+      ],
+      "Milagre": [
+        {
+          "count": 1,
+          "id": "FB013"
+        },
+        {
+          "count": 2,
+          "id": "FB018"
+        },
+        {
+          "count": 1,
+          "id": "FB020"
+        },
+        {
+          "count": 1,
+          "id": "FB073"
+        },
+        {
+          "count": 1,
+          "id": "FB014"
+        },
+        {
+          "count": 1,
+          "id": "FB111"
+        },
+        {
+          "count": 2,
+          "id": "FB019"
+        },
+        {
+          "count": 1,
+          "id": "FB087"
+        },
+        {
+          "count": 1,
+          "id": "FB099"
+        },
+        {
+          "count": 2,
+          "id": "FB015"
+        },
+        {
+          "count": 2,
+          "id": "FB083"
+        },
+        {
+          "count": 1,
+          "id": "FB115"
+        }
+      ],
+      "Pecado": [
+        {
+          "count": 1,
+          "id": "FB114"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Firme Fundamento",
+    "id": "a2ba7f07-d35a-4c8b-87c8-709d2505f2ee",
+    "game": "Faith Battle",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 45,
+    "createdAt": "2025-09-03T03:44:20.375Z",
+    "lastModifiedAt": "2025-09-03T03:46:59.549Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Extra",
+        "Sabedorias",
+        "Heroi",
+        "Artefato",
+        "Milagre"
+      ],
+      "Sideboard": [],
+      "Sabedorias": [
+        {
+          "count": 10,
+          "id": "FB000"
+        }
+      ],
+      "Heroi": [
+        {
+          "count": 1,
+          "id": "FB060"
+        },
+        {
+          "count": 2,
+          "id": "FB063"
+        },
+        {
+          "count": 2,
+          "id": "FB005"
+        },
+        {
+          "count": 1,
+          "id": "FB007"
+        },
+        {
+          "count": 2,
+          "id": "FB092"
+        },
+        {
+          "count": 1,
+          "id": "FB069"
+        },
+        {
+          "count": 2,
+          "id": "FB054"
+        },
+        {
+          "count": 1,
+          "id": "FB064"
+        }
+      ],
+      "Extra": [
+        {
+          "count": 1,
+          "id": "FB096"
+        },
+        {
+          "count": 1,
+          "id": "FB094"
+        },
+        {
+          "count": 1,
+          "id": "FB100"
+        },
+        {
+          "count": 1,
+          "id": "FB095"
+        }
+      ],
+      "Artefato": [
+        {
+          "count": 1,
+          "id": "FB058"
+        },
+        {
+          "count": 2,
+          "id": "FB056"
+        }
+      ],
+      "Milagre": [
+        {
+          "count": 2,
+          "id": "FB084"
+        },
+        {
+          "count": 2,
+          "id": "FB018"
+        },
+        {
+          "count": 2,
+          "id": "FB016"
+        },
+        {
+          "count": 2,
+          "id": "FB020"
+        },
+        {
+          "count": 2,
+          "id": "FB019"
+        },
+        {
+          "count": 2,
+          "id": "FB087"
+        },
+        {
+          "count": 2,
+          "id": "FB029"
+        },
+        {
+          "count": 2,
+          "id": "FB076"
         }
       ]
     }
