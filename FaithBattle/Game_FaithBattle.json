@@ -44,7 +44,7 @@
                 "drawOnStart": false,
                 "sharedTurn": false,
                 "firstPlayerTokenName": "",
-                "drawPerTurn": 1
+                "drawPerTurn": 0
             },
             "defaultNotes": "",
             "tokens": [],
@@ -311,7 +311,7 @@
                     },
                     "CampoBatalha": {
                         "title": "CampoBatalha",
-                        "isHidden": "opponent-only",
+                        "isHidden": "no",
                         "height": "18",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
