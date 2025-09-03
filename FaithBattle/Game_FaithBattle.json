@@ -129,6 +129,7 @@
                 "autoPlayFromHand": {
                     "Sabedorias": "Mana",
                     "Artefato": "Stack",
+                    "ArtefatoEquip": "Stack",
                     "Heroi": "Stack",
                     "Milagre": "Stack",
                     "Pecado": "Stack"
@@ -136,7 +137,8 @@
                 "autoPlayFromStack": {
                     "Milagre": "Discard",
                     "Heroi": "Preparacao",
-                    "Artefato": "Preparacao",
+                    "Artefato": "CampoBatalha",
+                    "ArtefatoEquip": "Preparacao",
                     "Pecado": "Discard"
                 },
                 "sectionsDict": {

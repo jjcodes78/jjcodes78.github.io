@@ -489,14 +489,14 @@
     "face": {
       "front": {
         "name": "Arca de Noé",
-        "type": "Artefato",
+        "type": "ArtefatoEquip",
         "cost": 5,
         "image": "https://faithbattle.com.br/img/artefatos/22.png",
         "isHorizontal": false
       }
     },
     "name": "Arca de Noé",
-    "type": "Artefato",
+    "type": "ArtefatoEquip",
     "cost": 5,
     "rarity": "Comum",
     "set": "FAITH BATTLE",
@@ -511,14 +511,14 @@
     "face": {
       "front": {
         "name": "Espada do Espírito",
-        "type": "Artefato",
+        "type": "ArtefatoEquip",
         "cost": 3,
         "image": "https://faithbattle.com.br/img/artefatos/23.png",
         "isHorizontal": false
       }
     },
     "name": "Espada do Espírito",
-    "type": "Artefato",
+    "type": "ArtefatoEquip",
     "cost": 3,
     "rarity": "Comum",
     "set": "FAITH BATTLE",
@@ -533,14 +533,14 @@
     "face": {
       "front": {
         "name": "Escudo da Fé",
-        "type": "Artefato",
+        "type": "ArtefatoEquip",
         "cost": 1,
         "image": "https://faithbattle.com.br/img/artefatos/24.png",
         "isHorizontal": false
       }
     },
     "name": "Escudo da Fé",
-    "type": "Artefato",
+    "type": "ArtefatoEquip",
     "cost": 1,
     "rarity": "Comum",
     "set": "FAITH BATTLE",
@@ -555,14 +555,14 @@
     "face": {
       "front": {
         "name": "Cajado de Moisés",
-        "type": "Artefato",
+        "type": "ArtefatoEquip",
         "cost": 2,
         "image": "https://faithbattle.com.br/img/artefatos/25.png",
         "isHorizontal": false
       }
     },
     "name": "Cajado de Moisés",
-    "type": "Artefato",
+    "type": "ArtefatoEquip",
     "cost": 2,
     "rarity": "Comum",
     "set": "FAITH BATTLE",
@@ -577,14 +577,14 @@
     "face": {
       "front": {
         "name": "Couraça da Justiça",
-        "type": "Artefato",
+        "type": "ArtefatoEquip",
         "cost": 3,
         "image": "https://faithbattle.com.br/img/artefatos/26.png",
         "isHorizontal": false
       }
     },
     "name": "Couraça da Justiça",
-    "type": "Artefato",
+    "type": "ArtefatoEquip",
     "cost": 3,
     "rarity": "Comum",
     "set": "FAITH BATTLE",
@@ -731,14 +731,14 @@
     "face": {
       "front": {
         "name": "Botas do Evangelho",
-        "type": "Artefato",
+        "type": "ArtefatoEquip",
         "cost": 2,
         "image": "https://faithbattle.com.br/img/artefatos/43.png",
         "isHorizontal": false
       }
     },
     "name": "Botas do Evangelho",
-    "type": "Artefato",
+    "type": "ArtefatoEquip",
     "cost": 2,
     "rarity": "Lendario",
     "set": "FAITH BATTLE",
@@ -753,14 +753,14 @@
     "face": {
       "front": {
         "name": "Capacete da Salvação",
-        "type": "Artefato",
+        "type": "ArtefatoEquip",
         "cost": 1,
         "image": "https://faithbattle.com.br/img/artefatos/44.png",
         "isHorizontal": false
       }
     },
     "name": "Capacete da Salvação",
-    "type": "Artefato",
+    "type": "ArtefatoEquip",
     "cost": 1,
     "rarity": "Lendario",
     "set": "FAITH BATTLE",
@@ -885,14 +885,14 @@
     "face": {
       "front": {
         "name": "Cinturão da Verdade",
-        "type": "Artefato",
+        "type": "ArtefatoEquip",
         "cost": 4,
         "image": "https://faithbattle.com.br/img/artefatos/50.png",
         "isHorizontal": false
       }
     },
     "name": "Cinturão da Verdade",
-    "type": "Artefato",
+    "type": "ArtefatoEquip",
     "cost": 4,
     "rarity": "Comum",
     "set": "FAITH BATTLE",
@@ -995,14 +995,14 @@
     "face": {
       "front": {
         "name": "Arco de Ismael",
-        "type": "Artefato",
+        "type": "ArtefatoEquip",
         "cost": 3,
         "image": "https://faithbattle.com.br/img/artefatos/55.png",
         "isHorizontal": false
       }
     },
     "name": "Arco de Ismael",
-    "type": "Artefato",
+    "type": "ArtefatoEquip",
     "cost": 3,
     "rarity": "Comum",
     "set": "FAITH BATTLE",
@@ -1083,14 +1083,14 @@
     "face": {
       "front": {
         "name": "Punhal do Sacrifício",
-        "type": "Artefato",
+        "type": "ArtefatoEquip",
         "cost": 2,
         "image": "https://faithbattle.com.br/img/artefatos/59.png",
         "isHorizontal": false
       }
     },
     "name": "Punhal do Sacrifício",
-    "type": "Artefato",
+    "type": "ArtefatoEquip",
     "cost": 2,
     "rarity": "Comum",
     "set": "FAITH BATTLE",
@@ -2095,14 +2095,14 @@
     "face": {
       "front": {
         "name": "Vestes da Vergonha",
-        "type": "Artefato",
+        "type": "ArtefatoEquip",
         "cost": 1,
         "image": "https://faithbattle.com.br/img/artefatos/119.png",
         "isHorizontal": false
       }
     },
     "name": "Vestes da Vergonha",
-    "type": "Artefato",
+    "type": "ArtefatoEquip",
     "cost": 1,
     "rarity": "Comum",
     "set": "FAITH BATTLE",
