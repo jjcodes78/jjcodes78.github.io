@@ -90,6 +90,12 @@
                                 {
                                     "section": "Preparacao",
                                     "style": false
+                                },
+                                {
+                                    "section": "Extra",
+                                    "style": {
+                                        "width": "20%"
+                                    }
                                 }
                             ],
                             "isSymetricalForOpponents": false
@@ -97,7 +103,8 @@
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
-                    "Sabedorias"
+                    "Sabedorias",
+                    "Extra"
                 ],
                 "autoPlayFromHand": {
                     "Sabedorias": "Mana",
@@ -260,6 +267,22 @@
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Preparação",
                         "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Extra": {
+                        "title": "Extra",
+                        "isHidden": "no",
+                        "height": "18",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Extra Deck",
+                        "noQuickActions": true,
                         "enterTapped": false,
                         "enterSpun": false,
                         "isGroupForbidden": false,
