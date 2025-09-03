@@ -469,7 +469,7 @@
         "name": "Abel, o Pastor",
         "type": "Heroi",
         "cost": 1,
-        "image": "https://faithbattle.com.br/img/herois/96.png",
+        "image": "https://faithbattle.com.br/img/lendarias/96.png",
         "isHorizontal": false
       }
     },
@@ -491,7 +491,7 @@
         "name": "Moisés",
         "type": "Heroi",
         "cost": 3,
-        "image": "https://faithbattle.com.br/img/herois/52.png",
+        "image": "https://faithbattle.com.br/img/lendarias/52.png",
         "isHorizontal": false
       }
     },
@@ -513,7 +513,7 @@
         "name": "Sara, a Matriarca",
         "type": "Heroi",
         "cost": 2,
-        "image": "https://faithbattle.com.br/img/herois/100.png",
+        "image": "https://faithbattle.com.br/img/lendarias/100.png",
         "isHorizontal": false
       }
     },
@@ -535,7 +535,7 @@
         "name": "Eva, Auxiliadora",
         "type": "Heroi",
         "cost": 1,
-        "image": "https://faithbattle.com.br/img/herois/113.png",
+        "image": "https://faithbattle.com.br/img/lendarias/113.png",
         "isHorizontal": false
       }
     },
@@ -579,7 +579,7 @@
         "name": "Abraão, Pai da Fé",
         "type": "Heroi",
         "cost": 2,
-        "image": "https://faithbattle.com.br/img/herois/94.png",
+        "image": "https://faithbattle.com.br/img/lendarias/94.png",
         "isHorizontal": false
       }
     },
@@ -1041,7 +1041,7 @@
         "name": "Traição",
         "type": "Pecado",
         "cost": 2,
-        "image": "https://faithbattle.com.br/img/pacados/30.png",
+        "image": "https://faithbattle.com.br/img/pecados/30.png",
         "isHorizontal": false
       }
     },
@@ -1063,7 +1063,7 @@
         "name": "Olhar para Trás",
         "type": "Pecado",
         "cost": 3,
-        "image": "https://faithbattle.com.br/img/pacados/114.png",
+        "image": "https://faithbattle.com.br/img/pecados/114.png",
         "isHorizontal": false
       }
     },
