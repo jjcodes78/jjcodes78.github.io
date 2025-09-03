@@ -69,6 +69,12 @@
                             "style": false,
                             "content": [
                                 {
+                                    "section": "Extra",
+                                    "style": {
+                                        "width": "35%"
+                                    }
+                                },
+                                {
                                     "section": "CampoBatalha",
                                     "style": {}
                                 }
@@ -92,12 +98,6 @@
                                 {
                                     "section": "Preparacao",
                                     "style": false
-                                },
-                                {
-                                    "section": "Extra",
-                                    "style": {
-                                        "width": "20%"
-                                    }
                                 }
                             ],
                             "isSymetricalForOpponents": false
