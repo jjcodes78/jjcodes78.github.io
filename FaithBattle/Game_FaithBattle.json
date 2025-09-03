@@ -34,11 +34,11 @@
     "gameplay": {
         "Classic": {
             "mulligan": {
-                "info": "",
-                "startingHandSize": 0,
-                "drawNewHand": false,
-                "putSelectionAtBottom": false,
-                "drawNewSelectedCards": false
+                "info": "Você pode trocar qualquer número de cards da mão inicial por novas cartas.",
+                "startingHandSize": 5,
+                "drawNewHand": true,
+                "putSelectionAtBottom": true,
+                "drawNewSelectedCards": true
             },
             "newTurn": {
                 "drawOnStart": false,
@@ -247,7 +247,7 @@
                         "isHidden": "yes",
                         "height": "18",
                         "alignment": "DECK",
-                        "drawPerTurn": 1,
+                        "drawPerTurn": 0,
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": false,
