@@ -5,7 +5,7 @@
     "face": {
       "front": {
         "name": "Sabedoria",
-        "type": "Sabedoria",
+        "type": "Sabedorias",
         "cost": 0,
         "image": "https://jjcodes78.github.io/FaithBattle/images/faith-battle-mana.png",
         "isHorizontal": false

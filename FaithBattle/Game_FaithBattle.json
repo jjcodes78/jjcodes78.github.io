@@ -49,7 +49,7 @@
             "defaultNotes": "",
             "tokens": [],
             "countersStartingValues": [
-                0
+                15
             ],
             "hideFacedDownCards": false,
             "sections": {
@@ -309,7 +309,7 @@
                     "Mana": {
                         "title": "Mana",
                         "isHidden": "no",
-                        "height": "SMALL",
+                        "height": "18",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
                         "noAutoPayTo": false,
