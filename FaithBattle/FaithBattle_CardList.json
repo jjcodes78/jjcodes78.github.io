@@ -444,14 +444,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Saça Ardente",
+        "name": "Sarça Ardente",
         "type": "Milagre",
         "cost": 2,
         "image": "https://faithbattle.com.br/img/milagres/20.png",
         "isHorizontal": false
       }
     },
-    "name": "Saça Ardente",
+    "name": "Sarça Ardente",
     "type": "Milagre",
     "cost": 2,
     "rarity": "Comum",
@@ -1789,7 +1789,7 @@
         "name": "Isaque, o Herdeiro",
         "type": "Heroi",
         "cost": 4,
-        "image": "https://faithbattle.com.br/img/herois/95.png",
+        "image": "https://faithbattle.com.br/img/lendarias/95.png",
         "isHorizontal": false
       }
     },

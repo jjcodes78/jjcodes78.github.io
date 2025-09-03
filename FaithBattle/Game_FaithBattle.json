@@ -5,7 +5,7 @@
         "backgrounds": [
             "https://jjcodes78.github.io/FaithBattle/images/Faith_Desktop.jpg"
         ],
-        "decksUrl": ""
+        "decksUrl": "https://jjcodes78.github.io/FaithBattle/FaithBattle_StarterDecks.json"
     },
     "customHelp": "",
     "cardRotation": "45",
