@@ -444,14 +444,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Moisés",
+        "name": "Moisés (Lendário)",
         "type": "Heroi",
         "cost": 3,
         "image": "https://faithbattle.com.br/img/lendarias/52.png",
         "isHorizontal": false
       }
     },
-    "name": "Moisés",
+    "name": "Moisés (Lendário)",
     "type": "Heroi",
     "cost": 3,
     "rarity": "Lendario",
