@@ -277,7 +277,7 @@
                     },
                     "Extra": {
                         "title": "Extra",
-                        "isHidden": "no",
+                        "isHidden": "yes",
                         "height": "18",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
