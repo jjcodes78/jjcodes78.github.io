@@ -76,7 +76,12 @@
                                 },
                                 {
                                     "section": "CampoBatalha",
-                                    "style": {}
+                                    "style": {
+                                        "background-image": "url('https://jjcodes78.github.io/FaithBattle/images/faith-battle-campo-batalha.png?v=210820251327')",
+                                        "background-size": "contain",
+                                        "background-repeat": "no-repeat",
+                                        "background-position": "center"
+                                    }
                                 }
                             ],
                             "isSymetricalForOpponents": false
@@ -92,12 +97,21 @@
                                 {
                                     "section": "Mana",
                                     "style": {
+                                        "background-image": "url('https://jjcodes78.github.io/FaithBattle/images/faith-battle-zona-sabedoria.png?v=210820251327')",
+                                        "background-size": "contain",
+                                        "background-repeat": "no-repeat",
+                                        "background-position": "center",
                                         "width": "35%"
                                     }
                                 },
                                 {
                                     "section": "Preparacao",
-                                    "style": false
+                                    "style": {
+                                        "background-image": "url('https://jjcodes78.github.io/FaithBattle/images/faith-battle-zona-preparacao.png?v=210820251327')",
+                                        "background-size": "contain",
+                                        "background-repeat": "no-repeat",
+                                        "background-position": "center"
+                                    }
                                 }
                             ],
                             "isSymetricalForOpponents": false
