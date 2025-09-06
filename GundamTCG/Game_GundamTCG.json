@@ -17,7 +17,7 @@
     "decksUrl": "https://jjcodes78.github.io/GundamTCG/GundamTCG_StarterDecks.json?V=220820251137"
   },
   "customHelp": "How to setup this game:\n (1.) At start draw 6 cards from your main deck and put in Shields \"Deck\", then shuffle.\n (2.) Draw 5 cards from your main deck, you can mulligan putting this at bottom of main deck and draw new 5 cards.\n (3.) If you play first, draw one resource card from your resources deck and draw 1 card. If you play at second, draw a resource card and create a EX Resource token. That's it.",
-  "cardRotation": "45",
+  "cardRotation": "90",
   "cards": {
     "dataUrl": "https://jjcodes78.github.io/GundamTCG/GundamTCG_CardList.json?v=220820251137",
     "cardBack": "https://jjcodes78.github.io/GundamTCG/images/card_back.png"
@@ -99,7 +99,7 @@
                     "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-shield-area.png')",
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
-                    "width": "15vh"
+                    "width": "25vh"
                   }
                 },
                 {
@@ -370,10 +370,10 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Shields",
-            "enterTapped": false,
+            "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
             "noQuickActions": true
           },
