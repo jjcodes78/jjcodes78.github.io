@@ -17,7 +17,7 @@
     "decksUrl": "https://jjcodes78.github.io/GundamTCG/GundamTCG_StarterDecks.json?V=220820251137"
   },
   "customHelp": "How to setup this game:\n (1.) At start draw 6 cards from your main deck and put in Shields \"Deck\", then shuffle.\n (2.) Draw 5 cards from your main deck, you can mulligan putting this at bottom of main deck and draw new 5 cards.\n (3.) If you play first, draw one resource card from your resources deck and draw 1 card. If you play at second, draw a resource card and create a EX Resource token. That's it.",
-  "cardRotation": "90",
+  "cardRotation": "45",
   "cards": {
     "dataUrl": "https://jjcodes78.github.io/GundamTCG/GundamTCG_CardList.json?v=220820251137",
     "cardBack": "https://jjcodes78.github.io/GundamTCG/images/card_back.png"
@@ -91,15 +91,6 @@
                     "background-repeat": "no-repeat",
                     "background-position": "center",
                     "width": "15vh"
-                  }
-                },
-                {
-                  "section": "Shields",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-shield-area.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "width": "25vh"
                   }
                 },
                 {
@@ -181,6 +172,15 @@
                 "align": "center"
               },
               "content": [
+                {
+                  "section": "Shields",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-shield-area.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "width": "20vh"
+                  }
+                },
                 {
                   "section": "RESOURCE",
                   "style": {
@@ -370,10 +370,10 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Shields",
-            "enterTapped": true,
+            "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
+            "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": true
           },
