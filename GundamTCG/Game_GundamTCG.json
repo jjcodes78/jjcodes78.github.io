@@ -62,12 +62,7 @@
       "sections": {
         "customSections": [
           "BaseArea",
-          "BattleUnit1",
-          "BattleUnit2",
-          "BattleUnit3",
-          "BattleUnit4",
-          "BattleUnit5",
-          "BattleUnit6",
+          "BattleArea",
           "DeployArea",
           "Shields",
           "RESOURCE",
@@ -94,63 +89,12 @@
                   }
                 },
                 {
-                  "section": "BattleUnit1",
+                  "section": "BattleArea",
                   "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-bunit.png')",
+                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-battle-area.png')",
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "17vh"
-                  }
-                },
-                {
-                  "section": "BattleUnit2",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-bunit.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "17vh"
-                  }
-                },
-                {
-                  "section": "BattleUnit3",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-bunit.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "17vh"
-                  }
-                },
-                {
-                  "section": "BattleUnit4",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-bunit.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "17vh"
-                  }
-                },
-                {
-                  "section": "BattleUnit5",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-bunit.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "17vh"
-                  }
-                },
-                {
-                  "section": "BattleUnit6",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-bunit.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "17vh"
+                    "background-position": "center"
                   }
                 },
                 {
@@ -377,88 +321,8 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": true
           },
-          "BattleUnit1": {
-            "title": "BattleUnit1",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Battle Area",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false
-          },
-          "BattleUnit2": {
-            "title": "BattleUnit2",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Battle Area",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false
-          },
-          "BattleUnit3": {
-            "title": "BattleUnit3",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Battle Area",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false
-          },
-          "BattleUnit4": {
-            "title": "BattleUnit4",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Battle Area",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false
-          },
-          "BattleUnit5": {
-            "title": "BattleUnit5",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Battle Area",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false
-          },
-          "BattleUnit6": {
-            "title": "BattleUnit6",
+          "BattleArea": {
+            "title": "BattleArea",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
