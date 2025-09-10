@@ -139,9 +139,7 @@
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-shield-area.png')",
                     "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "width": "20vh",
-                    "align": "right"
+                    "background-repeat": "no-repeat"
                   }
                 }
               ],
