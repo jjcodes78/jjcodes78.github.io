@@ -22,7 +22,10 @@
     "dataUrl": "https://jjcodes78.github.io/GundamTCG/GundamTCG_CardList.json?v=220820251137",
     "cardBack": "https://jjcodes78.github.io/GundamTCG/images/card_back.png",
     "extraCardBacks": {
-      "RESOURCE": "https://jjcodes78.github.io/GundamTCG/images/resource_back.png"
+      "RESOURCE": "https://jjcodes78.github.io/GundamTCG/images/resource_back.png",
+      "UNIT TOKEN": "https://jjcodes78.github.io/GundamTCG/images/gundam_token_back.png",
+      "EX RESOURCE": "https://jjcodes78.github.io/GundamTCG/images/gundam_token_back.png",
+      "EX BASE": "https://jjcodes78.github.io/GundamTCG/images/gundam_token_back.png"
     }
   },
   "deckBuilding": {
@@ -89,7 +92,7 @@
                     "background-repeat": "no-repeat",
                     "background-position": "center",
                     "width": "15vh",
-                    "margin-right": "5vh"
+                    "margin-right": "2vh"
                   }
                 },
                 {
@@ -99,16 +102,6 @@
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center"
-                  }
-                },
-                {
-                  "section": "DeployArea",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-deploy-area.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "20%"
                   }
                 }
               ],
@@ -126,7 +119,7 @@
                     "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-shield-area.png')",
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
-                    "margin-right": "5vh"
+                    "margin-right": "3vh"
                   }
                 },
                 {
@@ -145,6 +138,16 @@
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center"
+                  }
+                },
+                {
+                  "section": "DeployArea",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-deploy-area.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
+                    "width": "20%"
                   }
                 }
               ],
