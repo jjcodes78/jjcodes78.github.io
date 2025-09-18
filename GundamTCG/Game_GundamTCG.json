@@ -49,7 +49,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "",
+        "info": "You can mulligan a new hand one time.",
         "startingHandSize": 5,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
