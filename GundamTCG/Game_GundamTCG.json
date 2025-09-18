@@ -50,10 +50,10 @@
     "Classic": {
       "mulligan": {
         "info": "",
-        "startingHandSize": 0,
-        "drawNewHand": false,
-        "putSelectionAtBottom": true,
-        "drawNewSelectedCards": true
+        "startingHandSize": 5,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
       },
       "newTurn": {
         "drawOnStart": false,
@@ -88,10 +88,10 @@
                   "section": "BaseArea",
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-base.png?v=210820251327')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
+                    "background-size": "80%",
                     "background-position": "center",
-                    "width": "15vh",
+                    "background-repeat": "no-repeat",
+                    "width": "13.9vh",
                     "margin-right": "2vh"
                   }
                 },
@@ -117,7 +117,8 @@
                   "section": "Shields",
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-shield-area.png')",
-                    "background-size": "contain",
+                    "background-size": "80%",
+                    "background-position": "center",
                     "background-repeat": "no-repeat",
                     "margin-right": "3vh"
                   }
@@ -126,9 +127,9 @@
                   "section": "RESOURCE",
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-resources-deck.png?v=210820251327')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "width": "15vh"
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat"
                   }
                 },
                 {
@@ -176,126 +177,6 @@
           "EX BASE": "BaseArea"
         },
         "sectionsDict": {
-          "Hand": {
-            "isDefaultSection": true,
-            "title": "Hand",
-            "isHidden": "opponent-only",
-            "height": "DEFAULT",
-            "alignment": "CENTER",
-            "autoPayFrom": false,
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "displayedTitle": "Mão",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Discard": {
-            "isDefaultSection": true,
-            "title": "Discard",
-            "isHidden": "no",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "opponentAlignment": false,
-            "displayedTitle": "Discarte",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Deck": {
-            "isDefaultSection": true,
-            "title": "Deck",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "displayedTitle": "Main Deck",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Stack": {
-            "isDefaultSection": true,
-            "title": "Stack",
-            "isHidden": "no",
-            "height": "HUGE",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "displayedTitle": "Stack",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Exile": {
-            "isDefaultSection": true,
-            "title": "Exile",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "opponentAlignment": false,
-            "displayedTitle": "Exile",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "ExileHidden": {
-            "isDefaultSection": true,
-            "title": "ExileHidden",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "opponentAlignment": false,
-            "displayedTitle": "ExileHidden",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Sideboard": {
-            "isDefaultSection": true,
-            "title": "Sideboard",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "BaseArea": {
             "title": "BaseArea",
             "isHidden": "no",
