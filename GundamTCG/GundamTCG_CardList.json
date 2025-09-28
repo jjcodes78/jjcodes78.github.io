@@ -5256,5 +5256,365 @@
     "hp": 2,
     "pilot": "",
     "tokens": []
+  },
+  "ST05-001": {
+    "id": "ST05-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Barbatos 4th Form",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Iron%20Bloom/full/ST05-001.jpg?28092025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Barbatos 4th Form-ST05-001",
+    "type": "UNIT",
+    "cost": 4,
+    "Color": "Purple",
+    "set": "Iron Bloom [ST05]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST05-002": {
+    "id": "ST05-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Barbatos 2th Form",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Iron%20Bloom/full/ST05-002.jpg?28092025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Barbatos 2th Form-ST05-002",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": "Purple",
+    "set": "Iron Bloom [ST05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST05-003": {
+    "id": "ST05-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GCS Mobile Worker",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Iron%20Bloom/full/ST05-003.jpg?28092025",
+        "isHorizontal": false
+      }
+    },
+    "name": "GCS Mobile Worker-ST05-003",
+    "type": "UNIT",
+    "cost": 1,
+    "Color": "Purple",
+    "set": "Iron Bloom [ST05]",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": 0,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST05-004": {
+    "id": "ST05-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Graze Custom",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Iron%20Bloom/full/ST05-004.jpg?28092025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Graze Custom-ST05-004",
+    "type": "UNIT",
+    "cost": 1,
+    "Color": "Purple",
+    "set": "Iron Bloom [ST05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST05-005": {
+    "id": "ST05-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Gusion Rebake",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Iron%20Bloom/full/ST05-005.jpg?28092025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Gusion Rebake-ST05-005",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": "Purple",
+    "set": "Iron Bloom [ST05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST05-006": {
+    "id": "ST05-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hyakuren",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Iron%20Bloom/full/ST05-006.jpg?28092025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hyakuren-ST05-006",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": "Purple",
+    "set": "Iron Bloom [ST05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST05-007": {
+    "id": "ST05-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "MicGillis' Schwalbe Graze",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Iron%20Bloom/full/ST05-007.jpg?28092025",
+        "isHorizontal": false
+      }
+    },
+    "name": "MicGillis' Schwalbe Graze-ST05-007",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": "White",
+    "set": "Iron Bloom [ST05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST05-008": {
+    "id": "ST05-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Graze Commander Type",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Iron%20Bloom/full/ST05-008.jpg?28092025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Graze Commander Type-ST05-008",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": "White",
+    "set": "Iron Bloom [ST05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST05-009": {
+    "id": "ST05-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Graze",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Iron%20Bloom/full/ST05-009.jpg?28092025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Graze-ST05-009",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": "White",
+    "set": "Iron Bloom [ST05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST05-010": {
+    "id": "ST05-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mikazuki Augus",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Iron%20Bloom/full/ST05-010.jpg?28092025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mikazuki Augus-ST05-010",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": "Purple",
+    "set": "Iron Bloom [ST05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST05-011": {
+    "id": "ST05-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Akihiro Altland",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Iron%20Bloom/full/ST05-011.jpg?28092025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Akihiro Altland-ST05-011",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": "Purple",
+    "set": "Iron Bloom [ST05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST05-012": {
+    "id": "ST05-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "McGillis Fareed",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Iron%20Bloom/full/ST05-012.jpg?28092025",
+        "isHorizontal": false
+      }
+    },
+    "name": "McGillis Fareed-ST05-012",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": "White",
+    "set": "Iron Bloom [ST05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST05-013": {
+    "id": "ST05-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "With Iron and Blood",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Iron%20Bloom/full/ST05-013.jpg?28092025",
+        "isHorizontal": false
+      }
+    },
+    "name": "With Iron and Blood-ST05-013",
+    "type": "COMMAND",
+    "cost": 1,
+    "Color": "Purple",
+    "set": "Iron Bloom [ST05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 0,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST05-014": {
+    "id": "ST05-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fatal Strike",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Iron%20Bloom/full/ST05-014.jpg?28092025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fatal Strike-ST05-014",
+    "type": "COMMAND",
+    "cost": 2,
+    "Color": "Purple",
+    "set": "Iron Bloom [ST05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 0,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST05-015": {
+    "id": "ST05-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Isaribi",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Iron%20Bloom/full/ST05-015.jpg?28092025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Isaribi-ST05-015",
+    "type": "BASE",
+    "cost": 1,
+    "Color": "Purple",
+    "set": "Iron Bloom [ST05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 0,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
   }
 }
