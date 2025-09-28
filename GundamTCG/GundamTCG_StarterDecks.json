@@ -1,5 +1,104 @@
 [
   {
+    "title": "ST05 Starter Deck - Iron Bloom",
+    "id": "1b9a207d-ddbf-471d-b51d-6f7ea2aff7a0",
+    "game": "Gundam Card Game",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 60,
+    "createdAt": "2025-09-28T17:48:14.421Z",
+    "lastModifiedAt": "2025-09-28T17:58:18.792Z",
+    "deckList": {
+      "categoriesOrder": [
+        "UNIT",
+        "PILOT",
+        "COMMAND",
+        "BASE",
+        "RESOURCE"
+      ],
+      "Sideboard": [],
+      "UNIT": [
+        {
+          "count": 2,
+          "id": "ST05-001"
+        },
+        {
+          "count": 4,
+          "id": "ST05-002"
+        },
+        {
+          "count": 4,
+          "id": "ST05-003"
+        },
+        {
+          "count": 4,
+          "id": "ST05-004"
+        },
+        {
+          "count": 4,
+          "id": "ST05-005"
+        },
+        {
+          "count": 3,
+          "id": "ST05-006"
+        },
+        {
+          "count": 2,
+          "id": "ST05-007"
+        },
+        {
+          "count": 4,
+          "id": "ST05-008"
+        },
+        {
+          "count": 3,
+          "id": "ST05-009"
+        }
+      ],
+      "PILOT": [
+        {
+          "count": 4,
+          "id": "ST05-010"
+        },
+        {
+          "count": 3,
+          "id": "ST05-011"
+        },
+        {
+          "count": 3,
+          "id": "ST05-012"
+        }
+      ],
+      "COMMAND": [
+        {
+          "count": 2,
+          "id": "ST05-013"
+        },
+        {
+          "count": 2,
+          "id": "ST05-014"
+        },
+        {
+          "count": 2,
+          "id": "ST01-014P"
+        }
+      ],
+      "BASE": [
+        {
+          "count": 4,
+          "id": "ST05-015"
+        }
+      ],
+      "RESOURCE": [
+        {
+          "count": 10,
+          "id": "R-003"
+        }
+      ]
+    }
+  },
+  {
     "title": "ST01 Starter Deck - Heroic Beginnings",
     "id": "661f813a-3a54-4c27-9d7c-d040a2eac6e1",
     "game": "Gundam CardGame",
