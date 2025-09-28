@@ -3455,6 +3455,30 @@
     "pilot": "",
     "tokens": []
   },
+  "ST01-014P": {
+    "id": "ST01-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unforeseen Incident",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Heroic%20Beginnings/full/st01014purp.jpg?2507252",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unforeseen Incident-ST01-014",
+    "type": "COMMAND",
+    "cost": 1,
+    "Color": "White",
+    "set": "Heroic Beginnings [ST01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 0,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
   "ST01-015": {
     "id": "ST01-015",
     "isToken": false,
