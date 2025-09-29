@@ -12,7 +12,7 @@
     "cards": {
         "dataUrl": "https://jjcodes78.github.io/FaithBattle/FaithBattle_CardList.json?v=310720251331",
         "cardBack": "https://jjcodes78.github.io/FaithBattle/images/faith-battle-back.png",
-        "extraCardsBacks": {
+        "extraCardBacks": {
             "Sabedorias": "https://jjcodes78.github.io/FaithBattle/images/faith-battle-mana.png"
         }
     },

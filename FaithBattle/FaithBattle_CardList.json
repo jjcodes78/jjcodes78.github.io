@@ -1,17 +1,215 @@
 {
-  "FB000": {
-    "id": "FB000",
+  "FS001": {
+    "id": "FS001",
     "isToken": false,
     "face": {
       "front": {
         "name": "Sabedoria",
         "type": "Sabedorias",
         "cost": 0,
-        "image": "https://jjcodes78.github.io/FaithBattle/images/faith-battle-mana.png",
+        "image": "https://jjcodes78.github.io/FaithBattle/images/fb_sab_001.png",
         "isHorizontal": false
       }
     },
-    "name": "Sabedoria",
+    "name": "Sabedoria-001",
+    "type": "Sabedorias",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FS002": {
+    "id": "FS002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sabedoria",
+        "type": "Sabedorias",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/FaithBattle/images/fb_sab_002.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabedoria-002",
+    "type": "Sabedorias",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FS003": {
+    "id": "FS003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sabedoria",
+        "type": "Sabedorias",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/FaithBattle/images/fb_sab_003.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabedoria-003",
+    "type": "Sabedorias",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FS004": {
+    "id": "FS004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sabedoria",
+        "type": "Sabedorias",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/FaithBattle/images/fb_sab_004.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabedoria-004",
+    "type": "Sabedorias",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FS005": {
+    "id": "FS005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sabedoria",
+        "type": "Sabedorias",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/FaithBattle/images/fb_sab_005.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabedoria-005",
+    "type": "Sabedorias",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FS006": {
+    "id": "FS006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sabedoria",
+        "type": "Sabedorias",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/FaithBattle/images/fb_sab_006.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabedoria-006",
+    "type": "Sabedorias",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FS007": {
+    "id": "FS007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sabedoria",
+        "type": "Sabedorias",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/FaithBattle/images/fb_sab_007.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabedoria-007",
+    "type": "Sabedorias",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FS008": {
+    "id": "FS008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sabedoria",
+        "type": "Sabedorias",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/FaithBattle/images/fb_sab_008.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabedoria-008",
+    "type": "Sabedorias",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FS009": {
+    "id": "FS009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sabedoria",
+        "type": "Sabedorias",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/FaithBattle/images/fb_sab_009.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabedoria-009",
+    "type": "Sabedorias",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "FAITH BATTLE",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "FS010": {
+    "id": "FS010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sabedoria",
+        "type": "Sabedorias",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/FaithBattle/images/fb_sab_010.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabedoria-010",
     "type": "Sabedorias",
     "cost": 0,
     "rarity": "Comum",
