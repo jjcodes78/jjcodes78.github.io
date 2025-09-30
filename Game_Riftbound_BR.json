@@ -42,7 +42,12 @@
     "cardRotation": "45",
     "cards": {
         "dataUrl": "https://jjcodes78.github.io/Riftbound-CardList.json?v=310720251331",
-        "cardBack": "https://jjcodes78.github.io/images/default_card.png"
+        "cardBack": "https://jjcodes78.github.io/images/default_card.png",
+        "extraCardBacks": {
+            "Runes": "https://jjcodes78.github.io/images/cardBack-white.png",
+            "Battlefields": "https://jjcodes78.github.io/images/cardBack-black.png",
+            "Legend": "https://jjcodes78.github.io/images/cardBack-black.png"
+        }
     },
     "deckBuilding": {
         "mainFilters": [
