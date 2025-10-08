@@ -87,6 +87,11 @@
           "image": "https://jjcodes78.github.io/GundamTCG/images/tokens/gundam_dmg4_token.png"
         },
         {
+          "id": "dmg-5",
+          "name": "5 DMG",
+          "image": "https://jjcodes78.github.io/GundamTCG/images/tokens/gundam_dmg5_token.png"
+        },
+        {
           "id": "ap-1",
           "name": "AP+1",
           "image": "https://jjcodes78.github.io/GundamTCG/images/tokens/gundam_ap1_token.png"
