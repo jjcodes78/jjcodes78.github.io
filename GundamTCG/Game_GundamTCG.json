@@ -110,6 +110,11 @@
           "id": "breach",
           "name": "Breach",
           "image": "https://jjcodes78.github.io/GundamTCG/images/tokens/gundam_breach_token.png"
+        },
+        {
+          "id": "once",
+          "name": "Once Per Turn",
+          "image": "https://jjcodes78.github.io/GundamTCG/images/tokens/gundam_once_token.png"
         }
       ],
       "sections": {
