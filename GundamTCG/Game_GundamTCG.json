@@ -65,6 +65,48 @@
       "tokens": [],
       "countersStartingValues": [],
       "hideFacedDownCards": false,
+      "draggableTokens": [
+        {
+          "id": "dmg-1",
+          "name": "1 DMG",
+          "image": "https://jjcodes78.github.io/GundamTCG/images/tokens/gundam_dmg1_token.png"
+        },
+        {
+          "id": "dmg-2",
+          "name": "2 DMG",
+          "image": "https://jjcodes78.github.io/GundamTCG/images/tokens/gundam_dmg2_token.png"
+        },
+        {
+          "id": "dmg-3",
+          "name": "3 DMG",
+          "image": "https://jjcodes78.github.io/GundamTCG/images/tokens/gundam_dmg3_token.png"
+        },
+        {
+          "id": "dmg-4",
+          "name": "4 DMG",
+          "image": "https://jjcodes78.github.io/GundamTCG/images/tokens/gundam_dmg4_token.png"
+        },
+        {
+          "id": "ap-1",
+          "name": "AP+1",
+          "image": "https://jjcodes78.github.io/GundamTCG/images/tokens/gundam_ap1_token.png"
+        },
+        {
+          "id": "ap-2",
+          "name": "AP+2",
+          "image": "https://jjcodes78.github.io/GundamTCG/images/tokens/gundam_ap2_token.png"
+        },
+        {
+          "id": "ap-3",
+          "name": "AP+3",
+          "image": "https://jjcodes78.github.io/GundamTCG/images/tokens/gundam_ap3_token.png"
+        },
+        {
+          "id": "breach",
+          "name": "Breach",
+          "image": "https://jjcodes78.github.io/GundamTCG/images/tokens/gundam_breach_token.png"
+        }
+      ],
       "sections": {
         "customSections": [
           "BaseArea",
