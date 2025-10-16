@@ -68,6 +68,18 @@
       ],
       "countersStartingValues": [],
       "hideFacedDownCards": false,
+      "draggableTokens": [
+        {
+          "id": "invade-marker",
+          "name": "Invasion",
+          "image": "https://jjcodes78.github.io/GodzillaTCG/images/godzilla-invasion-marker.png"
+        },
+        {
+          "id": "monster-marker",
+          "name": "Monster",
+          "image": "https://jjcodes78.github.io/GodzillaTCG/images/godzilla-monster-marker.png"
+        }
+      ],
       "sections": {
         "customSections": [
           "Strategy1",
