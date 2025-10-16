@@ -72,19 +72,9 @@
                     "image": "https://jjcodes78.github.io/FaithBattle/images/markers/fb_atk_p3.png"
                 },
                 {
-                    "id": "atk_m1",
-                    "name": "-1 Ataque",
-                    "image": "https://jjcodes78.github.io/FaithBattle/images/markers/fb_atk_m1.png"
-                },
-                {
-                    "id": "atk_m2",
-                    "name": "-2 Ataque",
-                    "image": "https://jjcodes78.github.io/FaithBattle/images/markers/fb_atk_m2.png"
-                },
-                {
-                    "id": "atk_m3",
-                    "name": "-3 Ataque",
-                    "image": "https://jjcodes78.github.io/FaithBattle/images/markers/fb_atk_m3.png"
+                    "id": "atk_p5",
+                    "name": "+5 Ataque",
+                    "image": "https://jjcodes78.github.io/FaithBattle/images/markers/fb_atk_p5.png"
                 },
                 {
                     "id": "def_p1",
@@ -102,6 +92,31 @@
                     "image": "https://jjcodes78.github.io/FaithBattle/images/markers/fb_def_p3.png"
                 },
                 {
+                    "id": "def_p5",
+                    "name": "+5 Defesa",
+                    "image": "https://jjcodes78.github.io/FaithBattle/images/markers/fb_def_p5.png"
+                },
+                {
+                    "id": "atk_m1",
+                    "name": "-1 Ataque",
+                    "image": "https://jjcodes78.github.io/FaithBattle/images/markers/fb_atk_m1.png"
+                },
+                {
+                    "id": "atk_m2",
+                    "name": "-2 Ataque",
+                    "image": "https://jjcodes78.github.io/FaithBattle/images/markers/fb_atk_m2.png"
+                },
+                {
+                    "id": "atk_m3",
+                    "name": "-3 Ataque",
+                    "image": "https://jjcodes78.github.io/FaithBattle/images/markers/fb_atk_m3.png"
+                },
+                {
+                    "id": "atk_m5",
+                    "name": "-5 Ataque",
+                    "image": "https://jjcodes78.github.io/FaithBattle/images/markers/fb_atk_m5.png"
+                },
+                {
                     "id": "def_m1",
                     "name": "-1 Defesa",
                     "image": "https://jjcodes78.github.io/FaithBattle/images/markers/fb_def_m1.png"
@@ -115,6 +130,11 @@
                     "id": "def_m3",
                     "name": "-3 Defesa",
                     "image": "https://jjcodes78.github.io/FaithBattle/images/markers/fb_def_m3.png"
+                },
+                {
+                    "id": "def_m5",
+                    "name": "-5 Defesa",
+                    "image": "https://jjcodes78.github.io/FaithBattle/images/markers/fb_def_m5.png"
                 }
             ],
             "sections": {
