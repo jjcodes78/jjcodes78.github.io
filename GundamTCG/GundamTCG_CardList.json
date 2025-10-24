@@ -5640,5 +5640,125 @@
     "hp": 5,
     "pilot": "",
     "tokens": []
+  },
+  "GD02-001": {
+    "id": "GD02-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Psycho Gundam",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-001.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Psycho Gundam-GD02-001",
+    "type": "UNIT",
+    "cost": 4,
+    "Color": ["Blue"],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-002": {
+    "id": "GD02-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Epyon",
+        "type": "UNIT",
+        "cost": 7,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-002.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Epyon-GD02-002",
+    "type": "UNIT",
+    "cost": 7,
+    "Color": ["Blue"],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": 6,
+    "hp": 6,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-020": {
+    "id": "GD02-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elmeth",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-020.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elmeth-GD02-020",
+    "type": "UNIT",
+    "cost": 5,
+    "Color": ["Green"],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-021": {
+    "id": "GD02-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam AGE-1 Normal",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-021.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam AGE-1 Normal-GD02-021",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": ["Green"],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-038": {
+    "id": "GD02-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GQuuuuuuX (Omega Psycommu)",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-038.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "GQuuuuuuX (Omega Psycommu)-GD02-038",
+    "type": "UNIT",
+    "cost": 5,
+    "Color": ["Red"],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
   }
 }
