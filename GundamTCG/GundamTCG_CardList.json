@@ -5737,6 +5737,54 @@
     "pilot": "",
     "tokens": []
   },
+  "GD02-036": {
+    "id": "GD02-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Qubeley",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-036.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Qubeley-GD02-036",
+    "type": "UNIT",
+    "cost": 5,
+    "Color": ["Red"],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 5,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-037": {
+    "id": "GD02-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Virsago",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-037.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Virsago-GD02-037",
+    "type": "UNIT",
+    "cost": 4,
+    "Color": ["Red"],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
   "GD02-038": {
     "id": "GD02-038",
     "isToken": false,
@@ -5757,6 +5805,126 @@
     "isHorizontal": false,
     "level": "7",
     "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-053": {
+    "id": "GD02-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam X",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-053.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam X-GD02-053",
+    "type": "UNIT",
+    "cost": 5,
+    "Color": ["Purple"],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 6,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-054": {
+    "id": "GD02-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Barbatos 1st Form",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-054.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Barbatos 1st Form-GD02-054",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": ["Purple"],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-055": {
+    "id": "GD02-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Gusion Rebake",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-055.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Gusion Rebake-GD02-055",
+    "type": "UNIT",
+    "cost": 4,
+    "Color": ["Purple"],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 3,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-069": {
+    "id": "GD02-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zeta Gundam",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-069.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zeta Gundam-GD02-069",
+    "type": "UNIT",
+    "cost": 5,
+    "Color": ["White"],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-070": {
+    "id": "GD02-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Kimaris",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-070.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Kimaris-GD02-070",
+    "type": "UNIT",
+    "cost": 4,
+    "Color": ["White"],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
     "hp": 4,
     "pilot": "",
     "tokens": []
