@@ -10,7 +10,7 @@
     "customHelp": "",
     "cardRotation": "45",
     "cards": {
-        "dataUrl": "https://jjcodes78.github.io/FaithBattle/FaithBattle_CardList.json?v=310720251331",
+        "dataUrl": "https://jjcodes78.github.io/FaithBattle/FaithBattle_CardList.json?v=01112025",
         "cardBack": "https://jjcodes78.github.io/FaithBattle/images/faith-battle-back.png",
         "extraCardBacks": {
             "Sabedorias": "https://jjcodes78.github.io/FaithBattle/images/faith-battle-mana.png"
