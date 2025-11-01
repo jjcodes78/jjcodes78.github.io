@@ -3201,7 +3201,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Efraim",
+    "name": "Efraim (Lendario)",
     "type": "Heroi",
     "cost": 4,
     "rarity": "Lendario",
@@ -3223,7 +3223,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Lia",
+    "name": "Lia (Lendario)",
     "type": "Heroi",
     "cost": 2,
     "rarity": "Lendario",
@@ -3245,7 +3245,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Judá",
+    "name": "Judá (Lendario)",
     "type": "Heroi",
     "cost": 3,
     "rarity": "Lendario",
@@ -3289,7 +3289,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jacó",
+    "name": "Jacó (Lendario)",
     "type": "Heroi",
     "cost": 2,
     "rarity": "Lendario",
@@ -3333,7 +3333,7 @@
         "isHorizontal": false
       }
     },
-    "name": "José",
+    "name": "José (Lendario)",
     "type": "Heroi",
     "cost": 2,
     "rarity": "Lendario",
