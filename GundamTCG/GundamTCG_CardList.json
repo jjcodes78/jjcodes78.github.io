@@ -9021,6 +9021,30 @@
     "pilot": "",
     "tokens": []
   },
+  "T-012": {
+    "id": "T-012",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Daughtress",
+        "type": "UNIT TOKEN",
+        "cost": 0,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/T012.jpg?2507252",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daughtress-T-012",
+    "type": "UNIT TOKEN",
+    "cost": 0,
+    "Color": "-",
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": 0,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
   "ST06-001": {
     "id": "ST06-001",
     "isToken": false,
