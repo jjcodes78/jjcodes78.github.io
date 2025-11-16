@@ -19,7 +19,7 @@
   "customHelp": "How to setup this game:\n (1.) At start choose keep or mulligan your hand.\n (2.) Click with right button of mouse in your main deck, choose 'Draw X' option. After this, select 6 and 'Shields' option on the Destination list, then click 'Draw 6' button. You should have 6 cards in your shield \"deck\", shuffle then. \n(3.) Create a EX-BASE token. \n(4.) If you play first, draw one resource card from your resources deck and draw 1 card. If you play at last, create a EX Resource token. That's it.",
   "cardRotation": "45",
   "cards": {
-    "dataUrl": "https://jjcodes78.github.io/GundamTCG/GundamTCG_CardList.json?v=16112025",
+    "dataUrl": "https://jjcodes78.github.io/GundamTCG/GundamTCG_CardList.json?v=161120251632",
     "cardBack": "https://jjcodes78.github.io/GundamTCG/images/card_back.png",
     "extraCardBacks": {
       "RESOURCE": "https://jjcodes78.github.io/GundamTCG/images/resource_back.png",
