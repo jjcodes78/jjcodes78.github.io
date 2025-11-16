@@ -5656,7 +5656,9 @@
     "name": "Psycho Gundam-GD02-001",
     "type": "UNIT",
     "cost": 4,
-    "Color": ["Blue"],
+    "Color": [
+      "Blue"
+    ],
     "set": "Dual Impact [GD02]",
     "isHorizontal": false,
     "level": "6",
@@ -5680,12 +5682,456 @@
     "name": "Gundam Epyon-GD02-002",
     "type": "UNIT",
     "cost": 7,
-    "Color": ["Blue"],
+    "Color": [
+      "Blue"
+    ],
     "set": "Dual Impact [GD02]",
     "isHorizontal": false,
     "level": "8",
     "ap": 6,
     "hp": 6,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-003": {
+    "id": "GD02-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Mk-II (Titans)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-003.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Mk-II (Titans)-GD02-003",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-004": {
+    "id": "GD02-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Byarlant",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-004.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Byarlant-GD02-004",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-005": {
+    "id": "GD02-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tallgeese",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-005.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tallgeese-GD02-005",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-006": {
+    "id": "GD02-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Forbidden Gundam",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-006.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Forbidden Gundam-GD02-006",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-007": {
+    "id": "GD02-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Psycho Gundam (MA Mode)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-007.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Psycho Gundam (MA Mode)-GD02-007",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-008": {
+    "id": "GD02-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gabthley",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-008.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gabthley-GD02-008",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-009": {
+    "id": "GD02-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Calamity Gundam",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-009.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Calamity Gundam-GD02-009",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 3,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-010": {
+    "id": "GD02-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raider Gundam",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-010.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raider Gundam-GD02-010",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-011": {
+    "id": "GD02-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moebius (Peacemaker Team)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-011.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moebius (Peacemaker Team)-GD02-011",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-012": {
+    "id": "GD02-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Core Booster",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-012.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Core Booster-GD02-012",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-013": {
+    "id": "GD02-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hizack",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-013.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hizack-GD02-013",
+    "type": "UNIT",
+    "cost": 1,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-014": {
+    "id": "GD02-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Galbaldy Beta",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-014.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Galbaldy Beta-GD02-014",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 3,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-015": {
+    "id": "GD02-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Marasai",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-015.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marasai-GD02-015",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-016": {
+    "id": "GD02-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Barzam",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-016.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Barzam-GD02-016",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-017": {
+    "id": "GD02-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Delta Plus (Waverider Mode)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-017.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Delta Plus (Waverider Mode)-GD02-017",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-018": {
+    "id": "GD02-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Taurus",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-018.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Taurus-GD02-018",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-019": {
+    "id": "GD02-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raider Gundam (MA Mode)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-019.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raider Gundam (MA Mode)-GD02-019",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
     "pilot": "",
     "tokens": []
   },
@@ -5704,7 +6150,9 @@
     "name": "Elmeth-GD02-020",
     "type": "UNIT",
     "cost": 5,
-    "Color": ["Green"],
+    "Color": [
+      "Green"
+    ],
     "set": "Dual Impact [GD02]",
     "isHorizontal": false,
     "level": "6",
@@ -5728,12 +6176,378 @@
     "name": "Gundam AGE-1 Normal-GD02-021",
     "type": "UNIT",
     "cost": 2,
-    "Color": ["Green"],
+    "Color": [
+      "Green"
+    ],
     "set": "Dual Impact [GD02]",
     "isHorizontal": false,
     "level": "3",
     "ap": 2,
     "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-022": {
+    "id": "GD02-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "G-Exes",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-022.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "G-Exes-GD02-022",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-023": {
+    "id": "GD02-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam AGE-1 Spallow",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-023.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam AGE-1 Spallow-GD02-023",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-024": {
+    "id": "GD02-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Gundam",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-024.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Gundam-GD02-024",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-025": {
+    "id": "GD02-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Heavyarms",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-025.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Heavyarms-GD02-025",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-026": {
+    "id": "GD02-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Genoace Custom",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-026.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Genoace Custom-GD02-026",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-027": {
+    "id": "GD02-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam AGE-1 Titus",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-027.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam AGE-1 Titus-GD02-027",
+    "type": "UNIT",
+    "cost": 4,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 5,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-028": {
+    "id": "GD02-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abdul's Maganac",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-028.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abdul's Maganac-GD02-028",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-029": {
+    "id": "GD02-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam AGE-1 Normal",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-029.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam AGE-1 Normal-GD02-029",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-030": {
+    "id": "GD02-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Genoace",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-030.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Genoace-GD02-030",
+    "type": "UNIT",
+    "cost": 1,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-031": {
+    "id": "GD02-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam AGE-1 Titus",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-031.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam AGE-1 Titus-GD02-031",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-032": {
+    "id": "GD02-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "White Gundam",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-032.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "White Gundam-GD02-032",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-033": {
+    "id": "GD02-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kikeroga (MA Mode) (GQ)",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-033.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kikeroga (MA Mode) (GQ)-GD02-033",
+    "type": "UNIT",
+    "cost": 4,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-034": {
+    "id": "GD02-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GQuuuuuuX",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-034.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "GQuuuuuuX-GD02-034",
+    "type": "UNIT",
+    "cost": 1,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-035": {
+    "id": "GD02-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Police Zaku (Armored RRU Type)",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-035.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Police Zaku (Armored RRU Type)-GD02-035",
+    "type": "UNIT",
+    "cost": 1,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 3,
     "pilot": "",
     "tokens": []
   },
@@ -5752,7 +6566,9 @@
     "name": "Qubeley-GD02-036",
     "type": "UNIT",
     "cost": 5,
-    "Color": ["Red"],
+    "Color": [
+      "Red"
+    ],
     "set": "Dual Impact [GD02]",
     "isHorizontal": false,
     "level": "7",
@@ -5776,7 +6592,9 @@
     "name": "Gundam Virsago-GD02-037",
     "type": "UNIT",
     "cost": 4,
-    "Color": ["Red"],
+    "Color": [
+      "Red"
+    ],
     "set": "Dual Impact [GD02]",
     "isHorizontal": false,
     "level": "5",
@@ -5800,12 +6618,378 @@
     "name": "GQuuuuuuX (Omega Psycommu)-GD02-038",
     "type": "UNIT",
     "cost": 5,
-    "Color": ["Red"],
+    "Color": [
+      "Red"
+    ],
     "set": "Dual Impact [GD02]",
     "isHorizontal": false,
     "level": "7",
     "ap": 5,
     "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-039": {
+    "id": "GD02-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Haman Karn's Gaza C",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-039.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Haman Karn's Gaza C-GD02-039",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-040": {
+    "id": "GD02-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Ashtaron",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-040.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Ashtaron-GD02-040",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-041": {
+    "id": "GD02-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sugai's Gelgoog (GQ)",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-041.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sugai's Gelgoog (GQ)-GD02-041",
+    "type": "UNIT",
+    "cost": 4,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-042": {
+    "id": "GD02-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Ashtaron (MA Mode)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-042.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Ashtaron (MA Mode)-GD02-042",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-043": {
+    "id": "GD02-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Daughtress Weapon",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-043.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daughtress Weapon-GD02-043",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-044": {
+    "id": "GD02-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Daughtress COMMAND",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-044.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daughtress COMMAND-GD02-044",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 3,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-045": {
+    "id": "GD02-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GINN Long-Range Reconnaissance Type",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-045.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "GINN Long-Range Reconnaissance Type-GD02-045",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-046": {
+    "id": "GD02-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sayla's Light-Type Guncannon",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-046.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sayla's Light-Type Guncannon-GD02-046",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-047": {
+    "id": "GD02-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gaza C",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-047.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gaza C-GD02-047",
+    "type": "UNIT",
+    "cost": 1,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": "-",
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-048": {
+    "id": "GD02-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zaku \u2162 (Sleeves)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-048.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zaku \u2162 (Sleeves)-GD02-048",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 4,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-049": {
+    "id": "GD02-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Daughtress",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-049.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daughtress-GD02-049",
+    "type": "UNIT",
+    "cost": 1,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-050": {
+    "id": "GD02-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ga-Zowmn (Sleeves)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-050.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ga-Zowmn (Sleeves)-GD02-050",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-051": {
+    "id": "GD02-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "01 Gundam",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-051.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "01 Gundam-GD02-051",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-052": {
+    "id": "GD02-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guncannon (GQ)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-052.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guncannon (GQ)-GD02-052",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 3,
+    "hp": 2,
     "pilot": "",
     "tokens": []
   },
@@ -5824,7 +7008,9 @@
     "name": "Gundam X-GD02-053",
     "type": "UNIT",
     "cost": 5,
-    "Color": ["Purple"],
+    "Color": [
+      "Purple"
+    ],
     "set": "Dual Impact [GD02]",
     "isHorizontal": false,
     "level": "7",
@@ -5848,7 +7034,9 @@
     "name": "Gundam Barbatos 1st Form-GD02-054",
     "type": "UNIT",
     "cost": 2,
-    "Color": ["Purple"],
+    "Color": [
+      "Purple"
+    ],
     "set": "Dual Impact [GD02]",
     "isHorizontal": false,
     "level": "3",
@@ -5872,10 +7060,350 @@
     "name": "Gundam Gusion Rebake-GD02-055",
     "type": "UNIT",
     "cost": 4,
-    "Color": ["Purple"],
+    "Color": [
+      "Purple"
+    ],
     "set": "Dual Impact [GD02]",
     "isHorizontal": false,
     "level": "5",
+    "ap": 3,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-056": {
+    "id": "GD02-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam X",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-056.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam X-GD02-056",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-057": {
+    "id": "GD02-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zedas",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-057.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zedas-GD02-057",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 5,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-058": {
+    "id": "GD02-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ryusei-Go (Graze Custom \u2161)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-058.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ryusei-Go (Graze Custom \u2161)-GD02-058",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-059": {
+    "id": "GD02-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Airmaster",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-059.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Airmaster-GD02-059",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-060": {
+    "id": "GD02-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Leopard",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-060.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Leopard-GD02-060",
+    "type": "UNIT",
+    "cost": 4,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-061": {
+    "id": "GD02-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hyakuri",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-061.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hyakuri-GD02-061",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-062": {
+    "id": "GD02-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Amida's Hyakuren",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-062.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Amida's Hyakuren-GD02-062",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-063": {
+    "id": "GD02-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Airmaster (Fighter Mode)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-063.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Airmaster (Fighter Mode)-GD02-063",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-064": {
+    "id": "GD02-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Leopard",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-064.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Leopard-GD02-064",
+    "type": "UNIT",
+    "cost": 4,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-065": {
+    "id": "GD02-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jenice Custom",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-065.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jenice Custom-GD02-065",
+    "type": "UNIT",
+    "cost": 1,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-066": {
+    "id": "GD02-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gafran",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-066.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gafran-GD02-066",
+    "type": "UNIT",
+    "cost": 1,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-067": {
+    "id": "GD02-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baqto",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-067.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baqto-GD02-067",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-068": {
+    "id": "GD02-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Barbatos 3rd Form",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-068.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Barbatos 3rd Form-GD02-068",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
     "ap": 3,
     "hp": 5,
     "pilot": "",
@@ -5896,7 +7424,9 @@
     "name": "Zeta Gundam-GD02-069",
     "type": "UNIT",
     "cost": 5,
-    "Color": ["White"],
+    "Color": [
+      "White"
+    ],
     "set": "Dual Impact [GD02]",
     "isHorizontal": false,
     "level": "6",
@@ -5920,12 +7450,1574 @@
     "name": "Gundam Kimaris-GD02-070",
     "type": "UNIT",
     "cost": 4,
-    "Color": ["White"],
+    "Color": [
+      "White"
+    ],
     "set": "Dual Impact [GD02]",
     "isHorizontal": false,
     "level": "5",
     "ap": 4,
     "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-071": {
+    "id": "GD02-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Mk-II (AEUG)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-071.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Mk-II (AEUG)-GD02-071",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-072": {
+    "id": "GD02-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hyaku-Shiki",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-072.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hyaku-Shiki-GD02-072",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-073": {
+    "id": "GD02-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Carta's Graze Ritter (Ground Type)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-073.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carta's Graze Ritter (Ground Type)-GD02-073",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-074": {
+    "id": "GD02-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Aerial Rebuild",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-074.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Aerial Rebuild-GD02-074",
+    "type": "UNIT",
+    "cost": 5,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 5,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-075": {
+    "id": "GD02-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rick Dias (Red)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-075.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rick Dias (Red)-GD02-075",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-076": {
+    "id": "GD02-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Buster Gundam",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-076.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Buster Gundam-GD02-076",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-077": {
+    "id": "GD02-077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ein's Schwalbe Graze",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-077.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ein's Schwalbe Graze-GD02-077",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-078": {
+    "id": "GD02-078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Pharact",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-078.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Pharact-GD02-078",
+    "type": "UNIT",
+    "cost": 3,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-079": {
+    "id": "GD02-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rick Dias",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-079.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rick Dias-GD02-079",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-080": {
+    "id": "GD02-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nemo",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-080.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nemo-GD02-080",
+    "type": "UNIT",
+    "cost": 1,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-081": {
+    "id": "GD02-081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Methuss",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-081.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Methuss-GD02-081",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-082": {
+    "id": "GD02-082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gaelio's Schwalbe Graze",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-082.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gaelio's Schwalbe Graze-GD02-082",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-083": {
+    "id": "GD02-083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Graze Ritter (Ground Type)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-083.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Graze Ritter (Ground Type)-GD02-083",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-084": {
+    "id": "GD02-084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lauda's Dilanza",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-084.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lauda's Dilanza-GD02-084",
+    "type": "UNIT",
+    "cost": 2,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 1,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-085": {
+    "id": "GD02-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Four Murasame",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-085.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Four Murasame-GD02-085",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-086": {
+    "id": "GD02-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jerid Messa",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-086.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jerid Messa-GD02-086",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-087": {
+    "id": "GD02-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orga, Crot, and Shani",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-087.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orga, Crot, and Shani-GD02-087",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-088": {
+    "id": "GD02-088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flit Asuno",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-088.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flit Asuno-GD02-088",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-089": {
+    "id": "GD02-089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lalah Sune",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-089.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lalah Sune-GD02-089",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-090": {
+    "id": "GD02-090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Challia Bull (GQ)",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-090.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Challia Bull (GQ)-GD02-090",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-091": {
+    "id": "GD02-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Haman Karn",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-091.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Haman Karn-GD02-091",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-092": {
+    "id": "GD02-092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shagia Frost",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-092.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shagia Frost-GD02-092",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-093": {
+    "id": "GD02-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Olba Frost",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-093.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Olba Frost-GD02-093",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-094": {
+    "id": "GD02-094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Garrod Ran & Tiffa Adill",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-094.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Garrod Ran & Tiffa Adill-GD02-094",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-095": {
+    "id": "GD02-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lafter Frankland",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-095.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lafter Frankland-GD02-095",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-096": {
+    "id": "GD02-096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Desil Galette",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-096.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Desil Galette-GD02-096",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-097": {
+    "id": "GD02-097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kamille Bidan",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-097.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kamille Bidan-GD02-097",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-098": {
+    "id": "GD02-098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quattro Bajeena",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-098.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quattro Bajeena-GD02-098",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-099": {
+    "id": "GD02-099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gaelio Bauduin",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-099.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gaelio Bauduin-GD02-099",
+    "type": "PILOT",
+    "cost": 1,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-100": {
+    "id": "GD02-100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dramatic Turnabout",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-100.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dramatic Turnabout-GD02-100",
+    "type": "COMMAND",
+    "cost": 2,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-101": {
+    "id": "GD02-101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Beneath the Mask",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-101.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beneath the Mask-GD02-101",
+    "type": "COMMAND",
+    "cost": 1,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-102": {
+    "id": "GD02-102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mouar\u2019s Determination",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-102.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mouar\u2019s Determination-GD02-102",
+    "type": "COMMAND",
+    "cost": 1,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 1,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-103": {
+    "id": "GD02-103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "AGE Device",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-103.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "AGE Device-GD02-103",
+    "type": "COMMAND",
+    "cost": 2,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-104": {
+    "id": "GD02-104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Turning Point of History",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-104.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Turning Point of History-GD02-104",
+    "type": "COMMAND",
+    "cost": 1,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-105": {
+    "id": "GD02-105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Valedictorian",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-105.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Valedictorian-GD02-105",
+    "type": "COMMAND",
+    "cost": 1,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 1,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-106": {
+    "id": "GD02-106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "White Wolf",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-106.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "White Wolf-GD02-106",
+    "type": "COMMAND",
+    "cost": 1,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-107": {
+    "id": "GD02-107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "All-Range Attack",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-107.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "All-Range Attack-GD02-107",
+    "type": "COMMAND",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-108": {
+    "id": "GD02-108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "That One Looks A Lot Stronger?",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-108.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "That One Looks A Lot Stronger?-GD02-108",
+    "type": "COMMAND",
+    "cost": 1,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-109": {
+    "id": "GD02-109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Undying Persistence",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-109.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Undying Persistence-GD02-109",
+    "type": "COMMAND",
+    "cost": 1,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-110": {
+    "id": "GD02-110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Awakened Power",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-110.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Awakened Power-GD02-110",
+    "type": "COMMAND",
+    "cost": 2,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-111": {
+    "id": "GD02-111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Decisive Last Resort",
+        "type": "COMMAND",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-111.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Decisive Last Resort-GD02-111",
+    "type": "COMMAND",
+    "cost": 4,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-112": {
+    "id": "GD02-112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Momentary Respite",
+        "type": "COMMAND",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-112.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Momentary Respite-GD02-112",
+    "type": "COMMAND",
+    "cost": 3,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-113": {
+    "id": "GD02-113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sisterly Care",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-113.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sisterly Care-GD02-113",
+    "type": "COMMAND",
+    "cost": 2,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-114": {
+    "id": "GD02-114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "It's Name is Ryusei-Go",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-114.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "It's Name is Ryusei-Go-GD02-114",
+    "type": "COMMAND",
+    "cost": 1,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 1,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-115": {
+    "id": "GD02-115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Familial Devotion",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-115.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Familial Devotion-GD02-115",
+    "type": "COMMAND",
+    "cost": 1,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 0,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-116": {
+    "id": "GD02-116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Comrades Come First",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-116.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Comrades Come First-GD02-116",
+    "type": "COMMAND",
+    "cost": 1,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-117": {
+    "id": "GD02-117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A New Sign",
+        "type": "COMMAND",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-117.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "A New Sign-GD02-117",
+    "type": "COMMAND",
+    "cost": 3,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-118": {
+    "id": "GD02-118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heart Set on Revenge",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-118.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heart Set on Revenge-GD02-118",
+    "type": "COMMAND",
+    "cost": 1,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-119": {
+    "id": "GD02-119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Persistent and Fortudinous",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-119.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Persistent and Fortudinous-GD02-119",
+    "type": "COMMAND",
+    "cost": 1,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 1,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-120": {
+    "id": "GD02-120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aspiring PILOT",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-120.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aspiring PILOT-GD02-120",
+    "type": "COMMAND",
+    "cost": 1,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 0,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-121": {
+    "id": "GD02-121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dominion",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-121.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dominion-GD02-121",
+    "type": "BASE",
+    "cost": 1,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-122": {
+    "id": "GD02-122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alexandria",
+        "type": "BASE",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-122.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alexandria-GD02-122",
+    "type": "BASE",
+    "cost": 2,
+    "Color": [
+      "Blue"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-123": {
+    "id": "GD02-123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sodon",
+        "type": "BASE",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-123.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sodon-GD02-123",
+    "type": "BASE",
+    "cost": 2,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-124": {
+    "id": "GD02-124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Diva",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-124.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Diva-GD02-124",
+    "type": "BASE",
+    "cost": 1,
+    "Color": [
+      "Green"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-125": {
+    "id": "GD02-125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gwadan",
+        "type": "BASE",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-125.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gwadan-GD02-125",
+    "type": "BASE",
+    "cost": 2,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-126": {
+    "id": "GD02-126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shuji's Hideout",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-126.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shuji's Hideout-GD02-126",
+    "type": "BASE",
+    "cost": 1,
+    "Color": [
+      "Red"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-127": {
+    "id": "GD02-127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Freeden",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-127.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Freeden-GD02-127",
+    "type": "BASE",
+    "cost": 1,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-128": {
+    "id": "GD02-128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hammerhead",
+        "type": "BASE",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-128.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hammerhead-GD02-128",
+    "type": "BASE",
+    "cost": 2,
+    "Color": [
+      "Purple"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-129": {
+    "id": "GD02-129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Argama",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-129.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Argama-GD02-129",
+    "type": "BASE",
+    "cost": 1,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD02-130": {
+    "id": "GD02-130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sleipnir",
+        "type": "BASE",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Dual%20Impact/full/GD02-130.jpg?241025",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sleipnir-GD02-130",
+    "type": "BASE",
+    "cost": 2,
+    "Color": [
+      "White"
+    ],
+    "set": "Dual Impact [GD02]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": 5,
     "pilot": "",
     "tokens": []
   }
