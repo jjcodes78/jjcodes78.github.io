@@ -9434,5 +9434,3437 @@
     "hp": 5,
     "pilot": "",
     "tokens": []
+  },
+  "GD03-001": {
+    "id": "GD03-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam NT-1",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-001.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam NT-1-GD03-001",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-002": {
+    "id": "GD03-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The-O",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-002.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "The-O-GD03-002",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 5,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-003": {
+    "id": "GD03-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Messala",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-003.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Messala-GD03-003",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-004": {
+    "id": "GD03-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hambrabi",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-004.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hambrabi-GD03-004",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 5,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-005": {
+    "id": "GD03-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kshatriya Besserung",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-005.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kshatriya Besserung-GD03-005",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-006": {
+    "id": "GD03-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Penelope (Middle Form)",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-006.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Penelope (Middle Form)-GD03-006",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-007": {
+    "id": "GD03-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam NT-1 Full Armor",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-007.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam NT-1 Full Armor-GD03-007",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-008": {
+    "id": "GD03-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bolinoak Sammahn",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-008.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bolinoak Sammahn-GD03-008",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-009": {
+    "id": "GD03-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Palace Athene",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-009.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Palace Athene-GD03-009",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 5,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-010": {
+    "id": "GD03-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Full Armor Unicorn Gundam (Destroy Mode)",
+        "type": "UNIT",
+        "cost": 6,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-010.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Full Armor Unicorn Gundam (Destroy Mode)-GD03-010",
+    "type": "UNIT",
+    "cost": 6,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": 6,
+    "hp": 6,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-011": {
+    "id": "GD03-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GM Sniper II",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-011.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "GM Sniper II-GD03-011",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-012": {
+    "id": "GD03-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Messala (MA Mode)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-012.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Messala (MA Mode)-GD03-012",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-013": {
+    "id": "GD03-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hizack",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-013.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hizack-GD03-013",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-014": {
+    "id": "GD03-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hizack Custom",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-014.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hizack Custom-GD03-014",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-015": {
+    "id": "GD03-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baund Doc",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-015.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baund Doc-GD03-015",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-016": {
+    "id": "GD03-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Full Armor Unicorn Gundam (Unicorn Mode)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-016.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Full Armor Unicorn Gundam (Unicorn Mode)-GD03-016",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-017": {
+    "id": "GD03-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kämpfer",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-017.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kämpfer-GD03-017",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-018": {
+    "id": "GD03-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altron Gundam",
+        "type": "UNIT",
+        "cost": 6,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-018.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Altron Gundam-GD03-018",
+    "type": "UNIT",
+    "cost": 6,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": 5,
+    "hp": 6,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-019": {
+    "id": "GD03-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam AGE-2 Normal",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-019.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam AGE-2 Normal-GD03-019",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-020": {
+    "id": "GD03-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zaku Ⅱ FZ",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-020.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zaku Ⅱ FZ-GD03-020",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-021": {
+    "id": "GD03-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Deathscythe Hell",
+        "type": "UNIT",
+        "cost": 7,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-021.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Deathscythe Hell-GD03-021",
+    "type": "UNIT",
+    "cost": 7,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": 6,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-022": {
+    "id": "GD03-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Kyrios",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-022.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Kyrios-GD03-022",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 5,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-023": {
+    "id": "GD03-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "G-Bouncer",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-023.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "G-Bouncer-GD03-023",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-024": {
+    "id": "GD03-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hy-Gogg",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-024.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hy-Gogg-GD03-024",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-025": {
+    "id": "GD03-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Sandrock Custom",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-025.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Sandrock Custom-GD03-025",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-026": {
+    "id": "GD03-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Dynames",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-026.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Dynames-GD03-026",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-027": {
+    "id": "GD03-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Z’Gok E",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-027.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Z’Gok E-GD03-027",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-028": {
+    "id": "GD03-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Auda's Maganac",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-028.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Auda's Maganac-GD03-028",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-029": {
+    "id": "GD03-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Heavyarms Custom",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-029.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Heavyarms Custom-GD03-029",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-030": {
+    "id": "GD03-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Kyrios (Tail Unit Flight Mode)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-030.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Kyrios (Tail Unit Flight Mode)-GD03-030",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-031": {
+    "id": "GD03-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam AGE-1 Flat",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-031.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam AGE-1 Flat-GD03-031",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-032": {
+    "id": "GD03-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zaku (Four Snake Eyes') [YETI] (GQ)",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-032.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zaku (Four Snake Eyes') [YETI] (GQ)-GD03-032",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-033": {
+    "id": "GD03-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Providence Gundam",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-033.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Providence Gundam-GD03-033",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 5,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-034": {
+    "id": "GD03-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GQuuuuuuX (Omega Psycommu)",
+        "type": "UNIT",
+        "cost": 7,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-034.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "GQuuuuuuX (Omega Psycommu)-GD03-034",
+    "type": "UNIT",
+    "cost": 7,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": 6,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-035": {
+    "id": "GD03-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GFreD",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-035.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "GFreD-GD03-035",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-036": {
+    "id": "GD03-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ξ Gundam (Flight Form)",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-036.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ξ Gundam (Flight Form)-GD03-036",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-037": {
+    "id": "GD03-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bertigo",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-037.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bertigo-GD03-037",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-038": {
+    "id": "GD03-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GuAIZ (Commander Type)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-038.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "GuAIZ (Commander Type)-GD03-038",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-039": {
+    "id": "GD03-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Gundam",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-039.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Gundam-GD03-039",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-040": {
+    "id": "GD03-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Virsago & Gundam Ashtaron",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-040.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Virsago & Gundam Ashtaron-GD03-040",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 3,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-041": {
+    "id": "GD03-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Patulia",
+        "type": "UNIT",
+        "cost": 6,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-041.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Patulia-GD03-041",
+    "type": "UNIT",
+    "cost": 6,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 5,
+    "hp": 6,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-042": {
+    "id": "GD03-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Duel Gundam (Assault Shroud)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-042.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Duel Gundam (Assault Shroud)-GD03-042",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-043": {
+    "id": "GD03-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Messer Type-F02",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-043.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Messer Type-F02-GD03-043",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-044": {
+    "id": "GD03-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Daughtress Flyer",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-044.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daughtress Flyer-GD03-044",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-045": {
+    "id": "GD03-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Balient",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-045.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Balient-GD03-045",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-046": {
+    "id": "GD03-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "CGUE",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-046.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "CGUE-GD03-046",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-047": {
+    "id": "GD03-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "DINN (Commander Type)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-047.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "DINN (Commander Type)-GD03-047",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-048": {
+    "id": "GD03-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GFreD",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-048.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "GFreD-GD03-048",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-049": {
+    "id": "GD03-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Exia (Trans-Am)",
+        "type": "UNIT",
+        "cost": 6,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-049.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Exia (Trans-Am)-GD03-049",
+    "type": "UNIT",
+    "cost": 6,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 6,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-050": {
+    "id": "GD03-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Barbatos Lupus",
+        "type": "UNIT",
+        "cost": 6,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-050.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Barbatos Lupus-GD03-050",
+    "type": "UNIT",
+    "cost": 6,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 5,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-051": {
+    "id": "GD03-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam X Divider",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-051.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam X Divider-GD03-051",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-052": {
+    "id": "GD03-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Virtue",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-052.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Virtue-GD03-052",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-053": {
+    "id": "GD03-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Gusion Rebake Full City",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-053.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Gusion Rebake Full City-GD03-053",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-054": {
+    "id": "GD03-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zeydra",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-054.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zeydra-GD03-054",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-055": {
+    "id": "GD03-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Hajiroboshi (2nd Form)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-055.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Hajiroboshi (2nd Form)-GD03-055",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-056": {
+    "id": "GD03-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Barbatos Adapt",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-056.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Barbatos Adapt-GD03-056",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-057": {
+    "id": "GD03-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GN Armor (Type-E)",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-057.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "GN Armor (Type-E)-GD03-057",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-058": {
+    "id": "GD03-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Farsia",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-058.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Farsia-GD03-058",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-059": {
+    "id": "GD03-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zedas R",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-059.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zedas R-GD03-059",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-060": {
+    "id": "GD03-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "CGS Mobile Worker (Commander Type)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-060.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "CGS Mobile Worker (Commander Type)-GD03-060",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-061": {
+    "id": "GD03-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Barbatos 6th Form",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-061.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Barbatos 6th Form-GD03-061",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-062": {
+    "id": "GD03-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GX-Bit",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-062.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "GX-Bit-GD03-062",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-063": {
+    "id": "GD03-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "0 Gundam",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-063.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "0 Gundam-GD03-063",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-064": {
+    "id": "GD03-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Defurse",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-064.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Defurse-GD03-064",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 2,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-065": {
+    "id": "GD03-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zedas M",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-065.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zedas M-GD03-065",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-066": {
+    "id": "GD03-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Barbatos 5th Form (Ground Type)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-066.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Barbatos 5th Form (Ground Type)-GD03-066",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-067": {
+    "id": "GD03-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rouei",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-067.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rouei-GD03-067",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-068": {
+    "id": "GD03-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Hajiroboshi",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-068.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Hajiroboshi-GD03-068",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-069": {
+    "id": "GD03-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Graham's Union Flag Custom",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-069.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Graham's Union Flag Custom-GD03-069",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-070": {
+    "id": "GD03-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Freedom Gundam",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-070.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Freedom Gundam-GD03-070",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-071": {
+    "id": "GD03-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Z Gundam (Biosensor)",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-071.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Z Gundam (Biosensor)-GD03-071",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 5,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-072": {
+    "id": "GD03-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aile Strike Gundam",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-072.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aile Strike Gundam-GD03-072",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-073": {
+    "id": "GD03-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Graze Ein",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-073.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Graze Ein-GD03-073",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 6,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-074": {
+    "id": "GD03-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tieren Taozi",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-074.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tieren Taozi-GD03-074",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-075": {
+    "id": "GD03-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Super Gundam",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-075.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Super Gundam-GD03-075",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-076": {
+    "id": "GD03-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Freedom Gundam (METEOR)",
+        "type": "UNIT",
+        "cost": 6,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-076.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Freedom Gundam (METEOR)-GD03-076",
+    "type": "UNIT",
+    "cost": 6,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": 6,
+    "hp": 6,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-077": {
+    "id": "GD03-077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Justice Gundam (METEOR)",
+        "type": "UNIT",
+        "cost": 7,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-077.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Justice Gundam (METEOR)-GD03-077",
+    "type": "UNIT",
+    "cost": 7,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": 6,
+    "hp": 6,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-078": {
+    "id": "GD03-078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tieren High Mobility Type",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-078.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tieren High Mobility Type-GD03-078",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 3,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-079": {
+    "id": "GD03-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "G-Defenser",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-079.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "G-Defenser-GD03-079",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-080": {
+    "id": "GD03-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Kimaris Trooper (Trooper Mode)",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-080.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Kimaris Trooper (Trooper Mode)-GD03-080",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-081": {
+    "id": "GD03-081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "AEU Enact Demonstration Color",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-081.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "AEU Enact Demonstration Color-GD03-081",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-082": {
+    "id": "GD03-082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Union Flag",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-082.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Union Flag-GD03-082",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 4,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-083": {
+    "id": "GD03-083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "AEU Hellion",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-083.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "AEU Hellion-GD03-083",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-084": {
+    "id": "GD03-084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Paptimus Scirocco",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-084.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Paptimus Scirocco-GD03-084",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-085": {
+    "id": "GD03-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Christina Mackenzie",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-085.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Christina Mackenzie-GD03-085",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-086": {
+    "id": "GD03-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yazan Gable",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-086.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yazan Gable-GD03-086",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-087": {
+    "id": "GD03-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sarah Zabiarov",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-087.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sarah Zabiarov-GD03-087",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-088": {
+    "id": "GD03-088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Asemu Asuno",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-088.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Asemu Asuno-GD03-088",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-089": {
+    "id": "GD03-089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bernard Wiseman",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-089.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bernard Wiseman-GD03-089",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-090": {
+    "id": "GD03-090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mikhail Kaminsky",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-090.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mikhail Kaminsky-GD03-090",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-091": {
+    "id": "GD03-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rau Le Creuset",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-091.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rau Le Creuset-GD03-091",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-092": {
+    "id": "GD03-092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nyaan",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-092.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nyaan-GD03-092",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-093": {
+    "id": "GD03-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Carris Nautilus",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-093.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carris Nautilus-GD03-093",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-094": {
+    "id": "GD03-094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zeheart Galette",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-094.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zeheart Galette-GD03-094",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-095": {
+    "id": "GD03-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azee Gurumin",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-095.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Azee Gurumin-GD03-095",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-096": {
+    "id": "GD03-096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jamil Neate",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-096.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jamil Neate-GD03-096",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-097": {
+    "id": "GD03-097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wistario Afam",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-097.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wistario Afam-GD03-097",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-098": {
+    "id": "GD03-098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Graham Aker",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-098.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Graham Aker-GD03-098",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-099": {
+    "id": "GD03-099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emma Sheen",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-099.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emma Sheen-GD03-099",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-100": {
+    "id": "GD03-100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soma Peries",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-100.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soma Peries-GD03-100",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-101": {
+    "id": "GD03-101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Healthy Curiosity",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-101.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Healthy Curiosity-GD03-101",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-102": {
+    "id": "GD03-102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Privileged Position",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-102.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Privileged Position-GD03-102",
+    "type": "COMMAND",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-103": {
+    "id": "GD03-103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Field Directive",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-103.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Field Directive-GD03-103",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-104": {
+    "id": "GD03-104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reccoa's Shadow",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-104.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reccoa's Shadow-GD03-104",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-105": {
+    "id": "GD03-105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bridge Crew",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-105.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bridge Crew-GD03-105",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-106": {
+    "id": "GD03-106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "M.A.V. Tactics",
+        "type": "COMMAND",
+        "cost": 4,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-106.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "M.A.V. Tactics-GD03-106",
+    "type": "COMMAND",
+    "cost": 4,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-107": {
+    "id": "GD03-107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Over the River and Through the Woods",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-107.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Over the River and Through the Woods-GD03-107",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-108": {
+    "id": "GD03-108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "How Many Miles to the Battlefield?",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-108.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "How Many Miles to the Battlefield?-GD03-108",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-109": {
+    "id": "GD03-109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Improved Technique",
+        "type": "COMMAND",
+        "cost": 3,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-109.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Improved Technique-GD03-109",
+    "type": "COMMAND",
+    "cost": 3,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-110": {
+    "id": "GD03-110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eliminate Target",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-110.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eliminate Target-GD03-110",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-111": {
+    "id": "GD03-111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Infiltrator Present",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-111.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Infiltrator Present-GD03-111",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-112": {
+    "id": "GD03-112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Warped Intent",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-112.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warped Intent-GD03-112",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-113": {
+    "id": "GD03-113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Human Karma",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-113.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Human Karma-GD03-113",
+    "type": "COMMAND",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-114": {
+    "id": "GD03-114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Look of Determination",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-114.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Look of Determination-GD03-114",
+    "type": "COMMAND",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-115": {
+    "id": "GD03-115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Distant Reunion",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-115.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Distant Reunion-GD03-115",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-116": {
+    "id": "GD03-116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Towards Destiny",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-116.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Towards Destiny-GD03-116",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-117": {
+    "id": "GD03-117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orga's Order",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-117.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orga's Order-GD03-117",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-118": {
+    "id": "GD03-118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Awakened Potential",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-118.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Awakened Potential-GD03-118",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-119": {
+    "id": "GD03-119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Awkward Approach",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-119.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Awkward Approach-GD03-119",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-120": {
+    "id": "GD03-120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Immortal Colasour",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-120.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Immortal Colasour-GD03-120",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 1,
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-121": {
+    "id": "GD03-121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unheralded Attack",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-121.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unheralded Attack-GD03-121",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": 1,
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-122": {
+    "id": "GD03-122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Veteran Tactics",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-122.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Veteran Tactics-GD03-122",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-123": {
+    "id": "GD03-123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jupitris",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-123.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jupitris-GD03-123",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-124": {
+    "id": "GD03-124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ribo Colony",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-124.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ribo Colony-GD03-124",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-125": {
+    "id": "GD03-125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Peacemillion",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-125.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Peacemillion-GD03-125",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "-",
+    "hp": 6,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-126": {
+    "id": "GD03-126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cyclops Team",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-126.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cyclops Team-GD03-126",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-127": {
+    "id": "GD03-127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jachin Due",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-127.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jachin Due-GD03-127",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "-",
+    "hp": 6,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-128": {
+    "id": "GD03-128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Doritea",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-128.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doritea-GD03-128",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-129": {
+    "id": "GD03-129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hotarubi",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-129.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hotarubi-GD03-129",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-130": {
+    "id": "GD03-130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Downes",
+        "type": "BASE",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-130.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Downes-GD03-130",
+    "type": "BASE",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-131": {
+    "id": "GD03-131",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eternal",
+        "type": "BASE",
+        "cost": 2,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-131.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eternal-GD03-131",
+    "type": "BASE",
+    "cost": 2,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD03-132": {
+    "id": "GD03-132",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Radish",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://www.gundam-gcg.com/en/images/cards/card/GD03-132.webp?26013001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Radish-GD03-132",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "Steel Requiem[GD03]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
   }
 }
