@@ -673,11 +673,11 @@
     }
   },
   {
-    "title": "ST06 - Clan Unity",
+    "title": "ST06 Starter Deck - Clan Unity",
     "id": "d7c59d7c-df39-464d-8541-e1ae8eef7cd4",
-    "cardCount": 50,
+    "cardCount": 60,
     "createdAt": "2026-05-03T19:17:50.793Z",
-    "lastModifiedAt": "2026-05-03T19:20:39.045Z",
+    "lastModifiedAt": "2026-05-03T19:49:14.621Z",
     "game": "Gundam Card Game",
     "format": [
       "Classic"
@@ -687,7 +687,8 @@
         "UNIT",
         "PILOT",
         "COMMAND",
-        "BASE"
+        "BASE",
+        "RESOURCE"
       ],
       "UNIT": [
         {
@@ -760,15 +761,21 @@
           "count": 2,
           "id": "ST06-015"
         }
+      ],
+      "RESOURCE": [
+        {
+          "count": 10,
+          "id": "R-001"
+        }
       ]
     }
   },
   {
-    "title": "ST07 - Celestial Drive",
+    "title": "ST07 Starter Deck - Celestial Drive",
     "id": "e03295c6-5a80-44f5-9c3b-658c60556dc5",
-    "cardCount": 50,
+    "cardCount": 60,
     "createdAt": "2026-05-03T19:26:51.245Z",
-    "lastModifiedAt": "2026-05-03T19:28:53.725Z",
+    "lastModifiedAt": "2026-05-03T19:52:22.766Z",
     "game": "Gundam Card Game",
     "format": [
       "Classic"
@@ -778,7 +785,8 @@
         "UNIT",
         "PILOT",
         "COMMAND",
-        "BASE"
+        "BASE",
+        "RESOURCE"
       ],
       "UNIT": [
         {
@@ -851,15 +859,21 @@
           "count": 4,
           "id": "ST07-015"
         }
+      ],
+      "RESOURCE": [
+        {
+          "count": 10,
+          "id": "R-001"
+        }
       ]
     }
   },
   {
-    "title": "ST08 - Flash of Radiance",
+    "title": "ST08 Starter Deck - Flash of Radiance",
     "id": "c0b942f0-55ab-47e0-85ed-97746d067bf4",
-    "cardCount": 50,
+    "cardCount": 60,
     "createdAt": "2026-05-03T19:23:29.226Z",
-    "lastModifiedAt": "2026-05-03T19:26:09.077Z",
+    "lastModifiedAt": "2026-05-03T19:51:52.812Z",
     "game": "Gundam Card Game",
     "format": [
       "Classic"
@@ -869,7 +883,8 @@
         "UNIT",
         "PILOT",
         "COMMAND",
-        "BASE"
+        "BASE",
+        "RESOURCE"
       ],
       "UNIT": [
         {
@@ -941,6 +956,12 @@
         {
           "count": 2,
           "id": "ST08-015"
+        }
+      ],
+      "RESOURCE": [
+        {
+          "count": 10,
+          "id": "R-001"
         }
       ]
     }
