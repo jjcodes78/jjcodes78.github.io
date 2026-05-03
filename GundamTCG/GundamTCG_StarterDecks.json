@@ -671,5 +671,278 @@
         }
       ]
     }
+  },
+  {
+    "title": "ST06 - Clan Unity",
+    "id": "d7c59d7c-df39-464d-8541-e1ae8eef7cd4",
+    "cardCount": 50,
+    "createdAt": "2026-05-03T19:17:50.793Z",
+    "lastModifiedAt": "2026-05-03T19:20:39.045Z",
+    "game": "Gundam Card Game",
+    "format": [
+      "Classic"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "UNIT",
+        "PILOT",
+        "COMMAND",
+        "BASE"
+      ],
+      "UNIT": [
+        {
+          "count": 2,
+          "id": "ST06-001"
+        },
+        {
+          "count": 2,
+          "id": "ST06-005"
+        },
+        {
+          "count": 4,
+          "id": "ST06-002"
+        },
+        {
+          "count": 4,
+          "id": "ST06-003"
+        },
+        {
+          "count": 4,
+          "id": "ST06-004"
+        },
+        {
+          "count": 4,
+          "id": "ST06-006"
+        },
+        {
+          "count": 4,
+          "id": "ST06-007"
+        },
+        {
+          "count": 4,
+          "id": "ST06-008"
+        }
+      ],
+      "PILOT": [
+        {
+          "count": 4,
+          "id": "ST06-009"
+        },
+        {
+          "count": 4,
+          "id": "ST06-010"
+        }
+      ],
+      "COMMAND": [
+        {
+          "count": 2,
+          "id": "ST06-011"
+        },
+        {
+          "count": 4,
+          "id": "ST06-012"
+        },
+        {
+          "count": 2,
+          "id": "ST06-013"
+        },
+        {
+          "count": 2,
+          "id": "ST03-013"
+        }
+      ],
+      "BASE": [
+        {
+          "count": 2,
+          "id": "ST06-014"
+        },
+        {
+          "count": 2,
+          "id": "ST06-015"
+        }
+      ]
+    }
+  },
+  {
+    "title": "ST07 - Celestial Drive",
+    "id": "e03295c6-5a80-44f5-9c3b-658c60556dc5",
+    "cardCount": 50,
+    "createdAt": "2026-05-03T19:26:51.245Z",
+    "lastModifiedAt": "2026-05-03T19:28:53.725Z",
+    "game": "Gundam Card Game",
+    "format": [
+      "Classic"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "UNIT",
+        "PILOT",
+        "COMMAND",
+        "BASE"
+      ],
+      "UNIT": [
+        {
+          "count": 2,
+          "id": "ST07-001"
+        },
+        {
+          "count": 2,
+          "id": "ST07-005"
+        },
+        {
+          "count": 4,
+          "id": "ST07-002"
+        },
+        {
+          "count": 4,
+          "id": "ST07-003"
+        },
+        {
+          "count": 3,
+          "id": "ST07-004"
+        },
+        {
+          "count": 4,
+          "id": "ST07-006"
+        },
+        {
+          "count": 3,
+          "id": "ST07-007"
+        },
+        {
+          "count": 4,
+          "id": "ST07-008"
+        }
+      ],
+      "PILOT": [
+        {
+          "count": 3,
+          "id": "ST07-009"
+        },
+        {
+          "count": 3,
+          "id": "ST07-010"
+        },
+        {
+          "count": 3,
+          "id": "ST07-011"
+        },
+        {
+          "count": 3,
+          "id": "ST07-012"
+        }
+      ],
+      "COMMAND": [
+        {
+          "count": 2,
+          "id": "ST07-013"
+        },
+        {
+          "count": 4,
+          "id": "ST07-014"
+        },
+        {
+          "count": 2,
+          "id": "ST05-014"
+        }
+      ],
+      "BASE": [
+        {
+          "count": 4,
+          "id": "ST07-015"
+        }
+      ]
+    }
+  },
+  {
+    "title": "ST08 - Flash of Radiance",
+    "id": "c0b942f0-55ab-47e0-85ed-97746d067bf4",
+    "cardCount": 50,
+    "createdAt": "2026-05-03T19:23:29.226Z",
+    "lastModifiedAt": "2026-05-03T19:26:09.077Z",
+    "game": "Gundam Card Game",
+    "format": [
+      "Classic"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "UNIT",
+        "PILOT",
+        "COMMAND",
+        "BASE"
+      ],
+      "UNIT": [
+        {
+          "count": 2,
+          "id": "ST08-001"
+        },
+        {
+          "count": 2,
+          "id": "ST08-006"
+        },
+        {
+          "count": 4,
+          "id": "ST08-002"
+        },
+        {
+          "count": 3,
+          "id": "ST08-003"
+        },
+        {
+          "count": 4,
+          "id": "ST08-004"
+        },
+        {
+          "count": 3,
+          "id": "ST08-005"
+        },
+        {
+          "count": 4,
+          "id": "ST08-007"
+        },
+        {
+          "count": 4,
+          "id": "ST08-008"
+        },
+        {
+          "count": 3,
+          "id": "ST08-009"
+        }
+      ],
+      "PILOT": [
+        {
+          "count": 4,
+          "id": "ST08-010"
+        },
+        {
+          "count": 4,
+          "id": "ST08-011"
+        }
+      ],
+      "COMMAND": [
+        {
+          "count": 3,
+          "id": "ST08-012"
+        },
+        {
+          "count": 3,
+          "id": "ST08-013"
+        },
+        {
+          "count": 2,
+          "id": "ST02-014"
+        }
+      ],
+      "BASE": [
+        {
+          "count": 3,
+          "id": "ST08-014"
+        },
+        {
+          "count": 2,
+          "id": "ST08-015"
+        }
+      ]
+    }
   }
 ]
