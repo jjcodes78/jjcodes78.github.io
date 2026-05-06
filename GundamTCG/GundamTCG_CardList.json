@@ -12869,7 +12869,7 @@
   },
   "EXB-002": {
     "id": "EXB-002",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Base",
@@ -12895,7 +12895,7 @@
   },
   "EXR-002": {
     "id": "EXR-002",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Resource",
@@ -17627,7 +17627,7 @@
   },
   "T-021": {
     "id": "T-021",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Parts",
@@ -17653,7 +17653,7 @@
   },
   "T-022": {
     "id": "T-022",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Wire-Guided Arm",
@@ -17679,7 +17679,7 @@
   },
   "T-023": {
     "id": "T-023",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Zeong (Head)",
@@ -17705,7 +17705,7 @@
   },
   "T-024": {
     "id": "T-024",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Alvaaron",
