@@ -45,8 +45,6 @@
                     "min": 0,
                     "max": 3
                 },
-                "putSelectionAtBottom": true,
-                "drawNewSelectedCards": true,
                 "mulliganCycle": {
                     "info": "Você pode escolher qualquer número de cartas da mão inicial por novas cartas até 3 vezes.",
                     "steps": [
