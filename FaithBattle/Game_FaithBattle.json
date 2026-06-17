@@ -38,8 +38,12 @@
         "Classic": {
             "mulligan": {
                 "info": "Você pode trocar qualquer número de cards da mão inicial por novas cartas.",
+                "triggeredByButton": false,
                 "startingHandSize": 5,
-                "drawNewHand": true,
+                "mulliganCount": {
+                    "min": 0,
+                    "max": 1
+                },
                 "putSelectionAtBottom": true,
                 "drawNewSelectedCards": true
             },
