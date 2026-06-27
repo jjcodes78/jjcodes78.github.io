@@ -14,7 +14,7 @@
       "https://images.hdqwalls.com/wallpapers/call-of-duty-mobile-x-gundam-0x.jpg",
       "https://wallpapercat.com/w/full/6/e/f/2115588-3840x2160-desktop-4k-gundam-wallpaper-photo.jpg"
     ],
-    "decksUrl": "https://jjcodes78.github.io/GundamTCG/GundamTCG_StarterDecks.json?V=220820251137"
+    "decksUrl": "https://jjcodes78.github.io/GundamTCG/GundamTCG_StarterDecks.json?V=270620261957"
   },
   "customHelp": "How to setup this game:\n (1.) At start choose keep or mulligan your hand.\n (2.) Click with right button of mouse in your main deck, choose 'Draw X' option. After this, select 6 and 'Shields' option on the Destination list, then click 'Draw 6' button. You should have 6 cards in your shield \"deck\", shuffle then. \n(3.) Create a EX-BASE token. \n(4.) If you play first, draw one resource card from your resources deck and draw 1 card. If you play at last, create a EX Resource token. That's it.",
   "cardRotation": "45",

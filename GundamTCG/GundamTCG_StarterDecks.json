@@ -965,5 +965,103 @@
         }
       ]
     }
+  },
+  {
+    "title": "ST10 Starter Deck - Generation Pulse",
+    "id": "40a817c9-d4fb-471d-94cf-6344d08876e0",
+    "cardCount": 60,
+    "createdAt": "2026-06-27T22:50:24.474Z",
+    "lastModifiedAt": "2026-06-27T22:52:57.671Z",
+    "game": "Gundam Card Game",
+    "format": [
+      "Classic"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "RESOURCE",
+        "UNIT",
+        "PILOT",
+        "COMMAND",
+        "BASE"
+      ],
+      "RESOURCE": [
+        {
+          "count": 10,
+          "id": "R-041"
+        }
+      ],
+      "UNIT": [
+        {
+          "count": 2,
+          "id": "ST10-001"
+        },
+        {
+          "count": 2,
+          "id": "ST10-006"
+        },
+        {
+          "count": 3,
+          "id": "ST10-002"
+        },
+        {
+          "count": 4,
+          "id": "ST10-003"
+        },
+        {
+          "count": 3,
+          "id": "ST10-004"
+        },
+        {
+          "count": 4,
+          "id": "ST10-005"
+        },
+        {
+          "count": 3,
+          "id": "ST10-007"
+        },
+        {
+          "count": 4,
+          "id": "ST10-008"
+        },
+        {
+          "count": 4,
+          "id": "ST10-009"
+        },
+        {
+          "count": 3,
+          "id": "ST10-010"
+        }
+      ],
+      "PILOT": [
+        {
+          "count": 4,
+          "id": "ST10-011"
+        },
+        {
+          "count": 4,
+          "id": "ST10-012"
+        }
+      ],
+      "COMMAND": [
+        {
+          "count": 2,
+          "id": "ST10-013"
+        },
+        {
+          "count": 2,
+          "id": "ST10-014"
+        },
+        {
+          "count": 2,
+          "id": "ST10-015"
+        }
+      ],
+      "BASE": [
+        {
+          "count": 4,
+          "id": "ST10-016"
+        }
+      ]
+    }
   }
 ]
