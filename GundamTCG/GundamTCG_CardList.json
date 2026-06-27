@@ -17737,7 +17737,7 @@
         "name": "EX Base",
         "type": "EX BASE",
         "cost": "-",
-        "image": "https://www.gundam-gcg.com/en/images/cards/card/EXB-003.webp?260612",
+        "image": "https://cdn.duelfrontier.com/images/cards/EXB-003.webp?260612",
         "isHorizontal": false
       }
     },
@@ -17763,7 +17763,7 @@
         "name": "EX Resource",
         "type": "EX RESOURCE",
         "cost": "-",
-        "image": "https://www.gundam-gcg.com/en/images/cards/card/EXR-003.webp?260612",
+        "image": "https://cdn.duelfrontier.com/images/cards/EXR-003.webp?260612",
         "isHorizontal": false
       }
     },
@@ -17789,7 +17789,7 @@
         "name": "Resource",
         "type": "RESOURCE",
         "cost": "-",
-        "image": "https://www.gundam-gcg.com/en/images/cards/card/R-041.webp?260612",
+        "image": "hhttps://cdn.duelfrontier.com/images/cards/R-041.webp?260612",
         "isHorizontal": false
       }
     },
