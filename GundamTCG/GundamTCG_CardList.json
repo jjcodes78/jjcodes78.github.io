@@ -17731,7 +17731,7 @@
   },
   "EXB-003": {
     "id": "EXB-003",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Base",
@@ -17757,7 +17757,7 @@
   },
   "EXR-003": {
     "id": "EXR-003",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "EX Resource",
