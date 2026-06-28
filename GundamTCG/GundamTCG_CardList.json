@@ -12945,6 +12945,198 @@
     "pilot": "",
     "tokens": []
   },
+  "T-013": {
+    "id": "T-013",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Hy-Gogg",
+        "type": "UNIT TOKEN",
+        "cost": 0,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/T-013.jpg?2507252",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hy-Gogg-T-013",
+    "type": "UNIT TOKEN",
+    "cost": 0,
+    "Color": "-",
+    "set": "Steel Requiem [GD03]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-014": {
+    "id": "T-014",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Ad Balloon",
+        "type": "UNIT TOKEN",
+        "cost": 0,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/T-014.jpg?2507252",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ad Balloon-T-014",
+    "type": "UNIT TOKEN",
+    "cost": 0,
+    "Color": "-",
+    "set": "Steel Requiem [GD03]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": 0,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-015": {
+    "id": "T-015",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "CGS Mobile Worker",
+        "type": "UNIT TOKEN",
+        "cost": 0,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/T-015.jpg?2507252",
+        "isHorizontal": false
+      }
+    },
+    "name": "CGS Mobile Worker-T-015",
+    "type": "UNIT TOKEN",
+    "cost": 0,
+    "Color": "-",
+    "set": "Steel Requiem [GD03]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-016": {
+    "id": "T-016",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Graze Custom",
+        "type": "UNIT TOKEN",
+        "cost": 0,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/T-016.jpg?2507252",
+        "isHorizontal": false
+      }
+    },
+    "name": "Graze Custom-T-016",
+    "type": "UNIT TOKEN",
+    "cost": 0,
+    "Color": "-",
+    "set": "Steel Requiem [GD03]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-017": {
+    "id": "T-017",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Gundam Barbatos 4th Form",
+        "type": "UNIT TOKEN",
+        "cost": 0,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/T-017.jpg?2507252",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Barbatos 4th Form-T-017",
+    "type": "UNIT TOKEN",
+    "cost": 0,
+    "Color": "-",
+    "set": "Steel Requiem [GD03]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-018": {
+    "id": "T-018",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Red Gundam",
+        "type": "UNIT TOKEN",
+        "cost": 0,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/T-018.jpg?2507252",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Gundam-T-018",
+    "type": "UNIT TOKEN",
+    "cost": 0,
+    "Color": "-",
+    "set": "Steel Requiem [GD03]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": 2,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-019": {
+    "id": "T-019",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "GQuuuuuuX (Omega Psycommu)",
+        "type": "UNIT TOKEN",
+        "cost": 0,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/T-019.jpg?2507252",
+        "isHorizontal": false
+      }
+    },
+    "name": "GQuuuuuuX (Omega Psycommu)-T-019",
+    "type": "UNIT TOKEN",
+    "cost": 0,
+    "Color": "-",
+    "set": "Steel Requiem [GD03]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-020": {
+    "id": "T-020",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "GFreD",
+        "type": "UNIT TOKEN",
+        "cost": 0,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/Tokens%20and%20Misc/full/t020.jpg?2507252",
+        "isHorizontal": false
+      }
+    },
+    "name": "GFreD-T-020",
+    "type": "UNIT TOKEN",
+    "cost": 0,
+    "Color": "-",
+    "set": "Steel Requiem [GD03]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
   "ST07-001": {
     "id": "ST07-001",
     "isToken": false,
