@@ -18414,5 +18414,2371 @@
     "hp": "5",
     "pilot": "",
     "tokens": []
+  },
+  "EB01-001": {
+    "id": "EB01-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Astray Red Frame Custom (EX)",
+        "type": "UNIT",
+        "cost": "5",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-001.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Astray Red Frame Custom (EX)-EB01-001",
+    "type": "UNIT",
+    "cost": "5",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "5",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-002": {
+    "id": "EB01-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hi-Nu Gundam (EX)",
+        "type": "UNIT",
+        "cost": "7",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-002.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hi-Nu Gundam (EX)-EB01-002",
+    "type": "UNIT",
+    "cost": "7",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": "6",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-003": {
+    "id": "EB01-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Narrative Gundam A-Packs (EX)",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-003.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Narrative Gundam A-Packs (EX)-EB01-003",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-004": {
+    "id": "EB01-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Barbatos Lupus Rex (EX)",
+        "type": "UNIT",
+        "cost": "5",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-004.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Barbatos Lupus Rex (EX)-EB01-004",
+    "type": "UNIT",
+    "cost": "5",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "3",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-005": {
+    "id": "EB01-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zeta Gundam Ⅲ P2 Type",
+        "type": "UNIT",
+        "cost": "6",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-005.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zeta Gundam Ⅲ P2 Type-EB01-005",
+    "type": "UNIT",
+    "cost": "6",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": "6",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-006": {
+    "id": "EB01-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Astray Gold Frame Amatsu",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-006.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Astray Gold Frame Amatsu-EB01-006",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "4",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-007": {
+    "id": "EB01-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam TR-1 \"Hazel-Rah\"",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-007.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam TR-1 \"Hazel-Rah\"-EB01-007",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "5",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-008": {
+    "id": "EB01-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Delta Kai",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-008.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Delta Kai-EB01-008",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-009": {
+    "id": "EB01-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Full Armor (Thunderbolt) (EX)",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-009.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Full Armor (Thunderbolt) (EX)-EB01-009",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-010": {
+    "id": "EB01-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Barbatos 6th Form",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-010.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Barbatos 6th Form-EB01-010",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "5",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-011": {
+    "id": "EB01-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Beginning Gundam",
+        "type": "UNIT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-011.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beginning Gundam-EB01-011",
+    "type": "UNIT",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": "1",
+    "hp": "1",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-012": {
+    "id": "EB01-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dom Bein Nichts",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-012.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dom Bein Nichts-EB01-012",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "2",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-013": {
+    "id": "EB01-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Gundam(0085)",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-013.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Gundam(0085)-EB01-013",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-014": {
+    "id": "EB01-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gouf Vijayanta",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-014.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gouf Vijayanta-EB01-014",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-015": {
+    "id": "EB01-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Prototype Asshimar TR-3 \"Kehaar\"",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-015.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prototype Asshimar TR-3 \"Kehaar\"-EB01-015",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "1",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-016": {
+    "id": "EB01-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tornado Gundam",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-016.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tornado Gundam-EB01-016",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-017": {
+    "id": "EB01-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Haro",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-017.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Haro-EB01-017",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-018": {
+    "id": "EB01-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Astray Blue Frame Second L",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-018.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Astray Blue Frame Second L-EB01-018",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-019": {
+    "id": "EB01-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Pixy",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-019.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Pixy-EB01-019",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "2",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-020": {
+    "id": "EB01-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Mk-Ⅲ",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-020.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Mk-Ⅲ-EB01-020",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-021": {
+    "id": "EB01-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Build Strike Gundam (Full Package) (EX)",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-021.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Build Strike Gundam (Full Package) (EX)-EB01-021",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-022": {
+    "id": "EB01-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Exia (EX)",
+        "type": "UNIT",
+        "cost": "7",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-022.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Exia (EX)-EB01-022",
+    "type": "UNIT",
+    "cost": "7",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": "6",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-023": {
+    "id": "EB01-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Le Cygne (EX)",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-023.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Le Cygne (EX)-EB01-023",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-024": {
+    "id": "EB01-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GQuuuuuuX (Omega Psycommu)",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-024.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "GQuuuuuuX (Omega Psycommu)-EB01-024",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-025": {
+    "id": "EB01-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tallgeese Ⅱ",
+        "type": "UNIT",
+        "cost": "5",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-025.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tallgeese Ⅱ-EB01-025",
+    "type": "UNIT",
+    "cost": "5",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "5",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-026": {
+    "id": "EB01-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Astaroth Origin",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-026.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Astaroth Origin-EB01-026",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "4",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-027": {
+    "id": "EB01-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tallgeese",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-027.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tallgeese-EB01-027",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "4",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-028": {
+    "id": "EB01-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Plutone",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-028.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Plutone-EB01-028",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-029": {
+    "id": "EB01-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Astaroth Rinascimento (EX)",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-029.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Astaroth Rinascimento (EX)-EB01-029",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-030": {
+    "id": "EB01-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Big-Rang",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-030.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Big-Rang-EB01-030",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "5",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-031": {
+    "id": "EB01-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oggo",
+        "type": "UNIT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-031.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oggo-EB01-031",
+    "type": "UNIT",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "1",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-032": {
+    "id": "EB01-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Ez8 High Mobility Custom",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-032.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Ez8 High Mobility Custom-EB01-032",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "4",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-033": {
+    "id": "EB01-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Taurus (Sanc Kingdom)",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-033.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Taurus (Sanc Kingdom)-EB01-033",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "2",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-034": {
+    "id": "EB01-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Lfrith Ur",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-034.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Lfrith Ur-EB01-034",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "2",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-035": {
+    "id": "EB01-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Lfrith Thorn",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-035.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Lfrith Thorn-EB01-035",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-036": {
+    "id": "EB01-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Darilbalde",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-036.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darilbalde-EB01-036",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "4",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-037": {
+    "id": "EB01-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zudah Unit 1",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-037.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zudah Unit 1-EB01-037",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "4",
+    "hp": "1",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-038": {
+    "id": "EB01-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "G-Self",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-038.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "G-Self-EB01-038",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-039": {
+    "id": "EB01-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rising Freedom Gundam",
+        "type": "UNIT",
+        "cost": "5",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-039.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rising Freedom Gundam-EB01-039",
+    "type": "UNIT",
+    "cost": "5",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-040": {
+    "id": "EB01-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Epyon",
+        "type": "UNIT",
+        "cost": "7",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-040.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Epyon-EB01-040",
+    "type": "UNIT",
+    "cost": "7",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": "6",
+    "hp": "6",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-041": {
+    "id": "EB01-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Strike Freedom Gundam (EX)",
+        "type": "UNIT",
+        "cost": "6",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-041.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Strike Freedom Gundam (EX)-EB01-041",
+    "type": "UNIT",
+    "cost": "6",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": "5",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-042": {
+    "id": "EB01-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Psycho Haro (EX)",
+        "type": "UNIT",
+        "cost": "7",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-042.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Psycho Haro (EX)-EB01-042",
+    "type": "UNIT",
+    "cost": "7",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": "6",
+    "hp": "6",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-043": {
+    "id": "EB01-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blue Destiny Unit-1 (EX)",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-043.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blue Destiny Unit-1 (EX)-EB01-043",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "5",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-044": {
+    "id": "EB01-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Justice Gundam (EX)",
+        "type": "UNIT",
+        "cost": "5",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-044.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Justice Gundam (EX)-EB01-044",
+    "type": "UNIT",
+    "cost": "5",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "5",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-045": {
+    "id": "EB01-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Psycho Zaku (EX)",
+        "type": "UNIT",
+        "cost": "5",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-045.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Psycho Zaku (EX)-EB01-045",
+    "type": "UNIT",
+    "cost": "5",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": "4",
+    "hp": "6",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-046": {
+    "id": "EB01-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Striker Custom (EX)",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-046.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Striker Custom (EX)-EB01-046",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-047": {
+    "id": "EB01-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Casval's Gundam",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-047.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Casval's Gundam-EB01-047",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-048": {
+    "id": "EB01-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "S Gundam",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-048.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "S Gundam-EB01-048",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "4",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-049": {
+    "id": "EB01-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pale Rider (Ground Heavy Equipment Type)",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-049.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pale Rider (Ground Heavy Equipment Type)-EB01-049",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "5",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-050": {
+    "id": "EB01-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saikoro Gundam",
+        "type": "UNIT",
+        "cost": "6",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-050.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saikoro Gundam-EB01-050",
+    "type": "UNIT",
+    "cost": "6",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "5",
+    "hp": "6",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-051": {
+    "id": "EB01-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ze'Gok",
+        "type": "UNIT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-051.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ze'Gok-EB01-051",
+    "type": "UNIT",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": "1",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-052": {
+    "id": "EB01-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hildolfr",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-052.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hildolfr-EB01-052",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-053": {
+    "id": "EB01-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam GP00",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-053.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam GP00-EB01-053",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "3",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-054": {
+    "id": "EB01-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gaplant TR-5 \"Hrairoo\" Unit 1",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-054.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gaplant TR-5 \"Hrairoo\" Unit 1-EB01-054",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-055": {
+    "id": "EB01-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dom Gross Beil",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-055.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dom Gross Beil-EB01-055",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "2",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-056": {
+    "id": "EB01-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Geminass 01",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-056.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Geminass 01-EB01-056",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "4",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-057": {
+    "id": "EB01-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Geminass 02",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-057.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Geminass 02-EB01-057",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-058": {
+    "id": "EB01-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Extreme Gundam",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-058.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Extreme Gundam-EB01-058",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-059": {
+    "id": "EB01-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Psycho Zaku",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-059.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Psycho Zaku-EB01-059",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-060": {
+    "id": "EB01-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Aquarius",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-060.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Aquarius-EB01-060",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-061": {
+    "id": "EB01-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ellis Claude",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-061.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ellis Claude-EB01-061",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-062": {
+    "id": "EB01-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jona Basta",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-062.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jona Basta-EB01-062",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+1",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-063": {
+    "id": "EB01-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Io Fleming",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-063.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Io Fleming-EB01-063",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-064": {
+    "id": "EB01-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rondo Gina Sahaku",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-064.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rondo Gina Sahaku-EB01-064",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-065": {
+    "id": "EB01-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Meir Siva",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-065.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Meir Siva-EB01-065",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+1",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-066": {
+    "id": "EB01-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reiji",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-066.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reiji-EB01-066",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-067": {
+    "id": "EB01-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Asuna Elmarit",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-067.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Asuna Elmarit-EB01-067",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+1",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-068": {
+    "id": "EB01-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chall Acustica",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-068.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chall Acustica-EB01-068",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+1",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-069": {
+    "id": "EB01-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Beside Pain",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-069.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beside Pain-EB01-069",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-070": {
+    "id": "EB01-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Daryl Lorenz",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-070.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daryl Lorenz-EB01-070",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-071": {
+    "id": "EB01-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ittou Tsurugi",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-071.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ittou Tsurugi-EB01-071",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-072": {
+    "id": "EB01-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yuu Kajima",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-072.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yuu Kajima-EB01-072",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+1",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-073": {
+    "id": "EB01-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Character Requests",
+        "type": "COMMAND",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-073.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Character Requests-EB01-073",
+    "type": "COMMAND",
+    "cost": "2",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-074": {
+    "id": "EB01-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eternal Road",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-074.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eternal Road-EB01-074",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-075": {
+    "id": "EB01-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fierce Enemy Assault",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-075.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fierce Enemy Assault-EB01-075",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-076": {
+    "id": "EB01-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gerbera Straight",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-076.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gerbera Straight-EB01-076",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-077": {
+    "id": "EB01-077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Master League Begins",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-077.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Master League Begins-EB01-077",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-078": {
+    "id": "EB01-078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Premium Unit Assembly",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-078.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Premium Unit Assembly-EB01-078",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-079": {
+    "id": "EB01-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Modification",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-079.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Modification-EB01-079",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-080": {
+    "id": "EB01-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sturm Faust",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-080.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sturm Faust-EB01-080",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-081": {
+    "id": "EB01-081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "MAP Weapon",
+        "type": "COMMAND",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-081.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "MAP Weapon-EB01-081",
+    "type": "COMMAND",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-082": {
+    "id": "EB01-082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Warship Cruise",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-082.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warship Cruise-EB01-082",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-083": {
+    "id": "EB01-083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "SP Conversion Chips",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-083.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "SP Conversion Chips-EB01-083",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-084": {
+    "id": "EB01-084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "30cm Cannon (APFSDS Round)",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-084.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "30cm Cannon (APFSDS Round)-EB01-084",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-085": {
+    "id": "EB01-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kudelia Aina Bernstein & Isaribi",
+        "type": "BASE",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-085.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kudelia Aina Bernstein & Isaribi-EB01-085",
+    "type": "BASE",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "-",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-086": {
+    "id": "EB01-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kycilia Zabi & Gwazine",
+        "type": "BASE",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-086.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kycilia Zabi & Gwazine-EB01-086",
+    "type": "BASE",
+    "cost": "2",
+    "color": [
+      "Blue"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-087": {
+    "id": "EB01-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Marina Ismail & Ptolemaios 2",
+        "type": "BASE",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-087.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marina Ismail & Ptolemaios 2-EB01-087",
+    "type": "BASE",
+    "cost": "2",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-088": {
+    "id": "EB01-088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Miorine Rembran & Academy Ship",
+        "type": "BASE",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-088.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miorine Rembran & Academy Ship-EB01-088",
+    "type": "BASE",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-089": {
+    "id": "EB01-089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lacus Clyne & Eternal",
+        "type": "BASE",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-089.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lacus Clyne & Eternal-EB01-089",
+    "type": "BASE",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "EB01-090": {
+    "id": "EB01-090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tiffa Adill & Freeden",
+        "type": "BASE",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/EB01%20-%20Eternal%20Nexus/full/EB01-090.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tiffa Adill & Freeden-EB01-090",
+    "type": "BASE",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "T-025": {
+    "id": "T-025",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Gundam Exia",
+        "type": "UNIT・TOKEN",
+        "cost": "-",
+        "image": "https://cdn.duelfrontier.com/images/cards/T-025.webp?260612",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Exia-T-025",
+    "type": "UNIT・TOKEN",
+    "cost": "-",
+    "color": [
+      "-"
+    ],
+    "set": "Eternal Nexus [EB01]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": "2",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
   }
 }
