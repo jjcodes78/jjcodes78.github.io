@@ -20780,5 +20780,3645 @@
     "hp": "2",
     "pilot": "",
     "tokens": []
+  },
+  "EXR-004": {
+    "id": "EXR-004",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "EX Resource",
+        "type": "EX RESOURCE",
+        "cost": "-",
+        "image": "https://cdn.duelfrontier.com/images/cards/EXR-004.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "EX Resource-EXR-004",
+    "type": "EX RESOURCE",
+    "cost": "-",
+    "color": [
+      "-"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EXR-005": {
+    "id": "EXR-005",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "EX Resource",
+        "type": "EX RESOURCE",
+        "cost": "-",
+        "image": "https://cdn.duelfrontier.com/images/cards/EXR-005.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "EX Resource-EXR-005",
+    "type": "EX RESOURCE",
+    "cost": "-",
+    "color": [
+      "-"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EXR-006": {
+    "id": "EXR-006",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "EX Resource",
+        "type": "EX RESOURCE",
+        "cost": "-",
+        "image": "https://cdn.duelfrontier.com/images/cards/EXR-006.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "EX Resource-EXR-006",
+    "type": "EX RESOURCE",
+    "cost": "-",
+    "color": [
+      "-"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EXR-007": {
+    "id": "EXR-007",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "EX Resource",
+        "type": "EX RESOURCE",
+        "cost": "-",
+        "image": "https://cdn.duelfrontier.com/images/cards/EXR-007.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "EX Resource-EXR-007",
+    "type": "EX RESOURCE",
+    "cost": "-",
+    "color": [
+      "-"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EXR-008": {
+    "id": "EXR-008",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "EX Resource",
+        "type": "EX RESOURCE",
+        "cost": "-",
+        "image": "https://cdn.duelfrontier.com/images/cards/EXR-008.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "EX Resource-EXR-008",
+    "type": "EX RESOURCE",
+    "cost": "-",
+    "color": [
+      "-"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EXR-009": {
+    "id": "EXR-009",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "EX Resource",
+        "type": "EX RESOURCE",
+        "cost": "-",
+        "image": "https://cdn.duelfrontier.com/images/cards/EXR-009.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "EX Resource-EXR-009",
+    "type": "EX RESOURCE",
+    "cost": "-",
+    "color": [
+      "-"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EXR-010": {
+    "id": "EXR-010",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "EX Resource",
+        "type": "EX RESOURCE",
+        "cost": "-",
+        "image": "https://cdn.duelfrontier.com/images/cards/EXR-010.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "EX Resource-EXR-010",
+    "type": "EX RESOURCE",
+    "cost": "-",
+    "color": [
+      "-"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "EXR-011": {
+    "id": "EXR-011",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "EX Resource",
+        "type": "EX RESOURCE",
+        "cost": "-",
+        "image": "https://cdn.duelfrontier.com/images/cards/EXR-011.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "EX Resource-EXR-011",
+    "type": "EX RESOURCE",
+    "cost": "-",
+    "color": [
+      "-"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-001": {
+    "id": "GD05-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "V2 Gundam",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-001.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "V2 Gundam-GD05-001",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "4",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-002": {
+    "id": "GD05-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Strike Freedom Gundam",
+        "type": "UNIT",
+        "cost": "6",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-002.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Strike Freedom Gundam-GD05-002",
+    "type": "UNIT",
+    "cost": "6",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": "5",
+    "hp": "6",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-003": {
+    "id": "GD05-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Waldfeld's Murasame",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-003.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Waldfeld's Murasame-GD05-003",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "2",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-004": {
+    "id": "GD05-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Akatsuki (Oowashi)",
+        "type": "UNIT",
+        "cost": "6",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-004.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Akatsuki (Oowashi)-GD05-004",
+    "type": "UNIT",
+    "cost": "6",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-005": {
+    "id": "GD05-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Strike Rouge (Ootori)",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-005.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Strike Rouge (Ootori)-GD05-005",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-006": {
+    "id": "GD05-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hashmal",
+        "type": "UNIT",
+        "cost": "6",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-006.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hashmal-GD05-006",
+    "type": "UNIT",
+    "cost": "6",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": "5",
+    "hp": "6",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-007": {
+    "id": "GD05-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Asshimar",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-007.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Asshimar-GD05-007",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "1",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-008": {
+    "id": "GD05-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dijeh",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-008.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dijeh-GD05-008",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-009": {
+    "id": "GD05-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gun Blaster",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-009.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gun Blaster-GD05-009",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-010": {
+    "id": "GD05-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kira's Strike Rouge",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-010.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kira's Strike Rouge-GD05-010",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-011": {
+    "id": "GD05-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Calamity Gundam & Raider Gundam",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-011.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Calamity Gundam & Raider Gundam-GD05-011",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-012": {
+    "id": "GD05-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Forbidden Gundam",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-012.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Forbidden Gundam-GD05-012",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-013": {
+    "id": "GD05-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gun EZ",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-013.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gun EZ-GD05-013",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "2",
+    "hp": "1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-014": {
+    "id": "GD05-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Javelin",
+        "type": "UNIT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-014.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Javelin-GD05-014",
+    "type": "UNIT",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "2",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-015": {
+    "id": "GD05-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "M1 Astray Shrike",
+        "type": "UNIT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-015.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "M1 Astray Shrike-GD05-015",
+    "type": "UNIT",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "1",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-016": {
+    "id": "GD05-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Murasame",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-016.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Murasame-GD05-016",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "2",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-017": {
+    "id": "GD05-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nu Gundam",
+        "type": "UNIT",
+        "cost": "5",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-017.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nu Gundam-GD05-017",
+    "type": "UNIT",
+    "cost": "5",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": "5",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-018": {
+    "id": "GD05-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Calibarn",
+        "type": "UNIT",
+        "cost": "7",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-018.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Calibarn-GD05-018",
+    "type": "UNIT",
+    "cost": "7",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": "7",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-019": {
+    "id": "GD05-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Re-GZ",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-019.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Re-GZ-GD05-019",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "4",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-020": {
+    "id": "GD05-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nu Gundam",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-020.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nu Gundam-GD05-020",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-021": {
+    "id": "GD05-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam AGE-2 Double Bullet",
+        "type": "UNIT",
+        "cost": "5",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-021.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam AGE-2 Double Bullet-GD05-021",
+    "type": "UNIT",
+    "cost": "5",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "4",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-022": {
+    "id": "GD05-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Schwarzette",
+        "type": "UNIT",
+        "cost": "5",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-022.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Schwarzette-GD05-022",
+    "type": "UNIT",
+    "cost": "5",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "5",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-023": {
+    "id": "GD05-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Re-GZ BWS",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-023.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Re-GZ BWS-GD05-023",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "2",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-024": {
+    "id": "GD05-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam AGE-2 Normal (SP Ver.)",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-024.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam AGE-2 Normal (SP Ver.)-GD05-024",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "4",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-025": {
+    "id": "GD05-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Demi Barding",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-025.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demi Barding-GD05-025",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-026": {
+    "id": "GD05-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Aerial Rebuild",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-026.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Aerial Rebuild-GD05-026",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "3",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-027": {
+    "id": "GD05-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jegan",
+        "type": "UNIT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-027.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jegan-GD05-027",
+    "type": "UNIT",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "2",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-028": {
+    "id": "GD05-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kayra's Jegan",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-028.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kayra's Jegan-GD05-028",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "2",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-029": {
+    "id": "GD05-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kayra's Re-GZ",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-029.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kayra's Re-GZ-GD05-029",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-030": {
+    "id": "GD05-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Michaelis",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-030.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Michaelis-GD05-030",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-031": {
+    "id": "GD05-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guel's Dilanza",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-031.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guel's Dilanza-GD05-031",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-032": {
+    "id": "GD05-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Desultor",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-032.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Desultor-GD05-032",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "4",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-033": {
+    "id": "GD05-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Master Gundam",
+        "type": "UNIT",
+        "cost": "5",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-033.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Master Gundam-GD05-033",
+    "type": "UNIT",
+    "cost": "5",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": "5",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-034": {
+    "id": "GD05-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gaia Gundam",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-034.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gaia Gundam-GD05-034",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-035": {
+    "id": "GD05-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragon Gundam",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-035.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragon Gundam-GD05-035",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-036": {
+    "id": "GD05-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Haow Gundam",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-036.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Haow Gundam-GD05-036",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-037": {
+    "id": "GD05-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Destroy Gundam",
+        "type": "UNIT",
+        "cost": "8",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-037.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Destroy Gundam-GD05-037",
+    "type": "UNIT",
+    "cost": "8",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "9",
+    "ap": "6",
+    "hp": "6",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-038": {
+    "id": "GD05-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Throne Eins (GN High Mega Launcher)",
+        "type": "UNIT",
+        "cost": "5",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-038.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Throne Eins (GN High Mega Launcher)-GD05-038",
+    "type": "UNIT",
+    "cost": "5",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": "6",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-039": {
+    "id": "GD05-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chaos Gundam",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-039.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chaos Gundam-GD05-039",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "4",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-040": {
+    "id": "GD05-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abyss Gundam",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-040.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abyss Gundam-GD05-040",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "2",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-041": {
+    "id": "GD05-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gaia Gundam (MA Mode)",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-041.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gaia Gundam (MA Mode)-GD05-041",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "4",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-042": {
+    "id": "GD05-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shining Gundam",
+        "type": "UNIT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-042.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shining Gundam-GD05-042",
+    "type": "UNIT",
+    "cost": "1",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "2",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-043": {
+    "id": "GD05-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neros Gundam",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-043.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neros Gundam-GD05-043",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "3",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-044": {
+    "id": "GD05-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Rose",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-044.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Rose-GD05-044",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-045": {
+    "id": "GD05-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chaos Gundam (MA Mode)",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-045.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chaos Gundam (MA Mode)-GD05-045",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-046": {
+    "id": "GD05-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abyss Gundam (MA Mode)",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-046.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abyss Gundam (MA Mode)-GD05-046",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-047": {
+    "id": "GD05-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Exass",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-047.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Exass-GD05-047",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "4",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-048": {
+    "id": "GD05-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Kyrios (Flight Mode)",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-048.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Kyrios (Flight Mode)-GD05-048",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "3",
+    "hp": "1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-049": {
+    "id": "GD05-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sazabi",
+        "type": "UNIT",
+        "cost": "5",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-049.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sazabi-GD05-049",
+    "type": "UNIT",
+    "cost": "5",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": "5",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-050": {
+    "id": "GD05-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Exia Repair",
+        "type": "UNIT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-050.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Exia Repair-GD05-050",
+    "type": "UNIT",
+    "cost": "1",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "2",
+    "hp": "1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-051": {
+    "id": "GD05-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Barbatos Lupus Rex",
+        "type": "UNIT",
+        "cost": "6",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-051.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Barbatos Lupus Rex-GD05-051",
+    "type": "UNIT",
+    "cost": "6",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": "4",
+    "hp": "6",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-052": {
+    "id": "GD05-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sazabi",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-052.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sazabi-GD05-052",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "5",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-053": {
+    "id": "GD05-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quess's Jagd Doga",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-053.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quess's Jagd Doga-GD05-053",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "3",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-054": {
+    "id": "GD05-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alpha Azieru",
+        "type": "UNIT",
+        "cost": "7",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-054.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alpha Azieru-GD05-054",
+    "type": "UNIT",
+    "cost": "7",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": "6",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-055": {
+    "id": "GD05-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Destiny Gundam",
+        "type": "UNIT",
+        "cost": "7",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-055.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Destiny Gundam-GD05-055",
+    "type": "UNIT",
+    "cost": "7",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": "5",
+    "hp": "6",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-056": {
+    "id": "GD05-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rezin's Geara Doga",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-056.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rezin's Geara Doga-GD05-056",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-057": {
+    "id": "GD05-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gyunei's Jagd Doga",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-057.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gyunei's Jagd Doga-GD05-057",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "4",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-058": {
+    "id": "GD05-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shiden Custom (Ryusei-Go)",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-058.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shiden Custom (Ryusei-Go)-GD05-058",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "4",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-059": {
+    "id": "GD05-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Barbatos Lupus",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-059.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Barbatos Lupus-GD05-059",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "5",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-060": {
+    "id": "GD05-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Flauros (Ryusei-Go)",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-060.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Flauros (Ryusei-Go)-GD05-060",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "5",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-061": {
+    "id": "GD05-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Geara Doga",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-061.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Geara Doga-GD05-061",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "3",
+    "hp": "1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-062": {
+    "id": "GD05-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hobby Hizack",
+        "type": "UNIT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-062.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hobby Hizack-GD05-062",
+    "type": "UNIT",
+    "cost": "1",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "2",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-063": {
+    "id": "GD05-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gyunei's Jagd Doga",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-063.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gyunei's Jagd Doga-GD05-063",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "3",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-064": {
+    "id": "GD05-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Force Impulse Gundam",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-064.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Force Impulse Gundam-GD05-064",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-065": {
+    "id": "GD05-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Landman Rodi",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-065.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Landman Rodi-GD05-065",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "1",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-066": {
+    "id": "GD05-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shining Gundam",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-066.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shining Gundam-GD05-066",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-067": {
+    "id": "GD05-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wing Gundam Zero (EW)",
+        "type": "UNIT",
+        "cost": "5",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-067.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wing Gundam Zero (EW)-GD05-067",
+    "type": "UNIT",
+    "cost": "5",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "5",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-068": {
+    "id": "GD05-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shining Gundam (Super Mode)",
+        "type": "UNIT",
+        "cost": "5",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-068.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shining Gundam (Super Mode)-GD05-068",
+    "type": "UNIT",
+    "cost": "5",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "4",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-069": {
+    "id": "GD05-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Maxter",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-069.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Maxter-GD05-069",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "3",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-070": {
+    "id": "GD05-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tallgeese \u2162",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-070.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tallgeese \u2162-GD05-070",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "4",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-071": {
+    "id": "GD05-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Sandrock Custom (EW)",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-071.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Sandrock Custom (EW)-GD05-071",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "3",
+    "hp": "4",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-072": {
+    "id": "GD05-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rising Gundam",
+        "type": "UNIT",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-072.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rising Gundam-GD05-072",
+    "type": "UNIT",
+    "cost": "3",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "4",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-073": {
+    "id": "GD05-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altron Gundam (EW)",
+        "type": "UNIT",
+        "cost": "5",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-073.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Altron Gundam (EW)-GD05-073",
+    "type": "UNIT",
+    "cost": "5",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": "5",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-074": {
+    "id": "GD05-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noin's Taurus",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-074.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noin's Taurus-GD05-074",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "3",
+    "hp": "1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-075": {
+    "id": "GD05-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Royal Gundam",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-075.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Royal Gundam-GD05-075",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "3",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-076": {
+    "id": "GD05-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bolt Gundam",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-076.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bolt Gundam-GD05-076",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "4",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-077": {
+    "id": "GD05-077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leo",
+        "type": "UNIT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-077.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leo-GD05-077",
+    "type": "UNIT",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "2",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-078": {
+    "id": "GD05-078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Deathscythe Hell (EW)",
+        "type": "UNIT",
+        "cost": "4",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-078.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Deathscythe Hell (EW)-GD05-078",
+    "type": "UNIT",
+    "cost": "4",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "5",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-079": {
+    "id": "GD05-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Heavyarms Custom (EW)",
+        "type": "UNIT",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-079.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Heavyarms Custom (EW)-GD05-079",
+    "type": "UNIT",
+    "cost": "2",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "3",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-080": {
+    "id": "GD05-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gavane's Borjarnon",
+        "type": "UNIT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-080.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gavane's Borjarnon-GD05-080",
+    "type": "UNIT",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "1",
+    "hp": "3",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-081": {
+    "id": "GD05-081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kira Yamato",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-081.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kira Yamato-GD05-081",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "+2",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-082": {
+    "id": "GD05-082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Andrew Waldfeld",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-082.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Andrew Waldfeld-GD05-082",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-083": {
+    "id": "GD05-083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cagalli Yula Athha",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-083.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cagalli Yula Athha-GD05-083",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-084": {
+    "id": "GD05-084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Odelo Henrik",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-084.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Odelo Henrik-GD05-084",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "+2",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-085": {
+    "id": "GD05-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Amuro Ray",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-085.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Amuro Ray-GD05-085",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "+2",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-086": {
+    "id": "GD05-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kayra Su",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-086.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kayra Su-GD05-086",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-087": {
+    "id": "GD05-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lauda Neill",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-087.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lauda Neill-GD05-087",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-088": {
+    "id": "GD05-088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Prospera Mercury",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-088.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prospera Mercury-GD05-088",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "1",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-089": {
+    "id": "GD05-089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Master Asia",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-089.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Master Asia-GD05-089",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "+2",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-090": {
+    "id": "GD05-090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stellar Loussier",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-090.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stellar Loussier-GD05-090",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "+2",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-091": {
+    "id": "GD05-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sting Oakley",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-091.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sting Oakley-GD05-091",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "1",
+    "hp": "1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-092": {
+    "id": "GD05-092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Auel Neider",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-092.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Auel Neider-GD05-092",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-093": {
+    "id": "GD05-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Char Aznable",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-093.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Char Aznable-GD05-093",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "+2",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-094": {
+    "id": "GD05-094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quess Paraya",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-094.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quess Paraya-GD05-094",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-095": {
+    "id": "GD05-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gyunei Guss",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-095.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gyunei Guss-GD05-095",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-096": {
+    "id": "GD05-096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chad Chadan",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-096.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chad Chadan-GD05-096",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-097": {
+    "id": "GD05-097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Domon Kasshu",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-097.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Domon Kasshu-GD05-097",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-098": {
+    "id": "GD05-098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heero Yuy",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-098.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heero Yuy-GD05-098",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-099": {
+    "id": "GD05-099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trowa Barton",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-099.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trowa Barton-GD05-099",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+1",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-100": {
+    "id": "GD05-100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quatre Raberba Winner",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-100.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quatre Raberba Winner-GD05-100",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-101": {
+    "id": "GD05-101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gavane Goonny",
+        "type": "PILOT",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-101.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gavane Goonny-GD05-101",
+    "type": "PILOT",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-102": {
+    "id": "GD05-102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wings of Light",
+        "type": "COMMAND",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-102.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wings of Light-GD05-102",
+    "type": "COMMAND",
+    "cost": "2",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-103": {
+    "id": "GD05-103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Not with Scattershot!",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-103.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Not with Scattershot!-GD05-103",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-104": {
+    "id": "GD05-104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "At the Risk of One's Life",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-104.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "At the Risk of One's Life-GD05-104",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "+1",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-105": {
+    "id": "GD05-105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Exclusively Defense-Oriented Policy",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-105.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Exclusively Defense-Oriented Policy-GD05-105",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-106": {
+    "id": "GD05-106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mutual Attraction",
+        "type": "COMMAND",
+        "cost": "3",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-106.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mutual Attraction-GD05-106",
+    "type": "COMMAND",
+    "cost": "3",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-107": {
+    "id": "GD05-107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Interwoven Blessings",
+        "type": "COMMAND",
+        "cost": "10",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-107.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Interwoven Blessings-GD05-107",
+    "type": "COMMAND",
+    "cost": "10",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "10",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-108": {
+    "id": "GD05-108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Overcoming Hardships",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-108.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Overcoming Hardships-GD05-108",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-109": {
+    "id": "GD05-109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Felsi's Plea",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-109.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Felsi's Plea-GD05-109",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-110": {
+    "id": "GD05-110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Darkness Finger",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-110.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darkness Finger-GD05-110",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-111": {
+    "id": "GD05-111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Airframe\u200b Seizure",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-111.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Airframe\u200b Seizure-GD05-111",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-112": {
+    "id": "GD05-112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hoka Kyoten Juzetsujin",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-112.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hoka Kyoten Juzetsujin-GD05-112",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+2",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-113": {
+    "id": "GD05-113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rose Screamer",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-113.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rose Screamer-GD05-113",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-114": {
+    "id": "GD05-114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Widespread Annihilation",
+        "type": "COMMAND",
+        "cost": "6",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-114.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Widespread Annihilation-GD05-114",
+    "type": "COMMAND",
+    "cost": "6",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-115": {
+    "id": "GD05-115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Newtype Labs Director",
+        "type": "COMMAND",
+        "cost": "2",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-115.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Newtype Labs Director-GD05-115",
+    "type": "COMMAND",
+    "cost": "2",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-116": {
+    "id": "GD05-116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Veteran's Pride",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-116.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Veteran's Pride-GD05-116",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "+1",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-117": {
+    "id": "GD05-117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Become a Shield",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-117.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Become a Shield-GD05-117",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-118": {
+    "id": "GD05-118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Incendiary Spark",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-118.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Incendiary Spark-GD05-118",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-119": {
+    "id": "GD05-119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Wind Against Fires",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-119.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Wind Against Fires-GD05-119",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "+1",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-120": {
+    "id": "GD05-120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shining Finger",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-120.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shining Finger-GD05-120",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-121": {
+    "id": "GD05-121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cyclone Punch",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-121.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cyclone Punch-GD05-121",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-122": {
+    "id": "GD05-122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Graviton Hammer",
+        "type": "COMMAND",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-122.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Graviton Hammer-GD05-122",
+    "type": "COMMAND",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-123": {
+    "id": "GD05-123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Archangel",
+        "type": "BASE",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-123.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Archangel-GD05-123",
+    "type": "BASE",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-124": {
+    "id": "GD05-124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "White Ark",
+        "type": "BASE",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-124.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "White Ark-GD05-124",
+    "type": "BASE",
+    "cost": "1",
+    "color": [
+      "Blue"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-125": {
+    "id": "GD05-125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ra Cailum",
+        "type": "BASE",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-125.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ra Cailum-GD05-125",
+    "type": "BASE",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-126": {
+    "id": "GD05-126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quiet Zero",
+        "type": "BASE",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-126.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quiet Zero-GD05-126",
+    "type": "BASE",
+    "cost": "1",
+    "color": [
+      "Green"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "-",
+    "hp": "6",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-127": {
+    "id": "GD05-127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Girty Lue",
+        "type": "BASE",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-127.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Girty Lue-GD05-127",
+    "type": "BASE",
+    "cost": "1",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-128": {
+    "id": "GD05-128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Fight",
+        "type": "BASE",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-128.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Fight-GD05-128",
+    "type": "BASE",
+    "cost": "1",
+    "color": [
+      "Red"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-129": {
+    "id": "GD05-129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Axis",
+        "type": "BASE",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-129.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Axis-GD05-129",
+    "type": "BASE",
+    "cost": "1",
+    "color": [
+      "Purple"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "6",
+    "pilot": "",
+    "tokens": []
+  },
+  "GD05-130": {
+    "id": "GD05-130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Presidential Office",
+        "type": "BASE",
+        "cost": "1",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD05%20-%20Freedom%20Ascension/full/GD05-130.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Presidential Office-GD05-130",
+    "type": "BASE",
+    "cost": "1",
+    "color": [
+      "White"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": "5",
+    "pilot": "",
+    "tokens": []
+  },
+  "T-026": {
+    "id": "T-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundnode",
+        "type": "UNIT TOKEN",
+        "cost": "-",
+        "image": "https://cdn.duelfrontier.com/images/cards/T-026.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundnode-T-026",
+    "type": "UNIT TOKEN",
+    "cost": "-",
+    "color": [
+      "-"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": true,
+    "level": "-",
+    "ap": "2",
+    "hp": "2",
+    "pilot": "",
+    "tokens": []
+  },
+  "T-027": {
+    "id": "T-027",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pluma",
+        "type": "UNIT TOKEN",
+        "cost": "-",
+        "image": "https://cdn.duelfrontier.com/images/cards/T-027.webp?260715",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pluma-T-027",
+    "type": "UNIT TOKEN",
+    "cost": "-",
+    "color": [
+      "-"
+    ],
+    "set": "Freedom Ascension [GD05]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": "2",
+    "hp": "1",
+    "pilot": "",
+    "tokens": []
   }
 }
