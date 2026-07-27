@@ -24371,7 +24371,7 @@
   },
   "T-026": {
     "id": "T-026",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Gundnode",
