@@ -1065,5 +1065,201 @@
         }
       ]
     }
+  },
+  {
+    "title": "ST11 Starter Deck - Aquatic Assault",
+    "id": "9027ca49-5e47-4aed-ad55-90252355082d",
+    "cardCount": 60,
+    "createdAt": "2026-10-02T17:32:41.672Z",
+    "lastModifiedAt": "2026-10-02T18:21:32.189Z",
+    "game": "Gundam Card Game",
+    "format": [
+      "Classic"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "UNIT",
+        "PILOT",
+        "COMMAND",
+        "BASE",
+        "RESOURCE"
+      ],
+      "UNIT": [
+        {
+          "count": 2,
+          "id": "ST11-001"
+        },
+        {
+          "count": 3,
+          "id": "ST11-002"
+        },
+        {
+          "count": 3,
+          "id": "ST11-003"
+        },
+        {
+          "count": 4,
+          "id": "ST11-004"
+        },
+        {
+          "count": 3,
+          "id": "ST11-005"
+        },
+        {
+          "count": 2,
+          "id": "ST11-006"
+        },
+        {
+          "count": 3,
+          "id": "ST11-007"
+        },
+        {
+          "count": 4,
+          "id": "ST11-008"
+        },
+        {
+          "count": 4,
+          "id": "ST11-009"
+        },
+        {
+          "count": 3,
+          "id": "ST11-010"
+        }
+      ],
+      "PILOT": [
+        {
+          "count": 4,
+          "id": "ST11-011"
+        },
+        {
+          "count": 4,
+          "id": "ST11-012"
+        }
+      ],
+      "COMMAND": [
+        {
+          "count": 2,
+          "id": "ST11-013"
+        },
+        {
+          "count": 2,
+          "id": "ST11-014"
+        },
+        {
+          "count": 3,
+          "id": "ST11-015"
+        }
+      ],
+      "BASE": [
+        {
+          "count": 4,
+          "id": "ST11-016"
+        }
+      ],
+      "RESOURCE": [
+        {
+          "count": 10,
+          "id": "R-001"
+        }
+      ]
+    }
+  },
+  {
+    "title": "ST12 Starter Deck - Raging Onslaught",
+    "id": "ca4ba512-844f-4e26-a848-1fe2bbac04c2",
+    "cardCount": 60,
+    "createdAt": "2026-10-02T18:23:23.331Z",
+    "lastModifiedAt": "2026-10-02T18:26:42.711Z",
+    "game": "Gundam Card Game",
+    "format": [
+      "Classic"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "UNIT",
+        "PILOT",
+        "COMMAND",
+        "BASE",
+        "RESOURCE"
+      ],
+      "UNIT": [
+        {
+          "count": 2,
+          "id": "ST12-001"
+        },
+        {
+          "count": 2,
+          "id": "ST12-006"
+        },
+        {
+          "count": 2,
+          "id": "ST12-002"
+        },
+        {
+          "count": 4,
+          "id": "ST12-003"
+        },
+        {
+          "count": 3,
+          "id": "ST12-004"
+        },
+        {
+          "count": 4,
+          "id": "ST12-005"
+        },
+        {
+          "count": 4,
+          "id": "ST12-007"
+        },
+        {
+          "count": 3,
+          "id": "ST12-008"
+        },
+        {
+          "count": 4,
+          "id": "ST12-009"
+        },
+        {
+          "count": 3,
+          "id": "ST12-010"
+        }
+      ],
+      "PILOT": [
+        {
+          "count": 4,
+          "id": "ST12-011"
+        },
+        {
+          "count": 4,
+          "id": "ST12-012"
+        }
+      ],
+      "COMMAND": [
+        {
+          "count": 2,
+          "id": "ST12-013"
+        },
+        {
+          "count": 3,
+          "id": "ST12-014"
+        },
+        {
+          "count": 2,
+          "id": "ST12-015"
+        }
+      ],
+      "BASE": [
+        {
+          "count": 4,
+          "id": "ST12-016"
+        }
+      ],
+      "RESOURCE": [
+        {
+          "count": 10,
+          "id": "R-001"
+        }
+      ]
+    }
   }
 ]
