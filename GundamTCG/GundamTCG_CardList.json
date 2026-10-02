@@ -24497,7 +24497,9 @@
     "ap": 3,
     "hp": 3,
     "pilot": "",
-    "tokens": []
+    "tokens": [
+      "T-028"
+    ]
   },
   "ST11-004": {
     "id": "ST11-004",
@@ -24860,6 +24862,422 @@
     "level": "-",
     "ap": 1,
     "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-001": {
+    "id": "ST12-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Epyon",
+        "type": "UNIT",
+        "cost": 6,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST12%20-%20Raging%20Onslaught/full/ST12-001.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Epyon-ST12-001",
+    "type": "UNIT",
+    "cost": 6,
+    "color": [
+      "Red"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 5,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-002": {
+    "id": "ST12-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shining Gundam",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST12%20-%20Raging%20Onslaught/full/ST12-002.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shining Gundam-ST12-002",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Red"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-003": {
+    "id": "ST12-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tallgeese Ⅲ",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST12%20-%20Raging%20Onslaught/full/ST12-003.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tallgeese Ⅲ-ST12-003",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Red"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-004": {
+    "id": "ST12-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Exia",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST12%20-%20Raging%20Onslaught/full/ST12-004.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Exia-ST12-004",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Red"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-005": {
+    "id": "ST12-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GQuuuuuuX (Omega Psycommu)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST12%20-%20Raging%20Onslaught/full/ST12-005.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "GQuuuuuuX (Omega Psycommu)-ST12-005",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-006": {
+    "id": "ST12-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unicorn Gundam 02 Banshee (Destroy Mode)",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST12%20-%20Raging%20Onslaught/full/ST12-006.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unicorn Gundam 02 Banshee (Destroy Mode)-ST12-006",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Purple"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-007": {
+    "id": "ST12-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gyan",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST12%20-%20Raging%20Onslaught/full/ST12-007.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gyan-ST12-007",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 3,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-008": {
+    "id": "ST12-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Efreet Schneid",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST12%20-%20Raging%20Onslaught/full/ST12-008.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Efreet Schneid-ST12-008",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-009": {
+    "id": "ST12-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unicorn Gundam 02 Banshee (Unicorn Mode)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST12%20-%20Raging%20Onslaught/full/ST12-009.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unicorn Gundam 02 Banshee (Unicorn Mode)-ST12-009",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Purple"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-010": {
+    "id": "ST12-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Slash Zaku Phantom",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://gcgvault.rocketslab.com.br/api/public/card-image/ST12-010.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Slash Zaku Phantom-ST12-010",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-011": {
+    "id": "ST12-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Milliardo Peacecraft",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST12%20-%20Raging%20Onslaught/full/ST12-011.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Milliardo Peacecraft-ST12-011",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "+3",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-012": {
+    "id": "ST12-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ple-Twelve",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST12%20-%20Raging%20Onslaught/full/ST12-012.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ple-Twelve-ST12-012",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+1",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-013": {
+    "id": "ST12-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Final Victor",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST12%20-%20Raging%20Onslaught/full/ST12-013.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Final Victor-ST12-013",
+    "type": "COMMAND",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-014": {
+    "id": "ST12-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wise Leader's Pride",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST12%20-%20Raging%20Onslaught/full/ST12-014.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wise Leader's Pride-ST12-014",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "+1",
+    "hp": "+0",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-015": {
+    "id": "ST12-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Two Unicorns",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST12%20-%20Raging%20Onslaught/full/ST12-015.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Two Unicorns-ST12-015",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST12-016": {
+    "id": "ST12-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Libra",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST12%20-%20Raging%20Onslaught/full/ST12-016.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Libra-ST12-016",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "Raging Onslaught [ST12]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": 5,
     "pilot": "",
     "tokens": []
   }
