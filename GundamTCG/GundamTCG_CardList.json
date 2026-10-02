@@ -25280,5 +25280,833 @@
     "hp": 5,
     "pilot": "",
     "tokens": []
+  },
+  "ST13-001": {
+    "id": "ST13-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Qubeley",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-001.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Qubeley-ST13-001",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Green"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 5,
+    "hp": 5,
+    "pilot": "",
+    "tokens": [
+      "T-029"
+    ]
+  },
+  "ST13-002": {
+    "id": "ST13-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elmeth",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-002.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elmeth-ST13-002",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Green"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST13-003": {
+    "id": "ST13-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bertigo",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-003.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bertigo-ST13-003",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Green"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST13-004": {
+    "id": "ST13-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GX-Bit",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-004.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "GX-Bit-ST13-004",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Green"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 3,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST13-005": {
+    "id": "ST13-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GFreD",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-005.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "GFreD-ST13-005",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Green"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST13-006": {
+    "id": "ST13-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Aerial",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-006.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Aerial-ST13-006",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Red"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST13-007": {
+    "id": "ST13-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gyunei's Jagd Doga",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-007.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gyunei's Jagd Doga-ST13-007",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Red"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST13-008": {
+    "id": "ST13-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Throne Zwei",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-008.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Throne Zwei-ST13-008",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST13-009": {
+    "id": "ST13-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Pharact",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-009.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Pharact-ST13-009",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST13-010": {
+    "id": "ST13-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Gundam (0079)",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-010.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Gundam (0079)-ST13-010",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Red"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST13-011": {
+    "id": "ST13-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Haman Karn",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-011.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Haman Karn-ST13-011",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "+2",
+    "hp": "+2",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST13-012": {
+    "id": "ST13-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Suletta Mercury",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-012.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Suletta Mercury-ST13-012",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST13-013": {
+    "id": "ST13-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "I'm a Newtype",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-013.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "I'm a Newtype-ST13-013",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST13-014": {
+    "id": "ST13-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Final Duty",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-014.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Final Duty-ST13-014",
+    "type": "COMMAND",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST13-015": {
+    "id": "ST13-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Operation to Intercept Solomon",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-015.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Operation to Intercept Solomon-ST13-015",
+    "type": "COMMAND",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST13-016": {
+    "id": "ST13-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sodon",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/ST13-016.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sodon-ST13-016",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-029": {
+    "id": "T-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bit / Funnel",
+        "type": "UNIT・TOKEN",
+        "cost": "-",
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST13%20-%20Silent%20Barrage/full/T-029.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bit / Funnel-T-029",
+    "type": "UNIT・TOKEN",
+    "cost": "-",
+    "color": [
+      "-"
+    ],
+    "set": "Silent Barrage [ST13]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST14-001": {
+    "id": "ST14-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The-O",
+        "type": "UNIT",
+        "cost": 8,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST14%20-%20Heavy%20Dominion/full/ST14-001.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "The-O-ST14-001",
+    "type": "UNIT",
+    "cost": 8,
+    "color": ["White"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "9",
+    "ap": 6,
+    "hp": 7,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST14-002": {
+    "id": "ST14-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam NT-1 Full Armor",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST14%20-%20Heavy%20Dominion/full/ST14-002.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam NT-1 Full Armor-ST14-002",
+    "type": "UNIT",
+    "cost": 4,
+    "color": ["White"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST14-003": {
+    "id": "ST14-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Palace Athene",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST14%20-%20Heavy%20Dominion/full/ST14-003.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Palace Athene-ST14-003",
+    "type": "UNIT",
+    "cost": 3,
+    "color": ["White"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST14-004": {
+    "id": "ST14-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Geara Doga (Heavy Armed Type)",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST14%20-%20Heavy%20Dominion/full/ST14-004.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Geara Doga (Heavy Armed Type)-ST14-004",
+    "type": "UNIT",
+    "cost": 1,
+    "color": ["White"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST14-005": {
+    "id": "ST14-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "G-Falcon DX",
+        "type": "UNIT",
+        "cost": 6,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST14%20-%20Heavy%20Dominion/full/ST14-005.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "G-Falcon DX-ST14-005",
+    "type": "UNIT",
+    "cost": 6,
+    "color": ["White"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 5,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST14-006": {
+    "id": "ST14-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Full Armor Unicorn Gundam (Destroy Mode)",
+        "type": "UNIT",
+        "cost": 6,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST14%20-%20Heavy%20Dominion/full/ST14-006.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Full Armor Unicorn Gundam (Destroy Mode)-ST14-006",
+    "type": "UNIT",
+    "cost": 6,
+    "color": ["Green"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": 3,
+    "hp": 6,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST14-007": {
+    "id": "ST14-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Full Armor Unicorn Gundam (Unicorn Mode)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST14%20-%20Heavy%20Dominion/full/ST14-007.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Full Armor Unicorn Gundam (Unicorn Mode)-ST14-007",
+    "type": "UNIT",
+    "cost": 3,
+    "color": ["Green"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST14-008": {
+    "id": "ST14-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Heavyarms Custom (EW)",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST14%20-%20Heavy%20Dominion/full/ST14-008.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Heavyarms Custom (EW)-ST14-008",
+    "type": "UNIT",
+    "cost": 4,
+    "color": ["Green"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 6,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST14-009": {
+    "id": "ST14-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Duel Gundam (Assault Shroud)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST14%20-%20Heavy%20Dominion/full/ST14-009.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Duel Gundam (Assault Shroud)-ST14-009",
+    "type": "UNIT",
+    "cost": 3,
+    "color": ["Green"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST14-010": {
+    "id": "ST14-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Perfect Strike Gundam",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST14%20-%20Heavy%20Dominion/full/ST14-010.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Perfect Strike Gundam-ST14-010",
+    "type": "UNIT",
+    "cost": 2,
+    "color": ["Green"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST14-011": {
+    "id": "ST14-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Paptimus Scirocco",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST14%20-%20Heavy%20Dominion/full/ST14-011.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Paptimus Scirocco-ST14-011",
+    "type": "PILOT",
+    "cost": 1,
+    "color": ["White"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST14-012": {
+    "id": "ST14-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Banagher Links",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://gcgvault.rocketslab.com.br/api/public/card-image/ST14-012.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Banagher Links-ST14-012",
+    "type": "PILOT",
+    "cost": 1,
+    "color": ["Green"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST14-013": {
+    "id": "ST14-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Natural Talent",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST14%20-%20Heavy%20Dominion/full/ST14-013.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Natural Talent-ST14-013",
+    "type": "COMMAND",
+    "cost": 2,
+    "color": ["White"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST14-014": {
+    "id": "ST14-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blazing Mobile Suit Rider",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST14%20-%20Heavy%20Dominion/full/ST14-014.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blazing Mobile Suit Rider-ST14-014",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": ["White"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "Garrod Ran & Tiffa Adill",
+    "tokens": []
+  },
+  "ST14-015": {
+    "id": "ST14-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battlefield Emotions",
+        "type": "COMMAND",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST14%20-%20Heavy%20Dominion/full/ST14-015.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Battlefield Emotions-ST14-015",
+    "type": "COMMAND",
+    "cost": 4,
+    "color": ["Green"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST14-016": {
+    "id": "ST14-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gryphios 2",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST14%20-%20Heavy%20Dominion/full/ST14-016.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gryphios 2-ST14-016",
+    "type": "BASE",
+    "cost": 1,
+    "color": ["White"],
+    "set": "Heavy Dominion [ST14]",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
   }
 }
