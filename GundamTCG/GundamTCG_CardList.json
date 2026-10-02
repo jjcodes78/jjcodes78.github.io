@@ -24420,5 +24420,447 @@
     "hp": "1",
     "pilot": "",
     "tokens": []
+  },
+  "ST11-001": {
+    "id": "ST11-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Char's Z'Gok",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST11%20-%20Aquatic%20Assault/full/ST11-001.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Char's Z'Gok-ST11-001",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Blue"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 4,
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST11-002": {
+    "id": "ST11-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Acguy",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST11%20-%20Aquatic%20Assault/full/ST11-002.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Acguy-ST11-002",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 3,
+    "ap": 3,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST11-003": {
+    "id": "ST11-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zock",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST11%20-%20Aquatic%20Assault/full/ST11-003.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zock-ST11-003",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 3,
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST11-004": {
+    "id": "ST11-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ZnO",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST11%20-%20Aquatic%20Assault/full/ST11-004.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "ZnO-ST11-004",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Blue"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 3,
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST11-005": {
+    "id": "ST11-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ash",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST11%20-%20Aquatic%20Assault/full/ST11-005.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ash-ST11-005",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Blue"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 5,
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST11-006": {
+    "id": "ST11-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shamblo",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://gcgvault.rocketslab.com.br/api/public/card-image/ST11-006.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shamblo-ST11-006",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Purple"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 6,
+    "ap": 4,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST11-007": {
+    "id": "ST11-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Leopard",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST11%20-%20Aquatic%20Assault/full/ST11-007.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Leopard-ST11-007",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 3,
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST11-008": {
+    "id": "ST11-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Daughseat",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST11%20-%20Aquatic%20Assault/full/ST11-008.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daughseat-ST11-008",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 2,
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST11-009": {
+    "id": "ST11-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kapool",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST11%20-%20Aquatic%20Assault/full/ST11-009.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kapool-ST11-009",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 1,
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST11-010": {
+    "id": "ST11-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abyss Gundam",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST11%20-%20Aquatic%20Assault/full/ST11-010.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abyss Gundam-ST11-010",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Purple"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 4,
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "ST11-011": {
+    "id": "ST11-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Char Aznable",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST11%20-%20Aquatic%20Assault/full/ST11-011.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Char Aznable-ST11-011",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 4,
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST11-012": {
+    "id": "ST11-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Loni Garvey",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST11%20-%20Aquatic%20Assault/full/ST11-012.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Loni Garvey-ST11-012",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 4,
+    "ap": "+2",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST11-013": {
+    "id": "ST11-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poorly Planned Offensive",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST11%20-%20Aquatic%20Assault/full/ST11-013AltArtPlus.jpg?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poorly Planned Offensive-ST11-013",
+    "type": "COMMAND",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 4,
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST11-014": {
+    "id": "ST11-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Orca of Red Sea",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST11%20-%20Aquatic%20Assault/full/ST11-014.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Orca of Red Sea-ST11-014",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 3,
+    "ap": "+1",
+    "hp": "+1",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST11-015": {
+    "id": "ST11-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Twinkle from the Abyss",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST11%20-%20Aquatic%20Assault/full/ST11-015.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Twinkle from the Abyss-ST11-015",
+    "type": "COMMAND",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 5,
+    "ap": "-",
+    "hp": "-",
+    "pilot": "",
+    "tokens": []
+  },
+  "ST11-016": {
+    "id": "ST11-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mad Angler",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST11%20-%20Aquatic%20Assault/full/ST11-016.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mad Angler-ST11-016",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": 3,
+    "ap": "-",
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-028": {
+    "id": "T-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GOOhN",
+        "type": "UNIT TOKEN",
+        "cost": "-",
+        "image": "https://gcgvault.rocketslab.com.br/api/public/card-image/T-028.webp?261001",
+        "isHorizontal": false
+      }
+    },
+    "name": "GOOhN-T-028",
+    "type": "UNIT TOKEN",
+    "cost": "-",
+    "color": [
+      "-"
+    ],
+    "set": "Aquatic Assault [ST11]",
+    "isHorizontal": false,
+    "level": "-",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
   }
 }
