@@ -1,13 +1,17 @@
 {
   "name": "SevenGalaxiesTCG",
   "deckBuilding": {
-    "mainFilters": ["type", "cost"],
+    "mainFilters": ["type", "cost", "kind"],
     "formats": [
-      { "title": "Standard format", "gameplay": "Standard" }
-    ],
-    "customCategories": [
-      "Fortress",
-      "SpecialDeck"
+      {
+        "title": "Standard format",
+        "gameplay": "Standard",
+        "customCategories": [
+          "Normal",
+          "SpecialDeck",
+          "Fortress"
+        ]
+      }
     ]
   },
   "gameplay": {
