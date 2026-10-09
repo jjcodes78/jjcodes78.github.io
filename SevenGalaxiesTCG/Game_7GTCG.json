@@ -18,70 +18,47 @@
       "sections": {
         "layout": {
           "direction": "column",
+          "style": {
+            "gap": "8px",
+            "width": "100%"
+          },
           "content": [
             {
               "direction": "row",
               "isSymmetricalForOpponents": true,
               "style": {
                 "gap": "6px",
-                "alignItems": "stretch"
+                "alignItems": "stretch",
+                "width": "100%"
               },
               "content": [
                 {
-                  "direction": "column",
+                  "section": "EventZone",
                   "style": {
-                    "width": "15%"
-                  },
-                  "content": [
-                    {
-                      "section": "Deck"
-                    },
-                    {
-                      "section": "ExtraDeck"
-                    }
-                  ]
+                    "width": "15%",
+                    "minWidth": "0"
+                  }
                 },
                 {
-                  "direction": "column",
+                  "section": "SpecialDeck",
                   "style": {
-                    "width": "20%"
-                  },
-                  "content": [
-                    {
-                      "section": "Discard"
-                    },
-                    {
-                      "section": "Defeated"
-                    }
-                  ]
+                    "width": "15%",
+                    "minWidth": "0"
+                  }
                 },
                 {
-                  "direction": "column",
+                  "section": "Attackers",
                   "style": {
-                    "width": "35%"
-                  },
-                  "content": [
-                    {
-                      "section": "EventSupport"
-                    },
-                    {
-                      "section": "StrategySupport"
-                    }
-                  ]
+                    "width": "55%",
+                    "minWidth": "0"
+                  }
                 },
                 {
-                  "direction": "column",
+                  "section": "Resources",
                   "style": {
-                    "width": "30%"
-                  },
-                  "content": [
-                    {
-                      "section": "Leader"
-                    },
-                    {
-                      "section": "Fortress"
-                    }
-                  ]
+                    "width": "15%",
+                    "minWidth": "0"
+                  }
                 }
               ]
             },
@@ -90,63 +67,37 @@
               "isSymmetricalForOpponents": true,
               "style": {
                 "gap": "6px",
-                "marginTop": "6px"
+                "alignItems": "stretch",
+                "width": "100%"
               },
               "content": [
                 {
-                  "section": "Resources",
+                  "section": "SupportZone",
                   "style": {
-                    "width": "22%"
+                    "width": "15%",
+                    "minWidth": "0"
                   }
                 },
                 {
-                  "direction": "column",
+                  "section": "LeaderZone",
                   "style": {
-                    "width": "78%",
-                    "gap": "4px"
-                  },
-                  "content": [
-                    {
-                      "direction": "row",
-                      "style": {
-                        "gap": "4px"
-                      },
-                      "content": [
-                        {
-                          "section": "A1"
-                        },
-                        {
-                          "section": "A2"
-                        },
-                        {
-                          "section": "A3"
-                        },
-                        {
-                          "section": "A4"
-                        }
-                      ]
-                    },
-                    {
-                      "direction": "row",
-                      "style": {
-                        "gap": "4px"
-                      },
-                      "content": [
-                        {
-                          "section": "D1"
-                        },
-                        {
-                          "section": "D2"
-                        },
-                        {
-                          "section": "D3"
-                        },
-                        {
-                          "section": "D4"
-                        }
-                      ]
-                    }
-                  ]
+                    "width": "15%",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "Defenders",
+                  "style": {
+                    "width": "55%",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "Fortress",
+                  "style": {
+                    "width": "15%",
+                    "minWidth": "0"
+                  }
                 }
               ]
             },
@@ -159,154 +110,23 @@
           ]
         },
         "sectionsDict": {
-          "Hand": {
+          "EventZone": {
             "isHidden": "no",
             "height": 18,
-            "alignment": "CENTER",
-            "displayedTitle": "Mão"
+            "alignment": "START",
+            "displayedTitle": "Eventos / Estratégias / Suportes"
           },
-          "Deck": {
+          "SpecialDeck": {
             "isHidden": "yes",
-            "height": 16,
-            "alignment": "DECK",
-            "displayedTitle": "Deck"
-          },
-          "ExtraDeck": {
-            "isHidden": "yes",
-            "height": 16,
+            "height": 18,
             "alignment": "DECK",
             "displayedTitle": "Deck Especial"
           },
-          "Discard": {
+          "Attackers": {
             "isHidden": "no",
-            "height": 16,
-            "alignment": "DECK",
-            "displayedTitle": "Descarte"
-          },
-          "Defeated": {
-            "isHidden": "no",
-            "height": 16,
-            "alignment": "DECK",
-            "displayedTitle": "Derrotados"
-          },
-          "EventSupport": {
-            "isHidden": "no",
-            "height": 18,
-            "alignment": "START",
-            "displayedTitle": "Evento / Estratégia / Suporte"
-          },
-          "StrategySupport": {
-            "isHidden": "no",
-            "height": 18,
-            "alignment": "START",
-            "displayedTitle": "Estratégia / Suporte"
-          },
-          "Leader": {
-            "isHidden": "no",
-            "height": 22,
+            "height": 28,
             "alignment": "CENTER",
-            "displayedTitle": "Líder de Batalha"
-          },
-          "Fortress": {
-            "type": "custom",
-            "defaultValue": {
-              "life": 25,
-              "intuition20": true,
-              "intuition10": true,
-              "intuition5": true
-            },
-            "blueprint": {
-              "type": "div",
-              "props": {
-                "style": {
-                  "display": "flex",
-                  "flexDirection": "column",
-                  "gap": "4px",
-                  "padding": "8px",
-                  "border": "1px solid #777",
-                  "borderRadius": "6px"
-                }
-              },
-              "children": [
-                {
-                  "type": "div",
-                  "children": [
-                    "Fortaleza"
-                  ]
-                },
-                {
-                  "type": "div",
-                  "children": [
-                    "Vida"
-                  ]
-                },
-                {
-                  "type": "input-number",
-                  "props": {
-                    "value": "{{ game.data.Fortress.life }}",
-                    "min": 0
-                  },
-                  "onChange": "game.data.Fortress.life = value"
-                },
-                {
-                  "type": "div",
-                  "children": [
-                    "Intuição"
-                  ]
-                },
-                {
-                  "type": "div",
-                  "props": {
-                    "style": {
-                      "display": "flex",
-                      "gap": "8px",
-                      "flexWrap": "wrap"
-                    }
-                  },
-                  "children": [
-                    {
-                      "type": "label",
-                      "children": [
-                        {
-                          "type": "input-checkbox",
-                          "props": {
-                            "checked": "{{ game.data.Fortress.intuition20 }}"
-                          },
-                          "onChange": "game.data.Fortress.intuition20 = value"
-                        },
-                        "20"
-                      ]
-                    },
-                    {
-                      "type": "label",
-                      "children": [
-                        {
-                          "type": "input-checkbox",
-                          "props": {
-                            "checked": "{{ game.data.Fortress.intuition10 }}"
-                          },
-                          "onChange": "game.data.Fortress.intuition10 = value"
-                        },
-                        "10"
-                      ]
-                    },
-                    {
-                      "type": "label",
-                      "children": [
-                        {
-                          "type": "input-checkbox",
-                          "props": {
-                            "checked": "{{ game.data.Fortress.intuition5 }}"
-                          },
-                          "onChange": "game.data.Fortress.intuition5 = value"
-                        },
-                        "5"
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
+            "displayedTitle": "Atacantes"
           },
           "Resources": {
             "type": "custom",
@@ -321,16 +141,24 @@
                   "display": "flex",
                   "flexDirection": "column",
                   "gap": "8px",
-                  "padding": "8px",
+                  "padding": "6px",
                   "border": "1px solid #777",
-                  "borderRadius": "6px"
+                  "borderRadius": "6px",
+                  "height": "100%",
+                  "boxSizing": "border-box"
                 }
               },
               "children": [
                 {
                   "type": "div",
+                  "props": {
+                    "style": {
+                      "fontWeight": "bold",
+                      "textAlign": "center"
+                    }
+                  },
                   "children": [
-                    "Reservas"
+                    "Recursos"
                   ]
                 },
                 {
@@ -364,53 +192,78 @@
               ]
             }
           },
-          "A1": {
+          "SupportZone": {
             "isHidden": "no",
-            "height": 22,
-            "alignment": "CENTER",
-            "displayedTitle": "A1"
+            "height": 18,
+            "alignment": "START",
+            "displayedTitle": "Estratégias / Suportes"
           },
-          "A2": {
+          "LeaderZone": {
             "isHidden": "no",
             "height": 22,
             "alignment": "CENTER",
-            "displayedTitle": "A2"
+            "displayedTitle": "Líder"
           },
-          "A3": {
+          "Defenders": {
             "isHidden": "no",
-            "height": 22,
+            "height": 28,
             "alignment": "CENTER",
-            "displayedTitle": "A3"
+            "displayedTitle": "Defensores"
           },
-          "A4": {
-            "isHidden": "no",
-            "height": 22,
-            "alignment": "CENTER",
-            "displayedTitle": "A4"
+          "Fortress": {
+            "type": "custom",
+            "defaultValue": {
+              "life": 25
+            },
+            "blueprint": {
+              "type": "div",
+              "props": {
+                "style": {
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "gap": "8px",
+                  "padding": "6px",
+                  "border": "1px solid #777",
+                  "borderRadius": "6px",
+                  "height": "100%",
+                  "boxSizing": "border-box"
+                }
+              },
+              "children": [
+                {
+                  "type": "div",
+                  "props": {
+                    "style": {
+                      "fontWeight": "bold",
+                      "textAlign": "center"
+                    }
+                  },
+                  "children": [
+                    "Fortaleza"
+                  ]
+                },
+                {
+                  "type": "label",
+                  "children": [
+                    "Vida"
+                  ]
+                },
+                {
+                  "type": "input-number",
+                  "props": {
+                    "value": "{{ game.data.Fortress.life }}",
+                    "min": 0
+                  },
+                  "onChange": "game.data.Fortress.life = value"
+                }
+              ]
+            }
           },
-          "D1": {
+          "Hand": {
             "isHidden": "no",
-            "height": 22,
+            "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "D1"
-          },
-          "D2": {
-            "isHidden": "no",
-            "height": 22,
-            "alignment": "CENTER",
-            "displayedTitle": "D2"
-          },
-          "D3": {
-            "isHidden": "no",
-            "height": 22,
-            "alignment": "CENTER",
-            "displayedTitle": "D3"
-          },
-          "D4": {
-            "isHidden": "no",
-            "height": 22,
-            "alignment": "CENTER",
-            "displayedTitle": "D4"
+            "displayedTitle": "Mão"
           }
         }
       }
