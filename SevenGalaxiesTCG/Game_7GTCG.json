@@ -157,11 +157,29 @@
             "alignment": "DECK",
             "displayedTitle": "Deck Especial"
           },
-          "Attackers": {
+          "A1": {
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "Atacantes"
+            "displayedTitle": "A1"
+          },
+          "A2": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "A2"
+          },
+          "A3": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "A3"
+          },
+          "A4": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "A4"
           },
           "Resources": {
             "type": "custom",
@@ -239,11 +257,29 @@
             "alignment": "CENTER",
             "displayedTitle": "Líder"
           },
-          "Defenders": {
+          "D1": {
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "Defensores"
+            "displayedTitle": "D1"
+          },
+          "D2": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "D2"
+          },
+          "D3": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "D3"
+          },
+          "D4": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "D4"
           },
           "Fortress": {
             "type": "custom",
