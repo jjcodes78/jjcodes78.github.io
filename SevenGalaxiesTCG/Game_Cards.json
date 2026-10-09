@@ -859,5 +859,47 @@
     "shield": 2,
     "counter_attack": 0,
     "isHorizontal": false
+  },
+  "R1/S1-R1": {
+    "id": "R1/S1-R1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "RECURSO",
+        "type": "Recurso",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-R1-Recurso-codR1.e7b9eb89.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "RECURSO-R1/S1-R1",
+    "type": "Recurso",
+    "cost": 0,
+    "health": 0,
+    "attack": 0,
+    "shield": 0,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "F1/S1-F1": {
+    "id": "F1/S1-F1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zartrower",
+        "type": "Fortaleza",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-F1-Zartrower-codF1.0cf25227.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Zartrower-F1/S1-F1",
+    "type": "Fortaleza",
+    "cost": 0,
+    "health": 30,
+    "attack": 0,
+    "shield": 0,
+    "counter_attack": 0,
+    "isHorizontal": true
   }
 }
