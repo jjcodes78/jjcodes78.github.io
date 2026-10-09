@@ -290,67 +290,9 @@
                   ]
                 },
                 {
-                  "type": "div",
-                  "props": {
-                    "display": "flex",
-                    "flexDirection": "row",
-                    "gap": "8px",
-                    "padding": "4px"
-                  },
-                  "children": [
-                    {
-                      "type": "input-number",
-                      "props": {
-                        "value": "{{ game.data.Resources.level }}",
-                        "min": 1,
-                        "max": 10
-                      },
-                      "onChange": "game.data.Resources.level = value"
-                    },
-                    {
-                      "type": "input-number",
-                      "props": {
-                        "value": "{{ game.data.Resources.curLevel }}",
-                        "min": 1,
-                        "max": 10
-                      },
-                      "onChange": "game.data.Resources.curLevel = value"
-                    }
-                  ]
-                },
-                {
                   "type": "label",
                   "children": [
                     "Energia"
-                  ]
-                },
-                {
-                  "type": "div",
-                  "props": {
-                    "style": {
-                      "display": "flex flex-row justify-content-center",
-                      "gap": "8px"
-                    }
-                  },
-                  "children": [
-                    {
-                      "type": "input-number",
-                      "props": {
-                        "value": "{{ game.data.Resources.energy }}",
-                        "min": 1,
-                        "max": 10
-                      },
-                      "onChange": "game.data.Resources.energy = value"
-                    },
-                    {
-                      "type": "input-number",
-                      "props": {
-                        "value": "{{ game.data.Resources.curEnergy }}",
-                        "min": 1,
-                        "max": 10
-                      },
-                      "onChange": "game.data.Resources.curEnergy = value"
-                    }
                   ]
                 }
               ]
