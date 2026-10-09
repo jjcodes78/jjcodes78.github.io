@@ -35,14 +35,14 @@
                 {
                   "section": "EventZone",
                   "style": {
-                    "width": "15%",
+                    "width": "13.9vh",
                     "minWidth": "0"
                   }
                 },
                 {
                   "section": "SpecialDeck",
                   "style": {
-                    "width": "15%",
+                    "width": "13.9vh",
                     "minWidth": "0"
                   }
                 },
@@ -50,13 +50,6 @@
                   "section": "Attackers",
                   "style": {
                     "width": "55%",
-                    "minWidth": "0"
-                  }
-                },
-                {
-                  "section": "Resources",
-                  "style": {
-                    "width": "15%",
                     "minWidth": "0"
                   }
                 }
@@ -74,14 +67,14 @@
                 {
                   "section": "SupportZone",
                   "style": {
-                    "width": "15%",
+                    "width": "13.9vh",
                     "minWidth": "0"
                   }
                 },
                 {
                   "section": "LeaderZone",
                   "style": {
-                    "width": "15%",
+                    "width": "13.9vh",
                     "minWidth": "0"
                   }
                 },
@@ -95,7 +88,7 @@
                 {
                   "section": "Fortress",
                   "style": {
-                    "width": "15%",
+                    "width": "13.9vh",
                     "minWidth": "0"
                   }
                 }
@@ -124,7 +117,7 @@
           },
           "Attackers": {
             "isHidden": "no",
-            "height": 28,
+            "height": 18,
             "alignment": "CENTER",
             "displayedTitle": "Atacantes"
           },
@@ -200,20 +193,20 @@
           },
           "LeaderZone": {
             "isHidden": "no",
-            "height": 22,
+            "height": 18,
             "alignment": "CENTER",
             "displayedTitle": "Líder"
           },
           "Defenders": {
             "isHidden": "no",
-            "height": 28,
+            "height": 18,
             "alignment": "CENTER",
             "displayedTitle": "Defensores"
           },
           "Fortress": {
             "type": "custom",
             "defaultValue": {
-              "life": 25
+              "life": 30
             },
             "blueprint": {
               "type": "div",
