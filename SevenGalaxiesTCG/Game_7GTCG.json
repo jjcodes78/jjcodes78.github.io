@@ -1,232 +1,33 @@
 {
-  "id": "seven_galaxies",
-  "name": "Seven Galaxies",
-  "version": "2.1.0",
-  "description": "Card game estratégico do Universo 7G - Módulo Oficial TCG Arena",
-  "game": {
-    "deckbuilding": {
-      "minDeckSize": 30,
-      "maxDeckSize": 40,
-      "maxCopies": 2,
-      "specialDeck": {
-        "enabled": true,
-        "name": "Deck Especial",
-        "description": "Cartas de evolução, recurso e cards especiais"
-      },
-      "customRules": [
-        "Eventos e Líderes de Batalha devem pertencer à mesma galáxia da Fortaleza selecionada.",
-        "Cartas com borda preta no canto superior direito devem ficar no Deck Especial."
-      ]
-    },
-    "cards": {
-      "dataUrl": "https://jjcodes78.github.io/SevenGalaxiesTCG/Game_Cards.json?v=270720261318"
-    },
-    "setup": {
-      "player1HandSize": 6,
-      "player2HandSize": 7,
-      "mulligan": {
-        "enabled": true,
-        "type": "partial_redraw",
-        "limit": 1,
-        "description": "Coloque de lado os cards indesejados, compre até repor a mão inicial e embaralhe os descartados de volta ao deck (Apenas 1 vez)."
-      },
-      "secondPlayerBonus": {
-        "action": "add_to_hand",
-        "cardType": "Recurso",
-        "source": "special_deck",
-        "description": "O 2º jogador adiciona 1 card de Recurso do Deck Especial para a mão ao iniciar (ficando com 8 cartas)."
-      }
-    },
-    "globals": [
-      {
-        "id": "level",
-        "name": "Nível (N)",
-        "initialValue": 1,
-        "minValue": 0,
-        "maxValue": 10,
-        "description": "Sua reserva para invocação de cartas"
-      },
-      {
-        "id": "energy",
-        "name": "Energia (E)",
-        "initialValue": 1,
-        "minValue": 0,
-        "maxValue": 10,
-        "description": "Sua reserva para ativar efeitos e habilidades"
-      },
-      {
-        "id": "fortress_hp",
-        "name": "Vida da Fortaleza",
-        "initialValue": 30,
-        "minValue": 0,
-        "maxValue": 30,
-        "markers": [20, 10, 5],
-        "description": "Ao atingir 20, 10 e 5 de vida, remove-se um marcador de intuição para comprar 1 card."
-      }
-    ],
-    "phases": [
-      {
-        "id": "phase_start",
-        "name": "1. Início do Turno",
-        "automation": {
-          "restoreResources": true,
-          "drawCard": true,
-          "skipFirstTurnDraw": true
-        },
-        "description": "Restaura Nível e Energia ao valor conquistado. Em seguida, compre 1 card (exceto no 1º turno de cada jogador)."
-      },
-      {
-        "id": "phase_resource",
-        "name": "2. Escolha de Reserva",
-        "description": "Escolha entre aumentar +1N ou +1E para a sua reserva permanente (No 2º turno aumenta +1N e +1E obrigatoriamente)."
-      },
-      {
-        "id": "phase_main",
-        "name": "3. Fase Principal (Ações Livres)",
-        "description": "Execute jogadas em qualquer ordem: Invocar, Ativar Efeitos, Mover Criaturas, Evoluir, Descartar e Atacar."
-      },
-      {
-        "id": "phase_end",
-        "name": "4. Fim do Turno",
-        "description": "Passe a vez ao oponente. Você pode responder com efeitos do tipo Antecipação/Resposta durante o turno do oponente se tiver N e E suficientes."
-      }
-    ],
-    "zones": [
-      {
-        "id": "deck",
-        "name": "Deck Principal",
-        "type": "deck",
-        "visibility": "hidden",
-        "shared": false
-      },
-      {
-        "id": "special_deck",
-        "name": "Deck Especial",
-        "type": "deck",
-        "visibility": "owner",
-        "shared": false
-      },
-      {
-        "id": "defeated",
-        "name": "Derrotados",
-        "type": "graveyard",
-        "visibility": "public",
-        "shared": false,
-        "description": "Criaturas e Líderes com Vida = 0 e cards com efeitos resolvidos"
-      },
-      {
-        "id": "discard",
-        "name": "Descarte",
-        "type": "graveyard",
-        "visibility": "public",
-        "shared": false,
-        "description": "Cartas descartadas para abrir espaço no campo, para evoluções ou por efeitos"
-      },
-      {
-        "id": "fortress_zone",
-        "name": "Fortaleza",
-        "type": "slot",
-        "maxCards": 1,
-        "visibility": "public",
-        "shared": false
-      },
-      {
-        "id": "battle_leader",
-        "name": "Líder de Batalha",
-        "type": "slot",
-        "maxCards": 1,
-        "visibility": "public",
-        "shared": false
-      },
-      {
-        "id": "support_event_zone",
-        "name": "Eventos / Estratégias / Suportes",
-        "type": "row",
-        "visibility": "public",
-        "shared": false
-      },
-      {
-        "id": "creatures_attack_line",
-        "name": "Linha de Ataque",
-        "type": "grid",
-        "columns": 4,
-        "rows": 1,
-        "slots": [
-          {"id": "A1", "label": "A1"},
-          {"id": "A2", "label": "A2"},
-          {"id": "A3", "label": "A3"},
-          {"id": "A4", "label": "A4"}
-        ],
-        "visibility": "public",
-        "shared": false
-      },
-      {
-        "id": "creatures_defense_line",
-        "name": "Linha de Defesa",
-        "type": "grid",
-        "columns": 4,
-        "rows": 1,
-        "slots": [
-          {"id": "D1", "label": "D1"},
-          {"id": "D2", "label": "D2"},
-          {"id": "D3", "label": "D3"},
-          {"id": "D4", "label": "D4"}
-        ],
-        "visibility": "public",
-        "shared": false
-      }
-    ],
-    "card_states": [
-      {
-        "id": "standby",
-        "name": "Standby",
-        "visual": "center",
-        "description": "Card pronto e com efeitos disponíveis"
-      },
-      {
-        "id": "active",
-        "name": "Ativa",
-        "visual": "top",
-        "description": "Card ativou um efeito ou habilidade neste turno"
-      },
-      {
-        "id": "exhausted",
-        "name": "Exausta",
-        "visual": "bottom",
-        "description": "Card não pode mais utilizar efeitos na rodada"
-      },
-      {
-        "id": "hidden",
-        "name": "Escondida",
-        "visual": "face_down",
-        "description": "Criatura invocada virada para baixo (Esconder)"
-      }
-    ],
-    "quick_actions": [
-      {
-        "id": "attack",
-        "label": "Declarar Ataque",
-        "shortcut": "A",
-        "description": "Verifica Alcance (1, 2 ou 3) e calcula Dano = Ataque - Escudo do Alvo"
-      },
-      {
-        "id": "move",
-        "label": "Mover (Frente / Trás)",
-        "shortcut": "M",
-        "description": "Move a criatura entre as linhas de Ataque e Defesa (1x por turno antes de atacar)"
-      },
-      {
-        "id": "evolve",
-        "label": "Evoluir",
-        "shortcut": "E",
-        "description": "Descarte da mão 1 criatura com Nível = diferença de N, pague N e substitua pelo card do Deck Especial"
-      },
-      {
-        "id": "rule_discard",
-        "label": "Regra de Descarte",
-        "shortcut": "D",
-        "description": "Descarte 1 criatura visível do campo que não atacou no turno para liberar espaço"
-      }
+  "name": "SevenGalaxiesTCG",
+  "deckBuilding": {
+    "mainFilters": ["type", "cost"],
+    "formats": [
+      { "title": "Standard format", "gameplay": "Standard" }
     ]
+  },
+  "gameplay": {
+    "Standard": {
+      "mulligan": {
+        "startingHandSize": 5
+      },
+      "newTurn": {
+        "drawPerTurn": 1
+      },
+      "countersStartingValues": [],
+      "sections": {
+        "layout": {
+          "direction": "column",
+          "content": [{ "section": "Board" }]
+        },
+        "sectionsDict": {
+          "Board": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
+        }
+      }
+    }
+  },
+  "cards": {
+    "dataUrl": "https://jjcodes78.github.io/SevenGalaxiesTCG/Game_Cards.json",
+    "cardBack": "https://example.com/card-back.jpg"
   }
 }
