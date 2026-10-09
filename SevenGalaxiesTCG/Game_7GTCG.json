@@ -292,10 +292,10 @@
                 {
                   "type": "div",
                   "props": {
-                    "style": {
-                      "display": "flex flex-row justify-content-center",
-                      "gap": ""
-                    }
+                    "display": "flex",
+                    "flexDirection": "row",
+                    "gap": "8px",
+                    "padding": "4px"
                   },
                   "children": [
                     {
