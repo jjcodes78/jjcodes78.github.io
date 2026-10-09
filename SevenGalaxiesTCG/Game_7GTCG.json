@@ -221,6 +221,10 @@
           "SpecialDeck",
           "Fortress"
         ],
+        "autoPlayFromHand": {
+          "Normal": "Stack",
+          "SpecialDeck": "Stack"
+        },
         "sectionsDict": {
           "EventZone": {
             "isHidden": "no",
