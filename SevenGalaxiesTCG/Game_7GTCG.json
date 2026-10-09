@@ -231,7 +231,7 @@
           "SpecialDeck": {
             "isHidden": "yes",
             "height": 18,
-            "alignment": "CENTER",
+            "alignment": "DECK",
             "displayedTitle": "Deck Especial"
           },
           "A1": {
