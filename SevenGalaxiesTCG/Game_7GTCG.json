@@ -47,9 +47,30 @@
                   }
                 },
                 {
-                  "section": "Attackers",
+                  "section": "A1",
                   "style": {
-                    "width": "55%",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "A2",
+                  "style": {
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "A3",
+                  "style": {
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "A4",
+                  "style": {
+                    "width": "13.9vh",
                     "minWidth": "0"
                   }
                 }
@@ -79,9 +100,30 @@
                   }
                 },
                 {
-                  "section": "Defenders",
+                  "section": "D1",
                   "style": {
-                    "width": "55%",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "D2",
+                  "style": {
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "D3",
+                  "style": {
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "D4",
+                  "style": {
+                    "width": "13.9vh",
                     "minWidth": "0"
                   }
                 },
