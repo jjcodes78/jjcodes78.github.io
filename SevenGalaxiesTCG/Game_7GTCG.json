@@ -335,6 +335,7 @@
             "enterSpun": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
+          }
         }
       }
     }
