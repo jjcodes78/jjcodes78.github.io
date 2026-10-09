@@ -1,0 +1,116 @@
+{
+  "title": "Stroj Stater Deck",
+  "id": "7bf52576-98af-4b19-99a5-7e5cacaa1965",
+  "cardCount": 32,
+  "createdAt": "2026-10-09T01:52:00.799Z",
+  "lastModifiedAt": "2026-10-09T01:54:06.990Z",
+  "game": "SevenGalaxiesTCG",
+  "format": [
+    "Standard format"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Robô • goldron • manipulador • guerrilheiro",
+      "Robô • goldron • manipulador • atirador",
+      "Robô • goldron • guerrilheiro",
+      "Robô • goldron • sentinela",
+      "Equipamento: robô guerrilheiro",
+      "Suporte • mecanismo",
+      "Equipamento: goldron manipulador"
+    ],
+    "Robô • goldron • manipulador • guerrilheiro": [
+      {
+        "count": 2,
+        "id": "1/S1-1"
+      },
+      {
+        "count": 1,
+        "id": "2/S1-2"
+      },
+      {
+        "count": 1,
+        "id": "3/S1-3"
+      },
+      {
+        "count": 2,
+        "id": "4/S1-4"
+      },
+      {
+        "count": 2,
+        "id": "5/S1-5"
+      },
+      {
+        "count": 2,
+        "id": "9/S1-9"
+      },
+      {
+        "count": 2,
+        "id": "10/S1-10"
+      },
+      {
+        "count": 2,
+        "id": "14/S1-14"
+      },
+      {
+        "count": 2,
+        "id": "15/S1-15"
+      },
+      {
+        "count": 1,
+        "id": "20/S1-20"
+      }
+    ],
+    "Robô • goldron • manipulador • atirador": [
+      {
+        "count": 2,
+        "id": "6/S1-6"
+      },
+      {
+        "count": 2,
+        "id": "11/S1-11"
+      },
+      {
+        "count": 1,
+        "id": "16/S1-16"
+      }
+    ],
+    "Robô • goldron • guerrilheiro": [
+      {
+        "count": 2,
+        "id": "7/S1-7"
+      },
+      {
+        "count": 2,
+        "id": "8/S1-8"
+      },
+      {
+        "count": 2,
+        "id": "12/S1-12"
+      }
+    ],
+    "Robô • goldron • sentinela": [
+      {
+        "count": 1,
+        "id": "13/S1-13"
+      }
+    ],
+    "Equipamento: robô guerrilheiro": [
+      {
+        "count": 1,
+        "id": "17/S1-17"
+      }
+    ],
+    "Suporte • mecanismo": [
+      {
+        "count": 1,
+        "id": "18/S1-18"
+      }
+    ],
+    "Equipamento: goldron manipulador": [
+      {
+        "count": 1,
+        "id": "19/S1-19"
+      }
+    ]
+  }
+}
