@@ -1772,7 +1772,7 @@
         "type": "Fortaleza",
         "cost": 0,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-F1-Palácio-das-Amazonas-codF2.679dd49f.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Palácio das Amazonas-F2/G1-F1",
@@ -1782,7 +1782,7 @@
     "attack": 0,
     "shield": 0,
     "counter_attack": 0,
-    "isHorizontal": false
+    "isHorizontal": true
   },
   "R2/G1-R1": {
     "id": "R2/G1-R1",
