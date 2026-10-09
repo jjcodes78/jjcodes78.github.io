@@ -18,6 +18,9 @@
         "Cartas com borda preta no canto superior direito devem ficar no Deck Especial."
       ]
     },
+    "cards": {
+      "dataUrl": "https://jjcodes78.github.io/SevenGalaxiesTCG/Game_Cards.json?v=270720261318"
+    },
     "setup": {
       "player1HandSize": 6,
       "player2HandSize": 7,

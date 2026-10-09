@@ -7,7 +7,7 @@
         "name": "Phrozb",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 1,
-        "image": "cards/stroj_001.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_001.png",
         "isHorizontal": false
       }
     },
@@ -28,7 +28,7 @@
         "name": "Zagoc",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 1,
-        "image": "cards/stroj_002.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_002.png",
         "isHorizontal": false
       }
     },
@@ -49,7 +49,7 @@
         "name": "Katarb",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 1,
-        "image": "cards/stroj_003.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_003.png",
         "isHorizontal": false
       }
     },
@@ -70,7 +70,7 @@
         "name": "Dogorb",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 1,
-        "image": "cards/stroj_004.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_004.png",
         "isHorizontal": false
       }
     },
@@ -91,7 +91,7 @@
         "name": "Jorb",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 1,
-        "image": "cards/stroj_005.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_005.png",
         "isHorizontal": false
       }
     },
@@ -112,7 +112,7 @@
         "name": "Bauzz",
         "type": "Robô • goldron • manipulador • atirador",
         "cost": 1,
-        "image": "cards/stroj_006.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_006.png",
         "isHorizontal": false
       }
     },
@@ -133,7 +133,7 @@
         "name": "Beltrozz",
         "type": "Robô • goldron • guerrilheiro",
         "cost": 2,
-        "image": "cards/stroj_007.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_007.png",
         "isHorizontal": false
       }
     },
@@ -154,7 +154,7 @@
         "name": "Garjix",
         "type": "Robô • goldron • guerrilheiro",
         "cost": 2,
-        "image": "cards/stroj_008.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_008.png",
         "isHorizontal": false
       }
     },
@@ -175,7 +175,7 @@
         "name": "Nazzbrok",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 2,
-        "image": "cards/stroj_009.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_009.png",
         "isHorizontal": false
       }
     },
@@ -196,7 +196,7 @@
         "name": "Qytherk",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 2,
-        "image": "cards/stroj_010.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_010.png",
         "isHorizontal": false
       }
     },
@@ -217,7 +217,7 @@
         "name": "Jyrgozz",
         "type": "Robô • goldron • manipulador • atirador",
         "cost": 2,
-        "image": "cards/stroj_011.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_011.png",
         "isHorizontal": false
       }
     },
@@ -238,7 +238,7 @@
         "name": "Zorbozz",
         "type": "Robô • goldron • guerrilheiro",
         "cost": 3,
-        "image": "cards/stroj_012.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_012.png",
         "isHorizontal": false
       }
     },
@@ -259,7 +259,7 @@
         "name": "Zibrolttar",
         "type": "Robô • goldron • sentinela",
         "cost": 3,
-        "image": "cards/stroj_013.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_013.png",
         "isHorizontal": false
       }
     },
@@ -280,7 +280,7 @@
         "name": "Zardok",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 3,
-        "image": "cards/stroj_014.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_014.png",
         "isHorizontal": false
       }
     },
@@ -301,7 +301,7 @@
         "name": "Cretaur-K",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 3,
-        "image": "cards/stroj_015.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_015.png",
         "isHorizontal": false
       }
     },
@@ -322,7 +322,7 @@
         "name": "Noctrobazz",
         "type": "Robô • goldron • manipulador • atirador",
         "cost": 3,
-        "image": "cards/stroj_016.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_016.png",
         "isHorizontal": false
       }
     },
@@ -343,7 +343,7 @@
         "name": "Kromyn-B",
         "type": "Equipamento: robô guerrilheiro",
         "cost": 2,
-        "image": "cards/stroj_017.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_017.png",
         "isHorizontal": false
       }
     },
@@ -364,7 +364,7 @@
         "name": "Zartropoolz",
         "type": "Suporte • mecanismo",
         "cost": 1,
-        "image": "cards/stroj_018.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_018.png",
         "isHorizontal": false
       }
     },
@@ -385,7 +385,7 @@
         "name": "Zagockranozz",
         "type": "Equipamento: goldron manipulador",
         "cost": 1,
-        "image": "cards/stroj_019.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_019.png",
         "isHorizontal": false
       }
     },
@@ -406,7 +406,7 @@
         "name": "Cretaur-K",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 4,
-        "image": "cards/stroj_020.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_020.png",
         "isHorizontal": false
       }
     },
@@ -427,7 +427,7 @@
         "name": "Brox",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 1,
-        "image": "cards/stroj_021.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_021.png",
         "isHorizontal": false
       }
     },
@@ -448,7 +448,7 @@
         "name": "Orbtralzz",
         "type": "Robô • goldron • manipulador • atirador",
         "cost": 1,
-        "image": "cards/stroj_022.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_022.png",
         "isHorizontal": false
       }
     },
@@ -469,7 +469,7 @@
         "name": "Malbai",
         "type": "Robô • goldron • manipulador • atirador",
         "cost": 1,
-        "image": "cards/stroj_023.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_023.png",
         "isHorizontal": false
       }
     },
@@ -490,7 +490,7 @@
         "name": "Therkoj",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 2,
-        "image": "cards/stroj_024.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_024.png",
         "isHorizontal": false
       }
     },
@@ -511,7 +511,7 @@
         "name": "Nergyzzak",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 2,
-        "image": "cards/stroj_025.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_025.png",
         "isHorizontal": false
       }
     },
@@ -532,7 +532,7 @@
         "name": "Kytrov",
         "type": "Robô • goldron • manipulador • atirador",
         "cost": 2,
-        "image": "cards/stroj_026.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_026.png",
         "isHorizontal": false
       }
     },
@@ -553,7 +553,7 @@
         "name": "Crottanox",
         "type": "Robô • goldron • guerrilheiro",
         "cost": 3,
-        "image": "cards/stroj_027.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_027.png",
         "isHorizontal": false
       }
     },
@@ -574,7 +574,7 @@
         "name": "Phroniac",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 3,
-        "image": "cards/stroj_028.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_028.png",
         "isHorizontal": false
       }
     },
@@ -595,7 +595,7 @@
         "name": "Zartrox",
         "type": "Robô • goldron • manipulador • sentinela",
         "cost": 3,
-        "image": "cards/stroj_029.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_029.png",
         "isHorizontal": false
       }
     },
@@ -616,7 +616,7 @@
         "name": "Fúria Robótica",
         "type": "Ação: manipulador",
         "cost": 0,
-        "image": "cards/stroj_030.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_030.png",
         "isHorizontal": false
       }
     },
@@ -637,7 +637,7 @@
         "name": "Zardok",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 4,
-        "image": "cards/stroj_031.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_031.png",
         "isHorizontal": false
       }
     },
@@ -658,7 +658,7 @@
         "name": "Wormyd",
         "type": "Robô • goldron • guerrilheiro",
         "cost": 2,
-        "image": "cards/stroj_032.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_032.png",
         "isHorizontal": false
       }
     },
@@ -679,7 +679,7 @@
         "name": "Zartroworb",
         "type": "Suporte • mecanismo",
         "cost": 1,
-        "image": "cards/stroj_033.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_033.png",
         "isHorizontal": false
       }
     },
@@ -700,7 +700,7 @@
         "name": "Trowerbell",
         "type": "Suporte • armamento",
         "cost": 3,
-        "image": "cards/stroj_034.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_034.png",
         "isHorizontal": false
       }
     },
@@ -721,7 +721,7 @@
         "name": "Phroniac",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 4,
-        "image": "cards/stroj_035.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_035.png",
         "isHorizontal": false
       }
     },
@@ -742,7 +742,7 @@
         "name": "Explosão Goldroniana",
         "type": "Evento",
         "cost": 0,
-        "image": "cards/stroj_036.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_036.png",
         "isHorizontal": false
       }
     },
@@ -763,7 +763,7 @@
         "name": "Gowba",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 1,
-        "image": "cards/stroj_037.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_037.png",
         "isHorizontal": false
       }
     },
@@ -784,7 +784,7 @@
         "name": "Morgev",
         "type": "Robô • goldron • manipulador • atirador",
         "cost": 2,
-        "image": "cards/stroj_038.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_038.png",
         "isHorizontal": false
       }
     },
@@ -805,7 +805,7 @@
         "name": "Rajada de Energia",
         "type": "Ação: manipulador",
         "cost": 0,
-        "image": "cards/stroj_039.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_039.png",
         "isHorizontal": false
       }
     },
@@ -826,7 +826,7 @@
         "name": "Reyzar",
         "type": "Robô • goldron • manipulador • atirador",
         "cost": 3,
-        "image": "cards/stroj_040.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_040.png",
         "isHorizontal": false
       }
     },
@@ -847,7 +847,7 @@
         "name": "Nergyzzak",
         "type": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 4,
-        "image": "cards/stroj_041.png",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/stroj_041.png",
         "isHorizontal": false
       }
     },
