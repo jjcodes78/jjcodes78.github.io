@@ -308,7 +308,10 @@
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "Fortaleza"
+            "displayedTitle": "Fortaleza",
+            "isHorizontalAllowed": true,
+            "noQuickActions": true,
+            "isGroupForbidden": true
           },
           "Hand": {
             "isHidden": "no",
