@@ -49,6 +49,10 @@
                 {
                   "section": "A1",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A1.jpg?09102026')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
@@ -56,6 +60,10 @@
                 {
                   "section": "A2",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A2.jpg?09102026')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
@@ -63,6 +71,10 @@
                 {
                   "section": "A3",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A3.jpg?09102026')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
@@ -70,6 +82,10 @@
                 {
                   "section": "A4",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A4.jpg?09102026')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
