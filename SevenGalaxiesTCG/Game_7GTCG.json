@@ -35,6 +35,10 @@
                 {
                   "section": "EventZone",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/ev_et_sup.jpg?09102026')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
@@ -42,6 +46,10 @@
                 {
                   "section": "SpecialDeck",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/deck_especial.jpg?09102026')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
@@ -111,6 +119,10 @@
                 {
                   "section": "SupportZone",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/et_sup.jpg?09102026')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
@@ -118,6 +130,10 @@
                 {
                   "section": "LeaderZone",
                   "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/lider.jpg?09102026')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
