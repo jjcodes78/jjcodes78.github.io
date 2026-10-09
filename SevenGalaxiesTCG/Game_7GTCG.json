@@ -4,6 +4,10 @@
     "mainFilters": ["type", "cost"],
     "formats": [
       { "title": "Standard format", "gameplay": "Standard" }
+    ],
+    "customCategories": [
+      "Fortress",
+      "SpecialDeck"
     ]
   },
   "gameplay": {
