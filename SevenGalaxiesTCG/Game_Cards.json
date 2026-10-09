@@ -5,21 +5,21 @@
     "face": {
       "front": {
         "name": "Phrozb",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-1-Phrozb-cod1.31a2019f.png",
         "isHorizontal": false
       }
     },
     "name": "Phrozb-1/S1-1",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 1,
     "health": 2,
     "attack": 3,
     "shield": 1,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "2/S1-2": {
     "id": "2/S1-2",
@@ -27,21 +27,21 @@
     "face": {
       "front": {
         "name": "Zagoc",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-2-Zagoc-cod2.f1cd8166.png",
         "isHorizontal": false
       }
     },
     "name": "Zagoc-2/S1-2",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 1,
     "health": 1,
     "attack": 3,
     "shield": 2,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "3/S1-3": {
     "id": "3/S1-3",
@@ -49,21 +49,21 @@
     "face": {
       "front": {
         "name": "Katarb",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-3-Katarb-cod3.a8f7438e.png",
         "isHorizontal": false
       }
     },
     "name": "Katarb-3/S1-3",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 1,
     "health": 2,
     "attack": 2,
     "shield": 1,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "4/S1-4": {
     "id": "4/S1-4",
@@ -71,21 +71,21 @@
     "face": {
       "front": {
         "name": "Dogorb",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-4-Dogorb-cod4.f0cf2a28.png",
         "isHorizontal": false
       }
     },
     "name": "Dogorb-4/S1-4",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 1,
     "health": 1,
     "attack": 3,
     "shield": 1,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "5/S1-5": {
     "id": "5/S1-5",
@@ -93,21 +93,21 @@
     "face": {
       "front": {
         "name": "Jorb",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-5-Jorb-cod5.eacfd5da.png",
         "isHorizontal": false
       }
     },
     "name": "Jorb-5/S1-5",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 1,
     "health": 3,
     "attack": 2,
     "shield": 1,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "6/S1-6": {
     "id": "6/S1-6",
@@ -115,21 +115,21 @@
     "face": {
       "front": {
         "name": "Bauzz",
-        "type": "Robô • goldron • manipulador • atirador",
+        "kind": "Robô • goldron • manipulador • atirador",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-6-Bauzz-cod6.bfc8a342.png",
         "isHorizontal": false
       }
     },
     "name": "Bauzz-6/S1-6",
-    "type": "Robô • goldron • manipulador • atirador",
+    "kind": "Robô • goldron • manipulador • atirador",
     "cost": 1,
     "health": 2,
     "attack": 3,
     "shield": 2,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "7/S1-7": {
     "id": "7/S1-7",
@@ -137,21 +137,21 @@
     "face": {
       "front": {
         "name": "Beltrozz",
-        "type": "Robô • goldron • guerrilheiro",
+        "kind": "Robô • goldron • guerrilheiro",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-7-Beltrozz-cod7.50af66bf.png",
         "isHorizontal": false
       }
     },
     "name": "Beltrozz-7/S1-7",
-    "type": "Robô • goldron • guerrilheiro",
+    "kind": "Robô • goldron • guerrilheiro",
     "cost": 2,
     "health": 3,
     "attack": 3,
     "shield": 1,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "8/S1-8": {
     "id": "8/S1-8",
@@ -159,21 +159,21 @@
     "face": {
       "front": {
         "name": "Garjix",
-        "type": "Robô • goldron • guerrilheiro",
+        "kind": "Robô • goldron • guerrilheiro",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-8-Garjix-cod8.56e663c6.png",
         "isHorizontal": false
       }
     },
     "name": "Garjix-8/S1-8",
-    "type": "Robô • goldron • guerrilheiro",
+    "kind": "Robô • goldron • guerrilheiro",
     "cost": 2,
     "health": 2,
     "attack": 4,
     "shield": 2,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "9/S1-9": {
     "id": "9/S1-9",
@@ -181,21 +181,21 @@
     "face": {
       "front": {
         "name": "Nazzbrok",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-9-Nazzbrok-cod9.bf4f6bb9.png",
         "isHorizontal": false
       }
     },
     "name": "Nazzbrok-9/S1-9",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 2,
     "health": 3,
     "attack": 3,
     "shield": 2,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "10/S1-10": {
     "id": "10/S1-10",
@@ -203,21 +203,21 @@
     "face": {
       "front": {
         "name": "Qytherk",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-10-Qytherk-cod10.475cd843.png",
         "isHorizontal": false
       }
     },
     "name": "Qytherk-10/S1-10",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 2,
     "health": 3,
     "attack": 4,
     "shield": 2,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "11/S1-11": {
     "id": "11/S1-11",
@@ -225,21 +225,21 @@
     "face": {
       "front": {
         "name": "Jyrgozz",
-        "type": "Robô • goldron • manipulador • atirador",
+        "kind": "Robô • goldron • manipulador • atirador",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-11-Jyrgozz-cod11.d8c44578.png",
         "isHorizontal": false
       }
     },
     "name": "Jyrgozz-11/S1-11",
-    "type": "Robô • goldron • manipulador • atirador",
+    "kind": "Robô • goldron • manipulador • atirador",
     "cost": 2,
     "health": 3,
     "attack": 4,
     "shield": 1,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "12/S1-12": {
     "id": "12/S1-12",
@@ -247,21 +247,21 @@
     "face": {
       "front": {
         "name": "Zorbozz",
-        "type": "Robô • goldron • guerrilheiro",
+        "kind": "Robô • goldron • guerrilheiro",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-12-Zorbozz-cod12.4bcaddb3.png",
         "isHorizontal": false
       }
     },
     "name": "Zorbozz-12/S1-12",
-    "type": "Robô • goldron • guerrilheiro",
+    "kind": "Robô • goldron • guerrilheiro",
     "cost": 3,
     "health": 4,
     "attack": 5,
     "shield": 2,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "13/S1-13": {
     "id": "13/S1-13",
@@ -269,21 +269,21 @@
     "face": {
       "front": {
         "name": "Zibrolttar",
-        "type": "Robô • goldron • sentinela",
+        "kind": "Robô • goldron • sentinela",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-13-Zibrolttar-cod13.c0356246.png",
         "isHorizontal": false
       }
     },
     "name": "Zibrolttar-13/S1-13",
-    "type": "Robô • goldron • sentinela",
+    "kind": "Robô • goldron • sentinela",
     "cost": 3,
     "health": 7,
     "attack": 0,
     "shield": 2,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "14/S1-14": {
     "id": "14/S1-14",
@@ -291,21 +291,21 @@
     "face": {
       "front": {
         "name": "Zardok",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-14-Zardok-cod14.0ab21d01.png",
         "isHorizontal": false
       }
     },
     "name": "Zardok-14/S1-14",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 3,
     "health": 3,
     "attack": 6,
     "shield": 2,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "15/S1-15": {
     "id": "15/S1-15",
@@ -313,21 +313,21 @@
     "face": {
       "front": {
         "name": "Cretaur-K",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-15-Cretaur-K-cod15.8d4d5476.png",
         "isHorizontal": false
       }
     },
     "name": "Cretaur-K-15/S1-15",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 3,
     "health": 3,
     "attack": 4,
     "shield": 3,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "16/S1-16": {
     "id": "16/S1-16",
@@ -335,21 +335,21 @@
     "face": {
       "front": {
         "name": "Noctrobazz",
-        "type": "Robô • goldron • manipulador • atirador",
+        "kind": "Robô • goldron • manipulador • atirador",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-16-Noctrobazz-cod16.d3868aae.png",
         "isHorizontal": false
       }
     },
     "name": "Noctrobazz-16/S1-16",
-    "type": "Robô • goldron • manipulador • atirador",
+    "kind": "Robô • goldron • manipulador • atirador",
     "cost": 3,
     "health": 5,
     "attack": 3,
     "shield": 1,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "17/S1-17": {
     "id": "17/S1-17",
@@ -357,21 +357,21 @@
     "face": {
       "front": {
         "name": "Kromyn-B",
-        "type": "Equipamento: robô guerrilheiro",
+        "kind": "Equipamento: robô guerrilheiro",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-17-Kromyn-B-cod17.cdf3f06b.png",
         "isHorizontal": false
       }
     },
     "name": "Kromyn-B-17/S1-17",
-    "type": "Equipamento: robô guerrilheiro",
+    "kind": "Equipamento: robô guerrilheiro",
     "cost": 2,
     "health": null,
     "attack": null,
     "shield": 2,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "18/S1-18": {
     "id": "18/S1-18",
@@ -379,21 +379,21 @@
     "face": {
       "front": {
         "name": "Zartropoolz",
-        "type": "Suporte • mecanismo",
+        "kind": "Suporte • mecanismo",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-18-Zartropoolz-cod18.2aaa7433.png",
         "isHorizontal": false
       }
     },
     "name": "Zartropoolz-18/S1-18",
-    "type": "Suporte • mecanismo",
+    "kind": "Suporte • mecanismo",
     "cost": 1,
     "health": 2,
     "attack": null,
     "shield": null,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "19/S1-19": {
     "id": "19/S1-19",
@@ -401,21 +401,21 @@
     "face": {
       "front": {
         "name": "Zagockranozz",
-        "type": "Equipamento: goldron manipulador",
+        "kind": "Equipamento: goldron manipulador",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-19-Zagockranozz-cod19.400762aa.png",
         "isHorizontal": false
       }
     },
     "name": "Zagockranozz-19/S1-19",
-    "type": "Equipamento: goldron manipulador",
+    "kind": "Equipamento: goldron manipulador",
     "cost": 1,
     "health": 2,
     "attack": null,
     "shield": null,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "SpecialDeck"
+    "type": "SpecialDeck"
   },
   "20/S1-20": {
     "id": "20/S1-20",
@@ -423,21 +423,21 @@
     "face": {
       "front": {
         "name": "Cretaur-K",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 4,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-20-Cretaur-K-cod20.ff977de3.png",
         "isHorizontal": false
       }
     },
     "name": "Cretaur-K-20/S1-20",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 4,
     "health": 5,
     "attack": 5,
     "shield": 3,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "SpecialDeck"
+    "type": "SpecialDeck"
   },
   "41/S1-21": {
     "id": "41/S1-21",
@@ -445,21 +445,21 @@
     "face": {
       "front": {
         "name": "Brox",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-21-Brox-cod41.fc227270.png",
         "isHorizontal": false
       }
     },
     "name": "Brox-41/S1-21",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 1,
     "health": 2,
     "attack": 3,
     "shield": 1,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "42/S1-22": {
     "id": "42/S1-22",
@@ -467,21 +467,21 @@
     "face": {
       "front": {
         "name": "Orbtralzz",
-        "type": "Robô • goldron • manipulador • atirador",
+        "kind": "Robô • goldron • manipulador • atirador",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-22-Orbtralzz-cod42.c0ce8821.png",
         "isHorizontal": false
       }
     },
     "name": "Orbtralzz-42/S1-22",
-    "type": "Robô • goldron • manipulador • atirador",
+    "kind": "Robô • goldron • manipulador • atirador",
     "cost": 1,
     "health": 2,
     "attack": 3,
     "shield": 1,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "43/S1-23": {
     "id": "43/S1-23",
@@ -489,21 +489,21 @@
     "face": {
       "front": {
         "name": "Malbai",
-        "type": "Robô • goldron • manipulador • atirador",
+        "kind": "Robô • goldron • manipulador • atirador",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-23-Malbai-cod43.80231297.png",
         "isHorizontal": false
       }
     },
     "name": "Malbai-43/S1-23",
-    "type": "Robô • goldron • manipulador • atirador",
+    "kind": "Robô • goldron • manipulador • atirador",
     "cost": 1,
     "health": 2,
     "attack": 2,
     "shield": 2,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "44/S1-24": {
     "id": "44/S1-24",
@@ -511,21 +511,21 @@
     "face": {
       "front": {
         "name": "Therkoj",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-24-Therkoj-cod44.0997567c.png",
         "isHorizontal": false
       }
     },
     "name": "Therkoj-44/S1-24",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 2,
     "health": 3,
     "attack": 4,
     "shield": 2,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "45/S1-25": {
     "id": "45/S1-25",
@@ -533,21 +533,21 @@
     "face": {
       "front": {
         "name": "Nergyzzak",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-25-Nergyzzak-cod45.2b42fa71.png",
         "isHorizontal": false
       }
     },
     "name": "Nergyzzak-45/S1-25",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 2,
     "health": 2,
     "attack": 2,
     "shield": 1,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "46/S1-26": {
     "id": "46/S1-26",
@@ -555,21 +555,21 @@
     "face": {
       "front": {
         "name": "Kytrov",
-        "type": "Robô • goldron • manipulador • atirador",
+        "kind": "Robô • goldron • manipulador • atirador",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-26-Kytrov-cod46.55de9199.png",
         "isHorizontal": false
       }
     },
     "name": "Kytrov-46/S1-26",
-    "type": "Robô • goldron • manipulador • atirador",
+    "kind": "Robô • goldron • manipulador • atirador",
     "cost": 2,
     "health": 3,
     "attack": 5,
     "shield": 1,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "47/S1-27": {
     "id": "47/S1-27",
@@ -577,21 +577,21 @@
     "face": {
       "front": {
         "name": "Crottanox",
-        "type": "Robô • goldron • guerrilheiro",
+        "kind": "Robô • goldron • guerrilheiro",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-27-Crottanox-cod47.2f6e888b.png",
         "isHorizontal": false
       }
     },
     "name": "Crottanox-47/S1-27",
-    "type": "Robô • goldron • guerrilheiro",
+    "kind": "Robô • goldron • guerrilheiro",
     "cost": 3,
     "health": 4,
     "attack": 4,
     "shield": 1,
     "counter_attack": 3,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "48/S1-28": {
     "id": "48/S1-28",
@@ -599,21 +599,21 @@
     "face": {
       "front": {
         "name": "Phroniac",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-28-Phroniac-cod48.7d50522a.png",
         "isHorizontal": false
       }
     },
     "name": "Phroniac-48/S1-28",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 3,
     "health": 4,
     "attack": 6,
     "shield": 1,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "49/S1-29": {
     "id": "49/S1-29",
@@ -621,21 +621,21 @@
     "face": {
       "front": {
         "name": "Zartrox",
-        "type": "Robô • goldron • manipulador • sentinela",
+        "kind": "Robô • goldron • manipulador • sentinela",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-29-Zartrox-cod49.8c17a17f.png",
         "isHorizontal": false
       }
     },
     "name": "Zartrox-49/S1-29",
-    "type": "Robô • goldron • manipulador • sentinela",
+    "kind": "Robô • goldron • manipulador • sentinela",
     "cost": 3,
     "health": 4,
     "attack": 4,
     "shield": 2,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "50/S1-30": {
     "id": "50/S1-30",
@@ -643,21 +643,21 @@
     "face": {
       "front": {
         "name": "Fúria Robótica",
-        "type": "Ação: manipulador",
+        "kind": "Ação: manipulador",
         "cost": 0,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-30-Fúria-Robótica-cod50.ef51e3ef.png",
         "isHorizontal": false
       }
     },
     "name": "Fúria Robótica-50/S1-30",
-    "type": "Ação: manipulador",
+    "kind": "Ação: manipulador",
     "cost": 0,
     "health": null,
     "attack": null,
     "shield": null,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "51/S1-31": {
     "id": "51/S1-31",
@@ -665,21 +665,21 @@
     "face": {
       "front": {
         "name": "Zardok",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 4,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-31-Zardok-cod51.3c1be30e.png",
         "isHorizontal": false
       }
     },
     "name": "Zardok-51/S1-31",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 4,
     "health": 6,
     "attack": 6,
     "shield": 2,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "SpecialDeck"
+    "type": "SpecialDeck"
   },
   "63/S1-32": {
     "id": "63/S1-32",
@@ -687,21 +687,21 @@
     "face": {
       "front": {
         "name": "Wormyd",
-        "type": "Robô • goldron • guerrilheiro",
+        "kind": "Robô • goldron • guerrilheiro",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-32-Wormyd-cod63.79c4ce5b.png",
         "isHorizontal": false
       }
     },
     "name": "Wormyd-63/S1-32",
-    "type": "Robô • goldron • guerrilheiro",
+    "kind": "Robô • goldron • guerrilheiro",
     "cost": 2,
     "health": 3,
     "attack": 4,
     "shield": 1,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "64/S1-33": {
     "id": "64/S1-33",
@@ -709,21 +709,21 @@
     "face": {
       "front": {
         "name": "Zartroworb",
-        "type": "Suporte • mecanismo",
+        "kind": "Suporte • mecanismo",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-33-Zartroworb-cod64.2dd30001.png",
         "isHorizontal": false
       }
     },
     "name": "Zartroworb-64/S1-33",
-    "type": "Suporte • mecanismo",
+    "kind": "Suporte • mecanismo",
     "cost": 1,
     "health": null,
     "attack": null,
     "shield": null,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "65/S1-34": {
     "id": "65/S1-34",
@@ -731,21 +731,21 @@
     "face": {
       "front": {
         "name": "Trowerbell",
-        "type": "Suporte • armamento",
+        "kind": "Suporte • armamento",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-34-Trowerbell-cod65.cda77620.png",
         "isHorizontal": false
       }
     },
     "name": "Trowerbell-65/S1-34",
-    "type": "Suporte • armamento",
+    "kind": "Suporte • armamento",
     "cost": 3,
     "health": 2,
     "attack": null,
     "shield": null,
     "counter_attack": 3,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "66/S1-35": {
     "id": "66/S1-35",
@@ -753,21 +753,21 @@
     "face": {
       "front": {
         "name": "Phroniac",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 4,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-35-Phroniac-cod66.01a65fc4.png",
         "isHorizontal": false
       }
     },
     "name": "Phroniac-66/S1-35",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 4,
     "health": 6,
     "attack": 7,
     "shield": 1,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "SpecialDeck"
+    "type": "SpecialDeck"
   },
   "71/S1-36": {
     "id": "71/S1-36",
@@ -775,21 +775,21 @@
     "face": {
       "front": {
         "name": "Explosão Goldroniana",
-        "type": "Evento",
+        "kind": "Evento",
         "cost": 0,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-36-Explosão Goldroniana-cod71.b95e494b.png",
         "isHorizontal": false
       }
     },
     "name": "Explosão Goldroniana-71/S1-36",
-    "type": "Evento",
+    "kind": "Evento",
     "cost": 0,
     "health": null,
     "attack": null,
     "shield": null,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "73/S1-37": {
     "id": "73/S1-37",
@@ -797,21 +797,21 @@
     "face": {
       "front": {
         "name": "Gowba",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-37-Gowba-cod73.5cfded09.png",
         "isHorizontal": false
       }
     },
     "name": "Gowba-73/S1-37",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 1,
     "health": 2,
     "attack": 2,
     "shield": 2,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "74/S1-38": {
     "id": "74/S1-38",
@@ -819,21 +819,21 @@
     "face": {
       "front": {
         "name": "Morgev",
-        "type": "Robô • goldron • manipulador • atirador",
+        "kind": "Robô • goldron • manipulador • atirador",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-38-Morgev-cod74.88946572.png",
         "isHorizontal": false
       }
     },
     "name": "Morgev-74/S1-38",
-    "type": "Robô • goldron • manipulador • atirador",
+    "kind": "Robô • goldron • manipulador • atirador",
     "cost": 2,
     "health": 2,
     "attack": 3,
     "shield": 2,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "75/S1-39": {
     "id": "75/S1-39",
@@ -841,21 +841,21 @@
     "face": {
       "front": {
         "name": "Rajada de Energia",
-        "type": "Ação: manipulador",
+        "kind": "Ação: manipulador",
         "cost": 0,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-39-Rajada-de-Energia-cod75.482d8fb8.png",
         "isHorizontal": false
       }
     },
     "name": "Rajada de Energia-75/S1-39",
-    "type": "Ação: manipulador",
+    "kind": "Ação: manipulador",
     "cost": 0,
     "health": null,
     "attack": null,
     "shield": null,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "76/S1-40": {
     "id": "76/S1-40",
@@ -863,21 +863,21 @@
     "face": {
       "front": {
         "name": "Reyzar",
-        "type": "Robô • goldron • manipulador • atirador",
+        "kind": "Robô • goldron • manipulador • atirador",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-40-Reyzar-cod76.54ec4d37.png",
         "isHorizontal": false
       }
     },
     "name": "Reyzar-76/S1-40",
-    "type": "Robô • goldron • manipulador • atirador",
+    "kind": "Robô • goldron • manipulador • atirador",
     "cost": 3,
     "health": 3,
     "attack": 5,
     "shield": 2,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "77/S1-41": {
     "id": "77/S1-41",
@@ -885,21 +885,21 @@
     "face": {
       "front": {
         "name": "Nergyzzak",
-        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "kind": "Robô • goldron • manipulador • guerrilheiro",
         "cost": 4,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-41-Nergyzzak-Ev-cod77.6078d941.png",
         "isHorizontal": false
       }
     },
     "name": "Nergyzzak-77/S1-41",
-    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "kind": "Robô • goldron • manipulador • guerrilheiro",
     "cost": 4,
     "health": 4,
     "attack": 4,
     "shield": 2,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "SpecialDeck"
+    "type": "SpecialDeck"
   },
   "R1/S1-R1": {
     "id": "R1/S1-R1",
@@ -907,21 +907,21 @@
     "face": {
       "front": {
         "name": "RECURSO",
-        "type": "Recurso",
+        "kind": "Recurso",
         "cost": 0,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-R1-Recurso-codR1.e7b9eb89.png",
         "isHorizontal": false
       }
     },
     "name": "RECURSO-R1/S1-R1",
-    "type": "Recurso",
+    "kind": "Recurso",
     "cost": 0,
     "health": 0,
     "attack": 0,
     "shield": 0,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "SpecialDeck"
+    "type": "SpecialDeck"
   },
   "F1/S1-F1": {
     "id": "F1/S1-F1",
@@ -929,21 +929,21 @@
     "face": {
       "front": {
         "name": "Zartrower",
-        "type": "Fortaleza",
+        "kind": "Fortaleza",
         "cost": 0,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/S1-F1-Zartrower-codF1.0cf25227.png",
         "isHorizontal": true
       }
     },
     "name": "Zartrower-F1/S1-F1",
-    "type": "Fortaleza",
+    "kind": "Fortaleza",
     "cost": 0,
     "health": 30,
     "attack": 0,
     "shield": 0,
     "counter_attack": 0,
     "isHorizontal": true,
-    "kind": "Fortress"
+    "type": "Fortress"
   },
   "21/G1-1": {
     "id": "21/G1-1",
@@ -951,21 +951,21 @@
     "face": {
       "front": {
         "name": "Themis Althea",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-1-Themis-Althea-cod21.16485c9a.png",
         "isHorizontal": false
       }
     },
     "name": "Themis Althea-21/G1-1",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 1,
     "health": 3,
     "attack": 2,
     "shield": 1,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "22/G1-2": {
     "id": "22/G1-2",
@@ -973,21 +973,21 @@
     "face": {
       "front": {
         "name": "Alice Saitta, A Estrategista",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-2-Alice-Saitta-cod22.a5546ce4.png",
         "isHorizontal": false
       }
     },
     "name": "Alice Saitta, A Estrategista-22/G1-2",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 1,
     "health": 3,
     "attack": 3,
     "shield": 0,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "23/G1-3": {
     "id": "23/G1-3",
@@ -995,21 +995,21 @@
     "face": {
       "front": {
         "name": "Alessa Chronis",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-3-Alessa-Chronis-cod23.59bbce70.png",
         "isHorizontal": false
       }
     },
     "name": "Alessa Chronis-23/G1-3",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 1,
     "health": 2,
     "attack": 3,
     "shield": 1,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "24/G1-4": {
     "id": "24/G1-4",
@@ -1017,21 +1017,21 @@
     "face": {
       "front": {
         "name": "Heleen Herod",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-4-Heleen-Herod-cod24.058e8ed2.png",
         "isHorizontal": false
       }
     },
     "name": "Heleen Herod-24/G1-4",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 1,
     "health": 2,
     "attack": 3,
     "shield": 1,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "25/G1-5": {
     "id": "25/G1-5",
@@ -1039,21 +1039,21 @@
     "face": {
       "front": {
         "name": "Julie Asker",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-5-Julie-Asker-cod25.dc2903c0.png",
         "isHorizontal": false
       }
     },
     "name": "Julie Asker-25/G1-5",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 1,
     "health": 2,
     "attack": 3,
     "shield": 1,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "26/G1-6": {
     "id": "26/G1-6",
@@ -1061,21 +1061,21 @@
     "face": {
       "front": {
         "name": "Emilly Makris",
-        "type": "Humano • amazona • arqueira",
+        "kind": "Humano • amazona • arqueira",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-6-Emilly-Makris-cod26.16c810f1.png",
         "isHorizontal": false
       }
     },
     "name": "Emilly Makris-26/G1-6",
-    "type": "Humano • amazona • arqueira",
+    "kind": "Humano • amazona • arqueira",
     "cost": 1,
     "health": 1,
     "attack": 3,
     "shield": 1,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "27/G1-7": {
     "id": "27/G1-7",
@@ -1083,21 +1083,21 @@
     "face": {
       "front": {
         "name": "Agatha Petrides",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-7-Agatha-Petrides-cod27.b78de200.png",
         "isHorizontal": false
       }
     },
     "name": "Agatha Petrides-27/G1-7",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 2,
     "health": 3,
     "attack": 4,
     "shield": 1,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "28/G1-8": {
     "id": "28/G1-8",
@@ -1105,21 +1105,21 @@
     "face": {
       "front": {
         "name": "Alexxia Liakos",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-8-Alexxia-Liakos-cod28.c7937127.png",
         "isHorizontal": false
       }
     },
     "name": "Alexxia Liakos-28/G1-8",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 2,
     "health": 2,
     "attack": 4,
     "shield": 1,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "29/G1-9": {
     "id": "29/G1-9",
@@ -1127,21 +1127,21 @@
     "face": {
       "front": {
         "name": "Nyssa Kontos",
-        "type": "Humano • amazona • arqueira",
+        "kind": "Humano • amazona • arqueira",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-9-Nyssa-Kontos-cod29.37709040.png",
         "isHorizontal": false
       }
     },
     "name": "Nyssa Kontos-29/G1-9",
-    "type": "Humano • amazona • arqueira",
+    "kind": "Humano • amazona • arqueira",
     "cost": 2,
     "health": 4,
     "attack": 3,
     "shield": 1,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "30/G1-10": {
     "id": "30/G1-10",
@@ -1149,21 +1149,21 @@
     "face": {
       "front": {
         "name": "Alana Dimitris",
-        "type": "Humano • amazona • arqueira",
+        "kind": "Humano • amazona • arqueira",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-10-Alana-Dimitris-cod30.ae182f2d.png",
         "isHorizontal": false
       }
     },
     "name": "Alana Dimitris-30/G1-10",
-    "type": "Humano • amazona • arqueira",
+    "kind": "Humano • amazona • arqueira",
     "cost": 2,
     "health": 3,
     "attack": 3,
     "shield": 1,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "31/G1-11": {
     "id": "31/G1-11",
@@ -1171,21 +1171,21 @@
     "face": {
       "front": {
         "name": "Cloey Harris",
-        "type": "Humano • amazona • arqueira",
+        "kind": "Humano • amazona • arqueira",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-11-Cloey-Harris-cod31.e7532459.png",
         "isHorizontal": false
       }
     },
     "name": "Cloey Harris-31/G1-11",
-    "type": "Humano • amazona • arqueira",
+    "kind": "Humano • amazona • arqueira",
     "cost": 2,
     "health": 3,
     "attack": 4,
     "shield": 1,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "32/G1-12": {
     "id": "32/G1-12",
@@ -1193,21 +1193,21 @@
     "face": {
       "front": {
         "name": "Lorena Pallas",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-12-Lorena-Pallas-cod32.fa1b720c.png",
         "isHorizontal": false
       }
     },
     "name": "Lorena Pallas-32/G1-12",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 3,
     "health": 4,
     "attack": 5,
     "shield": 1,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "33/G1-13": {
     "id": "33/G1-13",
@@ -1215,21 +1215,21 @@
     "face": {
       "front": {
         "name": "Sapphira Andreas",
-        "type": "Humano • amazona • defensora",
+        "kind": "Humano • amazona • defensora",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-13-Sapphira-Andreas-cod33.b674eb39.png",
         "isHorizontal": false
       }
     },
     "name": "Sapphira Andreas-33/G1-13",
-    "type": "Humano • amazona • defensora",
+    "kind": "Humano • amazona • defensora",
     "cost": 3,
     "health": 4,
     "attack": 3,
     "shield": 2,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "34/G1-14": {
     "id": "34/G1-14",
@@ -1237,21 +1237,21 @@
     "face": {
       "front": {
         "name": "Sonya Kamber",
-        "type": "Humano • amazona • defensora • mestra",
+        "kind": "Humano • amazona • defensora • mestra",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-14-Sonya-Kamber-cod34.9622d81e.png",
         "isHorizontal": false
       }
     },
     "name": "Sonya Kamber-34/G1-14",
-    "type": "Humano • amazona • defensora • mestra",
+    "kind": "Humano • amazona • defensora • mestra",
     "cost": 3,
     "health": 6,
     "attack": 3,
     "shield": 2,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "35/G1-15": {
     "id": "35/G1-15",
@@ -1259,21 +1259,21 @@
     "face": {
       "front": {
         "name": "Alisha Kamber",
-        "type": "Humano • amazona • arqueira • mestra",
+        "kind": "Humano • amazona • arqueira • mestra",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-15-Alisha-Kamber-cod35.f4f0811a.png",
         "isHorizontal": false
       }
     },
     "name": "Alisha Kamber-35/G1-15",
-    "type": "Humano • amazona • arqueira • mestra",
+    "kind": "Humano • amazona • arqueira • mestra",
     "cost": 3,
     "health": 4,
     "attack": 4,
     "shield": 2,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "36/G1-16": {
     "id": "36/G1-16",
@@ -1281,21 +1281,21 @@
     "face": {
       "front": {
         "name": "Pyetra Vlachos",
-        "type": "Humano • amazona • arqueira",
+        "kind": "Humano • amazona • arqueira",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-16-Pyetra-Vlachos-cod36.516dff6f.png",
         "isHorizontal": false
       }
     },
     "name": "Pyetra Vlachos-36/G1-16",
-    "type": "Humano • amazona • arqueira",
+    "kind": "Humano • amazona • arqueira",
     "cost": 3,
     "health": 3,
     "attack": 4,
     "shield": 2,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "37/G1-17": {
     "id": "37/G1-17",
@@ -1303,21 +1303,21 @@
     "face": {
       "front": {
         "name": "Armas Secretas da Ilha de Náxos",
-        "type": "Equipamento: amazona guerreira",
+        "kind": "Equipamento: amazona guerreira",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-17-Armas-Secretas-da-Ilha-de-Náxos-cod37.3f7bc770.png",
         "isHorizontal": false
       }
     },
     "name": "Armas Secretas da Ilha de Náxos-37/G1-17",
-    "type": "Equipamento: amazona guerreira",
+    "kind": "Equipamento: amazona guerreira",
     "cost": 3,
     "health": null,
     "attack": 3,
     "shield": 1,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "38/G1-18": {
     "id": "38/G1-18",
@@ -1325,21 +1325,21 @@
     "face": {
       "front": {
         "name": "União das Arqueiras",
-        "type": "Estratégia",
+        "kind": "Estratégia",
         "cost": 0,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-18-União-das-Arqueiras-cod38.06e1fd8a.png",
         "isHorizontal": false
       }
     },
     "name": "União das Arqueiras-38/G1-18",
-    "type": "Estratégia",
+    "kind": "Estratégia",
     "cost": 0,
     "health": null,
     "attack": null,
     "shield": null,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "39/G1-19": {
     "id": "39/G1-19",
@@ -1347,21 +1347,21 @@
     "face": {
       "front": {
         "name": "Amazonas Calouras",
-        "type": "Humano • amazona • defensora",
+        "kind": "Humano • amazona • defensora",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-19-Amazonas-Calouras-cod39.2c3dcb1d.png",
         "isHorizontal": false
       }
     },
     "name": "Amazonas Calouras-39/G1-19",
-    "type": "Humano • amazona • defensora",
+    "kind": "Humano • amazona • defensora",
     "cost": 2,
     "health": 6,
     "attack": 0,
     "shield": 2,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "SpecialDeck"
+    "type": "SpecialDeck"
   },
   "40/G1-20": {
     "id": "40/G1-20",
@@ -1369,21 +1369,21 @@
     "face": {
       "front": {
         "name": "Lorena Pallas",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 4,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-20-Lorena-Pallas-cod40.a8b6471f.png",
         "isHorizontal": false
       }
     },
     "name": "Lorena Pallas-40/G1-20",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 4,
     "health": 6,
     "attack": 5,
     "shield": 2,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "SpecialDeck"
+    "type": "SpecialDeck"
   },
   "52/G1-21": {
     "id": "52/G1-21",
@@ -1391,21 +1391,21 @@
     "face": {
       "front": {
         "name": "Kalya Linard",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-21-Kalya-Linard-cod52.62e07b9e.png",
         "isHorizontal": false
       }
     },
     "name": "Kalya Linard-52/G1-21",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 1,
     "health": 2,
     "attack": 3,
     "shield": 0,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "53/G1-22": {
     "id": "53/G1-22",
@@ -1413,21 +1413,21 @@
     "face": {
       "front": {
         "name": "Nohely Kaligaris",
-        "type": "Humano • amazona • arqueira",
+        "kind": "Humano • amazona • arqueira",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-22-Nohely-Kaligaris-cod53.38c622ba.png",
         "isHorizontal": false
       }
     },
     "name": "Nohely Kaligaris-53/G1-22",
-    "type": "Humano • amazona • arqueira",
+    "kind": "Humano • amazona • arqueira",
     "cost": 1,
     "health": 2,
     "attack": 3,
     "shield": 0,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "54/G1-23": {
     "id": "54/G1-23",
@@ -1435,21 +1435,21 @@
     "face": {
       "front": {
         "name": "Yrís Hatzis",
-        "type": "Humano • amazona • arqueira",
+        "kind": "Humano • amazona • arqueira",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-23-Yrís-Hatzis-cod54.91d4bbd0.png",
         "isHorizontal": false
       }
     },
     "name": "Yrís Hatzis-54/G1-23",
-    "type": "Humano • amazona • arqueira",
+    "kind": "Humano • amazona • arqueira",
     "cost": 1,
     "health": 2,
     "attack": 3,
     "shield": 0,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "55/G1-24": {
     "id": "55/G1-24",
@@ -1457,21 +1457,21 @@
     "face": {
       "front": {
         "name": "Jacee Loris",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-24-Jacee-Loris-cod55.58385172.png",
         "isHorizontal": false
       }
     },
     "name": "Jacee Loris-55/G1-24",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 2,
     "health": 3,
     "attack": 4,
     "shield": 1,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "56/G1-25": {
     "id": "56/G1-25",
@@ -1479,21 +1479,21 @@
     "face": {
       "front": {
         "name": "Tessa Rubis",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-25-Tessa-Rubis-cod56.509d64fc.png",
         "isHorizontal": false
       }
     },
     "name": "Tessa Rubis-56/G1-25",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 2,
     "health": 3,
     "attack": 4,
     "shield": 1,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "57/G1-26": {
     "id": "57/G1-26",
@@ -1501,21 +1501,21 @@
     "face": {
       "front": {
         "name": "Kynthia Cali",
-        "type": "Humano • amazona • guerreira • ladina",
+        "kind": "Humano • amazona • guerreira • ladina",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-26-Kynthia-Cali-cod57.0370e8a9.png",
         "isHorizontal": false
       }
     },
     "name": "Kynthia Cali-57/G1-26",
-    "type": "Humano • amazona • guerreira • ladina",
+    "kind": "Humano • amazona • guerreira • ladina",
     "cost": 2,
     "health": 2,
     "attack": 4,
     "shield": 2,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "58/G1-27": {
     "id": "58/G1-27",
@@ -1523,21 +1523,21 @@
     "face": {
       "front": {
         "name": "Maya Myron",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-27-Maya-Myron-cod58.6879a45b.png",
         "isHorizontal": false
       }
     },
     "name": "Maya Myron-58/G1-27",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 3,
     "health": 3,
     "attack": 4,
     "shield": 2,
     "counter_attack": 3,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "59/G1-28": {
     "id": "59/G1-28",
@@ -1545,21 +1545,21 @@
     "face": {
       "front": {
         "name": "Katherine Adamopoulos",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-28-Katherine-Adamopoulos-cod59.c8c94b6c.png",
         "isHorizontal": false
       }
     },
     "name": "Katherine Adamopoulos-59/G1-28",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 3,
     "health": 3,
     "attack": 6,
     "shield": 2,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "60/G1-29": {
     "id": "60/G1-29",
@@ -1567,21 +1567,21 @@
     "face": {
       "front": {
         "name": "Thea Persayious",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-29-Thea-Persayious-cod60.3d763127.png",
         "isHorizontal": false
       }
     },
     "name": "Thea Persayious-60/G1-29",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 3,
     "health": 3,
     "attack": 5,
     "shield": 2,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "61/G1-30": {
     "id": "61/G1-30",
@@ -1589,21 +1589,21 @@
     "face": {
       "front": {
         "name": "Ataque Inesperado da Arqueira",
-        "type": "Ação: arqueira",
+        "kind": "Ação: arqueira",
         "cost": 0,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-30-Ataque-Inesperado-da-Arqueira-cod61.3673873a.png",
         "isHorizontal": false
       }
     },
     "name": "Ataque Inesperado da Arqueira-61/G1-30",
-    "type": "Ação: arqueira",
+    "kind": "Ação: arqueira",
     "cost": 0,
     "health": 0,
     "attack": 0,
     "shield": 0,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "62/G1-31": {
     "id": "62/G1-31",
@@ -1611,21 +1611,21 @@
     "face": {
       "front": {
         "name": "Maya Myron",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 4,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-31-Maya-Myron-cod62.25d50692.png",
         "isHorizontal": false
       }
     },
     "name": "Maya Myron-62/G1-31",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 4,
     "health": 6,
     "attack": 5,
     "shield": 2,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "SpecialDeck"
+    "type": "SpecialDeck"
   },
   "67/G1-32": {
     "id": "67/G1-32",
@@ -1633,21 +1633,21 @@
     "face": {
       "front": {
         "name": "Norah Kallis",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-32-Norah-Kallis-cod67.aa919bb2.png",
         "isHorizontal": false
       }
     },
     "name": "Norah Kallis-67/G1-32",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 2,
     "health": 2,
     "attack": 4,
     "shield": 2,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "68/G1-33": {
     "id": "68/G1-33",
@@ -1655,21 +1655,21 @@
     "face": {
       "front": {
         "name": "Aurora Roussou",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-33-Aurora Roussou-cod68.38451521.png",
         "isHorizontal": false
       }
     },
     "name": "Aurora Roussou-68/G1-33",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 2,
     "health": 3,
     "attack": 3,
     "shield": 1,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "69/G1-34": {
     "id": "69/G1-34",
@@ -1677,21 +1677,21 @@
     "face": {
       "front": {
         "name": "Machado da Aurora",
-        "type": "Equipamento: guerreira",
+        "kind": "Equipamento: guerreira",
         "cost": 2,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-34-Machado da Aurora-cod69.2ad7499c.png",
         "isHorizontal": false
       }
     },
     "name": "Machado da Aurora-69/G1-34",
-    "type": "Equipamento: guerreira",
+    "kind": "Equipamento: guerreira",
     "cost": 2,
     "health": null,
     "attack": null,
     "shield": 2,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "70/G1-35": {
     "id": "70/G1-35",
@@ -1699,21 +1699,21 @@
     "face": {
       "front": {
         "name": "Katherine Adamopoulos",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 0,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-35-Katherine Adamopoulos-cod70.46fc71b4.png",
         "isHorizontal": false
       }
     },
     "name": "Katherine Adamopoulos-70/G1-35",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 0,
     "health": 5,
     "attack": 7,
     "shield": 2,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "SpecialDeck"
+    "type": "SpecialDeck"
   },
   "72/G1-36": {
     "id": "72/G1-36",
@@ -1721,21 +1721,21 @@
     "face": {
       "front": {
         "name": "Chuva de Flechas",
-        "type": "Evento",
+        "kind": "Evento",
         "cost": 0,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-36-Chuva-de-Flechas-cod72.367ef482.png",
         "isHorizontal": false
       }
     },
     "name": "Chuva de Flechas-72/G1-36",
-    "type": "Evento",
+    "kind": "Evento",
     "cost": 0,
     "health": null,
     "attack": null,
     "shield": 10,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "78/G1-37": {
     "id": "78/G1-37",
@@ -1743,21 +1743,21 @@
     "face": {
       "front": {
         "name": "Hilare Philemon",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-37-Hillare-Philemon-cod78.d4bfa8a7.png",
         "isHorizontal": false
       }
     },
     "name": "Hilare Philemon-78/G1-37",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 3,
     "health": 4,
     "attack": 4,
     "shield": 1,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "79/G1-38": {
     "id": "79/G1-38",
@@ -1765,21 +1765,21 @@
     "face": {
       "front": {
         "name": "Esconderijo das Amazonas",
-        "type": "Suporte • lugar",
+        "kind": "Suporte • lugar",
         "cost": 1,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-38-Esconderijo-das-Amazonas-cod79.612a0731.png",
         "isHorizontal": false
       }
     },
     "name": "Esconderijo das Amazonas-79/G1-38",
-    "type": "Suporte • lugar",
+    "kind": "Suporte • lugar",
     "cost": 1,
     "health": 2,
     "attack": 0,
     "shield": 0,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "80/G1-39": {
     "id": "80/G1-39",
@@ -1787,21 +1787,21 @@
     "face": {
       "front": {
         "name": "Ataque Simultâneo das Amazonas",
-        "type": "Suporte • lugar",
+        "kind": "Suporte • lugar",
         "cost": 0,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-39-Ataque-Simultâneo-das-Amazonas-cod80.c47939bd.png",
         "isHorizontal": false
       }
     },
     "name": "Ataque Simultâneo das Amazonas-80/G1-39",
-    "type": "Suporte • lugar",
+    "kind": "Suporte • lugar",
     "cost": 0,
     "health": 0,
     "attack": 0,
     "shield": 0,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "81/G1-40": {
     "id": "81/G1-40",
@@ -1809,21 +1809,21 @@
     "face": {
       "front": {
         "name": "Tamesis Acalântis",
-        "type": "Humano • amazona • guerreira • defensora",
+        "kind": "Humano • amazona • guerreira • defensora",
         "cost": 3,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-40-Tamesis-Acalântis-cod81.1ac91213.png",
         "isHorizontal": false
       }
     },
     "name": "Tamesis Acalântis-81/G1-40",
-    "type": "Humano • amazona • guerreira • defensora",
+    "kind": "Humano • amazona • guerreira • defensora",
     "cost": 3,
     "health": 4,
     "attack": 4,
     "shield": 2,
     "counter_attack": 1,
     "isHorizontal": false,
-    "kind": "Normal"
+    "type": "Normal"
   },
   "82/G1-41": {
     "id": "82/G1-41",
@@ -1831,21 +1831,21 @@
     "face": {
       "front": {
         "name": "Hilare Philemon",
-        "type": "Humano • amazona • guerreira",
+        "kind": "Humano • amazona • guerreira",
         "cost": 4,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-41-Hillare-Philemon-Ev-cod82.722b1489.png",
         "isHorizontal": false
       }
     },
     "name": "Hilare Philemon-82/G1-41",
-    "type": "Humano • amazona • guerreira",
+    "kind": "Humano • amazona • guerreira",
     "cost": 4,
     "health": 6,
     "attack": 5,
     "shield": 1,
     "counter_attack": 2,
     "isHorizontal": false,
-    "kind": "SpecialDeck"
+    "type": "SpecialDeck"
   },
   "F2/G1-F1": {
     "id": "F2/G1-F1",
@@ -1853,21 +1853,21 @@
     "face": {
       "front": {
         "name": "Palácio das Amazonas",
-        "type": "Fortaleza",
+        "kind": "Fortaleza",
         "cost": 0,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-F1-Palácio-das-Amazonas-codF2.679dd49f.png",
         "isHorizontal": true
       }
     },
     "name": "Palácio das Amazonas-F2/G1-F1",
-    "type": "Fortaleza",
+    "kind": "Fortaleza",
     "cost": 0,
     "health": 30,
     "attack": 0,
     "shield": 0,
     "counter_attack": 0,
     "isHorizontal": true,
-    "kind": "Fortress"
+    "type": "Fortress"
   },
   "R2/G1-R1": {
     "id": "R2/G1-R1",
@@ -1875,20 +1875,20 @@
     "face": {
       "front": {
         "name": "RECURSO",
-        "type": "Recurso",
+        "kind": "Recurso",
         "cost": 0,
         "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/G1-R1-Recurso-codR2.b804f638.png",
         "isHorizontal": false
       }
     },
     "name": "RECURSO-R2/G1-R1",
-    "type": "Recurso",
+    "kind": "Recurso",
     "cost": 0,
     "health": 0,
     "attack": 0,
     "shield": 0,
     "counter_attack": 0,
     "isHorizontal": false,
-    "kind": "SpecialDeck"
+    "type": "SpecialDeck"
   }
 }
