@@ -9,13 +9,17 @@
   "gameplay": {
     "Standard": {
       "mulligan": {
-        "startingHandSize": 5
+        "startingHandSize": 6
       },
       "newTurn": {
         "drawPerTurn": 1
       },
       "countersStartingValues": [],
       "sections": {
+        "customSections": [
+          "SpecialDeck",
+          "Fortress"
+        ],
         "layout": {
           "direction": "column",
           "style": {
@@ -199,17 +203,21 @@
             }
           ]
         },
+        "categoriesAlreadyOnBoard": [
+          "SpecialDeck",
+          "Fortress"
+        ],
         "sectionsDict": {
           "EventZone": {
             "isHidden": "no",
             "height": 18,
-            "alignment": "START",
+            "alignment": "CENTER",
             "displayedTitle": "Eventos / Estratégias / Suportes"
           },
           "SpecialDeck": {
             "isHidden": "yes",
             "height": 18,
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "displayedTitle": "Deck Especial"
           },
           "A1": {
@@ -239,8 +247,10 @@
           "Resources": {
             "type": "custom",
             "defaultValue": {
-              "level": 0,
-              "energy": 0
+              "level": 1,
+              "energy": 1,
+              "curLevel": 1,
+              "curEnergy": 1
             },
             "blueprint": {
               "type": "div",
@@ -279,9 +289,19 @@
                   "type": "input-number",
                   "props": {
                     "value": "{{ game.data.Resources.level }}",
-                    "min": 0
+                    "min": 1,
+                    "max": 10
                   },
                   "onChange": "game.data.Resources.level = value"
+                },
+                {
+                  "type": "input-number",
+                  "props": {
+                    "value": "{{ game.data.Resources.curLevel }}",
+                    "min": 1,
+                    "max": 10
+                  },
+                  "onChange": "game.data.Resources.curLevel = value"
                 },
                 {
                   "type": "label",
@@ -293,9 +313,19 @@
                   "type": "input-number",
                   "props": {
                     "value": "{{ game.data.Resources.energy }}",
-                    "min": 0
+                    "min": 1,
+                    "max": 10
                   },
                   "onChange": "game.data.Resources.energy = value"
+                },
+                {
+                  "type": "input-number",
+                  "props": {
+                    "value": "{{ game.data.Resources.curEnergy }}",
+                    "min": 1,
+                    "max": 10
+                  },
+                  "onChange": "game.data.Resources.curEnergy = value"
                 }
               ]
             }
