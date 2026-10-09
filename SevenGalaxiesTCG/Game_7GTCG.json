@@ -6,26 +6,19 @@
       {
         "title": "Standard format",
         "gameplay": "Standard",
+        "deckRuleset": "Standard"
+      }
+    ],
+    "deckRulesets": {
+      "Standard": {
         "general": { "min": 30, "maxPerCard": 2 },
         "categories": [
-          {
-            "category": "Normal",
-            "min": 30,
-            "max": 40
-          },
-          {
-            "category": "SpecialDeck",
-            "min": 0,
-            "max": 99
-          },
-          {
-            "category": "Fortress",
-            "min": 1,
-            "max": 1
-          }
+          { "category": "Normal", "min": 30, "max": 40 },
+          { "category": "SpecialDeck", "min": 0, "max": 99 },
+          { "category": "Fortress", "min": 1, "max": 1 }
         ]
       }
-    ]
+    }
   },
   "gameplay": {
     "Standard": {
