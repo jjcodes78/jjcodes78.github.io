@@ -1,0 +1,863 @@
+{
+  "1/S1-1": {
+    "id": "1/S1-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Phrozb",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 1,
+        "image": "cards/stroj_001.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phrozb-1/S1-1",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 1,
+    "health": 2,
+    "attack": 3,
+    "shield": 1,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "2/S1-2": {
+    "id": "2/S1-2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zagoc",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 1,
+        "image": "cards/stroj_002.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zagoc-2/S1-2",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 1,
+    "health": 1,
+    "attack": 3,
+    "shield": 2,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "3/S1-3": {
+    "id": "3/S1-3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Katarb",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 1,
+        "image": "cards/stroj_003.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Katarb-3/S1-3",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 1,
+    "health": 2,
+    "attack": 2,
+    "shield": 1,
+    "counter_attack": 2,
+    "isHorizontal": false
+  },
+  "4/S1-4": {
+    "id": "4/S1-4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dogorb",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 1,
+        "image": "cards/stroj_004.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dogorb-4/S1-4",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 1,
+    "health": 1,
+    "attack": 3,
+    "shield": 1,
+    "counter_attack": 1,
+    "isHorizontal": false
+  },
+  "5/S1-5": {
+    "id": "5/S1-5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jorb",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 1,
+        "image": "cards/stroj_005.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jorb-5/S1-5",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 1,
+    "health": 3,
+    "attack": 2,
+    "shield": 1,
+    "counter_attack": 1,
+    "isHorizontal": false
+  },
+  "6/S1-6": {
+    "id": "6/S1-6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bauzz",
+        "type": "Robô • goldron • manipulador • atirador",
+        "cost": 1,
+        "image": "cards/stroj_006.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bauzz-6/S1-6",
+    "type": "Robô • goldron • manipulador • atirador",
+    "cost": 1,
+    "health": 2,
+    "attack": 3,
+    "shield": 2,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "7/S1-7": {
+    "id": "7/S1-7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Beltrozz",
+        "type": "Robô • goldron • guerrilheiro",
+        "cost": 2,
+        "image": "cards/stroj_007.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beltrozz-7/S1-7",
+    "type": "Robô • goldron • guerrilheiro",
+    "cost": 2,
+    "health": 3,
+    "attack": 3,
+    "shield": 1,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "8/S1-8": {
+    "id": "8/S1-8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Garjix",
+        "type": "Robô • goldron • guerrilheiro",
+        "cost": 2,
+        "image": "cards/stroj_008.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Garjix-8/S1-8",
+    "type": "Robô • goldron • guerrilheiro",
+    "cost": 2,
+    "health": 2,
+    "attack": 4,
+    "shield": 2,
+    "counter_attack": 2,
+    "isHorizontal": false
+  },
+  "9/S1-9": {
+    "id": "9/S1-9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nazzbrok",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 2,
+        "image": "cards/stroj_009.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nazzbrok-9/S1-9",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 2,
+    "health": 3,
+    "attack": 3,
+    "shield": 2,
+    "counter_attack": 2,
+    "isHorizontal": false
+  },
+  "10/S1-10": {
+    "id": "10/S1-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Qytherk",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 2,
+        "image": "cards/stroj_010.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Qytherk-10/S1-10",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 2,
+    "health": 3,
+    "attack": 4,
+    "shield": 2,
+    "counter_attack": 1,
+    "isHorizontal": false
+  },
+  "11/S1-11": {
+    "id": "11/S1-11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jyrgozz",
+        "type": "Robô • goldron • manipulador • atirador",
+        "cost": 2,
+        "image": "cards/stroj_011.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jyrgozz-11/S1-11",
+    "type": "Robô • goldron • manipulador • atirador",
+    "cost": 2,
+    "health": 3,
+    "attack": 4,
+    "shield": 1,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "12/S1-12": {
+    "id": "12/S1-12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zorbozz",
+        "type": "Robô • goldron • guerrilheiro",
+        "cost": 3,
+        "image": "cards/stroj_012.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zorbozz-12/S1-12",
+    "type": "Robô • goldron • guerrilheiro",
+    "cost": 3,
+    "health": 4,
+    "attack": 5,
+    "shield": 2,
+    "counter_attack": 2,
+    "isHorizontal": false
+  },
+  "13/S1-13": {
+    "id": "13/S1-13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zibrolttar",
+        "type": "Robô • goldron • sentinela",
+        "cost": 3,
+        "image": "cards/stroj_013.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zibrolttar-13/S1-13",
+    "type": "Robô • goldron • sentinela",
+    "cost": 3,
+    "health": 7,
+    "attack": "-",
+    "shield": 2,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "14/S1-14": {
+    "id": "14/S1-14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zardok",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 3,
+        "image": "cards/stroj_014.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zardok-14/S1-14",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 3,
+    "health": 3,
+    "attack": 6,
+    "shield": 2,
+    "counter_attack": 1,
+    "isHorizontal": false
+  },
+  "15/S1-15": {
+    "id": "15/S1-15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cretaur-K",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 3,
+        "image": "cards/stroj_015.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cretaur-K-15/S1-15",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 3,
+    "health": 3,
+    "attack": 4,
+    "shield": 3,
+    "counter_attack": 1,
+    "isHorizontal": false
+  },
+  "16/S1-16": {
+    "id": "16/S1-16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noctrobazz",
+        "type": "Robô • goldron • manipulador • atirador",
+        "cost": 3,
+        "image": "cards/stroj_016.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noctrobazz-16/S1-16",
+    "type": "Robô • goldron • manipulador • atirador",
+    "cost": 3,
+    "health": 5,
+    "attack": 3,
+    "shield": 1,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "17/S1-17": {
+    "id": "17/S1-17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kromyn-B",
+        "type": "Equipamento: robô guerrilheiro",
+        "cost": 2,
+        "image": "cards/stroj_017.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kromyn-B-17/S1-17",
+    "type": "Equipamento: robô guerrilheiro",
+    "cost": 2,
+    "health": "-",
+    "attack": "-",
+    "shield": 0,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "18/S1-18": {
+    "id": "18/S1-18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zartropoolz",
+        "type": "Suporte • mecanismo",
+        "cost": 1,
+        "image": "cards/stroj_018.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zartropoolz-18/S1-18",
+    "type": "Suporte • mecanismo",
+    "cost": 1,
+    "health": "-",
+    "attack": "-",
+    "shield": 0,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "19/S1-19": {
+    "id": "19/S1-19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zagockranozz",
+        "type": "Equipamento: goldron manipulador",
+        "cost": 1,
+        "image": "cards/stroj_019.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zagockranozz-19/S1-19",
+    "type": "Equipamento: goldron manipulador",
+    "cost": 1,
+    "health": "-",
+    "attack": "-",
+    "shield": 0,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "20/S1-20": {
+    "id": "20/S1-20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cretaur-K",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 4,
+        "image": "cards/stroj_020.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cretaur-K-20/S1-20",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 4,
+    "health": 5,
+    "attack": 5,
+    "shield": 3,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "41/S1-21": {
+    "id": "41/S1-21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brox",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 1,
+        "image": "cards/stroj_021.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brox-41/S1-21",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 1,
+    "health": 2,
+    "attack": 3,
+    "shield": 1,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "42/S1-22": {
+    "id": "42/S1-22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orbtralzz",
+        "type": "Robô • goldron • manipulador • atirador",
+        "cost": 1,
+        "image": "cards/stroj_022.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orbtralzz-42/S1-22",
+    "type": "Robô • goldron • manipulador • atirador",
+    "cost": 1,
+    "health": 2,
+    "attack": 3,
+    "shield": 1,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "43/S1-23": {
+    "id": "43/S1-23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Malbai",
+        "type": "Robô • goldron • manipulador • atirador",
+        "cost": 1,
+        "image": "cards/stroj_023.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Malbai-43/S1-23",
+    "type": "Robô • goldron • manipulador • atirador",
+    "cost": 1,
+    "health": 2,
+    "attack": 2,
+    "shield": 2,
+    "counter_attack": 1,
+    "isHorizontal": false
+  },
+  "44/S1-24": {
+    "id": "44/S1-24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Therkoj",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 2,
+        "image": "cards/stroj_024.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Therkoj-44/S1-24",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 2,
+    "health": 3,
+    "attack": 4,
+    "shield": 2,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "45/S1-25": {
+    "id": "45/S1-25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nergyzzak",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 2,
+        "image": "cards/stroj_025.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nergyzzak-45/S1-25",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 2,
+    "health": 2,
+    "attack": 2,
+    "shield": 1,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "46/S1-26": {
+    "id": "46/S1-26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kytrov",
+        "type": "Robô • goldron • manipulador • atirador",
+        "cost": 2,
+        "image": "cards/stroj_026.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kytrov-46/S1-26",
+    "type": "Robô • goldron • manipulador • atirador",
+    "cost": 2,
+    "health": 3,
+    "attack": 5,
+    "shield": 1,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "47/S1-27": {
+    "id": "47/S1-27",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crottanox",
+        "type": "Robô • goldron • guerrilheiro",
+        "cost": 3,
+        "image": "cards/stroj_027.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crottanox-47/S1-27",
+    "type": "Robô • goldron • guerrilheiro",
+    "cost": 3,
+    "health": 4,
+    "attack": 4,
+    "shield": 1,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "48/S1-28": {
+    "id": "48/S1-28",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Phroniac",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 3,
+        "image": "cards/stroj_028.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phroniac-48/S1-28",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 3,
+    "health": 4,
+    "attack": 6,
+    "shield": 1,
+    "counter_attack": 1,
+    "isHorizontal": false
+  },
+  "49/S1-29": {
+    "id": "49/S1-29",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zartrox",
+        "type": "Robô • goldron • manipulador • sentinela",
+        "cost": 3,
+        "image": "cards/stroj_029.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zartrox-49/S1-29",
+    "type": "Robô • goldron • manipulador • sentinela",
+    "cost": 3,
+    "health": 4,
+    "attack": 4,
+    "shield": 2,
+    "counter_attack": 2,
+    "isHorizontal": false
+  },
+  "50/S1-30": {
+    "id": "50/S1-30",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fúria Robótica",
+        "type": "Ação: manipulador",
+        "cost": 0,
+        "image": "cards/stroj_030.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fúria Robótica-50/S1-30",
+    "type": "Ação: manipulador",
+    "cost": 0,
+    "health": "-",
+    "attack": "-",
+    "shield": 0,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "51/S1-31": {
+    "id": "51/S1-31",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zardok",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 4,
+        "image": "cards/stroj_031.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zardok-51/S1-31",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 4,
+    "health": 6,
+    "attack": 6,
+    "shield": 2,
+    "counter_attack": 2,
+    "isHorizontal": false
+  },
+  "63/S1-32": {
+    "id": "63/S1-32",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wormyd",
+        "type": "Robô • goldron • guerrilheiro",
+        "cost": 2,
+        "image": "cards/stroj_032.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wormyd-63/S1-32",
+    "type": "Robô • goldron • guerrilheiro",
+    "cost": 2,
+    "health": 3,
+    "attack": 4,
+    "shield": 1,
+    "counter_attack": 1,
+    "isHorizontal": false
+  },
+  "64/S1-33": {
+    "id": "64/S1-33",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zartroworb",
+        "type": "Suporte • mecanismo",
+        "cost": 1,
+        "image": "cards/stroj_033.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zartroworb-64/S1-33",
+    "type": "Suporte • mecanismo",
+    "cost": 1,
+    "health": "-",
+    "attack": "-",
+    "shield": null,
+    "counter_attack": null,
+    "isHorizontal": false
+  },
+  "65/S1-34": {
+    "id": "65/S1-34",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trowerbell",
+        "type": "Suporte • armamento",
+        "cost": 3,
+        "image": "cards/stroj_034.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trowerbell-65/S1-34",
+    "type": "Suporte • armamento",
+    "cost": 3,
+    "health": "-",
+    "attack": "-",
+    "shield": 0,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "66/S1-35": {
+    "id": "66/S1-35",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Phroniac",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 4,
+        "image": "cards/stroj_035.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phroniac-66/S1-35",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 4,
+    "health": 6,
+    "attack": 7,
+    "shield": 1,
+    "counter_attack": 2,
+    "isHorizontal": false
+  },
+  "71/S1-36": {
+    "id": "71/S1-36",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Explosão Goldroniana",
+        "type": "Evento",
+        "cost": 0,
+        "image": "cards/stroj_036.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Explosão Goldroniana-71/S1-36",
+    "type": "Evento",
+    "cost": 0,
+    "health": "-",
+    "attack": "-",
+    "shield": 0,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "73/S1-37": {
+    "id": "73/S1-37",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gowba",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 1,
+        "image": "cards/stroj_037.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gowba-73/S1-37",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 1,
+    "health": 2,
+    "attack": 2,
+    "shield": 2,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "74/S1-38": {
+    "id": "74/S1-38",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Morgev",
+        "type": "Robô • goldron • manipulador • atirador",
+        "cost": 2,
+        "image": "cards/stroj_038.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Morgev-74/S1-38",
+    "type": "Robô • goldron • manipulador • atirador",
+    "cost": 2,
+    "health": 3,
+    "attack": 2,
+    "shield": 2,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "75/S1-39": {
+    "id": "75/S1-39",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rajada de Energia",
+        "type": "Ação: manipulador",
+        "cost": 0,
+        "image": "cards/stroj_039.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rajada de Energia-75/S1-39",
+    "type": "Ação: manipulador",
+    "cost": 0,
+    "health": "-",
+    "attack": "-",
+    "shield": 0,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "76/S1-40": {
+    "id": "76/S1-40",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reyzar",
+        "type": "Robô • goldron • manipulador • atirador",
+        "cost": 3,
+        "image": "cards/stroj_040.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reyzar-76/S1-40",
+    "type": "Robô • goldron • manipulador • atirador",
+    "cost": 3,
+    "health": 3,
+    "attack": 5,
+    "shield": 2,
+    "counter_attack": 0,
+    "isHorizontal": false
+  },
+  "77/S1-41": {
+    "id": "77/S1-41",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nergyzzak",
+        "type": "Robô • goldron • manipulador • guerrilheiro",
+        "cost": 4,
+        "image": "cards/stroj_041.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nergyzzak-77/S1-41",
+    "type": "Robô • goldron • manipulador • guerrilheiro",
+    "cost": 4,
+    "health": 4,
+    "attack": 4,
+    "shield": 2,
+    "counter_attack": 0,
+    "isHorizontal": false
+  }
+}
