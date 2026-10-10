@@ -48,7 +48,7 @@
         "startingHandSize": 6
       },
       "newTurn": {
-        "drawPerTurn": 1
+        "drawPerTurn": 0
       },
       "sections": {
         "customSections": [
