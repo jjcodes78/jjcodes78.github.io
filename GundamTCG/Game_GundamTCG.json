@@ -71,7 +71,7 @@
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [],
-      "hideFacedDownCards": false,
+      "hideFacedDownCards": true,
       "draggableTokens": [
         {
           "id": "dmg-1",
@@ -264,7 +264,7 @@
             "displayedTitle": "Shields",
             "enterTapped": false,
             "enterSpun": false,
-            "isGroupForbidden": false,
+            "isGroupForbidden": true,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": true
