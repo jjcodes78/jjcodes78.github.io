@@ -321,7 +321,10 @@
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "Nivel/Energia"
+            "displayedTitle": "Nivel/Energia",
+            "isHorizontalAllowed": true,
+            "noQuickActions": true,
+            "isGroupForbidden": true
           },
           "SupportZone": {
             "isHidden": "no",
