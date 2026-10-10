@@ -1,6 +1,14 @@
 {
   "name": "SevenGalaxiesTCG",
+  "menuBackgroundImage": "https://jjcodes78.github.io/SevenGalaxiesTCG/images/logo.jpeg?09102026",
   "defaultRessources": {
+    "backgrounds": [
+      "https://jjcodes78.github.io/SevenGalaxiesTCG/backgrounds/bg1.jpg?09102026",
+      "https://jjcodes78.github.io/SevenGalaxiesTCG/backgrounds/bg2.jpg?09102026",
+      "https://jjcodes78.github.io/SevenGalaxiesTCG/backgrounds/bg3.jpg?09102026",
+      "https://jjcodes78.github.io/SevenGalaxiesTCG/backgrounds/bg4.jpg?09102026",
+      "https://jjcodes78.github.io/SevenGalaxiesTCG/backgrounds/bg5.jpg?09102026"
+    ],
     "decksUrl": "https://jjcodes78.github.io/SevenGalaxiesTCG/Game_StarterDecks.json?091020262313"
   },
   "deckBuilding": {
