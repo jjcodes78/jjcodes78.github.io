@@ -21,6 +21,72 @@
     "isHorizontal": true,
     "type": "Token"
   },
+  "T/T2-R": {
+    "id": "T/T2-R",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Base de Recursos Gaia",
+        "kind": "Base",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/Gaia_Resource_Base.jpg?091020261713",
+        "isHorizontal": true
+      }
+    },
+    "name": "Base de Recursos Gaia-T/T1-R",
+    "kind": "Base",
+    "cost": 0,
+    "health": 0,
+    "attack": 0,
+    "shield": 0,
+    "counter_attack": 0,
+    "isHorizontal": true,
+    "type": "Token"
+  },
+  "T/T3-R": {
+    "id": "T/T3-R",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Base de Recursos Majik",
+        "kind": "Base",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/Majik_Resource_Base.jpg?091020261713",
+        "isHorizontal": true
+      }
+    },
+    "name": "Base de Recursos Majik-T/T1-R",
+    "kind": "Base",
+    "cost": 0,
+    "health": 0,
+    "attack": 0,
+    "shield": 0,
+    "counter_attack": 0,
+    "isHorizontal": true,
+    "type": "Token"
+  },
+  "T/T4-R": {
+    "id": "T/T4-R",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Base de Recursos Stroj",
+        "kind": "Base",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/Stroj.jpg?091020261713",
+        "isHorizontal": true
+      }
+    },
+    "name": "Base de Recursos Stroj-T/T1-R",
+    "kind": "Base",
+    "cost": 0,
+    "health": 0,
+    "attack": 0,
+    "shield": 0,
+    "counter_attack": 0,
+    "isHorizontal": true,
+    "type": "Token"
+  },
   "1/S1-1": {
     "id": "1/S1-1",
     "isToken": false,
