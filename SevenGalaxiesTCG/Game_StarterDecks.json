@@ -318,5 +318,105 @@
         }
       ]
     }
+  },
+  {
+    "title": "Adroit Starter Deck",
+    "id": "05decc49-71a0-4658-ab64-c675f0071f91",
+    "cardCount": 38,
+    "createdAt": "2026-10-10T03:38:25.473Z",
+    "lastModifiedAt": "2026-10-10T03:40:20.011Z",
+    "game": "SevenGalaxiesTCG",
+    "format": [
+      "Standard format"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Normal",
+        "Fortress",
+        "SpecialDeck"
+      ],
+      "Normal": [
+        {
+          "count": 2,
+          "id": "83/A1-1"
+        },
+        {
+          "count": 2,
+          "id": "84/A1-2"
+        },
+        {
+          "count": 2,
+          "id": "85/A1-3"
+        },
+        {
+          "count": 2,
+          "id": "86/A1-4"
+        },
+        {
+          "count": 2,
+          "id": "87/A1-5"
+        },
+        {
+          "count": 2,
+          "id": "88/A1-6"
+        },
+        {
+          "count": 2,
+          "id": "89/A1-7"
+        },
+        {
+          "count": 2,
+          "id": "90/A1-8"
+        },
+        {
+          "count": 2,
+          "id": "91/A1-9"
+        },
+        {
+          "count": 2,
+          "id": "92/A1-10"
+        },
+        {
+          "count": 2,
+          "id": "93/A1-11"
+        },
+        {
+          "count": 2,
+          "id": "94/A1-12"
+        },
+        {
+          "count": 2,
+          "id": "95/A1-13"
+        },
+        {
+          "count": 2,
+          "id": "96/A1-14"
+        },
+        {
+          "count": 2,
+          "id": "97/A1-15"
+        }
+      ],
+      "Fortress": [
+        {
+          "count": 1,
+          "id": "F3/A1-F1"
+        }
+      ],
+      "SpecialDeck": [
+        {
+          "count": 4,
+          "id": "98/A1-16"
+        },
+        {
+          "count": 2,
+          "id": "99/A1-17"
+        },
+        {
+          "count": 1,
+          "id": "R3/A1-R1"
+        }
+      ]
+    }
   }
 ]
