@@ -78,7 +78,7 @@
                     "background-size": "80%",
                     "background-position": "center",
                     "background-repeat": "no-repeat",
-                    "opacity": "0.5",
+                    "opacity": "0.75",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
@@ -90,6 +90,7 @@
                     "background-size": "80%",
                     "background-position": "center",
                     "background-repeat": "no-repeat",
+                    "opacity": "0.75",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
@@ -101,6 +102,7 @@
                     "background-size": "80%",
                     "background-position": "center",
                     "background-repeat": "no-repeat",
+                    "opacity": "0.75",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
@@ -112,6 +114,7 @@
                     "background-size": "80%",
                     "background-position": "center",
                     "background-repeat": "no-repeat",
+                    "opacity": "0.75",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
@@ -123,6 +126,7 @@
                     "background-size": "80%",
                     "background-position": "center",
                     "background-repeat": "no-repeat",
+                    "opacity": "0.75",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
@@ -134,6 +138,7 @@
                     "background-size": "80%",
                     "background-position": "center",
                     "background-repeat": "no-repeat",
+                    "opacity": "0.75",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
