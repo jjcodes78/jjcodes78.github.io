@@ -122,8 +122,8 @@
                 {
                   "section": "Resources",
                   "style": {
-                    "width": "13.9vh",
-                    "minWidth": "15%"
+                    "width": "28vh",
+                    "minWidth": "0"
                   }
                 }
               ]
