@@ -17,7 +17,12 @@
       {
         "title": "Standard format",
         "gameplay": "Standard",
-        "deckRuleset": "Standard"
+        "deckRuleset": "Standard",
+        "categories": [
+          "Normal",
+          "SpecialDeck",
+          "Fortress"
+        ]
       }
     ],
     "deckRulesets": {
