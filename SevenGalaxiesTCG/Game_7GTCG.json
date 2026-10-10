@@ -123,7 +123,7 @@
                   "section": "Resources",
                   "style": {
                     "width": "13.9vh",
-                    "minWidth": "0"
+                    "minWidth": "15%"
                   }
                 }
               ]
@@ -207,7 +207,7 @@
                   "section": "Fortress",
                   "style": {
                     "width": "13.9vh",
-                    "minWidth": "0"
+                    "minWidth": "15%"
                   }
                 }
               ]
@@ -270,8 +270,7 @@
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "Nivel/Energia",
-            "width": "15%"
+            "displayedTitle": "Nivel/Energia"
           },
           "SupportZone": {
             "isHidden": "no",
@@ -316,8 +315,7 @@
             "displayedTitle": "Fortaleza",
             "isHorizontalAllowed": true,
             "noQuickActions": true,
-            "isGroupForbidden": true,
-            "width": "15%"
+            "isGroupForbidden": true
           },
           "Hand": {
             "isHidden": "no",
