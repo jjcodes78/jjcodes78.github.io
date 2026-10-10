@@ -41,7 +41,7 @@
   },
   "gameplay": {
     "Standard": {
-      "defaultNotes": "Fortaleza: 30\nNivel: 1\nEnergia: 30",
+      "defaultNotes": "Fortaleza: 30\nNivel: 1\nEnergia: 1",
       "countersStartingValues": [30, 1, 1],
       "cardRotation": 0,
       "mulligan": {
