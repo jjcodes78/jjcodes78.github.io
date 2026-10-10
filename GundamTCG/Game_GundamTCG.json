@@ -48,6 +48,13 @@
   },
   "gameplay": {
     "Classic": {
+      "beforeGameStart": {
+        "initialBoardSetup": [{
+          "drawFromTop": "Deck",
+          "count" : "6",
+          "destination" : "Shields"
+        }]
+      },
       "mulligan": {
         "info": "You can mulligan a new hand one time.",
         "startingHandSize": 5,
@@ -155,6 +162,16 @@
                     "background-repeat": "no-repeat",
                     "background-position": "center"
                   }
+                },
+                {
+                  "section": "DeployArea",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-deploy-area.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
+                    "width": "20%"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -191,16 +208,6 @@
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center"
-                  }
-                },
-                {
-                  "section": "DeployArea",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/GundamTCG/images/gundam-deploy-area.png')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "background-position": "center",
-                    "width": "20%"
                   }
                 }
               ],
