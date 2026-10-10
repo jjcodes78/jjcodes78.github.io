@@ -60,6 +60,7 @@
                     "background-size": "80%",
                     "background-position": "center",
                     "background-repeat": "no-repeat",
+                    "opacity": "0.5",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
