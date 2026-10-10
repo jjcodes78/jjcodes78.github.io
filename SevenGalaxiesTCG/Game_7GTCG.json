@@ -265,7 +265,8 @@
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "Nivel/Energia"
+            "displayedTitle": "Nivel/Energia",
+            "width": "15%"
           },
           "SupportZone": {
             "isHidden": "no",
@@ -310,7 +311,8 @@
             "displayedTitle": "Fortaleza",
             "isHorizontalAllowed": true,
             "noQuickActions": true,
-            "isGroupForbidden": true
+            "isGroupForbidden": true,
+            "width": "15%"
           },
           "Hand": {
             "isHidden": "no",
