@@ -224,6 +224,11 @@
           "SpecialDeck",
           "Fortress"
         ],
+        "autoPlayFromStack": {
+          "Normal": "Stack",
+          "SpecialDeck": "Stack",
+          "Fortress": "Stack"
+        },
         "sectionsDict": {
           "EventZone": {
             "isHidden": "no",
@@ -319,23 +324,6 @@
             "height": 18,
             "alignment": "CENTER",
             "displayedTitle": "Mão"
-          },
-          "Stack": {
-            "isDefaultSection": true,
-            "title": "Stack",
-            "isHidden": "yes",
-            "height": "NONE",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "displayedTitle": "",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
           }
         }
       }
