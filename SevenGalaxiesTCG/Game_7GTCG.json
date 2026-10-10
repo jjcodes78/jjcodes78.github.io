@@ -42,6 +42,12 @@
   "gameplay": {
     "Standard": {
       "defaultNotes": "Fortaleza: 30\nNivel: 1\nEnergia: 1",
+      "draggableTokens": [
+        { "id": "1DMG", "name": "1DMG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/1dmg.jpg" },
+        { "id": "2DMG", "name": "2DMG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/2dmg.jpg" },
+        { "id": "3DMG", "name": "3DMG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/3dmg.jpg" },
+        { "id": "5DMG", "name": "5DMG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/5dmg.jpg" }
+      ],
       "countersStartingValues": [30, 1, 1],
       "cardRotation": 0,
       "mulligan": {
