@@ -41,13 +41,15 @@
   },
   "gameplay": {
     "Standard": {
+      "defaultNotes": "Fortaleza: 30\nNivel: 1\nEnergia: 30",
+      "countersStartingValues": [30, 1, 1],
+      "cardRotation": 0,
       "mulligan": {
         "startingHandSize": 6
       },
       "newTurn": {
         "drawPerTurn": 1
       },
-      "countersStartingValues": [],
       "sections": {
         "customSections": [
           "SpecialDeck",
