@@ -4,14 +4,14 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Base de Recursos",
+        "name": "Base de Recursos Adroit",
         "kind": "Base",
         "cost": 0,
-        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/images/recursos.jpg?091020261713",
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/Adroit_Resource_Base.jpg?091020261713",
         "isHorizontal": true
       }
     },
-    "name": "Base de Recursos-T/T1-R",
+    "name": "Base de Recursos Adroit-T/T1-R",
     "kind": "Base",
     "cost": 0,
     "health": 0,
