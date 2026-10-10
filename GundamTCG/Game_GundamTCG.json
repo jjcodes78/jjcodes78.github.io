@@ -189,7 +189,8 @@
                     "background-size": "80%",
                     "background-position": "center",
                     "background-repeat": "no-repeat",
-                    "margin-right": "3vh"
+                    "margin-right": "3vh",
+                    "width": "42vh"
                   }
                 },
                 {
@@ -256,7 +257,7 @@
             "title": "Shields",
             "isHidden": "yes",
             "height": "18",
-            "alignment": "DECK",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
