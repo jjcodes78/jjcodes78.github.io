@@ -1913,6 +1913,182 @@
     "isHorizontal": false,
     "type": "Normal"
   },
+  "101/M1-2": {
+    "id": "101/M1-2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Laydon",
+        "kind": "Goblin • guerreiro • ladino",
+        "cost": 1,
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-2-Laydon-cod101.909d1d19.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Laydon-101/M1-2",
+    "kind": "Goblin • guerreiro • ladino",
+    "cost": 1,
+    "health": 2,
+    "attack": 3,
+    "shield": 0,
+    "counter_attack": 1,
+    "isHorizontal": false,
+    "type": "Normal"
+  },
+  "102/M1-3": {
+    "id": "102/M1-3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gabyno Ogam",
+        "kind": "Goblin • mago",
+        "cost": 1,
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-3-Gabyno-Ogam-cod102.7f1a9cb7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gabyno Ogam-102/M1-3",
+    "kind": "Goblin • mago",
+    "cost": 1,
+    "health": 1,
+    "attack": 2,
+    "shield": 1,
+    "counter_attack": 2,
+    "isHorizontal": false,
+    "type": "Normal"
+  },
+  "103/M1-4": {
+    "id": "103/M1-4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nayromi Naybul",
+        "kind": "Elfa • feiticeira",
+        "cost": 2,
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-4-Nayromi-Naybul-cod103.c15d978f.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nayromi Naybul-103/M1-4",
+    "kind": "Elfa • feiticeira",
+    "cost": 2,
+    "health": 2,
+    "attack": 3,
+    "shield": 1,
+    "counter_attack": 1,
+    "isHorizontal": false,
+    "type": "Normal"
+  },
+  "104/M1-5": {
+    "id": "104/M1-5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nubro Ody",
+        "kind": "Elfo • mago",
+        "cost": 2,
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-5-Nubro-Ody-cod104.f52f4c63.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nubro Ody-104/M1-5",
+    "kind": "Elfo • mago",
+    "cost": 2,
+    "health": 4,
+    "attack": 3,
+    "shield": 0,
+    "counter_attack": 0,
+    "isHorizontal": false,
+    "type": "Normal"
+  },
+  "105/M1-6": {
+    "id": "105/M1-6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jawari Felasu",
+        "kind": "Elfo • mago • defensor",
+        "cost": 2,
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-6-Jawari-Felasu-cod105.52a96e81.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jawari Felasu-105/M1-6",
+    "kind": "Elfo • mago • defensor",
+    "cost": 2,
+    "health": 3,
+    "attack": 0,
+    "shield": 2,
+    "counter_attack": 2,
+    "isHorizontal": false,
+    "type": "Normal"
+  },
+  "106/M1-7": {
+    "id": "106/M1-7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zurkana",
+        "kind": "Orc • guerreira",
+        "cost": 2,
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-7-Zurkana-cod106.b7308203.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zurkana-106/M1-7",
+    "kind": "Orc • guerreira",
+    "cost": 2,
+    "health": 3,
+    "attack": 3,
+    "shield": 1,
+    "counter_attack": 1,
+    "isHorizontal": false,
+    "type": "Normal"
+  },
+  "107/M1-8": {
+    "id": "107/M1-8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Braduk",
+        "kind": "Orc • lutador",
+        "cost": 2,
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-8-Braduk-cod107.c5f002fb.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Braduk-107/M1-8",
+    "kind": "Orc • lutador",
+    "cost": 2,
+    "health": 4,
+    "attack": 4,
+    "shield": 1,
+    "counter_attack": 1,
+    "isHorizontal": false,
+    "type": "Normal"
+  },
+  "108/M1-9": {
+    "id": "108/M1-9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zakan, O Gladiador",
+        "kind": "Orc • guerreiro",
+        "cost": 3,
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-9-Zakan-O-Gladiador-cod108.3ebcfaa7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zakan, O Gladiador-108/M1-9",
+    "kind": "Orc • guerreiro",
+    "cost": 3,
+    "health": 4,
+    "attack": 5,
+    "shield": 1,
+    "counter_attack": 2,
+    "isHorizontal": false,
+    "type": "Normal"
+  },
   "109/M1-10": {
     "id": "109/M1-10",
     "isToken": false,
@@ -2021,7 +2197,7 @@
     "shield": null,
     "counter_attack": 0,
     "isHorizontal": false,
-    "type": "Suporte • fonte"
+    "type": "Normal"
   },
   "114/M1-15": {
     "id": "114/M1-15",
@@ -2133,28 +2309,6 @@
     "isHorizontal": false,
     "type": "Normal"
   },
-  "101/M1-2": {
-    "id": "101/M1-2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Laydon",
-        "kind": "Goblin • guerreiro • ladino",
-        "cost": 1,
-        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-2-Laydon-cod101.909d1d19.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Laydon-101/M1-2",
-    "kind": "Goblin • guerreiro • ladino",
-    "cost": 1,
-    "health": 2,
-    "attack": 3,
-    "shield": 0,
-    "counter_attack": 1,
-    "isHorizontal": false,
-    "type": "Normal"
-  },
   "129/M1-20": {
     "id": "129/M1-20",
     "isToken": false,
@@ -2219,7 +2373,7 @@
     "shield": 1,
     "counter_attack": 2,
     "isHorizontal": false,
-    "type": "Dragão • gelo"
+    "type": "Normal"
   },
   "134/M1-25": {
     "id": "134/M1-25",
@@ -2328,28 +2482,6 @@
     "attack": 2,
     "shield": 1,
     "counter_attack": 1,
-    "isHorizontal": false,
-    "type": "Normal"
-  },
-  "102/M1-3": {
-    "id": "102/M1-3",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Gabyno Ogam",
-        "kind": "Goblin • mago",
-        "cost": 1,
-        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-3-Gabyno-Ogam-cod102.7f1a9cb7.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gabyno Ogam-102/M1-3",
-    "kind": "Goblin • mago",
-    "cost": 1,
-    "health": 1,
-    "attack": 2,
-    "shield": 1,
-    "counter_attack": 2,
     "isHorizontal": false,
     "type": "Normal"
   },
@@ -2504,140 +2636,6 @@
     "attack": null,
     "shield": null,
     "counter_attack": 0,
-    "isHorizontal": false,
-    "type": "Normal"
-  },
-  "103/M1-4": {
-    "id": "103/M1-4",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Nayromi Naybul",
-        "kind": "Elfa • feiticeira",
-        "cost": 2,
-        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-4-Nayromi-Naybul-cod103.c15d978f.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Nayromi Naybul-103/M1-4",
-    "kind": "Elfa • feiticeira",
-    "cost": 2,
-    "health": 2,
-    "attack": 3,
-    "shield": 1,
-    "counter_attack": 1,
-    "isHorizontal": false,
-    "type": "Normal"
-  },
-  "104/M1-5": {
-    "id": "104/M1-5",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Nubro Ody",
-        "kind": "Elfo • mago",
-        "cost": 2,
-        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-5-Nubro-Ody-cod104.f52f4c63.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Nubro Ody-104/M1-5",
-    "kind": "Elfo • mago",
-    "cost": 2,
-    "health": 4,
-    "attack": 3,
-    "shield": 0,
-    "counter_attack": 0,
-    "isHorizontal": false,
-    "type": "Normal"
-  },
-  "105/M1-6": {
-    "id": "105/M1-6",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Jawari Felasu",
-        "kind": "Elfo • mago • defensor",
-        "cost": 2,
-        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-6-Jawari-Felasu-cod105.52a96e81.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Jawari Felasu-105/M1-6",
-    "kind": "Elfo • mago • defensor",
-    "cost": 2,
-    "health": 3,
-    "attack": 0,
-    "shield": 2,
-    "counter_attack": 2,
-    "isHorizontal": false,
-    "type": "Normal"
-  },
-  "106/M1-7": {
-    "id": "106/M1-7",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Zurkana",
-        "kind": "Orc • guerreira",
-        "cost": 2,
-        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-7-Zurkana-cod106.b7308203.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Zurkana-106/M1-7",
-    "kind": "Orc • guerreira",
-    "cost": 2,
-    "health": 3,
-    "attack": 3,
-    "shield": 1,
-    "counter_attack": 1,
-    "isHorizontal": false,
-    "type": "Orc • guerreira",
-    "group": "Planeta Zonnjik",
-    "rarity": "C"
-  },
-  "107/M1-8": {
-    "id": "107/M1-8",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Braduk",
-        "kind": "Orc • lutador",
-        "cost": 2,
-        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-8-Braduk-cod107.c5f002fb.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Braduk-107/M1-8",
-    "kind": "Orc • lutador",
-    "cost": 2,
-    "health": 4,
-    "attack": 4,
-    "shield": 1,
-    "counter_attack": 1,
-    "isHorizontal": false,
-    "type": "Normal"
-  },
-  "108/M1-9": {
-    "id": "108/M1-9",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Zakan, O Gladiador",
-        "kind": "Orc • guerreiro",
-        "cost": 3,
-        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/cards/M1-9-Zakan-O-Gladiador-cod108.3ebcfaa7.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Zakan, O Gladiador-108/M1-9",
-    "kind": "Orc • guerreiro",
-    "cost": 3,
-    "health": 4,
-    "attack": 5,
-    "shield": 1,
-    "counter_attack": 2,
     "isHorizontal": false,
     "type": "Normal"
   },
