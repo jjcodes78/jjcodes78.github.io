@@ -1,5 +1,8 @@
 {
   "name": "SevenGalaxiesTCG",
+  "defaultRessources": {
+    "decksUrl": "https://jjcodes78.github.io/SevenGalaxiesTCG/Game_StarterDecks.json?091020262313"
+  },
   "deckBuilding": {
     "mainFilters": ["type", "cost", "kind"],
     "formats": [

@@ -1,24 +1,21 @@
-{
-  "title": "Stroj Stater Deck",
-  "id": "7bf52576-98af-4b19-99a5-7e5cacaa1965",
-  "cardCount": 32,
-  "createdAt": "2026-10-09T01:52:00.799Z",
-  "lastModifiedAt": "2026-10-09T01:54:06.990Z",
+[
+  {
+  "title": "Stroj Starter Deck",
+  "id": "9d7a0051-320e-4a6f-b072-09cbb2283402",
+  "cardCount": 34,
+  "createdAt": "2026-10-09T22:27:52.176Z",
+  "lastModifiedAt": "2026-10-09T22:55:41.772Z",
   "game": "SevenGalaxiesTCG",
   "format": [
     "Standard format"
   ],
   "deckList": {
     "categoriesOrder": [
-      "Robô • goldron • manipulador • guerrilheiro",
-      "Robô • goldron • manipulador • atirador",
-      "Robô • goldron • guerrilheiro",
-      "Robô • goldron • sentinela",
-      "Equipamento: robô guerrilheiro",
-      "Suporte • mecanismo",
-      "Equipamento: goldron manipulador"
+      "Normal",
+      "Fortress",
+      "SpecialDeck"
     ],
-    "Robô • goldron • manipulador • guerrilheiro": [
+    "Normal": [
       {
         "count": 2,
         "id": "1/S1-1"
@@ -41,11 +38,35 @@
       },
       {
         "count": 2,
+        "id": "6/S1-6"
+      },
+      {
+        "count": 2,
+        "id": "7/S1-7"
+      },
+      {
+        "count": 2,
+        "id": "8/S1-8"
+      },
+      {
+        "count": 2,
         "id": "9/S1-9"
       },
       {
         "count": 2,
         "id": "10/S1-10"
+      },
+      {
+        "count": 2,
+        "id": "11/S1-11"
+      },
+      {
+        "count": 2,
+        "id": "12/S1-12"
+      },
+      {
+        "count": 1,
+        "id": "13/S1-13"
       },
       {
         "count": 2,
@@ -57,60 +78,245 @@
       },
       {
         "count": 1,
-        "id": "20/S1-20"
-      }
-    ],
-    "Robô • goldron • manipulador • atirador": [
-      {
-        "count": 2,
-        "id": "6/S1-6"
-      },
-      {
-        "count": 2,
-        "id": "11/S1-11"
-      },
-      {
-        "count": 1,
         "id": "16/S1-16"
-      }
-    ],
-    "Robô • goldron • guerrilheiro": [
-      {
-        "count": 2,
-        "id": "7/S1-7"
       },
-      {
-        "count": 2,
-        "id": "8/S1-8"
-      },
-      {
-        "count": 2,
-        "id": "12/S1-12"
-      }
-    ],
-    "Robô • goldron • sentinela": [
-      {
-        "count": 1,
-        "id": "13/S1-13"
-      }
-    ],
-    "Equipamento: robô guerrilheiro": [
       {
         "count": 1,
         "id": "17/S1-17"
-      }
-    ],
-    "Suporte • mecanismo": [
+      },
       {
         "count": 1,
         "id": "18/S1-18"
       }
     ],
-    "Equipamento: goldron manipulador": [
+    "Fortress": [
+      {
+        "count": 1,
+        "id": "F1/S1-F1"
+      }
+    ],
+    "SpecialDeck": [
       {
         "count": 1,
         "id": "19/S1-19"
+      },
+      {
+        "count": 1,
+        "id": "20/S1-20"
+      },
+      {
+        "count": 1,
+        "id": "R1/S1-R1"
       }
     ]
   }
-}
+},
+  {
+    "title": "Gaia Starter Deck",
+    "id": "ab1edc1c-aea4-4826-9ec6-0d010a9c1a12",
+    "cardCount": 34,
+    "createdAt": "2026-10-09T22:55:59.272Z",
+    "lastModifiedAt": "2026-10-09T22:58:08.941Z",
+    "game": "SevenGalaxiesTCG",
+    "format": [
+      "Standard format"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Normal",
+        "Fortress",
+        "SpecialDeck"
+      ],
+      "Normal": [
+        {
+          "count": 1,
+          "id": "21/G1-1"
+        },
+        {
+          "count": 2,
+          "id": "22/G1-2"
+        },
+        {
+          "count": 2,
+          "id": "23/G1-3"
+        },
+        {
+          "count": 2,
+          "id": "24/G1-4"
+        },
+        {
+          "count": 1,
+          "id": "25/G1-5"
+        },
+        {
+          "count": 2,
+          "id": "26/G1-6"
+        },
+        {
+          "count": 2,
+          "id": "27/G1-7"
+        },
+        {
+          "count": 2,
+          "id": "28/G1-8"
+        },
+        {
+          "count": 1,
+          "id": "29/G1-9"
+        },
+        {
+          "count": 2,
+          "id": "30/G1-10"
+        },
+        {
+          "count": 2,
+          "id": "31/G1-11"
+        },
+        {
+          "count": 2,
+          "id": "32/G1-12"
+        },
+        {
+          "count": 2,
+          "id": "33/G1-13"
+        },
+        {
+          "count": 1,
+          "id": "34/G1-14"
+        },
+        {
+          "count": 2,
+          "id": "35/G1-15"
+        },
+        {
+          "count": 2,
+          "id": "36/G1-16"
+        },
+        {
+          "count": 1,
+          "id": "37/G1-17"
+        },
+        {
+          "count": 1,
+          "id": "38/G1-18"
+        }
+      ],
+      "Fortress": [
+        {
+          "count": 1,
+          "id": "F2/G1-F1"
+        }
+      ],
+      "SpecialDeck": [
+        {
+          "count": 1,
+          "id": "R2/G1-R1"
+        },
+        {
+          "count": 1,
+          "id": "39/G1-19"
+        },
+        {
+          "count": 1,
+          "id": "40/G1-20"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Majik Starter Deck",
+    "id": "eb434e17-5963-4223-a36d-33847e57dc61",
+    "cardCount": 34,
+    "createdAt": "2026-10-10T02:09:29.940Z",
+    "lastModifiedAt": "2026-10-10T02:21:43.883Z",
+    "game": "SevenGalaxiesTCG",
+    "format": [
+      "Standard format"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Normal",
+        "Fortress",
+        "SpecialDeck"
+      ],
+      "Normal": [
+        {
+          "count": 2,
+          "id": "100/M1-1"
+        },
+        {
+          "count": 2,
+          "id": "101/M1-2"
+        },
+        {
+          "count": 2,
+          "id": "102/M1-3"
+        },
+        {
+          "count": 2,
+          "id": "103/M1-4"
+        },
+        {
+          "count": 2,
+          "id": "104/M1-5"
+        },
+        {
+          "count": 2,
+          "id": "105/M1-6"
+        },
+        {
+          "count": 2,
+          "id": "106/M1-7"
+        },
+        {
+          "count": 2,
+          "id": "107/M1-8"
+        },
+        {
+          "count": 2,
+          "id": "108/M1-9"
+        },
+        {
+          "count": 2,
+          "id": "109/M1-10"
+        },
+        {
+          "count": 2,
+          "id": "110/M1-11"
+        },
+        {
+          "count": 2,
+          "id": "111/M1-12"
+        },
+        {
+          "count": 2,
+          "id": "112/M1-13"
+        },
+        {
+          "count": 2,
+          "id": "113/M1-14"
+        },
+        {
+          "count": 2,
+          "id": "114/M1-15"
+        }
+      ],
+      "Fortress": [
+        {
+          "count": 1,
+          "id": "F4/M1-E1"
+        }
+      ],
+      "SpecialDeck": [
+        {
+          "count": 2,
+          "id": "115/M1-16"
+        },
+        {
+          "count": 1,
+          "id": "R4/M1-R1"
+        }
+      ]
+    }
+  }
+]
