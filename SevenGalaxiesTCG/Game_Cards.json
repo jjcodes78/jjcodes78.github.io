@@ -1,4 +1,26 @@
 {
+  "T/T1-R": {
+    "id": "T/T1-R",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Base de Recursos",
+        "kind": "Base",
+        "cost": 0,
+        "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/images/recursos.jpg?091020261713",
+        "isHorizontal": true
+      }
+    },
+    "name": "Base de Recursos-T/T1-R",
+    "kind": "Base",
+    "cost": 0,
+    "health": 0,
+    "attack": 0,
+    "shield": 0,
+    "counter_attack": 0,
+    "isHorizontal": true,
+    "type": "Token"
+  },
   "1/S1-1": {
     "id": "1/S1-1",
     "isToken": false,
