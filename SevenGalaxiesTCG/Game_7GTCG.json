@@ -324,6 +324,12 @@
           },
           "Resources": {
             "type": "custom",
+            "defaultValue": {
+              "currentLevel": 1,
+              "currentEnergy": 1,
+              "currentMaxLevel": 1,
+              "currentMaxEnergy": 1
+            },
             "blueprint": {
               "type": "div",
               "props": {
@@ -351,12 +357,14 @@
                     {
                       "type": "input-number",
                       "props": {
+                        "value": "game.data.Resources.currentLevelMax",
                         "min": 1,
                         "max": 10,
                         "style": {
                           "background": "#303030"
                         }
-                      }
+                      },
+                      "onChange": "game.data.Resources.currentLevelMax = value;"
                     }
                   ]
                 },
@@ -375,12 +383,14 @@
                     {
                       "type": "input-number",
                       "props": {
+                        "value": "game.data.Resources.currentEnergyMax",
                         "min": 1,
                         "max": 10,
                         "style": {
                           "background": "#303030"
                         }
-                      }
+                      },
+                      "onChange": "game.data.Resources.currentEnergyMax = value;"
                     }
                   ]
                 },
@@ -397,9 +407,11 @@
                     {
                       "type": "input-number",
                       "props": {
+                        "value": "game.data.Resources.currentLevel",
                         "min": 0,
                         "max": 10
-                      }
+                      },
+                      "onChange": "game.data.Resources.currentLevel = value;"
                     }
                   ]
                 },
@@ -416,9 +428,11 @@
                     {
                       "type": "input-number",
                       "props": {
+                        "value": "game.data.Resources.currentEnergy",
                         "min": 0,
                         "max": 10
-                      }
+                      },
+                      "onChange": "game.data.Resources.currentEnergy = value;"
                     }
                   ]
                 }
