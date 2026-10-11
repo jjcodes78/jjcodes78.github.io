@@ -333,7 +333,7 @@
                   "type": "div",
                   "props": {
                     "style": {
-                      "width": "8vh",
+                      "width": "12vh",
                       "height": "25%",
                       "display": "flex",
                       "alignItems": "center",
@@ -347,6 +347,10 @@
                       "props": {
                         "min": 1,
                         "max": 10
+                      },
+                      "style": {
+                        "background": "#808080",
+                        "opacity": "0.9"
                       }
                     }
                   ]
@@ -355,7 +359,33 @@
                   "type": "div",
                   "props": {
                     "style": {
-                      "width": "8vh",
+                      "width": "12vh",
+                      "height": "25%",
+                      "display": "flex",
+                      "alignItems": "center",
+                      "justifyContent": "center"
+                    },
+                    "classname": "pb-1 m-0"
+                  },
+                  "children": [
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "min": 1,
+                        "max": 10
+                      },
+                      "style": {
+                        "background": "#808080",
+                        "opacity": "0.9"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "div",
+                  "props": {
+                    "style": {
+                      "width": "12vh",
                       "height": "25%",
                       "display": "flex",
                       "alignItems": "center",
@@ -377,29 +407,7 @@
                   "type": "div",
                   "props": {
                     "style": {
-                      "width": "8vh",
-                      "height": "25%",
-                      "display": "flex",
-                      "alignItems": "center",
-                      "justifyContent": "center"
-                    },
-                    "classname": "pb-1 m-0"
-                  },
-                  "children": [
-                    {
-                      "type": "input-number",
-                      "props": {
-                        "min": 1,
-                        "max": 10
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "div",
-                  "props": {
-                    "style": {
-                      "width": "8vh",
+                      "width": "12vh",
                       "height": "25%",
                       "display": "flex",
                       "alignItems": "center",
