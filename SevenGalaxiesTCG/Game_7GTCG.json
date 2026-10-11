@@ -43,6 +43,8 @@
     "Standard": {
       "defaultNotes": "",
       "draggableTokens": [
+        { "id": "ATK", "name": "Ataque", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/attack.png" },
+        { "id": "EXA", "name": "Exausta", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/exausted.png" },
         { "id": "1DMG", "name": "1 Dano", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/1dmg.jpg" },
         { "id": "2DMG", "name": "2 Dano", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/2dmg.jpg" },
         { "id": "3DMG", "name": "3 Dano", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/3dmg.jpg" },
@@ -50,7 +52,6 @@
         { "id": "I20", "name": "Intuíção 20", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/fort_20.png" },
         { "id": "I10", "name": "Intuíção 10", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/fort_10.png" },
         { "id": "I05", "name": "Intuíção 5", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/fort_5.png" },
-        { "id": "ATK", "name": "Ataque", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/attack.png" },
         { "id": "ATK+1", "name": "Ataque +1", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_attack_1.png" },
         { "id": "ATK+2", "name": "Ataque +2", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_attack_2.png" },
         { "id": "ATK+5", "name": "Ataque +5", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_attack_5.png" },
