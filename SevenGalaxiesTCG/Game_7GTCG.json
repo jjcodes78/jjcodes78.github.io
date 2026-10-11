@@ -67,7 +67,13 @@
         { "id": "GENP", "name": "GENP", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_pink.png" },
         { "id": "GENPL", "name": "GENPL", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_purple.png" },
         { "id": "GENR", "name": "GENR", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_red.png" },
-        { "id": "GENY", "name": "GENY", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_yel.png" }
+        { "id": "GENY", "name": "GENY", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_yel.png" },
+        { "id": "DIE1", "name": "Dado 1", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/dice_1.png" },
+        { "id": "DIE2", "name": "Dado 2", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/dice_2.png" },
+        { "id": "DIE3", "name": "Dado 3", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/dice_3.png" },
+        { "id": "DIE4", "name": "Dado 4", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/dice_4.png" },
+        { "id": "DIE5", "name": "Dado 5", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/dice_5.png" },
+        { "id": "DIE6", "name": "Dado 6", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/dice_6.png" }
 
       ],
       "countersStartingValues": [30],
