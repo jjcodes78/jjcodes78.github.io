@@ -63,7 +63,7 @@
         { "id": "POISON", "name": "Veneno", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/poison.png" },
         { "id": "GENB", "name": "GENB", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_blue.png" },
         { "id": "GENG", "name": "GENG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_green.png" },
-        { "id": "GENGR", "name": "GENGR", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_gray.png" },
+        { "id": "GENGR", "name": "GENGR", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_grey.png" },
         { "id": "GENP", "name": "GENP", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_pink.png" },
         { "id": "GENPL", "name": "GENPL", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_purple.png" },
         { "id": "GENR", "name": "GENR", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_red.png" },
