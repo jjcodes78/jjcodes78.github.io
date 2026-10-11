@@ -323,8 +323,8 @@
               "type": "div",
               "props": {
                 "style": {
-                  "width": "28vh",
-                  "height": "100%"
+                  "width": "8vh",
+                  "height": "25%"
                 },
                 "classname": "p-0 m-0 box-container align-items-center text-nowrap gap-1 shadowed"
               },
