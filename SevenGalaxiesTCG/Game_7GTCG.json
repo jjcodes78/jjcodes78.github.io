@@ -153,7 +153,7 @@
                   "section": "Resources",
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/recursos.jpg?091020261713')",
-                    "background-position": "contain",
+                    "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "opacity": "0.75",
                     "width": "28vh",
@@ -247,7 +247,7 @@
                   "section": "Fortress",
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/fortaleza.jpg?091020261713')",
-                    "background-position": "contain",
+                    "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "opacity": "0.75",
                     "width": "28vh",
