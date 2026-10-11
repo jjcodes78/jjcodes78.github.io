@@ -322,20 +322,14 @@
             "alignment": "CENTER",
             "displayedTitle": "A4"
           },
-          "LevelMax": {
-            "type": "custom",
-            "defaultValue": {
-              "current": 1
-            }
-          },
-          "LevelActual": {
-            "type": "custom",
-            "defaultValue": {
-              "current": 1
-            }
-          },
           "Resources": {
             "type": "custom",
+            "defaultValue": {
+              "currentLevel": 1,
+              "currentEnergy": 1,
+              "levelMax": 1,
+              "energyMax": 1
+            },
             "blueprint": {
               "type": "div",
               "props": {
@@ -363,14 +357,14 @@
                     {
                       "type": "input-number",
                       "props": {
-                        "value": "game.data.LevelMax.current",
+                        "value": "{{ game.data.Resources.levelMax }}",
                         "min": 1,
                         "max": 10,
                         "style": {
                           "background": "#303030"
                         }
                       },
-                      "onChange": "game.data.LevelMax.current = value;"
+                      "onChange": "game.data.Resources.levelMax = value;"
                     }
                   ]
                 },
@@ -389,14 +383,14 @@
                     {
                       "type": "input-number",
                       "props": {
-                        "value": "game.data.Resources.resources.currentEnergyMax",
+                        "value": "{{ game.data.Resources.energyMax }}",
                         "min": 1,
                         "max": 10,
                         "style": {
                           "background": "#303030"
                         }
                       },
-                      "onChange": "game.data.Resources.resources.currentEnergyMax = value;"
+                      "onChange": "game.data.Resources.energyMax = value;"
                     }
                   ]
                 },
@@ -413,11 +407,11 @@
                     {
                       "type": "input-number",
                       "props": {
-                        "value": "game.data.Resources.resources.currentLevel",
+                        "value": "{{ game.data.Resources.currentLevel }}",
                         "min": 0,
                         "max": 10
                       },
-                      "onChange": "game.data.Resources.resources.currentLevel = value;"
+                      "onChange": "game.data.Resources.currentLevel = value;"
                     }
                   ]
                 },
@@ -434,11 +428,11 @@
                     {
                       "type": "input-number",
                       "props": {
-                        "value": "game.data.Resources.resoruces.currentEnergy",
+                        "value": "{{ game.data.Resources.currentEnergy }}",
                         "min": 0,
                         "max": 10
                       },
-                      "onChange": "game.data.Resources.resoruces.currentEnergy = value;"
+                      "onChange": "game.data.Resources.currentEnergy = value;"
                     }
                   ]
                 }
