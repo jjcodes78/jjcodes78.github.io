@@ -46,7 +46,10 @@
         { "id": "1DMG", "name": "1DMG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/1dmg.jpg" },
         { "id": "2DMG", "name": "2DMG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/2dmg.jpg" },
         { "id": "3DMG", "name": "3DMG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/3dmg.jpg" },
-        { "id": "5DMG", "name": "5DMG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/5dmg.jpg" }
+        { "id": "5DMG", "name": "5DMG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/5dmg.jpg" },
+        { "id": "5DMG", "name": "5DMG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/fort_20.png" },
+        { "id": "5DMG", "name": "5DMG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/fort_10.png" },
+        { "id": "5DMG", "name": "5DMG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/fort_5.png" }
       ],
       "countersStartingValues": [30],
       "cardRotation": 0,
