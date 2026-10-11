@@ -248,7 +248,6 @@
                   "section": "Fortress",
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/fortaleza.jpg?091020261713')",
-                    "background-size": "80%",
                     "background-position": "center",
                     "background-repeat": "no-repeat",
                     "opacity": "0.75",
