@@ -60,7 +60,15 @@
         { "id": "DEF+1", "name": "Escudo +1", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_shield_1.png" },
         { "id": "DEF+2", "name": "Escudo +2", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_shield_2.png" },
         { "id": "DEF+5", "name": "Escudo +5", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_shield_5.png" },
-        { "id": "POISON", "name": "Veneno", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/poison.png" }
+        { "id": "POISON", "name": "Veneno", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/poison.png" },
+        { "id": "GENB", "name": "GENB", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_blue.png" },
+        { "id": "GENG", "name": "GENG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_green.png" },
+        { "id": "GENGR", "name": "GENGR", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_gray.png" },
+        { "id": "GENP", "name": "GENP", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_pink.png" },
+        { "id": "GENPL", "name": "GENPL", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_purple.png" },
+        { "id": "GENR", "name": "GENR", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_red.png" },
+        { "id": "GENY", "name": "GENY", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_yel.png" }
+
       ],
       "countersStartingValues": [30],
       "cardRotation": 0,
