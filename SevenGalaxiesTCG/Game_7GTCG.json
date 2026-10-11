@@ -318,6 +318,26 @@
             "displayedTitle": "A4"
           },
           "Resources": {
+            "type": "custom",
+            "blueprint": {
+              "type": "div",
+              "props": {
+                "style": {
+                  "width": "28vh",
+                  "height": "100%"
+                },
+                "classname": "p-0 m-0 box-container align-items-center text-nowrap gap-1 shadowed"
+              },
+              "children": [
+                {
+                  "type": "input-number",
+                  "props": {
+                    "min": 1,
+                    "max": 10
+                  }
+                }
+              ]
+            },
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
