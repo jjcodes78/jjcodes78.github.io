@@ -49,7 +49,11 @@
         { "id": "5DMG", "name": "5DMG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/5dmg.jpg" },
         { "id": "F20", "name": "F20", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/fort_20.png" },
         { "id": "F10", "name": "F10", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/fort_10.png" },
-        { "id": "F5", "name": "F5", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/fort_5.png" }
+        { "id": "F5", "name": "F5", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/fort_5.png" },
+        { "id": "ATK", "name": "Ataque", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/attack.png" },
+        { "id": "ATK+1", "name": "Ataque +1", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_attack_1.png" },
+        { "id": "ATK+2", "name": "Ataque +2", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_attack_2.png" },
+        { "id": "ATK+5", "name": "Ataque +5", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_attack_5.png" }
       ],
       "countersStartingValues": [30],
       "cardRotation": 0,
