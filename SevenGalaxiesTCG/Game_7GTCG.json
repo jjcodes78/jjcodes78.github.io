@@ -54,6 +54,9 @@
         { "id": "ATK+1", "name": "Ataque +1", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_attack_1.png" },
         { "id": "ATK+2", "name": "Ataque +2", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_attack_2.png" },
         { "id": "ATK+5", "name": "Ataque +5", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_attack_5.png" },
+        { "id": "DEF+1", "name": "Escudo +1", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_shield_1.png" },
+        { "id": "DEF+2", "name": "Escudo +2", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_shield_2.png" },
+        { "id": "DEF+5", "name": "Escudo +5", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_shield_5.png" },
         { "id": "POISON", "name": "Veneno", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/poison.png" }
       ],
       "countersStartingValues": [30],
