@@ -153,8 +153,7 @@
                   "section": "Resources",
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/recursos.jpg?091020261713')",
-                    "background-size": "80%",
-                    "background-position": "center",
+                    "background-position": "contain",
                     "background-repeat": "no-repeat",
                     "opacity": "0.75",
                     "width": "28vh",
@@ -236,7 +235,8 @@
                   "section": "D4",
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/D4.jpg?091020261713')",
-                    "background-position": "contain",
+                    "background-size": "80%",
+                    "background-position": "center",
                     "background-repeat": "no-repeat",
                     "opacity": "0.75",
                     "width": "13.9vh",
