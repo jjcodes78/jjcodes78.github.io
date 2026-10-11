@@ -302,25 +302,29 @@
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "A1"
+            "displayedTitle": "A1",
+            "noQuickActions": true
           },
           "A2": {
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "A2"
+            "displayedTitle": "A2",
+            "noQuickActions": true
           },
           "A3": {
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "A3"
+            "displayedTitle": "A3",
+            "noQuickActions": true
           },
           "A4": {
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "A4"
+            "displayedTitle": "A4",
+            "noQuickActions": true
           },
           "Resources": {
             "type": "custom",
@@ -456,31 +460,36 @@
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "Líder"
+            "displayedTitle": "Líder",
+            "noQuickActions": true
           },
           "D1": {
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "D1"
+            "displayedTitle": "D1",
+            "noQuickActions": true
           },
           "D2": {
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "D2"
+            "displayedTitle": "D2",
+            "noQuickActions": true
           },
           "D3": {
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "D3"
+            "displayedTitle": "D3",
+            "noQuickActions": true
           },
           "D4": {
             "isHidden": "no",
             "height": 18,
             "alignment": "CENTER",
-            "displayedTitle": "D4"
+            "displayedTitle": "D4",
+            "noQuickActions": true
           },
           "Fortress": {
             "isHidden": "no",
