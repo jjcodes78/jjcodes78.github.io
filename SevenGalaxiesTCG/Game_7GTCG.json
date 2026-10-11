@@ -339,6 +339,72 @@
                       "alignItems": "center",
                       "justifyContent": "center"
                     },
+                    "classname": "m-0 pb-1"
+                  },
+                  "children": [
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "min": 1,
+                        "max": 10
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "div",
+                  "props": {
+                    "style": {
+                      "width": "8vh",
+                      "height": "25%",
+                      "display": "flex",
+                      "alignItems": "center",
+                      "justifyContent": "center"
+                    },
+                    "classname": "pb-1 m-0"
+                  },
+                  "children": [
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "min": 1,
+                        "max": 10
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "div",
+                  "props": {
+                    "style": {
+                      "width": "8vh",
+                      "height": "25%",
+                      "display": "flex",
+                      "alignItems": "center",
+                      "justifyContent": "center"
+                    },
+                    "classname": "pb-1 m-0"
+                  },
+                  "children": [
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "min": 1,
+                        "max": 10
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "div",
+                  "props": {
+                    "style": {
+                      "width": "8vh",
+                      "height": "25%",
+                      "display": "flex",
+                      "alignItems": "center",
+                      "justifyContent": "center"
+                    },
                     "classname": "p-0 m-0"
                   },
                   "children": [
