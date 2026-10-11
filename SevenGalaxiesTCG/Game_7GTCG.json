@@ -390,7 +390,7 @@
                     {
                       "type": "input-number",
                       "props": {
-                        "min": 1,
+                        "min": 0,
                         "max": 10
                       }
                     }
@@ -409,7 +409,7 @@
                     {
                       "type": "input-number",
                       "props": {
-                        "min": 1,
+                        "min": 0,
                         "max": 10
                       }
                     }
