@@ -326,7 +326,7 @@
                   "width": "8vh",
                   "height": "25%"
                 },
-                "classname": "p-0 m-0 box-container align-items-center text-nowrap gap-1 shadowed"
+                "classname": "p-0 m-0 text-nowrap shadowed"
               },
               "children": [
                 {
