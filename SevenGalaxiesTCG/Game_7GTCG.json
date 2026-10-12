@@ -329,7 +329,8 @@
             "isHidden": "opponent-only",
             "height": 18,
             "alignment": "DECK",
-            "displayedTitle": "Deck Especial"
+            "displayedTitle": "Deck Especial",
+            "clickAction": "search"
           },
           "A1": {
             "isHidden": "no",
