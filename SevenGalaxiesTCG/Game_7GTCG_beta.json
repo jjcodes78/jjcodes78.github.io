@@ -1,0 +1,543 @@
+{
+  "name": "SevenGalaxiesTCG (Beta)",
+  "menuBackgroundImage": "https://jjcodes78.github.io/SevenGalaxiesTCG/images/logo.jpeg?09102026",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://jjcodes78.github.io/SevenGalaxiesTCG/backgrounds/bg1.jpg?09102026",
+      "https://jjcodes78.github.io/SevenGalaxiesTCG/backgrounds/bg2.jpg?09102026",
+      "https://jjcodes78.github.io/SevenGalaxiesTCG/backgrounds/bg3.jpg?09102026",
+      "https://jjcodes78.github.io/SevenGalaxiesTCG/backgrounds/bg4.jpg?09102026",
+      "https://jjcodes78.github.io/SevenGalaxiesTCG/backgrounds/bg5.jpg?09102026"
+    ],
+    "decksUrl": "https://jjcodes78.github.io/SevenGalaxiesTCG/Game_StarterDecks.json?091020262313"
+  },
+  "deckBuilding": {
+    "mainFilters": ["type", "cost", "kind"],
+    "formats": [
+      {
+        "title": "Standard format",
+        "gameplay": "Standard",
+        "deckRuleset": "Standard",
+        "categories": [
+          "Normal",
+          "SpecialDeck",
+          "Fortress"
+        ]
+      }
+    ],
+    "deckRulesets": {
+      "Standard": {
+        "general": {
+          "min": 30
+        },
+        "categories": [
+          { "category": "Normal", "min": 30, "max": 40 },
+          { "category": "Fortress", "min": 1, "max": 1 }
+        ]
+      }
+    }
+  },
+  "gameplay": {
+    "Standard": {
+      "defaultNotes": "",
+      "draggableTokens": [
+        { "id": "ATK", "name": "Ataque", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/attack.png" },
+        { "id": "EXA", "name": "Exausta", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/exausted.png" },
+        { "id": "I05", "name": "Intuíção 5", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/fort_5.png" },
+        { "id": "I10", "name": "Intuíção 10", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/fort_10.png" },
+        { "id": "I20", "name": "Intuíção 20", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/fort_20.png" },
+        { "id": "1DMG", "name": "1 Dano", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/dmg_1.png" },
+        { "id": "2DMG", "name": "2 Dano", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/dmg_2.png" },
+        { "id": "5DMG", "name": "5 Dano", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/dmg_5.png" },
+        { "id": "LIF+1", "name": "Vida +1", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_life_1.png" },
+        { "id": "LIF+2", "name": "Vida +2", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_life_2.png" },
+        { "id": "LIF+5", "name": "Vida +5", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_life_5.png" },
+        { "id": "ATK+1", "name": "Ataque +1", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_attack_1.png" },
+        { "id": "ATK+2", "name": "Ataque +2", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_attack_2.png" },
+        { "id": "ATK+5", "name": "Ataque +5", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_attack_5.png" },
+        { "id": "DEF+1", "name": "Escudo +1", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_shield_1.png" },
+        { "id": "DEF+2", "name": "Escudo +2", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_shield_2.png" },
+        { "id": "DEF+5", "name": "Escudo +5", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_shield_5.png" },
+        { "id": "POISON", "name": "Veneno", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/poison.png" },
+        { "id": "GENB", "name": "GENB", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_blue.png" },
+        { "id": "GENG", "name": "GENG", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_green.png" },
+        { "id": "GENGR", "name": "GENGR", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_grey.png" },
+        { "id": "GENP", "name": "GENP", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_pink.png" },
+        { "id": "GENPL", "name": "GENPL", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_purple.png" },
+        { "id": "GENR", "name": "GENR", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_red.png" },
+        { "id": "GENY", "name": "GENY", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/generic_token_yel.png" },
+        { "id": "DIE1", "name": "Dado 1", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/dice_1.png" },
+        { "id": "DIE2", "name": "Dado 2", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/dice_2.png" },
+        { "id": "DIE3", "name": "Dado 3", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/dice_3.png" },
+        { "id": "DIE4", "name": "Dado 4", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/dice_4.png" },
+        { "id": "DIE5", "name": "Dado 5", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/dice_5.png" },
+        { "id": "DIE6", "name": "Dado 6", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/dice_6.png" }
+
+      ],
+      "countersStartingValues": [30],
+      "cardRotation": 0,
+      "mulligan": {
+        "startingHandSize": 6
+      },
+      "newTurn": {
+        "drawPerTurn": 0
+      },
+      "sections": {
+        "customSections": [
+          "SpecialDeck",
+          "Fortress",
+          "Defeated"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "style": {
+            "width": "100%"
+          },
+          "content": [
+            {
+              "direction": "row",
+              "isSymmetricalForOpponents": false,
+              "style": {
+                "alignItems": "stretch",
+                "width": "100%"
+              },
+              "content": [
+                {
+                  "section": "EventZone",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/ev_est_sup.jpg?09102026')",
+                    "background-size": "82%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
+                    "opacity": "0.75",
+                    "width": "30.3vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "A1",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A1.jpg?091020261713')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
+                    "opacity": "0.75",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "A2",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A2.jpg?091020261713')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
+                    "opacity": "0.75",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "A3",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A3.jpg?091020261713')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
+                    "opacity": "0.75",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "A4",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A4.jpg?091020261713')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
+                    "opacity": "0.75",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "Resources",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/recursos.png?091020261713')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "opacity": "0.75",
+                    "width": "28vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "Void",
+                  "style": {
+                    "opacity": "0",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": {
+                "alignItems": "stretch",
+                "width": "100%"
+              },
+              "content": [
+                {
+                  "section": "SpecialDeck",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/deck_especial.jpg?10102026')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
+                    "opacity": "0.75",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "Defeated",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/derrotados.jpeg?091020261713')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
+                    "opacity": "0.75",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "D1",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/D1.jpg?091020261713')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
+                    "opacity": "0.75",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "D2",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/D2.jpg?091020261713')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
+                    "opacity": "0.75",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "D3",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/D3.jpg?091020261713')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
+                    "opacity": "0.75",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "D4",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/D4.jpg?091020261713')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
+                    "opacity": "0.75",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "Fortress",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/fortaleza.jpg?091020261713')",
+                    "background-size": "88%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
+                    "opacity": "0.75",
+                    "width": "28vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
+                  "section": "Leader",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/lider.jpg?09102026')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
+                    "opacity": "0.75",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "SpecialDeck",
+          "Fortress"
+        ],
+        "autoPlayFromStack": {
+          "Normal": "Stack",
+          "SpecialDeck": "Stack",
+          "Fortress": "Stack"
+        },
+        "autoPlayFromHand": {
+          "Normal": "Stack",
+          "SpecialDeck": "Stack",
+          "Fortress": "Stack"
+        },
+        "sectionsDict": {
+          "EventZone": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "Eventos / Estratégias / Suportes"
+          },
+          "SpecialDeck": {
+            "isHidden": "yes",
+            "height": 18,
+            "alignment": "DECK",
+            "displayedTitle": "Deck Especial",
+            "clickAction": "search"
+          },
+          "A1": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "A1",
+            "noQuickActions": true
+          },
+          "A2": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "A2",
+            "noQuickActions": true
+          },
+          "A3": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "A3",
+            "noQuickActions": true
+          },
+          "A4": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "A4",
+            "noQuickActions": true
+          },
+          "Resources": {
+            "type": "custom",
+            "defaultValue": {
+              "currentLevel": 1,
+              "currentEnergy": 1,
+              "levelMax": 1,
+              "energyMax": 1
+            },
+            "blueprint": {
+              "type": "div",
+              "props": {
+                "style": {
+                  "width": "28vh",
+                  "height": "100%",
+                  "display": "grid",
+                  "gridTemplateColumns": "50% 50%",
+                  "gridTemplateRows": "auto auto",
+                  "gap": "1vh"
+                }
+              },
+              "children": [
+                {
+                  "type": "div",
+                  "props": {
+                    "style": {
+                      "width": "8vh",
+                      "height": "60%",
+                      "marginLeft": "2vh",
+                      "marginTop": "2vh"
+                    }
+                  },
+                  "children": [
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "value": "{{ game.data.Resources.levelMax }}",
+                        "min": 1,
+                        "max": 10,
+                        "style": {
+                          "background": "#303030"
+                        }
+                      },
+                      "onChange": "game.data.Resources.levelMax = value; functions.chatLog('atualizou Nível máx. para ' + value)"
+                    }
+                  ]
+                },
+                {
+                  "type": "div",
+                  "props": {
+                    "style": {
+                      "width": "8vh",
+                      "height": "60%",
+                      "marginLeft": "2vh",
+                      "marginTop": "2vh"
+                    },
+                    "classname": "pb-1 m-0"
+                  },
+                  "children": [
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "value": "{{ game.data.Resources.energyMax }}",
+                        "min": 1,
+                        "max": 10,
+                        "style": {
+                          "background": "#303030"
+                        }
+                      },
+                      "onChange": "game.data.Resources.energyMax = value; functions.chatLog('atualizou Energia máx. para ' + value)"
+                    }
+                  ]
+                },
+                {
+                  "type": "div",
+                  "props": {
+                    "style": {
+                      "width": "8vh",
+                      "height": "75%",
+                      "marginLeft": "2vh"
+                    }
+                  },
+                  "children": [
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "value": "{{ game.data.Resources.currentLevel }}",
+                        "min": 0,
+                        "max": 10
+                      },
+                      "onChange": "game.data.Resources.currentLevel = value; functions.chatLog('atualizou Nível. Nível atual: ' + value)"
+                    }
+                  ]
+                },
+                {
+                  "type": "div",
+                  "props": {
+                    "style": {
+                      "width": "8vh",
+                      "height": "75%",
+                      "marginLeft": "2vh"
+                    }
+                  },
+                  "children": [
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "value": "{{ game.data.Resources.currentEnergy }}",
+                        "min": 0,
+                        "max": 10
+                      },
+                      "onChange": "game.data.Resources.currentEnergy = value; functions.chatLog('atulizou Energia. Energia atual: ' + value)"
+                    }
+                  ]
+                }
+              ]
+            },
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "Nivel/Energia",
+            "isHorizontalAllowed": true,
+            "noQuickActions": true,
+            "isGroupForbidden": true
+          },
+          "Defeated": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "DECK",
+            "displayedTitle": "Derrotados",
+            "noQuickActions": true,
+            "clickAction": "search"
+          },
+          "Leader": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "Líder",
+            "noQuickActions": true
+          },
+          "D1": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "D1",
+            "noQuickActions": true
+          },
+          "D2": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "D2",
+            "noQuickActions": true
+          },
+          "D3": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "D3",
+            "noQuickActions": true
+          },
+          "D4": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "D4",
+            "noQuickActions": true
+          },
+          "Fortress": {
+            "isHidden": "no",
+            "height": 18,
+            "alignment": "CENTER",
+            "displayedTitle": "Fortaleza",
+            "isHorizontalAllowed": true,
+            "noQuickActions": true,
+            "isGroupForbidden": true
+          },
+          "Void": {
+            "alignment": "CENTER",
+            "displayedTitle": "",
+            "isGroupForbidden": true,
+            "noQuickActions": true,
+            "height": 1
+          }
+        }
+      }
+    }
+  },
+  "cards": {
+    "dataUrl": "https://jjcodes78.github.io/SevenGalaxiesTCG/Game_Cards.json?091020262313",
+    "cardBack": "https://jjcodes78.github.io/SevenGalaxiesTCG/images/7g_card_back.jpg?09102026"
+  }
+}
