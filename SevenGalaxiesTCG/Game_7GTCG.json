@@ -437,7 +437,7 @@
                         "min": 0,
                         "max": 10
                       },
-                      "onChange": "game.data.Resources.currentLevel = value; functions.chatLog('gastou Nível. Nível restante: ' + value)"
+                      "onChange": "game.data.Resources.currentLevel = value; functions.chatLog('atualizou Nível. Nível atual: ' + value)"
                     }
                   ]
                 },
@@ -458,7 +458,7 @@
                         "min": 0,
                         "max": 10
                       },
-                      "onChange": "game.data.Resources.currentEnergy = value; functions.chatLog('gastou Energia. Energia restante: ' + value)"
+                      "onChange": "game.data.Resources.currentEnergy = value; functions.chatLog('atulizou Energia. Energia atual: ' + value)"
                     }
                   ]
                 }
