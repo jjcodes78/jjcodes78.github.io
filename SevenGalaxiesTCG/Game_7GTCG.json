@@ -111,19 +111,7 @@
                     "background-position": "center",
                     "background-repeat": "no-repeat",
                     "opacity": "0.75",
-                    "width": "13.9vh",
-                    "minWidth": "0"
-                  }
-                },
-                {
-                  "section": "SupportZone",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/et_sup.jpg?09102026')",
-                    "background-size": "80%",
-                    "background-position": "center",
-                    "background-repeat": "no-repeat",
-                    "opacity": "0.75",
-                    "width": "13.9vh",
+                    "width": "100%",
                     "minWidth": "0"
                   }
                 },
@@ -491,12 +479,6 @@
             "displayedTitle": "Derrotados",
             "noQuickActions": true,
             "clickAction": "search"
-          },
-          "SupportZone": {
-            "isHidden": "no",
-            "height": 18,
-            "alignment": "START",
-            "displayedTitle": "Estratégias / Suportes"
           },
           "Leader": {
             "isHidden": "no",
