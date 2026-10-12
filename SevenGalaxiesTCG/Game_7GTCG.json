@@ -116,9 +116,9 @@
                   }
                 },
                 {
-                  "section": "SpecialDeck",
+                  "section": "SupportZone",
                   "style": {
-                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/deck_especial.jpg?10102026')",
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/et_sup.jpg?09102026')",
                     "background-size": "80%",
                     "background-position": "center",
                     "background-repeat": "no-repeat",
@@ -187,13 +187,9 @@
                   }
                 },
                 {
-                  "section": "Defeated",
+                  "section": "Void",
                   "style": {
-                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/derrotados.jpeg?091020261713')",
-                    "background-size": "80%",
-                    "background-position": "center",
-                    "background-repeat": "no-repeat",
-                    "opacity": "0.75",
+                    "opacity": "0",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
@@ -209,9 +205,9 @@
               },
               "content": [
                 {
-                  "section": "SupportZone",
+                  "section": "SpecialDeck",
                   "style": {
-                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/et_sup.jpg?09102026')",
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/deck_especial.jpg?10102026')",
                     "background-size": "80%",
                     "background-position": "center",
                     "background-repeat": "no-repeat",
@@ -221,9 +217,9 @@
                   }
                 },
                 {
-                  "section": "Leader",
+                  "section": "Defeated",
                   "style": {
-                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/lider.jpg?09102026')",
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/derrotados.jpeg?091020261713')",
                     "background-size": "80%",
                     "background-position": "center",
                     "background-repeat": "no-repeat",
@@ -292,9 +288,13 @@
                   }
                 },
                 {
-                  "section": "Void",
+                  "section": "Leader",
                   "style": {
-                    "opacity": "0",
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/lider.jpg?09102026')",
+                    "background-size": "80%",
+                    "background-position": "center",
+                    "background-repeat": "no-repeat",
+                    "opacity": "0.75",
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
@@ -489,7 +489,8 @@
             "height": 18,
             "alignment": "DECK",
             "displayedTitle": "Derrotados",
-            "noQuickActions": true
+            "noQuickActions": true,
+            "clickAction": "search"
           },
           "SupportZone": {
             "isHidden": "no",
