@@ -107,11 +107,11 @@
                   "section": "EventZone",
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/ev_et_sup.jpg?09102026')",
-                    "background-size": "80%",
+                    "background-size": "contain",
                     "background-position": "center",
                     "background-repeat": "no-repeat",
                     "opacity": "0.75",
-                    "width": "100%",
+                    "width": "28vh",
                     "minWidth": "0"
                   }
                 },
