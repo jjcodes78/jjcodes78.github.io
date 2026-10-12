@@ -333,7 +333,13 @@
             "height": 18,
             "alignment": "CENTER",
             "displayedTitle": "A1",
-            "noQuickActions": true
+            "noQuickActions": true,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Defeated"
+              }
+            }
           },
           "A2": {
             "isHidden": "no",
@@ -536,9 +542,6 @@
             "isHorizontalAllowed": true,
             "noQuickActions": true,
             "isGroupForbidden": true
-          },
-          "Discard": {
-            "displayedTitle": "Derrotados"
           }
         }
       }
