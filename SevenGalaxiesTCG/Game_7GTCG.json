@@ -100,7 +100,7 @@
               "isSymmetricalForOpponents": false,
               "style": {
                 "alignItems": "stretch",
-                "width": "100%"
+                "width": "25%"
               },
               "content": [
                 {
@@ -111,10 +111,20 @@
                     "background-position": "center",
                     "background-repeat": "no-repeat",
                     "opacity": "0.75",
-                    "width": "30.3vh",
+                    "width": "100%",
                     "minWidth": "0"
                   }
-                },
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": {
+                "alignItems": "stretch",
+                "width": "50%"
+              },
+              "content": [
                 {
                   "section": "A1",
                   "style": {
@@ -162,7 +172,17 @@
                     "width": "13.9vh",
                     "minWidth": "0"
                   }
-                },
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": {
+                "alignItems": "strech",
+                "width": "25%"
+              },
+              "content": [
                 {
                   "section": "Resources",
                   "style": {
