@@ -85,10 +85,12 @@
       "sections": {
         "customSections": [
           "SpecialDeck",
-          "Fortress"
+          "Fortress",
+          "Defeated"
         ],
         "layout": {
           "direction": "column",
+          "isSymetricalForOpponents": false,
           "style": {
             "width": "100%"
           },
@@ -196,11 +198,11 @@
                     "minWidth": "0"
                   }
                 }
-              ]
+              ],
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "row",
-              "isSymmetricalForOpponents": true,
               "style": {
                 "alignItems": "stretch",
                 "width": "100%"
@@ -297,13 +299,8 @@
                     "minWidth": "0"
                   }
                 }
-              ]
-            },
-            {
-              "section": "Hand",
-              "style": {
-                "marginTop": "8px"
-              }
+              ],
+              "isSymetricalForOpponents": false
             }
           ]
         },
