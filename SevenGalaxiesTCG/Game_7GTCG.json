@@ -288,7 +288,14 @@
                     "opacity": "0.75",
                     "width": "28vh",
                     "minWidth": "0",
-                    "marginRight": "13.9vh"
+                  }
+                },
+                {
+                  "section": "Void",
+                  "style": {
+                    "opacity": "0",
+                    "width": "13.9vh",
+                    "minWidth": "0"
                   }
                 }
               ]
@@ -333,13 +340,7 @@
             "height": 18,
             "alignment": "CENTER",
             "displayedTitle": "A1",
-            "noQuickActions": true,
-            "cardActionShortcut": {
-              "action": "MOVE",
-              "actionData": {
-                "destination": "Defeated"
-              }
-            }
+            "noQuickActions": true
           },
           "A2": {
             "isHidden": "no",
@@ -542,6 +543,13 @@
             "isHorizontalAllowed": true,
             "noQuickActions": true,
             "isGroupForbidden": true
+          },
+          "Void": {
+            "alignment": "CENTER",
+            "displayedTitle": "",
+            "isGroupForbidden": true,
+            "noQuickActions": true,
+            "height": 1
           }
         }
       }
