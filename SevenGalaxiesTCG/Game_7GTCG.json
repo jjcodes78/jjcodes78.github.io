@@ -326,7 +326,7 @@
             "displayedTitle": "Eventos / Estratégias / Suportes"
           },
           "SpecialDeck": {
-            "isHidden": "opponent-only",
+            "isHidden": "yes",
             "height": 18,
             "alignment": "DECK",
             "displayedTitle": "Deck Especial",
