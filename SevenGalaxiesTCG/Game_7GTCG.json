@@ -90,7 +90,6 @@
         "layout": {
           "direction": "column",
           "style": {
-            "gap": "8px",
             "width": "100%"
           },
           "content": [
