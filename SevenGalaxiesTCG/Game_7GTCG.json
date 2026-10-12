@@ -104,6 +104,14 @@
               },
               "content": [
                 {
+                  "section": "Void",
+                  "style": {
+                    "opacity": "0",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
+                {
                   "section": "EventZone",
                   "style": {
                     "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/ev_est_sup.jpg?09102026')",
@@ -192,6 +200,14 @@
                 "width": "100%"
               },
               "content": [
+                {
+                  "section": "Void",
+                  "style": {
+                    "opacity": "0",
+                    "width": "13.9vh",
+                    "minWidth": "0"
+                  }
+                },
                 {
                   "section": "SpecialDeck",
                   "style": {
