@@ -97,22 +97,30 @@
           "content": [
             {
               "direction": "row",
-              "isSymmetricalForOpponents": false,
               "style": {
                 "alignItems": "stretch",
                 "width": "25%"
               },
               "content": [
                 {
-                  "section": "EventZone",
+                  "direction": "row",
                   "style": {
-                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/ev_est_sup.jpg?09102026')",
-                    "background-size": "82%",
-                    "background-position": "center",
-                    "background-repeat": "no-repeat",
-                    "opacity": "0.75",
+                    "alignItems": "strech",
                     "width": "100%",
-                    "minWidth": "0"
+                    "content": [
+                      {
+                        "section": "EventZone",
+                        "style": {
+                          "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/ev_est_sup.jpg?09102026')",
+                          "background-size": "82%",
+                          "background-position": "center",
+                          "background-repeat": "no-repeat",
+                          "opacity": "0.75",
+                          "width": "100%",
+                          "minWidth": "0"
+                        }
+                      }
+                    ]
                   }
                 }
               ],
@@ -126,84 +134,102 @@
               },
               "content": [
                 {
-                  "section": "A1",
+                  "direction": "row",
                   "style": {
-                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A1.jpg?091020261713')",
-                    "background-size": "80%",
-                    "background-position": "center",
-                    "background-repeat": "no-repeat",
-                    "opacity": "0.75",
-                    "width": "13.9vh",
-                    "minWidth": "0"
-                  }
-                },
-                {
-                  "section": "A2",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A2.jpg?091020261713')",
-                    "background-size": "80%",
-                    "background-position": "center",
-                    "background-repeat": "no-repeat",
-                    "opacity": "0.75",
-                    "width": "13.9vh",
-                    "minWidth": "0"
-                  }
-                },
-                {
-                  "section": "A3",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A3.jpg?091020261713')",
-                    "background-size": "80%",
-                    "background-position": "center",
-                    "background-repeat": "no-repeat",
-                    "opacity": "0.75",
-                    "width": "13.9vh",
-                    "minWidth": "0"
-                  }
-                },
-                {
-                  "section": "A4",
-                  "style": {
-                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A4.jpg?091020261713')",
-                    "background-size": "80%",
-                    "background-position": "center",
-                    "background-repeat": "no-repeat",
-                    "opacity": "0.75",
-                    "width": "13.9vh",
-                    "minWidth": "0"
-                  }
+                    "alignItems": "stretch",
+                    "width": "100%"
+                  },
+                  "content": [
+                    {
+                      "section": "A1",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A1.jpg?091020261713')",
+                        "background-size": "80%",
+                        "background-position": "center",
+                        "background-repeat": "no-repeat",
+                        "opacity": "0.75",
+                        "width": "13.9vh",
+                        "minWidth": "0"
+                      }
+                    },
+                    {
+                      "section": "A2",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A2.jpg?091020261713')",
+                        "background-size": "80%",
+                        "background-position": "center",
+                        "background-repeat": "no-repeat",
+                        "opacity": "0.75",
+                        "width": "13.9vh",
+                        "minWidth": "0"
+                      }
+                    },
+                    {
+                      "section": "A3",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A3.jpg?091020261713')",
+                        "background-size": "80%",
+                        "background-position": "center",
+                        "background-repeat": "no-repeat",
+                        "opacity": "0.75",
+                        "width": "13.9vh",
+                        "minWidth": "0"
+                      }
+                    },
+                    {
+                      "section": "A4",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A4.jpg?091020261713')",
+                        "background-size": "80%",
+                        "background-position": "center",
+                        "background-repeat": "no-repeat",
+                        "opacity": "0.75",
+                        "width": "13.9vh",
+                        "minWidth": "0"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
-              ],
-              "isSymetricalForOpponents": false
+              ]
             },
             {
               "direction": "row",
               "style": {
-                "alignItems": "strech",
+                "alignItems": "stretch",
                 "width": "25%"
               },
               "content": [
                 {
-                  "section": "Resources",
+                  "direction": "row",
                   "style": {
-                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/recursos.png?091020261713')",
-                    "background-size": "contain",
-                    "background-repeat": "no-repeat",
-                    "opacity": "0.75",
-                    "width": "28vh",
-                    "minWidth": "0"
-                  }
-                },
-                {
-                  "section": "Void",
-                  "style": {
-                    "opacity": "0",
-                    "width": "13.9vh",
-                    "minWidth": "0"
-                  }
+                    "alignItems": "stretch",
+                    "width": "100%"
+                  },
+                  "content": [
+                    {
+                      "section": "Resources",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/recursos.png?091020261713')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "opacity": "0.75",
+                        "width": "28vh",
+                        "minWidth": "0"
+                      }
+                    },
+                    {
+                      "section": "Void",
+                      "style": {
+                        "opacity": "0",
+                        "width": "13.9vh",
+                        "minWidth": "0"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
-              ],
-              "isSymetricalForOpponents": false
+              ]
             },
             {
               "direction": "row",
