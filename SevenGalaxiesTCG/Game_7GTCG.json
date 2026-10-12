@@ -188,7 +188,7 @@
                 {
                   "section": "Defeated",
                   "style": {
-                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/A4.jpg?091020261713')",
+                    "background-image": "url('https://jjcodes78.github.io/SevenGalaxiesTCG/images/derrotados.jpeg?091020261713')",
                     "background-size": "80%",
                     "background-position": "center",
                     "background-repeat": "no-repeat",
@@ -330,7 +330,7 @@
             "displayedTitle": "Eventos / Estratégias / Suportes"
           },
           "SpecialDeck": {
-            "isHidden": "yes",
+            "isHidden": "opponent-only",
             "height": 18,
             "alignment": "DECK",
             "displayedTitle": "Deck Especial"
