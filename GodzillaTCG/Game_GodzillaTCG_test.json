@@ -1,0 +1,482 @@
+{
+  "name": "Godzilla Card Game (Test)",
+  "menuBackgroundImage": "https://jjcodes78.github.io/GodzillaTCG/images/godzilla_banner.jpg",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://wallpapers.com/images/hd/godzilla-4k-ocean-j4mrrzqjy9vdfhxf.jpg",
+      "https://jjcodes78.github.io/GodzillaTCG/images/godzilla-playmat-red.jpg",
+      "https://jjcodes78.github.io/GodzillaTCG/images/godzilla-playmat-blue.jpg",
+      "https://jjcodes78.github.io/GodzillaTCG/images/godzilla-playmat-gray.jpg"
+    ],
+    "decksUrl": "https://jjcodes78.github.io/GodzillaTCG/GodzillaTCG_PreconDecks.json?v=190820250447"
+  },
+  "customHelp": "",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://jjcodes78.github.io/GodzillaTCG/GodzillaTCG_CardList_test.json?v=0108202520031978",
+    "cardBack": "https://en.godzilla-cardgame.com/wordpress/wp-content/themes/godzilla_tcg-e/assets/img/common/card_back.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "type",
+      "rank",
+      "name",
+      "Color",
+      "threat",
+      "counter",
+      "invade"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": [
+          "MonsterDeck"
+        ]
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": 0,
+        "drawNewHand": false,
+        "putSelectionAtBottom": true,
+        "drawNewSelectedCards": true
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "0"
+      },
+      "defaultNotes": "",
+      "tokens": [
+        {
+          "name": "Invasion",
+          "image": "https://jjcodes78.github.io/GodzillaTCG/images/godzilla-invasion-marker.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": true
+        },
+        {
+          "name": "Monster",
+          "image": "https://jjcodes78.github.io/GodzillaTCG/images/godzilla-monster-marker.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": true
+        }
+      ],
+      "countersStartingValues": [],
+      "hideFacedDownCards": false,
+      "draggableTokens": [
+        {
+          "id": "invade-marker",
+          "name": "Invasion",
+          "image": "https://jjcodes78.github.io/GodzillaTCG/images/godzilla-invasion-marker.png"
+        },
+        {
+          "id": "monster-marker",
+          "name": "Monster",
+          "image": "https://jjcodes78.github.io/GodzillaTCG/images/godzilla-monster-marker.png"
+        }
+      ],
+      "sections": {
+        "customSections": [
+          "Strategy1",
+          "Strategy2",
+          "RageZone",
+          "Zone8",
+          "Zone7",
+          "Zone6",
+          "Zone5",
+          "Zone4",
+          "Zone3",
+          "Zone2",
+          "Zone1",
+          "MonsterDeck"
+        ],
+        "layout": {
+          "direction": "row",
+          "style": {
+            "height": "36.5vh"
+          },
+          "content": [
+            {
+              "direction": "column",
+              "style": {
+                "width": "15vh"
+              },
+              "content": [
+                {
+                  "section": "Strategy1",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-strategyzone_1.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
+                    "width": "22vh",
+                    "scale": 0.75
+                  }
+                },
+                {
+                  "section": "Strategy2",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-strategyzone_2.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
+                    "width": "22vh",
+                    "scale": 0.75,
+                    "translate": "0 -6vh"
+                  }
+                }
+              ]
+            },
+            {
+              "direction": "column",
+              "style": {
+                "marginRight": "calc((100% - 13vh) / 5 - 13vh + 13vh + 7vw)",
+                "marginLeft": "7vw"
+              },
+              "isSymetricalForOpponents": false,
+              "content": [
+                {
+                  "direction": "row",
+                  "style": {
+                    "align": "center"
+                  },
+                  "content": [
+                    {
+                      "section": "RageZone",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-ragezone.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "15.5vh",
+                        "marginLeft": "calc(((100% - 13vh) / 5) * 2 - 1.25vh)",
+                        "marginRight": "-1.25vh"
+                      }
+                    },
+                    {
+                      "section": "Zone8",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone8.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh",
+                        "marginBottom": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Zone7",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone7.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh",
+                        "marginTop": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Zone6",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone6.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh",
+                        "marginTop": "4vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "row",
+                  "style": {
+                    "align": "center"
+                  },
+                  "content": [
+                    {
+                      "section": "MonsterDeck",
+                      "style": {
+                        "width": "13vh"
+                      }
+                    },
+                    {
+                      "section": "Zone1",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone1.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh"
+                      }
+                    },
+                    {
+                      "section": "Zone2",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone2.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh"
+                      }
+                    },
+                    {
+                      "section": "Zone3",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone3.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh"
+                      }
+                    },
+                    {
+                      "section": "Zone4",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone4.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh"
+                      }
+                    },
+                    {
+                      "section": "Zone5",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone5.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                }
+              ]
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "MonsterDeck"
+        ],
+        "autoPlayFromHand": {
+          "Token": "Stack",
+          "Battle": "Stack",
+          "Monster": "Stack",
+          "Strategy": "Stack"
+        },
+        "autoPlayFromStack": {
+          "Token": "RageZone"
+        },
+        "sectionsDict": {
+          "Strategy1": {
+            "title": "Strategy1",
+            "isHidden": "no",
+            "height": "15",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true,
+            "cardStyle": {
+              "marginTop": "-1.8vh"
+            }
+          },
+          "Strategy2": {
+            "title": "Strategy2",
+            "isHidden": "no",
+            "height": "15",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true,
+            "cardStyle": {
+              "marginTop": "-1.8vh"
+            }
+          },
+          "MonsterDeck": {
+            "title": "MonsterDeck",
+            "isHidden": "yes",
+            "height": "15",
+            "alignment": "DECK",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "MonsterDeck",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false,
+            "clickAction": "search"
+          },
+          "RageZone": {
+            "title": "RageZone",
+            "isHidden": "no",
+            "height": "19",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Zone1": {
+            "title": "Zone1",
+            "isHidden": "no",
+            "height": "15",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Zone2": {
+            "title": "Zone2",
+            "isHidden": "no",
+            "height": "15",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Zone3": {
+            "title": "Zone3",
+            "isHidden": "no",
+            "height": "15",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Zone4": {
+            "title": "Zone4",
+            "isHidden": "no",
+            "height": "15",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Zone5": {
+            "title": "Zone5",
+            "isHidden": "no",
+            "height": "15",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Zone6": {
+            "title": "Zone6",
+            "isHidden": "no",
+            "height": "15",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Zone7": {
+            "title": "Zone7",
+            "isHidden": "no",
+            "height": "15",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Zone8": {
+            "title": "Zone8",
+            "isHidden": "no",
+            "height": "15",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          }
+        }
+      }
+    }
+  }
+}

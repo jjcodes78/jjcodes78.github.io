@@ -328,7 +328,8 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": false,
+            "clickAction": "search"
           },
           "RageZone": {
             "title": "RageZone",
