@@ -1,0 +1,18 @@
+{
+  "author": "darthjj78",
+  "gameUrl": "https://jjcodes78.github.io/GodzillaTCG/Game_GodzillaTCG.json",
+  "langs": [
+    "en"
+  ],
+  "useAiArts": false,
+  "screenshotUrls": [
+    "https://i.ibb.co/HTh4WppG/m-Oq21-Gk-Imgur.jpg"
+  ],
+  "descriptionUrl": "https://jjcodes78.github.io/GodzillaTCG/description.md",
+  "updates": [
+    "Version 10.2026.1:",
+    "- Added sets EBP02, EBP03 and EBP04.",
+    "- Added deckbuild rulesets",
+    "- Fixes and improvements."
+  ]
+}

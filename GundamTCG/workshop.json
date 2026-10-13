@@ -1,0 +1,16 @@
+{
+  "author": "darthjj78",
+  "gameUrl": "https://jjcodes78.github.io/GundamTCG/Game_GundamTCG.json",
+  "langs": [
+    "en"
+  ],
+  "useAiArts": false,
+  "screenshotUrls": [
+    "https://i.ibb.co/ch0pcy00/IQgmd-MC-Imgur.jpg"
+  ],
+  "descriptionUrl": "https://jjcodes78.github.io/GundamTCG/description.md",
+  "updates": [
+    "Version 10.2026.1:",
+    "- Added ST11, ST12, ST13 and ST14 cards and Starter Decks."
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "author": "SevenGalaxiesTCG",
+  "author": "darthjj78",
   "gameUrl": "https://jjcodes78.github.io/SevenGalaxiesTCG/Game_7GTCG.json",
   "tags": "tcg,fantasy",
   "langs": ["en", "pt"],
@@ -8,5 +8,8 @@
     "https://jjcodes78.github.io/SevenGalaxiesTCG/images/logo.jpeg"
   ],
   "descriptionUrl": "https://jjcodes78.github.io/SevenGalaxiesTCG/description.md",
-  "updates": ["First release!"]
+  "updates": [
+    "Version 10.2026.1:",
+    "- Added all available sets."
+  ]
 }
