@@ -89,7 +89,6 @@
 
       ],
       "countersStartingValues": [30],
-      "cardRotation": 0,
       "mulligan": {
         "triggeredByButton": true,
         "startingHandSize": 6,
