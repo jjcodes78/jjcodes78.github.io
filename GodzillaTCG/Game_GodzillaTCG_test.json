@@ -30,6 +30,7 @@
       {
         "title": "Classic",
         "gameplay": "Classic",
+        "deckRuleset": "Classic",
         "categories": [
           "Monster",
           "Battle",
