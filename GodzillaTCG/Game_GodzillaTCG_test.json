@@ -30,6 +30,11 @@
       {
         "title": "Classic",
         "gameplay": "Classic",
+        "categories": [
+          "Monster",
+          "Battle",
+          "Strategy"
+        ],
         "customCategories": [
           "MonsterDeck"
         ]
