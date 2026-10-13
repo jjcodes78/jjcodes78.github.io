@@ -41,6 +41,19 @@
   "gameplay": {
     "Standard": {
       "defaultNotes": "",
+      "beforeGameStart": {
+        "chooseAnotherStartingPlayer": true,
+        "initialBoardSetup": {
+          "0": [],
+          "1": [
+            {
+              "drawFromTop": "Deck",
+              "count": 1,
+              "destination": "Hand"
+            }
+          ]
+        }
+      },
       "draggableTokens": [
         { "id": "ATK", "name": "Ataque", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/attack.png" },
         { "id": "EXA", "name": "Exausta", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/exausted.png" },
