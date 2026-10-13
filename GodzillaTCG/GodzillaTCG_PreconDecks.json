@@ -1,22 +1,21 @@
 [
   {
-    "title": "\"Godzilla Minus One\" Red Starter Deck",
-    "id": "55c5e6a2-55d6-4441-9080-d92ab926f456",
-    "game": "Godzilla TCG",
+    "title": "Starter Deck: Godzilla Minus One (Red)",
+    "id": "866d6a51-f349-4b25-93d0-7eebaeb4b6f2",
+    "cardCount": 54,
+    "createdAt": "2026-10-13T17:20:39.345Z",
+    "lastModifiedAt": "2026-10-13T17:29:56.832Z",
+    "game": "Godzilla Card Game (Test)",
     "format": [
       "Classic"
     ],
-    "cardCount": 54,
-    "createdAt": "2025-08-18T20:29:55.123Z",
-    "lastModifiedAt": "2025-08-19T07:46:27.045Z",
     "deckList": {
       "categoriesOrder": [
         "MonsterDeck",
         "Monster",
-        "Strategy",
-        "Battle"
+        "Battle",
+        "Strategy"
       ],
-      "Sideboard": [],
       "MonsterDeck": [
         {
           "count": 1,
@@ -37,18 +36,6 @@
       ],
       "Monster": [
         {
-          "count": 2,
-          "id": "ESD01-002"
-        },
-        {
-          "count": 2,
-          "id": "ESD01-003"
-        },
-        {
-          "count": 2,
-          "id": "ESD01-004"
-        },
-        {
           "count": 4,
           "id": "ESD01-005"
         },
@@ -59,24 +46,18 @@
         {
           "count": 4,
           "id": "ESD01-007"
-        }
-      ],
-      "Strategy": [
-        {
-          "count": 4,
-          "id": "ESD01-013"
         },
         {
           "count": 2,
-          "id": "ESD01-014"
-        },
-        {
-          "count": 4,
-          "id": "ESD01-015"
+          "id": "ESD01-002"
         },
         {
           "count": 2,
-          "id": "ESD01-016_2"
+          "id": "ESD01-003"
+        },
+        {
+          "count": 2,
+          "id": "ESD01-004"
         }
       ],
       "Battle": [
@@ -100,19 +81,37 @@
           "count": 4,
           "id": "ESD01-012"
         }
+      ],
+      "Strategy": [
+        {
+          "count": 4,
+          "id": "ESD01-013"
+        },
+        {
+          "count": 2,
+          "id": "ESD01-014"
+        },
+        {
+          "count": 4,
+          "id": "ESD01-015"
+        },
+        {
+          "count": 2,
+          "id": "ESD01-016"
+        }
       ]
     }
   },
   {
-    "title": "\"Heisen Series\" Blue Starter Deck",
-    "id": "d10453c1-3bc2-4e45-a906-c42597757c83",
-    "game": "Godzilla TCG",
+    "title": "Starter Deck: Heisen Series (Blue)",
+    "id": "6cb794a0-9351-4740-9583-7d1bf68aa906",
+    "cardCount": 54,
+    "createdAt": "2026-10-13T17:27:08.948Z",
+    "lastModifiedAt": "2026-10-13T17:29:41.516Z",
+    "game": "Godzilla Card Game (Test)",
     "format": [
       "Classic"
     ],
-    "cardCount": 54,
-    "createdAt": "2025-08-19T07:40:26.655Z",
-    "lastModifiedAt": "2025-08-19T07:45:09.149Z",
     "deckList": {
       "categoriesOrder": [
         "MonsterDeck",
@@ -120,7 +119,6 @@
         "Battle",
         "Strategy"
       ],
-      "Sideboard": [],
       "MonsterDeck": [
         {
           "count": 1,
