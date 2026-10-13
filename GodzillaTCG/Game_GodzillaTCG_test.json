@@ -41,11 +41,13 @@
       "Classic": {
         "general": {
           "min": 54,
-          "max": 60,
-          "maxPerCard": 4
+          "max": 60
         },
         "categories": [
-          {"category": "MonsterDeck", "min": 4, "max": 4}
+          {"category": "Monster", "min": 0, "maxPerCard": 4},
+          {"category": "Battle", "min": 0, "maxPerCard": 4},
+          {"category": "Strategy", "min": 0, "maxPerCard": 4},
+          {"category": "MonsterDeck", "min": 4, "max": 4, "maxPerCard": 1}
         ]
       }
     }
