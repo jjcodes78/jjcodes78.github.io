@@ -2639,39 +2639,6 @@
       "traits": ""
     }
   },
-  "ESD01-001": {
-    "id": "ESD01-001",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Godzilla(2023)",
-        "type": "Monster",
-        "cost": "0",
-        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/ESD01-001.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Godzilla(2023)-ESD01-001",
-    "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster"
-    ],
-    "set": "ESD01",
-    "isHorizontal": false,
-    "threat": 6000,
-    "rank": "2",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=204",
-      "official_id": "204",
-      "rarity": "SSSP",
-      "traits": ""
-    }
-  },
   "EBP02-001": {
     "id": "EBP02-001",
     "isToken": false,
@@ -11282,6 +11249,39 @@
       "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=841",
       "official_id": "841",
       "rarity": "SP",
+      "traits": ""
+    }
+  },
+  "ESD01-001": {
+    "id": "ESD01-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Godzilla(2023)",
+        "type": "Monster",
+        "cost": "0",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/ESD01-001.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Godzilla(2023)-ESD01-001",
+    "type": "Monster",
+    "cost": "0",
+    "Color": "Red",
+    "Type": [
+      "Monster"
+    ],
+    "set": "ESD01",
+    "isHorizontal": false,
+    "threat": 6000,
+    "rank": "2",
+    "invade": 0,
+    "counter": 0,
+    "tokens": [],
+    "_source": {
+      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=204",
+      "official_id": "204",
+      "rarity": "SSSP",
       "traits": ""
     }
   },
