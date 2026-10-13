@@ -40,7 +40,7 @@
         ]
       }
     ],
-    "deckRuleSets": {
+    "deckRulesets": {
       "Classic": {
         "general": {
           "min": 54,
