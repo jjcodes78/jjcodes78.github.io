@@ -469,8 +469,7 @@
                         "min": 0,
                         "max": 10
                       },
-                      "onChange": "game.data.Resources.currentLevel = value; functions.chatLog('set Nível to ' + value + ' (' + deltaDisplay + ')')",
-                      "onNewTurn": "game.data.Resources.currentLevel = game.data.Resources.levelMax"
+                      "onChange": "game.data.Resources.currentLevel = value; functions.chatLog('set Nível to ' + value + ' (' + deltaDisplay + ')')"
                     }
                   ]
                 },
@@ -491,12 +490,14 @@
                         "min": 0,
                         "max": 10
                       },
-                      "onChange": "game.data.Resources.currentEnergy = value; functions.chatLog('set Energia to ' + value + ' (' + deltaDisplay + ')')",
-                      "onNewTurn": "game.data.Resources.currentEnergy = game.data.Resources.energyMax"
+                      "onChange": "game.data.Resources.currentEnergy = value; functions.chatLog('set Energia to ' + value + ' (' + deltaDisplay + ')')"
                     }
                   ]
                 }
               ]
+            },
+            "events": {
+              "onNewTurn": "game.data.Resources = { currentLevel = levelMax, currentEnergy = energyMax }"
             },
             "isHidden": "no",
             "height": 18,
