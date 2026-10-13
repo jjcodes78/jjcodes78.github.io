@@ -113,11 +113,6 @@
         "drawPerTurn": 0
       },
       "sections": {
-        "customSections": [
-          "SpecialDeck",
-          "Fortress",
-          "Defeated"
-        ],
         "layout": {
           "direction": "column",
           "isSymetricalForOpponents": false,
