@@ -1,5 +1,5 @@
 {
-  "name": "Godzilla Card Game",
+  "name": "Godzilla Card Game (Test)",
   "menuBackgroundImage": "https://jjcodes78.github.io/GodzillaTCG/images/godzilla_banner.jpg",
   "defaultRessources": {
     "backgrounds": [
@@ -13,28 +13,44 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://jjcodes78.github.io/GodzillaTCG/GodzillaTCG_CardList.json?v=0108202520031978",
+    "dataUrl": "https://jjcodes78.github.io/GodzillaTCG/GodzillaTCG_CardList_test.json?v=0108202520031978",
     "cardBack": "https://en.godzilla-cardgame.com/wordpress/wp-content/themes/godzilla_tcg-e/assets/img/common/card_back.png"
   },
   "deckBuilding": {
     "mainFilters": [
       "type",
-      "rank",
       "name",
-      "Color",
-      "threat",
-      "counter",
-      "invade"
+      "Color"
     ],
     "formats": [
       {
         "title": "Classic",
         "gameplay": "Classic",
+        "deckRuleset": "Classic",
+        "categories": [
+          "Monster",
+          "Battle",
+          "Strategy"
+        ],
         "customCategories": [
           "MonsterDeck"
         ]
       }
-    ]
+    ],
+    "deckRulesets": {
+      "Classic": {
+        "general": {
+          "min": 54,
+          "max": 60
+        },
+        "categories": [
+          {"category": "Monster", "min": 0, "maxPerCard": 4},
+          {"category": "Battle", "min": 0, "maxPerCard": 4},
+          {"category": "Strategy", "min": 0, "maxPerCard": 4},
+          {"category": "MonsterDeck", "min": 4, "max": 4, "maxPerCard": 1}
+        ]
+      }
+    }
   },
   "gameplay": {
     "Classic": {
@@ -81,20 +97,6 @@
         }
       ],
       "sections": {
-        "customSections": [
-          "Strategy1",
-          "Strategy2",
-          "RageZone",
-          "Zone8",
-          "Zone7",
-          "Zone6",
-          "Zone5",
-          "Zone4",
-          "Zone3",
-          "Zone2",
-          "Zone1",
-          "MonsterDeck"
-        ],
         "layout": {
           "direction": "row",
           "style": {
@@ -153,8 +155,8 @@
                         "background-size": "contain",
                         "background-repeat": "no-repeat",
                         "background-position": "center",
-                        "width": "15.5vh",
-                        "marginLeft": "calc(((100% - 13vh) / 5) * 2 - 1.25vh)",
+                        "width": "40.5vh",
+                        "max-width": "40.5vh",
                         "marginRight": "-1.25vh"
                       }
                     },
