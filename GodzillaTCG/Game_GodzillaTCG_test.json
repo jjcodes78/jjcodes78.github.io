@@ -19,12 +19,8 @@
   "deckBuilding": {
     "mainFilters": [
       "type",
-      "rank",
       "name",
-      "Color",
-      "threat",
-      "counter",
-      "invade"
+      "Color"
     ],
     "formats": [
       {
@@ -33,6 +29,7 @@
         "deckRuleset": "Classic",
         "categories": [
           "Monster",
+          "MonsterDeck",
           "Battle",
           "Strategy"
         ]
@@ -45,12 +42,9 @@
           "max": 60,
           "maxPerCard": 4
         },
-        "categories": {
-          "Monster": {
-            "min": 4,
-            "max": 4
-          }
-        }
+        "categories": [
+          {"category": "MonsterDeck", "min": 4, "max": 4}
+        ]
       }
     }
   },
@@ -99,20 +93,6 @@
         }
       ],
       "sections": {
-        "customSections": [
-          "Strategy1",
-          "Strategy2",
-          "RageZone",
-          "Zone8",
-          "Zone7",
-          "Zone6",
-          "Zone5",
-          "Zone4",
-          "Zone3",
-          "Zone2",
-          "Zone1",
-          "MonsterDeck"
-        ],
         "layout": {
           "direction": "row",
           "style": {
