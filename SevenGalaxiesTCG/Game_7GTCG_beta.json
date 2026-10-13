@@ -497,7 +497,7 @@
               ]
             },
             "events": {
-              "onNewTurn": "game.data.Resources = { currentLevel: levelMax, currentEnergy: energyMax }"
+              "onNewTurn": "game.data.Resources = { currentLevel: game.data.Resources.levelMax, currentEnergy: game.data.Resources.energyMax }"
             },
             "isHidden": "no",
             "height": 18,
