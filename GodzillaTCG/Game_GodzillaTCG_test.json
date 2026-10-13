@@ -29,9 +29,11 @@
         "deckRuleset": "Classic",
         "categories": [
           "Monster",
-          "MonsterDeck",
           "Battle",
           "Strategy"
+        ],
+        "customCategories": [
+          "MonsterDeck"
         ]
       }
     ],
