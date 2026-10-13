@@ -393,7 +393,7 @@
                           "background": "#303030"
                         }
                       },
-                      "onChange": "game.data.Resources.levelMax = value; functions.chatLog('atualizou Nível máx. para ' + value)"
+                      "onChange": "game.data.Resources.levelMax = value; functions.chatLog('set Nível Máx. to ' + value + ' (' + deltaDisplay + ')')"
                     }
                   ]
                 },
@@ -419,7 +419,7 @@
                           "background": "#303030"
                         }
                       },
-                      "onChange": "game.data.Resources.energyMax = value; functions.chatLog('atualizou Energia máx. para ' + value)"
+                      "onChange": "game.data.Resources.energyMax = value; functions.chatLog('set Energia Máx. to ' + value + ' (' + deltaDisplay + ')')"
                     }
                   ]
                 },
@@ -440,7 +440,7 @@
                         "min": 0,
                         "max": 10
                       },
-                      "onChange": "game.data.Resources.currentLevel = value; functions.chatLog('atualizou Nível. Nível atual: ' + value)"
+                      "onChange": "game.data.Resources.currentLevel = value; functions.chatLog('set Nível to ' + value + ' (' + deltaDisplay + ')')"
                     }
                   ]
                 },
@@ -461,7 +461,8 @@
                         "min": 0,
                         "max": 10
                       },
-                      "onChange": "game.data.Resources.currentEnergy = value; functions.chatLog('atulizou Energia. Energia atual: ' + value)"
+                      "onChange": "game.data.Resources.currentEnergy = value; functions.chatLog('set Energia to ' + value + ' (' + deltaDisplay + ')')",
+                      "onNewTurn": "game.data.Recources = { currentLevel: levelMax, currentEnergy: energyMax }"
                     }
                   ]
                 }
