@@ -1,0 +1,12 @@
+{
+  "author": "SevenGalaxiesTCG",
+  "gameUrl": "https://jjcodes78.github.io/SevenGalaxiesTCG/Game_7GTCG.json",
+  "tags": "tcg,fantasy",
+  "langs": ["en", "pt"],
+  "useAiArts": false,
+  "screenshotUrls": [
+    "https://jjcodes78.github.io/SevenGalaxiesTCG/images/logo.jpeg"
+  ],
+  "descriptionUrl": "https://jjcodes78.github.io/SevenGalaxiesTCG/description.md",
+  "updates": ["First release!"]
+}
