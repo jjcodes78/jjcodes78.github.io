@@ -1,6 +1,7 @@
 {
   "name": "SevenGalaxiesTCG (Beta)",
   "menuBackgroundImage": "https://jjcodes78.github.io/SevenGalaxiesTCG/images/logo.jpeg?09102026",
+  "cardRotation": 0,
   "defaultRessources": {
     "backgrounds": [
       "https://jjcodes78.github.io/SevenGalaxiesTCG/backgrounds/bg1.jpg?09102026",
