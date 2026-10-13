@@ -78,7 +78,24 @@
       "countersStartingValues": [30],
       "cardRotation": 0,
       "mulligan": {
-        "startingHandSize": 6
+        "triggeredByButton": true,
+        "startingHandSize": 6,
+        "mulliganCount": {
+          "min": 0,
+          "max": 1
+        },
+        "mulliganCycle": {
+          "info": "Você pode fazer Mulligan de quaisquer cards. Eles serão recomprados automaticamente. GG!",
+          "steps": [
+            "toBottom",
+            "draw"
+          ],
+          "selectionRange": {
+            "min": 0,
+            "max": 6
+          },
+          "keepCardOrder": false
+        }
       },
       "newTurn": {
         "drawPerTurn": 0
