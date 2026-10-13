@@ -7,7 +7,7 @@
         "name": "Godzilla(1954)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-001.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-001.png",
         "isHorizontal": false
       }
     },
@@ -40,7 +40,7 @@
         "name": "Godzilla(1954)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-002.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-002.png",
         "isHorizontal": false
       }
     },
@@ -73,7 +73,7 @@
         "name": "Godzilla(1954)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-003.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-003.png",
         "isHorizontal": false
       }
     },
@@ -106,7 +106,7 @@
         "name": "Godzilla(1954)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-004.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-004.png",
         "isHorizontal": false
       }
     },
@@ -139,7 +139,7 @@
         "name": "Godzilla(1955)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-005.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-005.png",
         "isHorizontal": false
       }
     },
@@ -172,7 +172,7 @@
         "name": "Godzilla(1974)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-006.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-006.png",
         "isHorizontal": false
       }
     },
@@ -205,7 +205,7 @@
         "name": "Godzilla(1975)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-007.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-007.png",
         "isHorizontal": false
       }
     },
@@ -238,7 +238,7 @@
         "name": "Godzilla(2004)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-008.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-008.png",
         "isHorizontal": false
       }
     },
@@ -271,7 +271,7 @@
         "name": "Godzilla(2023)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-009.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-009.png",
         "isHorizontal": false
       }
     },
@@ -304,7 +304,7 @@
         "name": "Godzilla(2023)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-010.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-010.png",
         "isHorizontal": false
       }
     },
@@ -337,7 +337,7 @@
         "name": "Godzilla(Fest Godzilla)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-011.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-011.png",
         "isHorizontal": false
       }
     },
@@ -370,7 +370,7 @@
         "name": "Godzilla(Fest Godzilla)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-012.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-012.png",
         "isHorizontal": false
       }
     },
@@ -403,7 +403,7 @@
         "name": "Godzilla(Fest Godzilla)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-013.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-013.png",
         "isHorizontal": false
       }
     },
@@ -436,7 +436,7 @@
         "name": "Godzilla(Fest Godzilla)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-014.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-014.png",
         "isHorizontal": false
       }
     },
@@ -469,7 +469,7 @@
         "name": "Godzilla(Fest Godzilla)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-015.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-015.png",
         "isHorizontal": false
       }
     },
@@ -502,7 +502,7 @@
         "name": "Ebirah(2004)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-016.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-016.png",
         "isHorizontal": false
       }
     },
@@ -535,7 +535,7 @@
         "name": "Kumonga(2004)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-017.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-017.png",
         "isHorizontal": false
       }
     },
@@ -568,7 +568,7 @@
         "name": "Mechagodzilla(1974)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-018.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-018.png",
         "isHorizontal": false
       }
     },
@@ -601,7 +601,7 @@
         "name": "Kamacuras(1967)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-019.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-019.png",
         "isHorizontal": false
       }
     },
@@ -634,7 +634,7 @@
         "name": "Anguirus(1968)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-020.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-020.png",
         "isHorizontal": false
       }
     },
@@ -667,7 +667,7 @@
         "name": "Rodan(1968)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-021.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-021.png",
         "isHorizontal": false
       }
     },
@@ -700,7 +700,7 @@
         "name": "Titanosaurus",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-022.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-022.png",
         "isHorizontal": false
       }
     },
@@ -733,7 +733,7 @@
         "name": "Mechagodzilla(1975)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-023.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-023.png",
         "isHorizontal": false
       }
     },
@@ -766,7 +766,7 @@
         "name": "Minilla(2004)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-024.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-024.png",
         "isHorizontal": false
       }
     },
@@ -799,7 +799,7 @@
         "name": "King Caesar(1974)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-025.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-025.png",
         "isHorizontal": false
       }
     },
@@ -832,7 +832,7 @@
         "name": "Jet Jaguar(2024)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-026.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-026.png",
         "isHorizontal": false
       }
     },
@@ -865,7 +865,7 @@
         "name": "Hedorah(1971)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-027.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-027.png",
         "isHorizontal": false
       }
     },
@@ -898,7 +898,7 @@
         "name": "Godzilla vs. Mechagodzilla",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-028.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-028.png",
         "isHorizontal": true
       }
     },
@@ -931,7 +931,7 @@
         "name": "Unthinkable Destruction",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-029.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-029.png",
         "isHorizontal": true
       }
     },
@@ -964,7 +964,7 @@
         "name": "Godzilla Landing",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-030.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-030.png",
         "isHorizontal": true
       }
     },
@@ -997,7 +997,7 @@
         "name": "Space Beam",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-031.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-031.png",
         "isHorizontal": true
       }
     },
@@ -1030,7 +1030,7 @@
         "name": "Heat Ray Charge",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-032.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-032.png",
         "isHorizontal": true
       }
     },
@@ -1063,7 +1063,7 @@
         "name": "Final Showdown",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-033.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-033.png",
         "isHorizontal": true
       }
     },
@@ -1096,7 +1096,7 @@
         "name": "Godzilla(1989)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-034.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-034.png",
         "isHorizontal": false
       }
     },
@@ -1129,7 +1129,7 @@
         "name": "Godzilla(1989)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-035.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-035.png",
         "isHorizontal": false
       }
     },
@@ -1162,7 +1162,7 @@
         "name": "Godzilla(1992)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-036.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-036.png",
         "isHorizontal": false
       }
     },
@@ -1195,7 +1195,7 @@
         "name": "Godzilla(1995)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-037.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-037.png",
         "isHorizontal": false
       }
     },
@@ -1228,7 +1228,7 @@
         "name": "Godzilla(1995)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-038.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-038.png",
         "isHorizontal": false
       }
     },
@@ -1261,7 +1261,7 @@
         "name": "Godzilla(1999)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-039.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-039.png",
         "isHorizontal": false
       }
     },
@@ -1294,7 +1294,7 @@
         "name": "Godzilla(1999)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-040.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-040.png",
         "isHorizontal": false
       }
     },
@@ -1327,7 +1327,7 @@
         "name": "Godzilla(2000)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-041.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-041.png",
         "isHorizontal": false
       }
     },
@@ -1360,7 +1360,7 @@
         "name": "Godzilla(2000)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-042.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-042.png",
         "isHorizontal": false
       }
     },
@@ -1393,7 +1393,7 @@
         "name": "Godzilla(2000)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-043.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-043.png",
         "isHorizontal": false
       }
     },
@@ -1426,7 +1426,7 @@
         "name": "Mothra(egg)(1992)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-044.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-044.png",
         "isHorizontal": false
       }
     },
@@ -1459,7 +1459,7 @@
         "name": "Meganula",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-045.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-045.png",
         "isHorizontal": false
       }
     },
@@ -1492,7 +1492,7 @@
         "name": "MBT-MB92",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-046.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-046.png",
         "isHorizontal": false
       }
     },
@@ -1525,7 +1525,7 @@
         "name": "Orga",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-047.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-047.png",
         "isHorizontal": false
       }
     },
@@ -1558,7 +1558,7 @@
         "name": "Biollante Rose Form",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-048.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-048.png",
         "isHorizontal": false
       }
     },
@@ -1591,7 +1591,7 @@
         "name": "Destoroyah Aggregate Form",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-049.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-049.png",
         "isHorizontal": false
       }
     },
@@ -1624,7 +1624,7 @@
         "name": "Mothra(larva)(1992)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-050.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-050.png",
         "isHorizontal": false
       }
     },
@@ -1657,7 +1657,7 @@
         "name": "Orga Phase II",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-051.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-051.png",
         "isHorizontal": false
       }
     },
@@ -1690,7 +1690,7 @@
         "name": "Megaguirus",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-052.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-052.png",
         "isHorizontal": false
       }
     },
@@ -1723,7 +1723,7 @@
         "name": "Rodan(1993)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-053.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-053.png",
         "isHorizontal": false
       }
     },
@@ -1756,7 +1756,7 @@
         "name": "Destoroyah Flying Form",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-054.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-054.png",
         "isHorizontal": false
       }
     },
@@ -1789,7 +1789,7 @@
         "name": "Battra(imago)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-055.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-055.png",
         "isHorizontal": false
       }
     },
@@ -1822,7 +1822,7 @@
         "name": "Super-XX",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-056.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-056.png",
         "isHorizontal": false
       }
     },
@@ -1855,7 +1855,7 @@
         "name": "Mothra(imago)(1992)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-057.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-057.png",
         "isHorizontal": false
       }
     },
@@ -1888,7 +1888,7 @@
         "name": "Biollante Plant Beast Form",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-058.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-058.png",
         "isHorizontal": false
       }
     },
@@ -1921,7 +1921,7 @@
         "name": "Fire Rodan",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-059.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-059.png",
         "isHorizontal": false
       }
     },
@@ -1954,7 +1954,7 @@
         "name": "Destoroyah Perfect Form",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-060.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-060.png",
         "isHorizontal": false
       }
     },
@@ -1987,7 +1987,7 @@
         "name": "Scale Attack",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-061.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-061.png",
         "isHorizontal": true
       }
     },
@@ -2020,7 +2020,7 @@
         "name": "Godzilla vs. Destoroyah",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-062.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-062.png",
         "isHorizontal": true
       }
     },
@@ -2053,7 +2053,7 @@
         "name": "Guardians Awaken",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-063.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-063.png",
         "isHorizontal": true
       }
     },
@@ -2086,7 +2086,7 @@
         "name": "Godzilla vs. Megaguirus",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-064.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-064.png",
         "isHorizontal": true
       }
     },
@@ -2119,7 +2119,7 @@
         "name": "Godzilla vs. Destoroyah",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-065.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-065.png",
         "isHorizontal": true
       }
     },
@@ -2152,7 +2152,7 @@
         "name": "Godzilla vs. Biollante",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-066.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-066.png",
         "isHorizontal": true
       }
     },
@@ -2185,7 +2185,7 @@
         "name": "Gorosaurus",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-067.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-067.png",
         "isHorizontal": false
       }
     },
@@ -2218,7 +2218,7 @@
         "name": "Manda(1968)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-068.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-068.png",
         "isHorizontal": false
       }
     },
@@ -2251,7 +2251,7 @@
         "name": "Varan",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-069.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-069.png",
         "isHorizontal": false
       }
     },
@@ -2284,7 +2284,7 @@
         "name": "Baragon(1968)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-070.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-070.png",
         "isHorizontal": false
       }
     },
@@ -2317,7 +2317,7 @@
         "name": "Giant Condor",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-071.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-071.png",
         "isHorizontal": false
       }
     },
@@ -2350,7 +2350,7 @@
         "name": "Gigan(2022)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-072.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-072.png",
         "isHorizontal": false
       }
     },
@@ -2383,7 +2383,7 @@
         "name": "Godzilla Against Mechagodzilla",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-073.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-073.png",
         "isHorizontal": false
       }
     },
@@ -2416,7 +2416,7 @@
         "name": "King Ghidorah(2024)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-074.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-074.png",
         "isHorizontal": false
       }
     },
@@ -2449,7 +2449,7 @@
         "name": "Godzilla, King of the Monsters",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-075.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-075.png",
         "isHorizontal": false
       }
     },
@@ -2482,7 +2482,7 @@
         "name": "Destroy All Monsters",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-076.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-076.png",
         "isHorizontal": true
       }
     },
@@ -2515,7 +2515,7 @@
         "name": "Oxygen Destroyer",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-077.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-077.png",
         "isHorizontal": true
       }
     },
@@ -2548,7 +2548,7 @@
         "name": "Godzilla Attacks",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-078.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-078.png",
         "isHorizontal": true
       }
     },
@@ -2581,7 +2581,7 @@
         "name": "Gravity Beam",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-079.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-079.png",
         "isHorizontal": true
       }
     },
@@ -2614,7 +2614,7 @@
         "name": "Godzilla and his son on Monster Island",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP01-080.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-080.png",
         "isHorizontal": true
       }
     },
@@ -2647,7 +2647,7 @@
         "name": "Godzilla(2023)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/ESD01-001.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/ESD01-001.png",
         "isHorizontal": false
       }
     },
@@ -2680,7 +2680,7 @@
         "name": "Giant Unknown Creature",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-001.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-001.png",
         "isHorizontal": false
       }
     },
@@ -2713,7 +2713,7 @@
         "name": "Godzilla(2016) 2nd Form",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-002.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-002.png",
         "isHorizontal": false
       }
     },
@@ -2746,7 +2746,7 @@
         "name": "Godzilla(2016) 2nd Form",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-003.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-003.png",
         "isHorizontal": false
       }
     },
@@ -2779,7 +2779,7 @@
         "name": "Godzilla(2016) 3rd Form",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-004.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-004.png",
         "isHorizontal": false
       }
     },
@@ -2812,7 +2812,7 @@
         "name": "Godzilla(2016) 3rd Form",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-005.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-005.png",
         "isHorizontal": false
       }
     },
@@ -2845,7 +2845,7 @@
         "name": "Godzilla(2016) 4th Form",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-006.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-006.png",
         "isHorizontal": false
       }
     },
@@ -2878,7 +2878,7 @@
         "name": "Godzilla(2016) 4th Form",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-007.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-007.png",
         "isHorizontal": false
       }
     },
@@ -2911,7 +2911,7 @@
         "name": "Godzilla(1969)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-008.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-008.png",
         "isHorizontal": false
       }
     },
@@ -2944,7 +2944,7 @@
         "name": "Godzilla(2023)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-009.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-009.png",
         "isHorizontal": false
       }
     },
@@ -2977,7 +2977,7 @@
         "name": "King Caesar(2004)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-010.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-010.png",
         "isHorizontal": false
       }
     },
@@ -3010,7 +3010,7 @@
         "name": "Gabara",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-011.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-011.png",
         "isHorizontal": false
       }
     },
@@ -3043,7 +3043,7 @@
         "name": "Godzilla(2016) Frozen",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-012.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-012.png",
         "isHorizontal": false
       }
     },
@@ -3076,7 +3076,7 @@
         "name": "Minilla(1969)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-013.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-013.png",
         "isHorizontal": false
       }
     },
@@ -3109,7 +3109,7 @@
         "name": "Cabinet Helicopter",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-014.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-014.png",
         "isHorizontal": false
       }
     },
@@ -3142,7 +3142,7 @@
         "name": "Rodan(2004)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-015.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-015.png",
         "isHorizontal": false
       }
     },
@@ -3175,7 +3175,7 @@
         "name": "Anguirus(2004)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-016.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-016.png",
         "isHorizontal": false
       }
     },
@@ -3208,7 +3208,7 @@
         "name": "Operation Taba",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-017.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-017.png",
         "isHorizontal": true
       }
     },
@@ -3241,7 +3241,7 @@
         "name": "Despair",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-018.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-018.png",
         "isHorizontal": true
       }
     },
@@ -3274,7 +3274,7 @@
         "name": "There is no danger of the creature coming ashore.",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-019.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-019.png",
         "isHorizontal": true
       }
     },
@@ -3307,7 +3307,7 @@
         "name": "Operation Yashiori -Conductorless train bombers-",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-020.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-020.png",
         "isHorizontal": true
       }
     },
@@ -3340,7 +3340,7 @@
         "name": "Godzilla(1993)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-021.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-021.png",
         "isHorizontal": false
       }
     },
@@ -3373,7 +3373,7 @@
         "name": "Godzilla(1994)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-022.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-022.png",
         "isHorizontal": false
       }
     },
@@ -3406,7 +3406,7 @@
         "name": "Godzilla(1999)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-023.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-023.png",
         "isHorizontal": false
       }
     },
@@ -3439,7 +3439,7 @@
         "name": "Biollante Rose Form",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-024.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-024.png",
         "isHorizontal": false
       }
     },
@@ -3472,7 +3472,7 @@
         "name": "Biollante Rose Form",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-025.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-025.png",
         "isHorizontal": false
       }
     },
@@ -3505,7 +3505,7 @@
         "name": "Biollante Plant Beast Form",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-026.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-026.png",
         "isHorizontal": false
       }
     },
@@ -3538,7 +3538,7 @@
         "name": "Biollante Plant Beast Form",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-027.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-027.png",
         "isHorizontal": false
       }
     },
@@ -3571,7 +3571,7 @@
         "name": "Biollante Plant Beast Form",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-028.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-028.png",
         "isHorizontal": false
       }
     },
@@ -3604,7 +3604,7 @@
         "name": "Biollante Plant Beast Form",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-029.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-029.png",
         "isHorizontal": false
       }
     },
@@ -3637,7 +3637,7 @@
         "name": "Baby Godzilla",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-030.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-030.png",
         "isHorizontal": false
       }
     },
@@ -3670,7 +3670,7 @@
         "name": "MBT-MB92 modified",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-031.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-031.png",
         "isHorizontal": false
       }
     },
@@ -3703,7 +3703,7 @@
         "name": "Biollante Rose Form",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-032.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-032.png",
         "isHorizontal": false
       }
     },
@@ -3736,7 +3736,7 @@
         "name": "Little Godzilla",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-033.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-033.png",
         "isHorizontal": false
       }
     },
@@ -3769,7 +3769,7 @@
         "name": "Super X3",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-034.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-034.png",
         "isHorizontal": false
       }
     },
@@ -3802,7 +3802,7 @@
         "name": "Biollante Plant Beast Form",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-035.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-035.png",
         "isHorizontal": false
       }
     },
@@ -3835,7 +3835,7 @@
         "name": "Godzilla(1994)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-036.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-036.png",
         "isHorizontal": false
       }
     },
@@ -3868,7 +3868,7 @@
         "name": "Destoroyah Perfect Form",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-037.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-037.png",
         "isHorizontal": false
       }
     },
@@ -3901,7 +3901,7 @@
         "name": "Godzilla 2000: Millennium",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-038.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-038.png",
         "isHorizontal": true
       }
     },
@@ -3934,7 +3934,7 @@
         "name": "Lake Ashi Monster",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-039.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-039.png",
         "isHorizontal": true
       }
     },
@@ -3967,7 +3967,7 @@
         "name": "Interception Operation",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-040.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-040.png",
         "isHorizontal": true
       }
     },
@@ -4000,7 +4000,7 @@
         "name": "Gigan(1972)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-041.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-041.png",
         "isHorizontal": false
       }
     },
@@ -4033,7 +4033,7 @@
         "name": "Gigan(1973)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-042.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-042.png",
         "isHorizontal": false
       }
     },
@@ -4066,7 +4066,7 @@
         "name": "Gigan(2004)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-043.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-043.png",
         "isHorizontal": false
       }
     },
@@ -4099,7 +4099,7 @@
         "name": "Modified Gigan",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-044.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-044.png",
         "isHorizontal": false
       }
     },
@@ -4132,7 +4132,7 @@
         "name": "King Ghidorah(1964)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-045.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-045.png",
         "isHorizontal": false
       }
     },
@@ -4165,7 +4165,7 @@
         "name": "King Ghidorah(1965)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-046.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-046.png",
         "isHorizontal": false
       }
     },
@@ -4198,7 +4198,7 @@
         "name": "King Ghidorah(1991)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-047.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-047.png",
         "isHorizontal": false
       }
     },
@@ -4231,7 +4231,7 @@
         "name": "King Ghidorah(1991)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-048.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-048.png",
         "isHorizontal": false
       }
     },
@@ -4264,7 +4264,7 @@
         "name": "King Ghidorah(1991)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-049.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-049.png",
         "isHorizontal": false
       }
     },
@@ -4297,7 +4297,7 @@
         "name": "Mecha-King Ghidorah",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-050.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-050.png",
         "isHorizontal": false
       }
     },
@@ -4330,7 +4330,7 @@
         "name": "Mecha-King Ghidorah",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-051.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-051.png",
         "isHorizontal": false
       }
     },
@@ -4363,7 +4363,7 @@
         "name": "SpaceGodzilla Flying Form",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-052.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-052.png",
         "isHorizontal": false
       }
     },
@@ -4396,7 +4396,7 @@
         "name": "SpaceGodzilla",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-053.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-053.png",
         "isHorizontal": false
       }
     },
@@ -4429,7 +4429,7 @@
         "name": "SpaceGodzilla",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-054.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-054.png",
         "isHorizontal": false
       }
     },
@@ -4462,7 +4462,7 @@
         "name": "SpaceGodzilla",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-055.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-055.png",
         "isHorizontal": false
       }
     },
@@ -4495,7 +4495,7 @@
         "name": "SpaceGodzilla",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-056.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-056.png",
         "isHorizontal": false
       }
     },
@@ -4528,7 +4528,7 @@
         "name": "SpaceGodzilla Flying Form",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-057.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-057.png",
         "isHorizontal": false
       }
     },
@@ -4561,7 +4561,7 @@
         "name": "Dorat",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-058.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-058.png",
         "isHorizontal": false
       }
     },
@@ -4594,7 +4594,7 @@
         "name": "Godzillasaurus",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-059.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-059.png",
         "isHorizontal": false
       }
     },
@@ -4627,7 +4627,7 @@
         "name": "Gigan(2004)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-060.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-060.png",
         "isHorizontal": false
       }
     },
@@ -4660,7 +4660,7 @@
         "name": "Godzilla(1972)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-061.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-061.png",
         "isHorizontal": false
       }
     },
@@ -4693,7 +4693,7 @@
         "name": "SpaceGodzilla",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-062.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-062.png",
         "isHorizontal": false
       }
     },
@@ -4726,7 +4726,7 @@
         "name": "Megalon",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-063.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-063.png",
         "isHorizontal": false
       }
     },
@@ -4759,7 +4759,7 @@
         "name": "Gigan(1972)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-064.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-064.png",
         "isHorizontal": false
       }
     },
@@ -4792,7 +4792,7 @@
         "name": "Godzilla(1991)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-065.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-065.png",
         "isHorizontal": false
       }
     },
@@ -4825,7 +4825,7 @@
         "name": "King Ghidorah(1964)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-066.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-066.png",
         "isHorizontal": false
       }
     },
@@ -4858,7 +4858,7 @@
         "name": "M.O.G.U.E.R.A.",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-067.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-067.png",
         "isHorizontal": false
       }
     },
@@ -4891,7 +4891,7 @@
         "name": "Mecha-King Ghidorah",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-068.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-068.png",
         "isHorizontal": false
       }
     },
@@ -4924,7 +4924,7 @@
         "name": "Godzilla vs. SpaceGodzilla",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-069.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-069.png",
         "isHorizontal": true
       }
     },
@@ -4957,7 +4957,7 @@
         "name": "Godzilla vs. SpaceGodzilla",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-070.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-070.png",
         "isHorizontal": true
       }
     },
@@ -4990,7 +4990,7 @@
         "name": "Godzilla vs. King Ghidorah",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-071.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-071.png",
         "isHorizontal": true
       }
     },
@@ -5023,7 +5023,7 @@
         "name": "God of Destruction's Counterattack",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-072.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-072.png",
         "isHorizontal": true
       }
     },
@@ -5056,7 +5056,7 @@
         "name": "Bloody Chainsaw",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-073.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-073.png",
         "isHorizontal": true
       }
     },
@@ -5089,7 +5089,7 @@
         "name": "Bite Attack",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-074.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-074.png",
         "isHorizontal": true
       }
     },
@@ -5122,7 +5122,7 @@
         "name": "Chibi Mothra",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-075.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-075.png",
         "isHorizontal": false
       }
     },
@@ -5155,7 +5155,7 @@
         "name": "Chibi Mechagodzilla",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-076.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-076.png",
         "isHorizontal": false
       }
     },
@@ -5188,7 +5188,7 @@
         "name": "Chibi Godzilla",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-077.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-077.png",
         "isHorizontal": false
       }
     },
@@ -5221,7 +5221,7 @@
         "name": "Mothra(imago)(2003)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-078.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-078.png",
         "isHorizontal": false
       }
     },
@@ -5254,7 +5254,7 @@
         "name": "Destructive Impulse",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-079.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-079.png",
         "isHorizontal": true
       }
     },
@@ -5287,7 +5287,7 @@
         "name": "Joint Struggle",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-080.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-080.png",
         "isHorizontal": true
       }
     },
@@ -5320,7 +5320,7 @@
         "name": "Conductorless Train Bombers",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-T01.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-T01.png",
         "isHorizontal": false
       }
     },
@@ -5353,7 +5353,7 @@
         "name": "Conductorless Train Bombers",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-T01+.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-T01+.png",
         "isHorizontal": false
       }
     },
@@ -5386,7 +5386,7 @@
         "name": "Tentacles",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-T02.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-T02.png",
         "isHorizontal": false
       }
     },
@@ -5419,7 +5419,7 @@
         "name": "Tentacles",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-T02+.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-T02+.png",
         "isHorizontal": false
       }
     },
@@ -5452,7 +5452,7 @@
         "name": "Crystals",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-T03.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-T03.png",
         "isHorizontal": false
       }
     },
@@ -5485,7 +5485,7 @@
         "name": "Crystals",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-T03+.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-T03+.png",
         "isHorizontal": false
       }
     },
@@ -5518,7 +5518,7 @@
         "name": "Chibi Godzilla 2nd Form",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-T04.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-T04.png",
         "isHorizontal": false
       }
     },
@@ -5551,7 +5551,7 @@
         "name": "Chibi Godzilla 2nd Form",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP02-T04+.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP02-T04+.png",
         "isHorizontal": false
       }
     },
@@ -5584,7 +5584,7 @@
         "name": "Godzilla(2001)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-001.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-001.png",
         "isHorizontal": false
       }
     },
@@ -5617,7 +5617,7 @@
         "name": "Godzilla(2001)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-002.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-002.png",
         "isHorizontal": false
       }
     },
@@ -5650,7 +5650,7 @@
         "name": "Godzilla(2001)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-003.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-003.png",
         "isHorizontal": false
       }
     },
@@ -5683,7 +5683,7 @@
         "name": "Godzilla(2001)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-004.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-004.png",
         "isHorizontal": false
       }
     },
@@ -5716,7 +5716,7 @@
         "name": "Godzilla(2001)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-005.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-005.png",
         "isHorizontal": false
       }
     },
@@ -5749,7 +5749,7 @@
         "name": "Multi-purpose Fighting System-3",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-006.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-006.png",
         "isHorizontal": false
       }
     },
@@ -5782,7 +5782,7 @@
         "name": "Multi-purpose Fighting System-3",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-007.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-007.png",
         "isHorizontal": false
       }
     },
@@ -5815,7 +5815,7 @@
         "name": "Multi-purpose Fighting System-3",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-008.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-008.png",
         "isHorizontal": false
       }
     },
@@ -5848,7 +5848,7 @@
         "name": "Multi-purpose Fighting System-3",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-009.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-009.png",
         "isHorizontal": false
       }
     },
@@ -5881,7 +5881,7 @@
         "name": "Multi-purpose Fighting System-3",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-010.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-010.png",
         "isHorizontal": false
       }
     },
@@ -5914,7 +5914,7 @@
         "name": "Multi-purpose Fighting System-3",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-011.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-011.png",
         "isHorizontal": false
       }
     },
@@ -5947,7 +5947,7 @@
         "name": "Godzilla(1993)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-012.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-012.png",
         "isHorizontal": false
       }
     },
@@ -5980,7 +5980,7 @@
         "name": "Godzilla(1995)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-013.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-013.png",
         "isHorizontal": false
       }
     },
@@ -6013,7 +6013,7 @@
         "name": "Godzilla(2002)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-014.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-014.png",
         "isHorizontal": false
       }
     },
@@ -6046,7 +6046,7 @@
         "name": "Godzilla(2002)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-015.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-015.png",
         "isHorizontal": false
       }
     },
@@ -6079,7 +6079,7 @@
         "name": "Godzilla(2003)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-016.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-016.png",
         "isHorizontal": false
       }
     },
@@ -6112,7 +6112,7 @@
         "name": "Godzilla(2003)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-017.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-017.png",
         "isHorizontal": false
       }
     },
@@ -6145,7 +6145,7 @@
         "name": "Mothra(imago)(1996)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-018.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-018.png",
         "isHorizontal": false
       }
     },
@@ -6178,7 +6178,7 @@
         "name": "Mothra(larva)(1996)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-019.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-019.png",
         "isHorizontal": false
       }
     },
@@ -6211,7 +6211,7 @@
         "name": "Mothra Leo",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-020.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-020.png",
         "isHorizontal": false
       }
     },
@@ -6244,7 +6244,7 @@
         "name": "Rainbow Mothra",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-021.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-021.png",
         "isHorizontal": false
       }
     },
@@ -6277,7 +6277,7 @@
         "name": "Aqua Mothra",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-022.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-022.png",
         "isHorizontal": false
       }
     },
@@ -6310,7 +6310,7 @@
         "name": "Armor Mothra",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-023.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-023.png",
         "isHorizontal": false
       }
     },
@@ -6343,7 +6343,7 @@
         "name": "Baragon(2001)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-024.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-024.png",
         "isHorizontal": false
       }
     },
@@ -6376,7 +6376,7 @@
         "name": "Mothra(imago)(2001)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-025.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-025.png",
         "isHorizontal": false
       }
     },
@@ -6409,7 +6409,7 @@
         "name": "Mothra(imago)(2001)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-026.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-026.png",
         "isHorizontal": false
       }
     },
@@ -6442,7 +6442,7 @@
         "name": "Ghidorah(2001)",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-027.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-027.png",
         "isHorizontal": false
       }
     },
@@ -6475,7 +6475,7 @@
         "name": "Thousand-Year Dragon King Ghidorah",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-028.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-028.png",
         "isHorizontal": false
       }
     },
@@ -6508,7 +6508,7 @@
         "name": "Thousand-Year Dragon King Ghidorah",
         "type": "Monster",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-029.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-029.png",
         "isHorizontal": false
       }
     },
@@ -6541,7 +6541,7 @@
         "name": "SHIRASAGI : AC-3",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-030.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-030.png",
         "isHorizontal": false
       }
     },
@@ -6574,7 +6574,7 @@
         "name": "MBT-MB90",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-031.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-031.png",
         "isHorizontal": false
       }
     },
@@ -6607,7 +6607,7 @@
         "name": "Mechagodzilla(1974)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-032.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-032.png",
         "isHorizontal": false
       }
     },
@@ -6640,7 +6640,7 @@
         "name": "Mechagodzilla(1975)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-033.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-033.png",
         "isHorizontal": false
       }
     },
@@ -6673,7 +6673,7 @@
         "name": "Jet Jaguar(1973)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-034.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-034.png",
         "isHorizontal": false
       }
     },
@@ -6706,7 +6706,7 @@
         "name": "Satsuma",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-035.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-035.png",
         "isHorizontal": false
       }
     },
@@ -6739,7 +6739,7 @@
         "name": "Moguera",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-036.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-036.png",
         "isHorizontal": false
       }
     },
@@ -6772,7 +6772,7 @@
         "name": "Godzilla(2001)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-037.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-037.png",
         "isHorizontal": false
       }
     },
@@ -6805,7 +6805,7 @@
         "name": "Multi-purpose Fighting System-3",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-038.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-038.png",
         "isHorizontal": false
       }
     },
@@ -6838,7 +6838,7 @@
         "name": "Godzilla(2016) 4th Form",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-039.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-039.png",
         "isHorizontal": false
       }
     },
@@ -6871,7 +6871,7 @@
         "name": "Mechagodzilla(1975)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-040.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-040.png",
         "isHorizontal": false
       }
     },
@@ -6904,7 +6904,7 @@
         "name": "Godzilla(2023)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-041.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-041.png",
         "isHorizontal": false
       }
     },
@@ -6937,7 +6937,7 @@
         "name": "Ghogo",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-042.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-042.png",
         "isHorizontal": false
       }
     },
@@ -6970,7 +6970,7 @@
         "name": "Star Falcon",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-043.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-043.png",
         "isHorizontal": false
       }
     },
@@ -7003,7 +7003,7 @@
         "name": "Mothra(larva)(1992)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-044.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-044.png",
         "isHorizontal": false
       }
     },
@@ -7036,7 +7036,7 @@
         "name": "Mothra(larva)(2003)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-045.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-045.png",
         "isHorizontal": false
       }
     },
@@ -7069,7 +7069,7 @@
         "name": "Land Moguera",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-046.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-046.png",
         "isHorizontal": false
       }
     },
@@ -7102,7 +7102,7 @@
         "name": "Garuda",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-047.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-047.png",
         "isHorizontal": false
       }
     },
@@ -7135,7 +7135,7 @@
         "name": "Mechagodzilla(1993)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-048.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-048.png",
         "isHorizontal": false
       }
     },
@@ -7168,7 +7168,7 @@
         "name": "Godzilla(2002)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-049.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-049.png",
         "isHorizontal": false
       }
     },
@@ -7201,7 +7201,7 @@
         "name": "Rainbow Mothra",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-050.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-050.png",
         "isHorizontal": false
       }
     },
@@ -7234,7 +7234,7 @@
         "name": "Godzilla Jr.",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-051.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-051.png",
         "isHorizontal": false
       }
     },
@@ -7267,7 +7267,7 @@
         "name": "M.O.G.U.E.R.A.",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-052.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-052.png",
         "isHorizontal": false
       }
     },
@@ -7300,7 +7300,7 @@
         "name": "Super Mechagodzilla",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-053.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-053.png",
         "isHorizontal": false
       }
     },
@@ -7333,7 +7333,7 @@
         "name": "Eternal Mothra",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-054.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-054.png",
         "isHorizontal": false
       }
     },
@@ -7366,7 +7366,7 @@
         "name": "Primitive Mothra",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-055.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-055.png",
         "isHorizontal": false
       }
     },
@@ -7399,7 +7399,7 @@
         "name": "Manda(2004)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-056.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-056.png",
         "isHorizontal": false
       }
     },
@@ -7432,7 +7432,7 @@
         "name": "Desghidorah",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-057.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-057.png",
         "isHorizontal": false
       }
     },
@@ -7465,7 +7465,7 @@
         "name": "Zilla",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-058.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-058.png",
         "isHorizontal": false
       }
     },
@@ -7498,7 +7498,7 @@
         "name": "Cretaceous King Ghidorah(1998)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-059.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-059.png",
         "isHorizontal": false
       }
     },
@@ -7531,7 +7531,7 @@
         "name": "Mothra(imago)(1961)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-060.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-060.png",
         "isHorizontal": false
       }
     },
@@ -7564,7 +7564,7 @@
         "name": "Dagahra",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-061.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-061.png",
         "isHorizontal": false
       }
     },
@@ -7597,7 +7597,7 @@
         "name": "Baragon(2001)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-062.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-062.png",
         "isHorizontal": false
       }
     },
@@ -7630,7 +7630,7 @@
         "name": "King Ghidorah(1998)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-063.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-063.png",
         "isHorizontal": false
       }
     },
@@ -7663,7 +7663,7 @@
         "name": "Mothra(imago)(2001)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-064.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-064.png",
         "isHorizontal": false
       }
     },
@@ -7696,7 +7696,7 @@
         "name": "King Ghidorah(1998)",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-065.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-065.png",
         "isHorizontal": false
       }
     },
@@ -7729,7 +7729,7 @@
         "name": "Thousand-Year Dragon King Ghidorah",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-066.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-066.png",
         "isHorizontal": false
       }
     },
@@ -7762,7 +7762,7 @@
         "name": "Monster X",
         "type": "Battle",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-067.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-067.png",
         "isHorizontal": false
       }
     },
@@ -7795,7 +7795,7 @@
         "name": "Godzilla Flies",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-068.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-068.png",
         "isHorizontal": true
       }
     },
@@ -7828,7 +7828,7 @@
         "name": "Space Beam",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-069.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-069.png",
         "isHorizontal": true
       }
     },
@@ -7861,7 +7861,7 @@
         "name": "Mechagodzilla Hangar",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-070.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-070.png",
         "isHorizontal": true
       }
     },
@@ -7894,7 +7894,7 @@
         "name": "Godzilla's Skeleton",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-071.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-071.png",
         "isHorizontal": true
       }
     },
@@ -7927,7 +7927,7 @@
         "name": "Petit Railgun",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-072.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-072.png",
         "isHorizontal": true
       }
     },
@@ -7960,7 +7960,7 @@
         "name": "All-Weapon Attack",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-073.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-073.png",
         "isHorizontal": true
       }
     },
@@ -7993,7 +7993,7 @@
         "name": "A Journey of 130 Million Years",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-074.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-074.png",
         "isHorizontal": true
       }
     },
@@ -8026,7 +8026,7 @@
         "name": "Yakusugi",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-075.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-075.png",
         "isHorizontal": true
       }
     },
@@ -8059,7 +8059,7 @@
         "name": "The Battle at Fukuoka Tower",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-076.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-076.png",
         "isHorizontal": true
       }
     },
@@ -8092,7 +8092,7 @@
         "name": "Rebirth of Mothra 3",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-077.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-077.png",
         "isHorizontal": true
       }
     },
@@ -8125,7 +8125,7 @@
         "name": "Megalon and Gigan:Villain Tag Team",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-078.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-078.png",
         "isHorizontal": true
       }
     },
@@ -8158,7 +8158,7 @@
         "name": "Godzilla Captured!",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-079.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-079.png",
         "isHorizontal": true
       }
     },
@@ -8191,7 +8191,7 @@
         "name": "Odo Island",
         "type": "Strategy",
         "cost": "0",
-        "image": "godzilla_tcg/images/EBP03-080.png",
+        "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP03-080.png",
         "isHorizontal": true
       }
     },
