@@ -5314,7 +5314,7 @@
   },
   "EBP02-T01": {
     "id": "EBP02-T01",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Conductorless Train Bombers",
@@ -5347,7 +5347,7 @@
   },
   "EBP02-T01+": {
     "id": "EBP02-T01+",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Conductorless Train Bombers",
@@ -5380,7 +5380,7 @@
   },
   "EBP02-T02": {
     "id": "EBP02-T02",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Tentacles",
@@ -5413,7 +5413,7 @@
   },
   "EBP02-T02+": {
     "id": "EBP02-T02+",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Tentacles",
@@ -5446,7 +5446,7 @@
   },
   "EBP02-T03": {
     "id": "EBP02-T03",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Crystals",
@@ -5479,7 +5479,7 @@
   },
   "EBP02-T03+": {
     "id": "EBP02-T03+",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Crystals",
@@ -5512,7 +5512,7 @@
   },
   "EBP02-T04": {
     "id": "EBP02-T04",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Chibi Godzilla 2nd Form",
@@ -5545,7 +5545,7 @@
   },
   "EBP02-T04+": {
     "id": "EBP02-T04+",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Chibi Godzilla 2nd Form",
