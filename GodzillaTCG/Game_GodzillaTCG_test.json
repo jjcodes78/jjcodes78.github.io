@@ -35,9 +35,6 @@
           "Monster",
           "Battle",
           "Strategy"
-        ],
-        "customCategories": [
-          "MonsterDeck"
         ]
       }
     ],
@@ -49,7 +46,7 @@
           "maxPerCard": 4
         },
         "categories": {
-          "MonsterDeck": {
+          "Monster": {
             "min": 4,
             "max": 4
           }
