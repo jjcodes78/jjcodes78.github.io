@@ -34,7 +34,22 @@
           "MonsterDeck"
         ]
       }
-    ]
+    ],
+    "deckRuleSets": {
+      "Classic": {
+        "general": {
+          "min": 54,
+          "max": 60,
+          "maxPerCard": 4
+        },
+        "categories": {
+          "MonsterDeck": {
+            "min": 4,
+            "max": 4
+          }
+        }
+      }
+    }
   },
   "gameplay": {
     "Classic": {
