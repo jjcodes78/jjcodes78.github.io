@@ -138,7 +138,7 @@
               "direction": "column",
               "style": {
                 "marginRight": "calc((100% - 13vh) / 5 - 13vh + 13vh + 7vw)",
-                "marginLeft": "5vw"
+                "marginLeft": "6vw"
               },
               "isSymetricalForOpponents": false,
               "content": [
