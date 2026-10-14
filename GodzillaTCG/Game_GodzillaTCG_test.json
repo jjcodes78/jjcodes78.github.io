@@ -118,7 +118,8 @@
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
-                    "width": "22vh"
+                    "width": "22vh",
+                    "scale": 0.75
                   }
                 },
                 {
@@ -128,7 +129,8 @@
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
-                    "width": "22vh"
+                    "width": "22vh",
+                    "scale": 0.75
                   }
                 }
               ]
