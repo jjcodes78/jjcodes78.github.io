@@ -107,7 +107,7 @@
             {
               "direction": "column",
               "style": {
-                "width": "22vh"
+                "width": "20vh"
               },
               "isSymetricalForOpponents": false,
               "content": [
@@ -138,7 +138,7 @@
             {
               "direction": "column",
               "style": {
-                "width": "22vh"
+                "width": "20vh"
               },
               "isSymetricalForOpponents": false,
               "content": [
@@ -165,7 +165,7 @@
               "direction": "column",
               "style": {
                 "width": "65vh",
-                "marginRight": "35vh"
+                "marginRight": "40vh"
               },
               "content": [
                 {
