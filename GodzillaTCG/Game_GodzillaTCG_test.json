@@ -160,6 +160,128 @@
                   }
                 }
               ]
+            },
+            {
+              "direction": "column",
+              "style": {
+                "width": "100%"
+              },
+              "content": [
+                {
+                  "direction": "row",
+                  "style": {
+                    "width": "100%"
+                  },
+                  "content": [
+                    {
+                      "section": "void",
+                      "style": {
+                        "width": "13vh",
+                        "opacity": "0",
+                        "height": "0"
+                      }
+                    },
+                    {
+                      "section": "void",
+                      "style": {
+                        "width": "13vh",
+                        "opacity": "0",
+                        "height": "0"
+                      }
+                    },
+                    {
+                      "section": "Zone8",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone8.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh"
+                      }
+                    },
+                    {
+                      "section": "Zone7",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone7.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh"
+                      }
+                    },
+                    {
+                      "section": "Zone6",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone6.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": true
+                },
+                {
+                  "direction": "row",
+                  "style": {
+                    "width": "100%"
+                  },
+                  "content": [
+                    {
+                      "section": "Zone1",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone1.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh"
+                      }
+                    },
+                    {
+                      "section": "Zone2",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone2.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh"
+                      }
+                    },
+                    {
+                      "section": "Zone3",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone3.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh"
+                      }
+                    },
+                    {
+                      "section": "Zone4",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone4.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh"
+                      }
+                    },
+                    {
+                      "section": "Zone5",
+                      "style": {
+                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone5.png')",
+                        "background-size": "contain",
+                        "background-repeat": "no-repeat",
+                        "background-position": "center",
+                        "width": "13vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": true
+                }
+              ]
             }
           ]
         },
