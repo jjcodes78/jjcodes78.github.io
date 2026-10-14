@@ -138,7 +138,7 @@
               "direction": "column",
               "style": {
                 "marginRight": "calc((100% - 13vh) / 5 - 13vh + 13vh + 7vw)",
-                "marginLeft": "6vw"
+                "marginLeft": "4vw"
               },
               "isSymetricalForOpponents": false,
               "content": [
@@ -156,8 +156,8 @@
                         "background-repeat": "no-repeat",
                         "background-position": "center",
                         "width": "15.5vh",
-                        "marginLeft": "calc(((100% - 13vh) / 5) * 2 - 1.25vh)",
-                        "marginRight": "-1.25vh"
+                        "marginRight": "calc(((100% - 13vh) / 5) * 2 - 1.25vh)",
+                        "marginLeft": "-1.25vh"
                       }
                     },
                     {
