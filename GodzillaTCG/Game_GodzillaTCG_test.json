@@ -194,7 +194,8 @@
                         "background-size": "contain",
                         "background-repeat": "no-repeat",
                         "background-position": "center",
-                        "width": "13vh"
+                        "width": "13vh",
+                        "marginBotton": "4vh"
                       }
                     },
                     {
@@ -204,7 +205,8 @@
                         "background-size": "contain",
                         "background-repeat": "no-repeat",
                         "background-position": "center",
-                        "width": "13vh"
+                        "width": "13vh",
+                        "marginTop": "4vh"
                       }
                     },
                     {
@@ -214,7 +216,8 @@
                         "background-size": "contain",
                         "background-repeat": "no-repeat",
                         "background-position": "center",
-                        "width": "13vh"
+                        "width": "13vh",
+                        "marginTop": "4vh"
                       }
                     }
                   ],
