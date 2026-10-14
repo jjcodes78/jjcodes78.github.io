@@ -1,5 +1,5 @@
 {
-  "name": "Godzilla Card Game (Test)",
+  "name": "Godzilla Card Game",
   "menuBackgroundImage": "https://jjcodes78.github.io/GodzillaTCG/images/godzilla_banner.jpg",
   "defaultRessources": {
     "backgrounds": [
@@ -13,7 +13,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://jjcodes78.github.io/GodzillaTCG/GodzillaTCG_CardList_test.json?v=0108202520031978",
+    "dataUrl": "https://jjcodes78.github.io/GodzillaTCG/GodzillaTCG_CardList.json?v=0108202520031978",
     "cardBack": "https://en.godzilla-cardgame.com/wordpress/wp-content/themes/godzilla_tcg-e/assets/img/common/card_back.png"
   },
   "deckBuilding": {
@@ -100,14 +100,16 @@
         "layout": {
           "direction": "row",
           "style": {
-            "height": "36.5vh"
+            "height": "36.5vh",
+            "alignItems": "stretch"
           },
           "content": [
             {
               "direction": "column",
               "style": {
-                "width": "15vh"
+                "width": "22vh"
               },
+              "isSymetricalForOpponents": true,
               "content": [
                 {
                   "section": "Strategy1",
@@ -116,8 +118,7 @@
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
-                    "width": "22vh",
-                    "scale": 0.75
+                    "width": "22vh"
                   }
                 },
                 {
@@ -127,9 +128,7 @@
                     "background-size": "contain",
                     "background-repeat": "no-repeat",
                     "background-position": "center",
-                    "width": "22vh",
-                    "scale": 0.75,
-                    "translate": "0 -6vh"
+                    "width": "22vh"
                   }
                 }
               ]
@@ -137,129 +136,26 @@
             {
               "direction": "column",
               "style": {
-                "marginRight": "calc((100% - 13vh) / 5 - 13vh + 13vh + 7vw)",
-                "marginLeft": "7vw"
+                "width": "22vh"
               },
-              "isSymetricalForOpponents": false,
+              "isSymetricalForOpponents": true,
               "content": [
                 {
-                  "direction": "row",
+                  "section": "RageZone",
                   "style": {
-                    "align": "center"
-                  },
-                  "content": [
-                    {
-                      "section": "RageZone",
-                      "style": {
-                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-ragezone.png')",
-                        "background-size": "contain",
-                        "background-repeat": "no-repeat",
-                        "background-position": "center",
-                        "width": "40.5vh",
-                        "max-width": "40.5vh",
-                        "marginRight": "-1.25vh"
-                      }
-                    },
-                    {
-                      "section": "Zone8",
-                      "style": {
-                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone8.png')",
-                        "background-size": "contain",
-                        "background-repeat": "no-repeat",
-                        "background-position": "center",
-                        "width": "13vh",
-                        "marginBottom": "4vh"
-                      }
-                    },
-                    {
-                      "section": "Zone7",
-                      "style": {
-                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone7.png')",
-                        "background-size": "contain",
-                        "background-repeat": "no-repeat",
-                        "background-position": "center",
-                        "width": "13vh",
-                        "marginTop": "4vh"
-                      }
-                    },
-                    {
-                      "section": "Zone6",
-                      "style": {
-                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone6.png')",
-                        "background-size": "contain",
-                        "background-repeat": "no-repeat",
-                        "background-position": "center",
-                        "width": "13vh",
-                        "marginTop": "4vh"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-ragezone.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
+                    "width": "100%"
+                  }
                 },
                 {
-                  "direction": "row",
+                  "section": "MonsterDeck",
                   "style": {
-                    "align": "center"
-                  },
-                  "content": [
-                    {
-                      "section": "MonsterDeck",
-                      "style": {
-                        "width": "13vh"
-                      }
-                    },
-                    {
-                      "section": "Zone1",
-                      "style": {
-                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone1.png')",
-                        "background-size": "contain",
-                        "background-repeat": "no-repeat",
-                        "background-position": "center",
-                        "width": "13vh"
-                      }
-                    },
-                    {
-                      "section": "Zone2",
-                      "style": {
-                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone2.png')",
-                        "background-size": "contain",
-                        "background-repeat": "no-repeat",
-                        "background-position": "center",
-                        "width": "13vh"
-                      }
-                    },
-                    {
-                      "section": "Zone3",
-                      "style": {
-                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone3.png')",
-                        "background-size": "contain",
-                        "background-repeat": "no-repeat",
-                        "background-position": "center",
-                        "width": "13vh"
-                      }
-                    },
-                    {
-                      "section": "Zone4",
-                      "style": {
-                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone4.png')",
-                        "background-size": "contain",
-                        "background-repeat": "no-repeat",
-                        "background-position": "center",
-                        "width": "13vh"
-                      }
-                    },
-                    {
-                      "section": "Zone5",
-                      "style": {
-                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-zone5.png')",
-                        "background-size": "contain",
-                        "background-repeat": "no-repeat",
-                        "background-position": "center",
-                        "width": "13vh"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                    "alignSelf": "center",
+                    "width": "13vh"
+                  }
                 }
               ]
             }
