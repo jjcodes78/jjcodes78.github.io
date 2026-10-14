@@ -174,19 +174,17 @@
                   },
                   "content": [
                     {
-                      "section": "void",
+                      "section": "Void",
                       "style": {
                         "width": "13vh",
-                        "opacity": "0",
-                        "height": "0"
+                        "opacity": "0"
                       }
                     },
                     {
-                      "section": "void",
+                      "section": "Void",
                       "style": {
                         "width": "13vh",
-                        "opacity": "0",
-                        "height": "0"
+                        "opacity": "0"
                       }
                     },
                     {
@@ -495,6 +493,10 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Void": {
+            "height": "0",
             "noQuickActions": true
           }
         }
