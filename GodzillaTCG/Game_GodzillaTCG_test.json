@@ -164,7 +164,8 @@
             {
               "direction": "column",
               "style": {
-                "width": "100%"
+                "width": "65vh",
+                "marginLeft": "35vh"
               },
               "content": [
                 {
