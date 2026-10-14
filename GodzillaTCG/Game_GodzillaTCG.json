@@ -155,8 +155,8 @@
                         "background-size": "contain",
                         "background-repeat": "no-repeat",
                         "background-position": "center",
-                        "width": "40.5vh",
-                        "max-width": "40.5vh",
+                        "width": "15.5vh",
+                        "marginLeft": "calc(((100% - 13vh) / 5) * 2 - 1.25vh)",
                         "marginRight": "-1.25vh"
                       }
                     },
