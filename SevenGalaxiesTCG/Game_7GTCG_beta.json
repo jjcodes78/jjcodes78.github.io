@@ -552,7 +552,8 @@
             "displayedTitle": "Fortaleza",
             "isHorizontalAllowed": true,
             "noQuickActions": true,
-            "isGroupForbidden": true
+            "isGroupForbidden": true,
+            "heightReference": "horizontal"
           },
           "Void": {
             "alignment": "CENTER",
