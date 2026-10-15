@@ -13,7 +13,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://jjcodes78.github.io/GodzillaTCG/GodzillaTCG_CardList.json?v=0108202520031978",
+    "dataUrl": "https://jjcodes78.github.io/GodzillaTCG/GodzillaTCG_CardList_test.json?v=0108202520031978",
     "cardBack": "https://en.godzilla-cardgame.com/wordpress/wp-content/themes/godzilla_tcg-e/assets/img/common/card_back.png"
   },
   "deckBuilding": {

@@ -100,14 +100,16 @@
         "layout": {
           "direction": "row",
           "style": {
-            "height": "36.5vh"
+            "height": "36.5vh",
+            "alignItems": "stretch"
           },
           "content": [
             {
               "direction": "column",
               "style": {
-                "width": "15vh"
+                "width": "20vh"
               },
+              "isSymetricalForOpponents": false,
               "content": [
                 {
                   "section": "Strategy1",
@@ -128,8 +130,7 @@
                     "background-repeat": "no-repeat",
                     "background-position": "center",
                     "width": "22vh",
-                    "scale": 0.75,
-                    "translate": "0 -6vh"
+                    "scale": 0.75
                   }
                 }
               ]
@@ -137,27 +138,54 @@
             {
               "direction": "column",
               "style": {
-                "marginRight": "calc((100% - 13vh) / 5 - 13vh + 13vh + 7vw)",
-                "marginLeft": "4vw"
+                "width": "20vh"
               },
               "isSymetricalForOpponents": false,
               "content": [
                 {
+                  "section": "RageZone",
+                  "style": {
+                    "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-ragezone.png')",
+                    "background-size": "contain",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center",
+                    "width": "100%"
+                  }
+                },
+                {
+                  "section": "MonsterDeck",
+                  "style": {
+                    "alignSelf": "center",
+                    "width": "13vh"
+                  }
+                }
+              ]
+            },
+            {
+              "direction": "column",
+              "style": {
+                "width": "65vh",
+                "marginRight": "40vh"
+              },
+              "content": [
+                {
                   "direction": "row",
                   "style": {
-                    "align": "center"
+                    "width": "65vh"
                   },
                   "content": [
                     {
-                      "section": "RageZone",
+                      "section": "Void",
                       "style": {
-                        "background-image": "url('https://jjcodes78.github.io/GodzillaTCG/images/godzilla-ragezone.png')",
-                        "background-size": "contain",
-                        "background-repeat": "no-repeat",
-                        "background-position": "center",
-                        "width": "15.5vh",
-                        "marginRight": "calc(((100% - 13vh) / 5) * 2 - 1.25vh)",
-                        "marginLeft": "-1.25vh"
+                        "width": "13vh",
+                        "opacity": "0"
+                      }
+                    },
+                    {
+                      "section": "Void",
+                      "style": {
+                        "width": "13vh",
+                        "opacity": "0"
                       }
                     },
                     {
@@ -199,15 +227,9 @@
                 {
                   "direction": "row",
                   "style": {
-                    "align": "center"
+                    "width": "65vh"
                   },
                   "content": [
-                    {
-                      "section": "MonsterDeck",
-                      "style": {
-                        "width": "13vh"
-                      }
-                    },
                     {
                       "section": "Zone1",
                       "style": {
@@ -475,6 +497,10 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Void": {
+            "height": "0",
             "noQuickActions": true
           }
         }
