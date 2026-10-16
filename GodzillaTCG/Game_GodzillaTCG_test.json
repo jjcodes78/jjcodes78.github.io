@@ -133,14 +133,14 @@
                     "scale": 0.75
                   }
                 }
-              ]
+              ],
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "column",
               "style": {
                 "width": "20vh"
               },
-              "isSymetricalForOpponents": false,
               "content": [
                 {
                   "section": "RageZone",
@@ -159,7 +159,8 @@
                     "width": "13vh"
                   }
                 }
-              ]
+              ],
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "column",
@@ -283,9 +284,11 @@
                   ],
                   "isSymetricalForOpponents": false
                 }
-              ]
+              ],
+              "isSymetricalForOpponents": false
             }
-          ]
+          ],
+          "isSymetricalForOpponents": false
         },
         "categoriesAlreadyOnBoard": [
           "MonsterDeck"
