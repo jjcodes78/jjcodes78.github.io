@@ -729,2668 +729,2147 @@
   },
   "EBP01-001": {
     "id": "EBP01-001",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(1954)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 1,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-001.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(1954)-EBP01-001",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "red",
+    "rarity": "UC",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 5000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=38",
-      "official_id": "38",
-      "rarity": "SP",
-      "traits": "《Godzilla》"
-    }
+    "rank": 1,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-002": {
     "id": "EBP01-002",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(1954)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 2,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-002.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(1954)-EBP01-002",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "red",
+    "rarity": "C",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 13000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=40",
-      "official_id": "40",
-      "rarity": "P",
-      "traits": "《Godzilla》"
-    }
+    "rank": 2,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-003": {
     "id": "EBP01-003",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(1954)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-003.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(1954)-EBP01-003",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "red",
+    "rarity": "R",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 23000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=42",
-      "official_id": "42",
-      "rarity": "P",
-      "traits": "《Godzilla》"
-    }
+    "rank": 3,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-004": {
     "id": "EBP01-004",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(1954)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-004.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(1954)-EBP01-004",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "red",
+    "rarity": "SR",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 34000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=44",
-      "official_id": "44",
-      "rarity": "SP",
-      "traits": "《Godzilla》"
-    }
+    "rank": 4,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-005": {
     "id": "EBP01-005",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(1955)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-005.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(1955)-EBP01-005",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "red",
+    "rarity": "C",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 37000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=46",
-      "official_id": "46",
-      "rarity": "P",
-      "traits": "《Godzilla》"
-    }
+    "rank": 4,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-006": {
     "id": "EBP01-006",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(1974)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-006.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(1974)-EBP01-006",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "red",
+    "rarity": "UC",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 23000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=48",
-      "official_id": "48",
-      "rarity": "P",
-      "traits": "《Godzilla》"
-    }
+    "rank": 3,
+    "invade": 2,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-007": {
     "id": "EBP01-007",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(1975)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-007.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(1975)-EBP01-007",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "red",
+    "rarity": "C",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 34000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=50",
-      "official_id": "50",
-      "rarity": "P",
-      "traits": "《Godzilla》"
-    }
+    "rank": 4,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-008": {
     "id": "EBP01-008",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(2004)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-008.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(2004)-EBP01-008",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "red",
+    "rarity": "SR",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 22000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=52",
-      "official_id": "52",
-      "rarity": "SP",
-      "traits": "《Godzilla》"
-    }
+    "rank": 3,
+    "invade": 2,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-009": {
     "id": "EBP01-009",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(2023)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-009.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(2023)-EBP01-009",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "red",
+    "rarity": "C",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 22000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=54",
-      "official_id": "54",
-      "rarity": "P",
-      "traits": "《Godzilla》"
-    }
+    "rank": 3,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-010": {
     "id": "EBP01-010",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(2023)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-010.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(2023)-EBP01-010",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "red",
+    "rarity": "SR",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 37000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=56",
-      "official_id": "56",
-      "rarity": "SP",
-      "traits": "《Godzilla》"
-    }
+    "rank": 4,
+    "invade": 2,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-011": {
     "id": "EBP01-011",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(Fest Godzilla)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 1,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-011.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(Fest Godzilla)-EBP01-011",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "red",
+    "rarity": "UC",
+    "traits": [
+      "Godzilla",
+      "Fest"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 4000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=58",
-      "official_id": "58",
-      "rarity": "SP",
-      "traits": "《Godzilla》《Fest》"
-    }
+    "rank": 1,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-012": {
     "id": "EBP01-012",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(Fest Godzilla)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 2,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-012.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(Fest Godzilla)-EBP01-012",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "red",
+    "rarity": "C",
+    "traits": [
+      "Godzilla",
+      "Fest"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 13000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=60",
-      "official_id": "60",
-      "rarity": "P",
-      "traits": "《Godzilla》《Fest》"
-    }
+    "rank": 2,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-013": {
     "id": "EBP01-013",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(Fest Godzilla)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-013.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(Fest Godzilla)-EBP01-013",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "red",
+    "rarity": "UC",
+    "traits": [
+      "Godzilla",
+      "Fest"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 19000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=62",
-      "official_id": "62",
-      "rarity": "P",
-      "traits": "《Godzilla》《Fest》"
-    }
+    "rank": 3,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-014": {
     "id": "EBP01-014",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(Fest Godzilla)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-014.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(Fest Godzilla)-EBP01-014",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "red",
+    "rarity": "R",
+    "traits": [
+      "Godzilla",
+      "Fest"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 34000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=64",
-      "official_id": "64",
-      "rarity": "SP",
-      "traits": "《Godzilla》《Fest》"
-    }
+    "rank": 4,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-015": {
     "id": "EBP01-015",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(Fest Godzilla)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-015.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(Fest Godzilla)-EBP01-015",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "red",
+    "rarity": "R",
+    "traits": [
+      "Godzilla",
+      "Fest"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 28000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=66",
-      "official_id": "66",
-      "rarity": "SP",
-      "traits": "《Godzilla》《Fest》"
-    }
+    "rank": 4,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-016": {
     "id": "EBP01-016",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Ebirah(2004)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 1,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-016.png",
         "isHorizontal": false
       }
     },
     "name": "Ebirah(2004)-EBP01-016",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Battle"
+    "Color": "red",
+    "rarity": "C",
+    "traits": [
+      "Ebirah",
+      "Final Wars"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 1000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=68",
-      "official_id": "68",
-      "rarity": "P",
-      "traits": "《Ebirah》《Final Wars》"
-    }
+    "rank": 1,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-017": {
     "id": "EBP01-017",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Kumonga(2004)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 2,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-017.png",
         "isHorizontal": false
       }
     },
     "name": "Kumonga(2004)-EBP01-017",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Battle"
+    "Color": "red",
+    "rarity": "UC",
+    "traits": [
+      "Kumonga",
+      "Final Wars"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
-    "threat": 1000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=70",
-      "official_id": "70",
-      "rarity": "P",
-      "traits": "《Kumonga》《Final Wars》"
-    }
+    "threat": 0,
+    "rank": 2,
+    "invade": 1,
+    "counter_power": 1000,
+    "tokens": []
   },
   "EBP01-018": {
     "id": "EBP01-018",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Mechagodzilla(1974)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-018.png",
         "isHorizontal": false
       }
     },
     "name": "Mechagodzilla(1974)-EBP01-018",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Battle"
+    "Color": "red",
+    "rarity": "C",
+    "traits": [
+      "Mechagodzilla",
+      "Weapon"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
-    "threat": 1000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=72",
-      "official_id": "72",
-      "rarity": "P",
-      "traits": "《Mechagodzilla》《Weapon》"
-    }
+    "threat": 0,
+    "rank": 3,
+    "invade": 1,
+    "counter_power": 1000,
+    "tokens": []
   },
   "EBP01-019": {
     "id": "EBP01-019",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Kamacuras(1967)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-019.png",
         "isHorizontal": false
       }
     },
     "name": "Kamacuras(1967)-EBP01-019",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Battle"
+    "Color": "red",
+    "rarity": "C",
+    "traits": [
+      "Kamacuras"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 2000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=74",
-      "official_id": "74",
-      "rarity": "P",
-      "traits": "《Kamacuras》"
-    }
+    "rank": 3,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-020": {
     "id": "EBP01-020",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Anguirus(1968)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-020.png",
         "isHorizontal": false
       }
     },
     "name": "Anguirus(1968)-EBP01-020",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Battle"
+    "Color": "red",
+    "rarity": "R",
+    "traits": [
+      "Anguirus"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 2000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=76",
-      "official_id": "76",
-      "rarity": "P",
-      "traits": "《Anguirus》"
-    }
+    "rank": 3,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-021": {
     "id": "EBP01-021",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Rodan(1968)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-021.png",
         "isHorizontal": false
       }
     },
     "name": "Rodan(1968)-EBP01-021",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Battle"
+    "Color": "red",
+    "rarity": "UC",
+    "traits": [
+      "Rodan"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 3000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=78",
-      "official_id": "78",
-      "rarity": "P",
-      "traits": "《Rodan》"
-    }
+    "rank": 4,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-022": {
     "id": "EBP01-022",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Titanosaurus",
         "type": "Battle",
-        "cost": "0",
+        "cost": 5,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-022.png",
         "isHorizontal": false
       }
     },
     "name": "Titanosaurus-EBP01-022",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Battle"
+    "Color": "red",
+    "rarity": "R",
+    "traits": [
+      "Titanosaurus"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
-    "threat": 4000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=80",
-      "official_id": "80",
-      "rarity": "P",
-      "traits": "《Titanosaurus》"
-    }
+    "threat": 0,
+    "rank": 5,
+    "invade": 1,
+    "counter_power": 4000,
+    "tokens": []
   },
   "EBP01-023": {
     "id": "EBP01-023",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Mechagodzilla(1975)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 5,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-023.png",
         "isHorizontal": false
       }
     },
     "name": "Mechagodzilla(1975)-EBP01-023",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Battle"
+    "Color": "red",
+    "rarity": "UC",
+    "traits": [
+      "Mechagodzilla",
+      "Weapon"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 4000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=82",
-      "official_id": "82",
-      "rarity": "P",
-      "traits": "《Mechagodzilla》《Weapon》"
-    }
+    "rank": 5,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-024": {
     "id": "EBP01-024",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Minilla(2004)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 6,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-024.png",
         "isHorizontal": false
       }
     },
     "name": "Minilla(2004)-EBP01-024",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Battle"
+    "Color": "red",
+    "rarity": "C",
+    "traits": [
+      "Minilla",
+      "Final Wars"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 2000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=84",
-      "official_id": "84",
-      "rarity": "P",
-      "traits": "《Minilla》《Final Wars》"
-    }
+    "rank": 6,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-025": {
     "id": "EBP01-025",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "King Caesar(1974)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 6,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-025.png",
         "isHorizontal": false
       }
     },
     "name": "King Caesar(1974)-EBP01-025",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Battle"
+    "Color": "red",
+    "rarity": "UC",
+    "traits": [
+      "King Caesar"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
-    "threat": 4000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=86",
-      "official_id": "86",
-      "rarity": "P",
-      "traits": "《King Caesar》"
-    }
+    "threat": 0,
+    "rank": 6,
+    "invade": 1,
+    "counter_power": 4000,
+    "tokens": []
   },
   "EBP01-026": {
     "id": "EBP01-026",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
-        "name": "Jet Jaguar(2024)",
+        "name": "Jet Jaguar(2023)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 7,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-026.png",
         "isHorizontal": false
       }
     },
-    "name": "Jet Jaguar(2024)-EBP01-026",
+    "name": "Jet Jaguar(2023)-EBP01-026",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Battle"
+    "Color": "red",
+    "rarity": "R",
+    "traits": [
+      "Jet Jaguar",
+      "Mech",
+      "Fest"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
-    "threat": 7000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=88",
-      "official_id": "88",
-      "rarity": "SP",
-      "traits": "《Jet Jaguar》《Mech》《Fest》"
-    }
+    "threat": 0,
+    "rank": 7,
+    "invade": 2,
+    "counter_power": 7000,
+    "tokens": []
   },
   "EBP01-027": {
     "id": "EBP01-027",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Hedorah(1971)",
-        "type": "Battle",
-        "cost": "0",
+        "type": "Monster",
+        "cost": 8,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-027.png",
         "isHorizontal": false
       }
     },
     "name": "Hedorah(1971)-EBP01-027",
-    "type": "Battle",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Battle"
+    "type": "Monster",
+    "Color": "red",
+    "rarity": "UC",
+    "traits": [
+      "Hedorah"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 7000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=90",
-      "official_id": "90",
-      "rarity": "SP",
-      "traits": "《Hedorah》"
-    }
+    "rank": 8,
+    "invade": 2,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-028": {
     "id": "EBP01-028",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla vs. Mechagodzilla",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 2,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-028.png",
         "isHorizontal": true
       }
     },
     "name": "Godzilla vs. Mechagodzilla-EBP01-028",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "red",
+    "rarity": "UC",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=92",
-      "official_id": "92",
-      "rarity": "P",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 2,
+    "invade": 1,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-029": {
     "id": "EBP01-029",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Unthinkable Destruction",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-029.png",
         "isHorizontal": true
       }
     },
     "name": "Unthinkable Destruction-EBP01-029",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "red",
+    "rarity": "C",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=94",
-      "official_id": "94",
-      "rarity": "P",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 3,
+    "invade": 1,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-030": {
     "id": "EBP01-030",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla Landing",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-030.png",
         "isHorizontal": true
       }
     },
     "name": "Godzilla Landing-EBP01-030",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "red",
+    "rarity": "R",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=96",
-      "official_id": "96",
-      "rarity": "SP",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 3,
+    "invade": 1,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-031": {
     "id": "EBP01-031",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Space Beam",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 5,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-031.png",
         "isHorizontal": true
       }
     },
     "name": "Space Beam-EBP01-031",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "red",
+    "rarity": "R",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=98",
-      "official_id": "98",
-      "rarity": "P",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 5,
+    "invade": 2,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-032": {
     "id": "EBP01-032",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Heat Ray Charge",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 6,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-032.png",
         "isHorizontal": true
       }
     },
     "name": "Heat Ray Charge-EBP01-032",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "red",
+    "rarity": "C",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=100",
-      "official_id": "100",
-      "rarity": "P",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 6,
+    "invade": "",
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-033": {
     "id": "EBP01-033",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Final Showdown",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 8,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-033.png",
         "isHorizontal": true
       }
     },
     "name": "Final Showdown-EBP01-033",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "Red",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "red",
+    "rarity": "SR",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=102",
-      "official_id": "102",
-      "rarity": "SP",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 8,
+    "invade": 1,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-034": {
     "id": "EBP01-034",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(1989)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 2,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-034.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(1989)-EBP01-034",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "blue",
+    "rarity": "C",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 13000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=104",
-      "official_id": "104",
-      "rarity": "P",
-      "traits": "《Godzilla》"
-    }
+    "rank": 2,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-035": {
     "id": "EBP01-035",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(1989)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-035.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(1989)-EBP01-035",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "blue",
+    "rarity": "R",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 23000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=106",
-      "official_id": "106",
-      "rarity": "SSP",
-      "traits": "《Godzilla》"
-    }
+    "rank": 3,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-036": {
     "id": "EBP01-036",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(1992)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-036.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(1992)-EBP01-036",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "blue",
+    "rarity": "SR",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 36000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=108",
-      "official_id": "108",
-      "rarity": "SSP",
-      "traits": "《Godzilla》"
-    }
+    "rank": 4,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-037": {
     "id": "EBP01-037",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(1995)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-037.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(1995)-EBP01-037",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "blue",
+    "rarity": "C",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 22000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=110",
-      "official_id": "110",
-      "rarity": "P",
-      "traits": "《Godzilla》"
-    }
+    "rank": 3,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-038": {
     "id": "EBP01-038",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(1995)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-038.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(1995)-EBP01-038",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "blue",
+    "rarity": "R",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 34000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=112",
-      "official_id": "112",
-      "rarity": "SP",
-      "traits": "《Godzilla》"
-    }
+    "rank": 4,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-039": {
     "id": "EBP01-039",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(1999)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 2,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-039.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(1999)-EBP01-039",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "blue",
+    "rarity": "C",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 15000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=114",
-      "official_id": "114",
-      "rarity": "P",
-      "traits": "《Godzilla》"
-    }
+    "rank": 2,
+    "invade": 2,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-040": {
     "id": "EBP01-040",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(1999)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-040.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(1999)-EBP01-040",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "blue",
+    "rarity": "R",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 33000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=116",
-      "official_id": "116",
-      "rarity": "SP",
-      "traits": "《Godzilla》"
-    }
+    "rank": 4,
+    "invade": 2,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-041": {
     "id": "EBP01-041",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(2000)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 1,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-041.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(2000)-EBP01-041",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "blue",
+    "rarity": "UC",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 5000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=118",
-      "official_id": "118",
-      "rarity": "SP",
-      "traits": "《Godzilla》"
-    }
+    "rank": 1,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-042": {
     "id": "EBP01-042",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(2000)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-042.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(2000)-EBP01-042",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "blue",
+    "rarity": "SR",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 18000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=120",
-      "official_id": "120",
-      "rarity": "SSP",
-      "traits": "《Godzilla》"
-    }
+    "rank": 3,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-043": {
     "id": "EBP01-043",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla(2000)",
         "type": "Monster",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-043.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla(2000)-EBP01-043",
     "type": "Monster",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Monster",
-      "MonsterDeck"
+    "Color": "blue",
+    "rarity": "UC",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 36000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=122",
-      "official_id": "122",
-      "rarity": "P",
-      "traits": "《Godzilla》"
-    }
+    "rank": 4,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-044": {
     "id": "EBP01-044",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Mothra(egg)(1992)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 1,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-044.png",
         "isHorizontal": false
       }
     },
     "name": "Mothra(egg)(1992)-EBP01-044",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "C",
+    "traits": [
+      "Mothra"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=124",
-      "official_id": "124",
-      "rarity": "P",
-      "traits": "《Mothra》"
-    }
+    "rank": 1,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-045": {
     "id": "EBP01-045",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Meganula",
         "type": "Battle",
-        "cost": "0",
+        "cost": 2,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-045.png",
         "isHorizontal": false
       }
     },
     "name": "Meganula-EBP01-045",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "C",
+    "traits": [
+      "Meganula"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 1000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=126",
-      "official_id": "126",
-      "rarity": "P",
-      "traits": "《Meganula》"
-    }
+    "rank": 2,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-046": {
     "id": "EBP01-046",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "MBT-MB92",
         "type": "Battle",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-046.png",
         "isHorizontal": false
       }
     },
     "name": "MBT-MB92-EBP01-046",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "C",
+    "traits": [
+      "Weapon"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
-    "threat": 1000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=128",
-      "official_id": "128",
-      "rarity": "P",
-      "traits": "《Weapon》"
-    }
+    "threat": 0,
+    "rank": 3,
+    "invade": 1,
+    "counter_power": 1000,
+    "tokens": []
   },
   "EBP01-047": {
     "id": "EBP01-047",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Orga",
         "type": "Battle",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-047.png",
         "isHorizontal": false
       }
     },
     "name": "Orga-EBP01-047",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "C",
+    "traits": [
+      "Orga"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 2000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=130",
-      "official_id": "130",
-      "rarity": "P",
-      "traits": "《Orga》"
-    }
+    "rank": 3,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-048": {
     "id": "EBP01-048",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Biollante Rose Form",
         "type": "Battle",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-048.png",
         "isHorizontal": false
       }
     },
     "name": "Biollante Rose Form-EBP01-048",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "UC",
+    "traits": [
+      "Biollante"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 2000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=132",
-      "official_id": "132",
-      "rarity": "P",
-      "traits": "《Biollante》"
-    }
+    "rank": 3,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-049": {
     "id": "EBP01-049",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Destoroyah Aggregate Form",
         "type": "Battle",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-049.png",
         "isHorizontal": false
       }
     },
     "name": "Destoroyah Aggregate Form-EBP01-049",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "C",
+    "traits": [
+      "Destoroyah"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 3000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=134",
-      "official_id": "134",
-      "rarity": "P",
-      "traits": "《Destoroyah》"
-    }
+    "rank": 4,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-050": {
     "id": "EBP01-050",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Mothra(larva)(1992)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-050.png",
         "isHorizontal": false
       }
     },
     "name": "Mothra(larva)(1992)-EBP01-050",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "UC",
+    "traits": [
+      "Mothra"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 3000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=136",
-      "official_id": "136",
-      "rarity": "P",
-      "traits": "《Mothra》"
-    }
+    "rank": 4,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-051": {
     "id": "EBP01-051",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Orga Phase II",
         "type": "Battle",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-051.png",
         "isHorizontal": false
       }
     },
     "name": "Orga Phase II-EBP01-051",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "UC",
+    "traits": [
+      "Orga"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 3000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=138",
-      "official_id": "138",
-      "rarity": "P",
-      "traits": "《Orga》"
-    }
+    "rank": 4,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-052": {
     "id": "EBP01-052",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Megaguirus",
         "type": "Battle",
-        "cost": "0",
+        "cost": 5,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-052.png",
         "isHorizontal": false
       }
     },
     "name": "Megaguirus-EBP01-052",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "UC",
+    "traits": [
+      "Megaguirus"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 3000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=140",
-      "official_id": "140",
-      "rarity": "P",
-      "traits": "《Megaguirus》"
-    }
+    "rank": 5,
+    "invade": 2,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-053": {
     "id": "EBP01-053",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Rodan(1993)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 5,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-053.png",
         "isHorizontal": false
       }
     },
     "name": "Rodan(1993)-EBP01-053",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "C",
+    "traits": [
+      "Rodan"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 5000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=142",
-      "official_id": "142",
-      "rarity": "P",
-      "traits": "《Rodan》"
-    }
+    "rank": 5,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-054": {
     "id": "EBP01-054",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Destoroyah Flying Form",
         "type": "Battle",
-        "cost": "0",
+        "cost": 6,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-054.png",
         "isHorizontal": false
       }
     },
     "name": "Destoroyah Flying Form-EBP01-054",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "R",
+    "traits": [
+      "Destoroyah"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 4000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=144",
-      "official_id": "144",
-      "rarity": "P",
-      "traits": "《Destoroyah》"
-    }
+    "rank": 6,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-055": {
     "id": "EBP01-055",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Battra(imago)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 6,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-055.png",
         "isHorizontal": false
       }
     },
     "name": "Battra(imago)-EBP01-055",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "UC",
+    "traits": [
+      "Battra"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 5000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=146",
-      "official_id": "146",
-      "rarity": "P",
-      "traits": "《Battra》"
-    }
+    "rank": 6,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-056": {
     "id": "EBP01-056",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
-        "name": "Super-XX",
+        "name": "Super X2",
         "type": "Battle",
-        "cost": "0",
+        "cost": 6,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-056.png",
         "isHorizontal": false
       }
     },
-    "name": "Super-XX-EBP01-056",
+    "name": "Super X2-EBP01-056",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "UC",
+    "traits": [
+      "Super-X",
+      "Weapon"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
-    "threat": 5000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=148",
-      "official_id": "148",
-      "rarity": "P",
-      "traits": "《Super-X》《Weapon》"
-    }
+    "threat": 0,
+    "rank": 6,
+    "invade": 2,
+    "counter_power": 5000,
+    "tokens": []
   },
   "EBP01-057": {
     "id": "EBP01-057",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Mothra(imago)(1992)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 7,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-057.png",
         "isHorizontal": false
       }
     },
     "name": "Mothra(imago)(1992)-EBP01-057",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "R",
+    "traits": [
+      "Mothra"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
-    "threat": 5000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=150",
-      "official_id": "150",
-      "rarity": "P",
-      "traits": "《Mothra》"
-    }
+    "threat": 0,
+    "rank": 7,
+    "invade": 2,
+    "counter_power": 5000,
+    "tokens": []
   },
   "EBP01-058": {
     "id": "EBP01-058",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Biollante Plant Beast Form",
         "type": "Battle",
-        "cost": "0",
+        "cost": 7,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-058.png",
         "isHorizontal": false
       }
     },
     "name": "Biollante Plant Beast Form-EBP01-058",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "SR",
+    "traits": [
+      "Biollante"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 6000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=152",
-      "official_id": "152",
-      "rarity": "SP",
-      "traits": "《Biollante》"
-    }
+    "rank": 7,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-059": {
     "id": "EBP01-059",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Fire Rodan",
         "type": "Battle",
-        "cost": "0",
+        "cost": 7,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-059.png",
         "isHorizontal": false
       }
     },
     "name": "Fire Rodan-EBP01-059",
     "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "Color": "blue",
+    "rarity": "UC",
+    "traits": [
+      "Rodan"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
-    "threat": 6000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=154",
-      "official_id": "154",
-      "rarity": "P",
-      "traits": "《Rodan》"
-    }
+    "threat": 0,
+    "rank": 7,
+    "invade": 1,
+    "counter_power": 6000,
+    "tokens": []
   },
   "EBP01-060": {
     "id": "EBP01-060",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Destoroyah Perfect Form",
-        "type": "Battle",
-        "cost": "0",
+        "type": "Monster",
+        "cost": 8,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-060.png",
         "isHorizontal": false
       }
     },
     "name": "Destoroyah Perfect Form-EBP01-060",
-    "type": "Battle",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Battle"
+    "type": "Monster",
+    "Color": "blue",
+    "rarity": "SR",
+    "traits": [
+      "Destoroyah"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 10000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=156",
-      "official_id": "156",
-      "rarity": "SP",
-      "traits": "《Destoroyah》"
-    }
+    "rank": 8,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-061": {
     "id": "EBP01-061",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Scale Attack",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 1,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-061.png",
         "isHorizontal": true
       }
     },
     "name": "Scale Attack-EBP01-061",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "blue",
+    "rarity": "C",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=158",
-      "official_id": "158",
-      "rarity": "P",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 1,
+    "invade": 1,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-062": {
     "id": "EBP01-062",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla vs. Destoroyah",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-062.png",
         "isHorizontal": true
       }
     },
     "name": "Godzilla vs. Destoroyah-EBP01-062",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "blue",
+    "rarity": "R",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=160",
-      "official_id": "160",
-      "rarity": "SP",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 3,
+    "invade": 2,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-063": {
     "id": "EBP01-063",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Guardians Awaken",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-063.png",
         "isHorizontal": true
       }
     },
     "name": "Guardians Awaken-EBP01-063",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "blue",
+    "rarity": "R",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=162",
-      "official_id": "162",
-      "rarity": "P",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 4,
+    "invade": 2,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-064": {
     "id": "EBP01-064",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla vs. Megaguirus",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 5,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-064.png",
         "isHorizontal": true
       }
     },
     "name": "Godzilla vs. Megaguirus-EBP01-064",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "blue",
+    "rarity": "R",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=164",
-      "official_id": "164",
-      "rarity": "SP",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 5,
+    "invade": 1,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-065": {
     "id": "EBP01-065",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla vs. Destoroyah",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 6,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-065.png",
         "isHorizontal": true
       }
     },
     "name": "Godzilla vs. Destoroyah-EBP01-065",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "blue",
+    "rarity": "UC",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=166",
-      "official_id": "166",
-      "rarity": "P",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 6,
+    "invade": 1,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-066": {
     "id": "EBP01-066",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla vs. Biollante",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 7,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-066.png",
         "isHorizontal": true
       }
     },
     "name": "Godzilla vs. Biollante-EBP01-066",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "Blue",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "blue",
+    "rarity": "C",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=168",
-      "official_id": "168",
-      "rarity": "SP",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 7,
+    "invade": 1,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-067": {
     "id": "EBP01-067",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Gorosaurus",
         "type": "Battle",
-        "cost": "0",
+        "cost": 2,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-067.png",
         "isHorizontal": false
       }
     },
     "name": "Gorosaurus-EBP01-067",
     "type": "Battle",
-    "cost": "0",
-    "Color": "White",
-    "Type": [
-      "Battle"
+    "Color": "gray",
+    "rarity": "C",
+    "traits": [
+      "Gorosaurus"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 1000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=170",
-      "official_id": "170",
-      "rarity": "P",
-      "traits": "《Gorosaurus》"
-    }
+    "rank": 2,
+    "invade": 2,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-068": {
     "id": "EBP01-068",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Manda(1968)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 3,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-068.png",
         "isHorizontal": false
       }
     },
     "name": "Manda(1968)-EBP01-068",
     "type": "Battle",
-    "cost": "0",
-    "Color": "White",
-    "Type": [
-      "Battle"
+    "Color": "gray",
+    "rarity": "C",
+    "traits": [
+      "Manda"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
-    "threat": 1000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=172",
-      "official_id": "172",
-      "rarity": "P",
-      "traits": "《Manda》"
-    }
+    "threat": 0,
+    "rank": 3,
+    "invade": 1,
+    "counter_power": 1000,
+    "tokens": []
   },
   "EBP01-069": {
     "id": "EBP01-069",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Varan",
         "type": "Battle",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-069.png",
         "isHorizontal": false
       }
     },
     "name": "Varan-EBP01-069",
     "type": "Battle",
-    "cost": "0",
-    "Color": "White",
-    "Type": [
-      "Battle"
+    "Color": "gray",
+    "rarity": "C",
+    "traits": [
+      "Varan"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 3000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=174",
-      "official_id": "174",
-      "rarity": "P",
-      "traits": "《Varan》"
-    }
+    "rank": 4,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-070": {
     "id": "EBP01-070",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Baragon(1968)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 5,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-070.png",
         "isHorizontal": false
       }
     },
     "name": "Baragon(1968)-EBP01-070",
     "type": "Battle",
-    "cost": "0",
-    "Color": "White",
-    "Type": [
-      "Battle"
+    "Color": "gray",
+    "rarity": "C",
+    "traits": [
+      "Baragon"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 4000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=176",
-      "official_id": "176",
-      "rarity": "P",
-      "traits": "《Baragon》"
-    }
+    "rank": 5,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-071": {
     "id": "EBP01-071",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Giant Condor",
         "type": "Battle",
-        "cost": "0",
+        "cost": 5,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-071.png",
         "isHorizontal": false
       }
     },
     "name": "Giant Condor-EBP01-071",
     "type": "Battle",
-    "cost": "0",
-    "Color": "White",
-    "Type": [
-      "Battle"
+    "Color": "gray",
+    "rarity": "C",
+    "traits": [
+      "Giant Condor"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
-    "threat": 5000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=178",
-      "official_id": "178",
-      "rarity": "P",
-      "traits": "《Giant Condor》"
-    }
+    "threat": 0,
+    "rank": 5,
+    "invade": 1,
+    "counter_power": 5000,
+    "tokens": []
   },
   "EBP01-072": {
     "id": "EBP01-072",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Gigan(2022)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 6,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-072.png",
         "isHorizontal": false
       }
     },
     "name": "Gigan(2022)-EBP01-072",
     "type": "Battle",
-    "cost": "0",
-    "Color": "White",
-    "Type": [
-      "Battle"
+    "Color": "gray",
+    "rarity": "R",
+    "traits": [
+      "《Gigan》",
+      "《Weapon》",
+      "《Fest》"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 5000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=180",
-      "official_id": "180",
-      "rarity": "SP",
-      "traits": "《Gigan》《Weapon》《Fest》"
-    }
+    "rank": 6,
+    "invade": 1,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-073": {
     "id": "EBP01-073",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla Against Mechagodzilla",
         "type": "Battle",
-        "cost": "0",
+        "cost": 7,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-073.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla Against Mechagodzilla-EBP01-073",
     "type": "Battle",
-    "cost": "0",
-    "Color": "White",
-    "Type": [
-      "Battle"
+    "Color": "gray",
+    "rarity": "SR",
+    "traits": [
+      "Godzilla",
+      "Mechagodzilla",
+      "Weapon"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 10000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=451",
-      "official_id": "451",
-      "rarity": "SSSP",
-      "traits": "《Godzilla》《Mechagodzilla》《Weapon》"
-    }
+    "rank": 7,
+    "invade": 2,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-074": {
     "id": "EBP01-074",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "King Ghidorah(2024)",
         "type": "Battle",
-        "cost": "0",
+        "cost": 8,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-074.png",
         "isHorizontal": false
       }
     },
     "name": "King Ghidorah(2024)-EBP01-074",
     "type": "Battle",
-    "cost": "0",
-    "Color": "White",
-    "Type": [
-      "Battle"
+    "Color": "gray",
+    "rarity": "UC",
+    "traits": [
+      "King Ghidorah",
+      "Fest"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
-    "threat": 8000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=184",
-      "official_id": "184",
-      "rarity": "P",
-      "traits": "《King Ghidorah》《Fest》"
-    }
+    "threat": 0,
+    "rank": 8,
+    "invade": 1,
+    "counter_power": 8000,
+    "tokens": []
   },
   "EBP01-075": {
     "id": "EBP01-075",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla, King of the Monsters",
         "type": "Battle",
-        "cost": "0",
+        "cost": 8,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-075.png",
         "isHorizontal": false
       }
     },
     "name": "Godzilla, King of the Monsters-EBP01-075",
     "type": "Battle",
-    "cost": "0",
-    "Color": "White",
-    "Type": [
-      "Battle"
+    "Color": "gray",
+    "rarity": "SR",
+    "traits": [
+      "Godzilla"
     ],
-    "set": "EBP01",
+    "set": "EBP",
     "isHorizontal": false,
     "threat": 5000,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=186",
-      "official_id": "186",
-      "rarity": "SP",
-      "traits": "《Godzilla》"
-    }
+    "rank": 8,
+    "invade": 2,
+    "counter_power": 0,
+    "tokens": []
   },
   "EBP01-076": {
     "id": "EBP01-076",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Destroy All Monsters",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 2,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-076.png",
         "isHorizontal": true
       }
     },
     "name": "Destroy All Monsters-EBP01-076",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "White",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "gray",
+    "rarity": "C",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=188",
-      "official_id": "188",
-      "rarity": "P",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 2,
+    "invade": 1,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-077": {
     "id": "EBP01-077",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Oxygen Destroyer",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-077.png",
         "isHorizontal": true
       }
     },
     "name": "Oxygen Destroyer-EBP01-077",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "White",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "gray",
+    "rarity": "R",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=190",
-      "official_id": "190",
-      "rarity": "P",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 4,
+    "invade": 1,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-078": {
     "id": "EBP01-078",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Godzilla Attacks",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 4,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-078.png",
         "isHorizontal": true
       }
     },
     "name": "Godzilla Attacks-EBP01-078",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "White",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "gray",
+    "rarity": "UC",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=192",
-      "official_id": "192",
-      "rarity": "SP",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 4,
+    "invade": 2,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-079": {
     "id": "EBP01-079",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
         "name": "Gravity Beam",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 5,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-079.png",
         "isHorizontal": true
       }
     },
     "name": "Gravity Beam-EBP01-079",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "White",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "gray",
+    "rarity": "C",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=194",
-      "official_id": "194",
-      "rarity": "P",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 5,
+    "invade": 2,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP01-080": {
     "id": "EBP01-080",
-    "isToken": false,
+    "isToken": "false",
     "face": {
       "front": {
-        "name": "Godzilla and his son on Monster Island",
+        "name": "Godzilla and its son on Monster Island",
         "type": "Strategy",
-        "cost": "0",
+        "cost": 6,
         "image": "https://jjcodes78.github.io/GodzillaTCG/cards/EBP01-080.png",
         "isHorizontal": true
       }
     },
-    "name": "Godzilla and his son on Monster Island-EBP01-080",
+    "name": "Godzilla and its son on Monster Island-EBP01-080",
     "type": "Strategy",
-    "cost": "0",
-    "Color": "White",
-    "Type": [
-      "Strategy"
-    ],
-    "set": "EBP01",
+    "Color": "gray",
+    "rarity": "C",
+    "traits": [],
+    "set": "EBP",
     "isHorizontal": true,
-    "threat": 0,
-    "rank": "",
-    "invade": 0,
-    "counter": 0,
-    "tokens": [],
-    "_source": {
-      "detail_url": "https://en.godzilla-cardgame.com/cardlist/detail/?id=196",
-      "official_id": "196",
-      "rarity": "P",
-      "traits": ""
-    }
+    "threat": "",
+    "rank": 6,
+    "invade": 1,
+    "counter_power": "",
+    "tokens": []
   },
   "EBP02-001": {
     "id": "EBP02-001",
