@@ -20,7 +20,13 @@
     "mainFilters": [
       "type",
       "name",
-      "Color"
+      "Color",
+      "rank",
+      "threat",
+      "counter_power",
+      "invade",
+      "rarity",
+      "set"
     ],
     "formats": [
       {
