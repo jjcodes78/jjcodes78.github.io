@@ -492,7 +492,7 @@
               ]
             },
             "events": {
-              "onNewTurn": "game.data.Resources = { levelMax: game.data.Resources.levelMax, energyMax: game.data.Resources.energyMax, currentLevel: game.data.Resources.levelMax, currentEnergy: game.data.Resources.energyMax }; functions.chatLog('refresh currrent Nível to ' + game.data.Resources.levelMax + ' and current Energia to ' + game.data.Resources.energyMax + '.')"
+              "onNewTurn": "if (game.turn.isMyTurn) { game.data.Resources = { levelMax: game.data.Resources.levelMax, energyMax: game.data.Resources.energyMax, currentLevel: game.data.Resources.levelMax, currentEnergy: game.data.Resources.energyMax }; functions.chatLog('refresh currrent Nível to ' + game.data.Resources.levelMax + ' and current Energia to ' + game.data.Resources.energyMax + '.') };"
             },
             "isHidden": "no",
             "height": 18,
