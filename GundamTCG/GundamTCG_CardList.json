@@ -10350,14 +10350,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ξ Gundam (Flight Form)",
+        "name": "Ξ (Xi) Gundam (Flight Form)",
         "type": "UNIT",
         "cost": 4,
         "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD03%20-%20Steel%20Requiem/full//GD03-036.jpg?260113",
         "isHorizontal": false
       }
     },
-    "name": "Ξ Gundam (Flight Form)-GD03-036",
+    "name": "Ξ (Xi) Gundam (Flight Form)-GD03-036",
     "type": "UNIT",
     "cost": 4,
     "color": [
@@ -13532,14 +13532,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ξ Gundam",
+        "name": "Ξ (Xi) Gundam",
         "type": "UNIT",
         "cost": 8,
         "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST08%20-%20Flash%20of%20Radiance/full/ST08-001.webp?26013001",
         "isHorizontal": false
       }
     },
-    "name": "Ξ Gundam-ST08-001",
+    "name": "Ξ (Xi) Gundam-ST08-001",
     "type": "UNIT",
     "cost": 8,
     "color": [
@@ -13558,14 +13558,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ξ Gundam",
+        "name": "Ξ (Xi) Gundam",
         "type": "UNIT",
         "cost": 4,
         "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/ST08%20-%20Flash%20of%20Radiance/full/ST08-002.webp?26013001",
         "isHorizontal": false
       }
     },
-    "name": "Ξ Gundam-ST08-002",
+    "name": "Ξ (Xi) Gundam-ST08-002",
     "type": "UNIT",
     "cost": 4,
     "color": [
@@ -15066,14 +15066,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ξ Gundam",
+        "name": "Ξ (Xi) Gundam",
         "type": "UNIT",
         "cost": 4,
         "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD04%20-%20Phantom%20Aria/full/GD04-035.jpg?260424",
         "isHorizontal": false
       }
     },
-    "name": "Ξ Gundam-GD04-035",
+    "name": "Ξ (Xi) Gundam-GD04-035",
     "type": "UNIT",
     "cost": 4,
     "color": [
