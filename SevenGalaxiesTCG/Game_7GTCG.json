@@ -56,6 +56,7 @@
       },
       "draggableTokens": [
         { "id": "ATK", "name": "Ataque", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/attack.png" },
+        { "id": "DEF", "name": "Proteção", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/add_protection.png?15102026" },
         { "id": "EXA", "name": "Exausta", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/exausted.png" },
         { "id": "I05", "name": "Intuíção 5", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/fort_5.png" },
         { "id": "I10", "name": "Intuíção 10", "image": "https://jjcodes78.github.io/SevenGalaxiesTCG/tokens/fort_10.png" },
