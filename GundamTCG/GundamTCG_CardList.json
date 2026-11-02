@@ -26108,5 +26108,3577 @@
     "hp": 5,
     "pilot": "",
     "tokens": []
+  },
+  "GD06-001": {
+    "id": "GD06-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam GP01Fb",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-001.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam GP01Fb-GD06-001",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 3,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-002": {
+    "id": "GD06-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Infinite Justice Gundam",
+        "type": "UNIT",
+        "cost": 6,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-002.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Infinite Justice Gundam-GD06-002",
+    "type": "UNIT",
+    "cost": 6,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 5,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-003": {
+    "id": "GD06-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GQuuuuuuX (Omega Psycommu Released)",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-003.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "GQuuuuuuX (Omega Psycommu Released)-GD06-003",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 2,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-004": {
+    "id": "GD06-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam GP01",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-004.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam GP01-GD06-004",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-005": {
+    "id": "GD06-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Akatsuki (Shiranui)",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-005.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Akatsuki (Shiranui)-GD06-005",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-006": {
+    "id": "GD06-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GQuuuuuuX (Omega Psycommu)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-006.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "GQuuuuuuX (Omega Psycommu)-GD06-006",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-007": {
+    "id": "GD06-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kikeroga (MS Mode) (GQ)",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-007.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kikeroga (MS Mode) (GQ)-GD06-007",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 4,
+    "hp": 6,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-008": {
+    "id": "GD06-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Powered GM",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-008.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Powered GM-GD06-008",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-009": {
+    "id": "GD06-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GM Custom",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-009.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "GM Custom-GD06-009",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-010": {
+    "id": "GD06-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GM Cannon Ⅱ",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-010.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "GM Cannon Ⅱ-GD06-010",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-011": {
+    "id": "GD06-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Gundam",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-011.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Gundam-GD06-011",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-012": {
+    "id": "GD06-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Z'Gok",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-012.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Z'Gok-GD06-012",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-013": {
+    "id": "GD06-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zaku Ⅱ F2 (EFSF)",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-013.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zaku Ⅱ F2 (EFSF)-GD06-013",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-014": {
+    "id": "GD06-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GM Type C",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-014.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "GM Type C-GD06-014",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-015": {
+    "id": "GD06-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Waldfeld's Gaia Gundam",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-015.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Waldfeld's Gaia Gundam-GD06-015",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 3,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-016": {
+    "id": "GD06-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dom Trooper",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-016.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dom Trooper-GD06-016",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-017": {
+    "id": "GD06-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GQuuuuuuX",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-017.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "GQuuuuuuX-GD06-017",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-018": {
+    "id": "GD06-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elpeo Ple's Qubeley Mk-Ⅱ",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-018.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elpeo Ple's Qubeley Mk-Ⅱ-GD06-018",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-019": {
+    "id": "GD06-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Turn X",
+        "type": "UNIT",
+        "cost": 7,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-019.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Turn X-GD06-019",
+    "type": "UNIT",
+    "cost": 7,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "8",
+    "ap": 5,
+    "hp": 6,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-020": {
+    "id": "GD06-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hamma-Hamma",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-020.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hamma-Hamma-GD06-020",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-021": {
+    "id": "GD06-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Turn X (Top)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-021.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Turn X (Top)-GD06-021",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-022": {
+    "id": "GD06-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Merrybell's Bandit",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-022.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Merrybell's Bandit-GD06-022",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-023": {
+    "id": "GD06-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Galluss J",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-023.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Galluss J-GD06-023",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-024": {
+    "id": "GD06-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "R-Jarja",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-024.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "R-Jarja-GD06-024",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-025": {
+    "id": "GD06-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Re-GZ",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-025.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Re-GZ-GD06-025",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-026": {
+    "id": "GD06-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stero's Mahiroo",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-026.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stero's Mahiroo-GD06-026",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-027": {
+    "id": "GD06-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mashymre's Zssa",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-027.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mashymre's Zssa-GD06-027",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-028": {
+    "id": "GD06-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gaza D",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-028.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gaza D-GD06-028",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-029": {
+    "id": "GD06-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elpeo Ple's Qubeley Mk-Ⅱ",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-029.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elpeo Ple's Qubeley Mk-Ⅱ-GD06-029",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-030": {
+    "id": "GD06-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mahiroo",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-030.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mahiroo-GD06-030",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-031": {
+    "id": "GD06-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zssan",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-031.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zssan-GD06-031",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-032": {
+    "id": "GD06-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bellona",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-032.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bellona-GD06-032",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": null,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-033": {
+    "id": "GD06-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ZZ Gundam",
+        "type": "UNIT",
+        "cost": 8,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-033.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "ZZ Gundam-GD06-033",
+    "type": "UNIT",
+    "cost": 8,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "9",
+    "ap": 7,
+    "hp": 7,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-034": {
+    "id": "GD06-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Bael",
+        "type": "UNIT",
+        "cost": 6,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-034.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Bael-GD06-034",
+    "type": "UNIT",
+    "cost": 6,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 5,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-035": {
+    "id": "GD06-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zeta Gundam",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-035.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zeta Gundam-GD06-035",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-036": {
+    "id": "GD06-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Vidar",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-036.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Vidar-GD06-036",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-037": {
+    "id": "GD06-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reginlaze Julia",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-037.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reginlaze Julia-GD06-037",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-038": {
+    "id": "GD06-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Kimaris Vidar",
+        "type": "UNIT",
+        "cost": 6,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-038.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Kimaris Vidar-GD06-038",
+    "type": "UNIT",
+    "cost": 6,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 5,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-039": {
+    "id": "GD06-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neo Core Fighter",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-039.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neo Core Fighter-GD06-039",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-040": {
+    "id": "GD06-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Mk-Ⅱ",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-040.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Mk-Ⅱ-GD06-040",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-041": {
+    "id": "GD06-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neo Lorrnoke's Windam (Jet Striker)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-041.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neo Lorrnoke's Windam (Jet Striker)-GD06-041",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-042": {
+    "id": "GD06-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Destroy Gundam (MA Mode)",
+        "type": "UNIT",
+        "cost": 6,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-042.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Destroy Gundam (MA Mode)-GD06-042",
+    "type": "UNIT",
+    "cost": 6,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 6,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-043": {
+    "id": "GD06-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Julieta's Reginlaze",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-043.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Julieta's Reginlaze-GD06-043",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-044": {
+    "id": "GD06-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Core Top",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-044.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Core Top-GD06-044",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-045": {
+    "id": "GD06-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Core Base",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-045.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Core Base-GD06-045",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-046": {
+    "id": "GD06-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hyaku-Shiki",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-046.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hyaku-Shiki-GD06-046",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-047": {
+    "id": "GD06-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Windam",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/gd06047.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Windam-GD06-047",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-048": {
+    "id": "GD06-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Helmwige Reincar",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-048.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Helmwige Reincar-GD06-048",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-049": {
+    "id": "GD06-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam GP02A",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-049.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam GP02A-GD06-049",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-050": {
+    "id": "GD06-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Legend Gundam",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-050.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Legend Gundam-GD06-050",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-051": {
+    "id": "GD06-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GFreD",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-051.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "GFreD-GD06-051",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-052": {
+    "id": "GD06-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Val Walo",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-052.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Val Walo-GD06-052",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-053": {
+    "id": "GD06-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Xavier's Gyan Hakuji-Packs (GQ)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-053.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Xavier's Gyan Hakuji-Packs (GQ)-GD06-053",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-054": {
+    "id": "GD06-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GFreD",
+        "type": "UNIT",
+        "cost": 6,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-054.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "GFreD-GD06-054",
+    "type": "UNIT",
+    "cost": 6,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "7",
+    "ap": 6,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-055": {
+    "id": "GD06-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam GP02A",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-055.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam GP02A-GD06-055",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-056": {
+    "id": "GD06-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Xamel",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-056.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Xamel-GD06-056",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-057": {
+    "id": "GD06-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Karius' Rick Dom Ⅱ",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-057.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Karius' Rick Dom Ⅱ-GD06-057",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-058": {
+    "id": "GD06-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blast Impulse Gundam",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-058.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blast Impulse Gundam-GD06-058",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-059": {
+    "id": "GD06-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dom Tropen",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-059.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dom Tropen-GD06-059",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-060": {
+    "id": "GD06-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zaku Ⅱ F2",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-060.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zaku Ⅱ F2-GD06-060",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-061": {
+    "id": "GD06-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dra-C",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-061.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dra-C-GD06-061",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-062": {
+    "id": "GD06-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gyan Hakuji-Packs (GQ)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-062.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gyan Hakuji-Packs (GQ)-GD06-062",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-063": {
+    "id": "GD06-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "GFreD",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-063.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "GFreD-GD06-063",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-064": {
+    "id": "GD06-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altron Gundam (EW)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-064.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Altron Gundam (EW)-GD06-064",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-065": {
+    "id": "GD06-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "SUMO Gold Type",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-065.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "SUMO Gold Type-GD06-065",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-066": {
+    "id": "GD06-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shadow Gundam",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-066.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadow Gundam-GD06-066",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 5,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-067": {
+    "id": "GD06-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Sandrock Custom (EW)",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-067.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Sandrock Custom (EW)-GD06-067",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 3,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-068": {
+    "id": "GD06-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Heavyarms Custom (EW)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-068.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Heavyarms Custom (EW)-GD06-068",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-069": {
+    "id": "GD06-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "SUMO Silver Type",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-069.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "SUMO Silver Type-GD06-069",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-070": {
+    "id": "GD06-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eagail",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-070.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eagail-GD06-070",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 5,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-071": {
+    "id": "GD06-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shining Gundam (Meikyo Shisui)",
+        "type": "UNIT",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-071.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shining Gundam (Meikyo Shisui)-GD06-071",
+    "type": "UNIT",
+    "cost": 5,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-072": {
+    "id": "GD06-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gundam Deathscythe Hell (EW)",
+        "type": "UNIT",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-072.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Deathscythe Hell (EW)-GD06-072",
+    "type": "UNIT",
+    "cost": 3,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 5,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-073": {
+    "id": "GD06-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wing Gundam Zero (EW)",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-073.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wing Gundam Zero (EW)-GD06-073",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-074": {
+    "id": "GD06-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flat",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-074.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flat-GD06-074",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-075": {
+    "id": "GD06-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Serpent",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-075.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Serpent-GD06-075",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 4,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-076": {
+    "id": "GD06-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "WaDom",
+        "type": "UNIT",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-076.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "WaDom-GD06-076",
+    "type": "UNIT",
+    "cost": 4,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-077": {
+    "id": "GD06-077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cannon Illfuto",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-077.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cannon Illfuto-GD06-077",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-078": {
+    "id": "GD06-078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "WaD",
+        "type": "UNIT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-078.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "WaD-GD06-078",
+    "type": "UNIT",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "1",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-079": {
+    "id": "GD06-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Muttowooo",
+        "type": "UNIT",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-079.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Muttowooo-GD06-079",
+    "type": "UNIT",
+    "cost": 2,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-080": {
+    "id": "GD06-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kou Uraki",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-080.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kou Uraki-GD06-080",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-081": {
+    "id": "GD06-081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Amate Yuzuriha (Machu)",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-081.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Amate Yuzuriha (Machu)-GD06-081",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-082": {
+    "id": "GD06-082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Athrun Zala",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-082.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Athrun Zala-GD06-082",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-083": {
+    "id": "GD06-083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Challia Bull (GQ)",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-083.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Challia Bull (GQ)-GD06-083",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-084": {
+    "id": "GD06-084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elpeo Ple",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-084.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elpeo Ple-GD06-084",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-085": {
+    "id": "GD06-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gym Ghingnham",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-085.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gym Ghingnham-GD06-085",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-086": {
+    "id": "GD06-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mashymre Cello",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-086.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mashymre Cello-GD06-086",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 0,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-087": {
+    "id": "GD06-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Merrybell Gadget",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-087.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Merrybell Gadget-GD06-087",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-088": {
+    "id": "GD06-088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Judau Ashta",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-088.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Judau Ashta-GD06-088",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-089": {
+    "id": "GD06-089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "McGillis Fareed",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-089.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "McGillis Fareed-GD06-089",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-090": {
+    "id": "GD06-090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vidar",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-090.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vidar-GD06-090",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-091": {
+    "id": "GD06-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Roux Louka",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-091.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roux Louka-GD06-091",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-092": {
+    "id": "GD06-092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neo Lorrnoke",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-092.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neo Lorrnoke-GD06-092",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-093": {
+    "id": "GD06-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anavel Gato",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-093.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anavel Gato-GD06-093",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-094": {
+    "id": "GD06-094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nyaan",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-094.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nyaan-GD06-094",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-095": {
+    "id": "GD06-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kelley Layzner",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-095.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kelley Layzner-GD06-095",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-096": {
+    "id": "GD06-096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Xavier Olivette",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-096.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Xavier Olivette-GD06-096",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-097": {
+    "id": "GD06-097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Harry Ord",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-097.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Harry Ord-GD06-097",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 2,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-098": {
+    "id": "GD06-098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Duo Maxwell",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-098.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Duo Maxwell-GD06-098",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-099": {
+    "id": "GD06-099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chang Wufei",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-099.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chang Wufei-GD06-099",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-100": {
+    "id": "GD06-100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Corin Nander",
+        "type": "PILOT",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-100.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corin Nander-GD06-100",
+    "type": "PILOT",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 3,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-101": {
+    "id": "GD06-101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Gundam Says",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-101.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Gundam Says-GD06-101",
+    "type": "COMMAND",
+    "cost": 2,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "6",
+    "ap": null,
+    "hp": null,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-102": {
+    "id": "GD06-102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Miracle",
+        "type": "COMMAND",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-102.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Miracle-GD06-102",
+    "type": "COMMAND",
+    "cost": 3,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": null,
+    "hp": null,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-103": {
+    "id": "GD06-103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Restore the Front Line",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-103.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Restore the Front Line-GD06-103",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 2,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-104": {
+    "id": "GD06-104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Steady Support",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-104.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Steady Support-GD06-104",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": 1,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-105": {
+    "id": "GD06-105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grace Under Pressure",
+        "type": "COMMAND",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-105.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grace Under Pressure-GD06-105",
+    "type": "COMMAND",
+    "cost": 3,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": null,
+    "hp": null,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-106": {
+    "id": "GD06-106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Presence Detected",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-106.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Presence Detected-GD06-106",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": null,
+    "hp": null,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-107": {
+    "id": "GD06-107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wheel Spoke Formation",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-107.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wheel Spoke Formation-GD06-107",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-108": {
+    "id": "GD06-108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "On Edge",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-108.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "On Edge-GD06-108",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-109": {
+    "id": "GD06-109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "God of War Ghingnham",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-109.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "God of War Ghingnham-GD06-109",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": null,
+    "hp": null,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-110": {
+    "id": "GD06-110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Familial Love",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-110.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Familial Love-GD06-110",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": null,
+    "hp": null,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-111": {
+    "id": "GD06-111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Steely Loyalty",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-111.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Steely Loyalty-GD06-111",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 2,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-112": {
+    "id": "GD06-112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rivalry with Roux",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-112.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rivalry with Roux-GD06-112",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-113": {
+    "id": "GD06-113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unsanctioned Ordnance",
+        "type": "COMMAND",
+        "cost": 4,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-113.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unsanctioned Ordnance-GD06-113",
+    "type": "COMMAND",
+    "cost": 4,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": null,
+    "hp": null,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-114": {
+    "id": "GD06-114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alphaciders",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-114.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alphaciders-GD06-114",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": null,
+    "hp": null,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-115": {
+    "id": "GD06-115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teaching New Techniques",
+        "type": "COMMAND",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-115.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teaching New Techniques-GD06-115",
+    "type": "COMMAND",
+    "cost": 3,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": null,
+    "hp": null,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-116": {
+    "id": "GD06-116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Afterglow of Zeon",
+        "type": "COMMAND",
+        "cost": 5,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-116.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Afterglow of Zeon-GD06-116",
+    "type": "COMMAND",
+    "cost": 5,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": null,
+    "hp": null,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-117": {
+    "id": "GD06-117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Veterans Joining Forces",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-117.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Veterans Joining Forces-GD06-117",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 1,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-118": {
+    "id": "GD06-118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Infinite Variations",
+        "type": "COMMAND",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-118.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Infinite Variations-GD06-118",
+    "type": "COMMAND",
+    "cost": 2,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": null,
+    "hp": null,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-119": {
+    "id": "GD06-119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sturm und Drang",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-119.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sturm und Drang-GD06-119",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": 1,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-120": {
+    "id": "GD06-120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hoping for Peace",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-120.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hoping for Peace-GD06-120",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": null,
+    "hp": null,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-121": {
+    "id": "GD06-121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crybaby Poe",
+        "type": "COMMAND",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-121.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crybaby Poe-GD06-121",
+    "type": "COMMAND",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": 1,
+    "hp": 0,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-122": {
+    "id": "GD06-122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Albion",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-122.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Albion-GD06-122",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "Blue"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "2",
+    "ap": null,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-123": {
+    "id": "GD06-123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Endra",
+        "type": "BASE",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-123.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Endra-GD06-123",
+    "type": "BASE",
+    "cost": 2,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": null,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-124": {
+    "id": "GD06-124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aspite",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-124.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aspite-GD06-124",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "Green"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": null,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-125": {
+    "id": "GD06-125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Argama",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-125.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Argama-GD06-125",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": null,
+    "hp": 6,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-126": {
+    "id": "GD06-126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Skipjack-class Warship",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-126.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Skipjack-class Warship-GD06-126",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "Red"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": null,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-127": {
+    "id": "GD06-127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yomagn'tho",
+        "type": "BASE",
+        "cost": 2,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-127.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yomagn'tho-GD06-127",
+    "type": "BASE",
+    "cost": 2,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": null,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-128": {
+    "id": "GD06-128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gwaden",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-128.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gwaden-GD06-128",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "3",
+    "ap": null,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-129": {
+    "id": "GD06-129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "5th Luna",
+        "type": "BASE",
+        "cost": 3,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-129.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "5th Luna-GD06-129",
+    "type": "BASE",
+    "cost": 3,
+    "color": [
+      "Purple"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "4",
+    "ap": null,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "GD06-130": {
+    "id": "GD06-130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soleil",
+        "type": "BASE",
+        "cost": 1,
+        "image": "https://res.cloudinary.com/csicdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/GD06-130.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soleil-GD06-130",
+    "type": "BASE",
+    "cost": 1,
+    "color": [
+      "White"
+    ],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "5",
+    "ap": null,
+    "hp": 6,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-030": {
+    "id": "T-030",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Gozzo",
+        "type": "UNIT TOKEN",
+        "cost": null,
+        "image": "https://res.cloudinary.com/csi  cdn/image/upload/v1/Images/Products/Misc%20Art/GD06%20-%20Stardust%20Trails/full/T-030.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gozzo-T-030",
+    "type": "UNIT TOKEN",
+    "cost": null,
+    "color": [],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "",
+    "ap": null,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-031": {
+    "id": "T-031",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Turn X (Arms)",
+        "type": "UNIT TOKEN",
+        "cost": null,
+        "image": "https://jjcodes78.github.io/GundamTCG/cards/T-031.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Turn X (Arms)-T-031",
+    "type": "UNIT TOKEN",
+    "cost": null,
+    "color": [],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "",
+    "ap": 2,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-032": {
+    "id": "T-032",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Turn X (Legs)",
+        "type": "UNIT TOKEN",
+        "cost": null,
+        "image": "https://jjcodes78.github.io/GundamTCG/cards/T-032.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Turn X (Legs)-T-032",
+    "type": "UNIT TOKEN",
+    "cost": null,
+    "color": [],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "",
+    "ap": 3,
+    "hp": 2,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-033": {
+    "id": "T-033",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Sazabi",
+        "type": "UNIT TOKEN",
+        "cost": null,
+        "image": "https://jjcodes78.github.io/GundamTCG/cards/T-033.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sazabi-T-033",
+    "type": "UNIT TOKEN",
+    "cost": null,
+    "color": [],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "",
+    "ap": 4,
+    "hp": 4,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-034": {
+    "id": "T-034",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Nu Gundam",
+        "type": "UNIT TOKEN",
+        "cost": null,
+        "image": "https://jjcodes78.github.io/GundamTCG/cards/T-034.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nu Gundam-T-034",
+    "type": "UNIT TOKEN",
+    "cost": null,
+    "color": [],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "",
+    "ap": 3,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-035": {
+    "id": "T-035",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Gundam Calibarn",
+        "type": "UNIT TOKEN",
+        "cost": null,
+        "image": "https://jjcodes78.github.io/GundamTCG/cards/T-035.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Calibarn-T-035",
+    "type": "UNIT TOKEN",
+    "cost": null,
+    "color": [],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "",
+    "ap": 5,
+    "hp": 3,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-036": {
+    "id": "T-036",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Gundam Aerial Rebuild",
+        "type": "UNIT TOKEN",
+        "cost": null,
+        "image": "https://jjcodes78.github.io/GundamTCG/cards/T-036.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gundam Aerial Rebuild-T-036",
+    "type": "UNIT TOKEN",
+    "cost": null,
+    "color": [],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "",
+    "ap": 3,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
+  },
+  "T-037": {
+    "id": "T-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Axis",
+        "type": "BASE",
+        "cost": null,
+        "image": "https://jjcodes78.github.io/GundamTCG/cards/T-037.webp?261016",
+        "isHorizontal": false
+      }
+    },
+    "name": "Axis-T-037",
+    "type": "BASE",
+    "cost": null,
+    "color": [],
+    "set": "GD06",
+    "isHorizontal": false,
+    "level": "",
+    "ap": null,
+    "hp": 5,
+    "pilot": "",
+    "tokens": []
   }
 }
